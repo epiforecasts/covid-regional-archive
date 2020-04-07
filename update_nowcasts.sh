@@ -8,8 +8,8 @@ Rscript germany/update_nowcasts.R &
 Rscript italy/update_nowcasts.R &
 Rscript united-kingdom/update_nowcasts.R &
 wait
-## Run the USa on its own as fully saturates available cores
-Rscript germany/update_nowcasts.R
+## Run the USA on its own as fully saturates available cores
+Rscript united-states/update_nowcasts.R
 
 ## Update master with then new results
 git add --all
