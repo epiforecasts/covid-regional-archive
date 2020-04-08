@@ -36,14 +36,12 @@ linelist <- NCoVUtils::get_international_linelist()
 
 future::plan("multiprocess", workers = future::availableCores())
 
-data.table::setDTthreads(threads = 1)
 
 # Run pipeline ----------------------------------------------------
 
 EpiNow::regional_rt_pipeline(
   cases = cases,
   linelist = linelist,
-  regions_in_parallel = FALSE,
   target_folder = "germany/regional",
   regional_delay = FALSE 
 )
