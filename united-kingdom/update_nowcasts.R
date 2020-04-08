@@ -35,7 +35,7 @@ EpiNow::regional_rt_pipeline(
   cases = cases,
   linelist = linelist,
   regional_delay = FALSE,
-  target_folder = "united-kingdom/nowcast/regional"
+  target_folder = "united-kingdom/regional"
 )
 
 
