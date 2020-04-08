@@ -46,6 +46,7 @@ EpiNow::regional_rt_pipeline(
   cases = cases,
   linelist = linelist,
   regional_delay = FALSE,
+  regions_in_parallel = FALSE,
   target_folder = "united-states/regional"
 )
 

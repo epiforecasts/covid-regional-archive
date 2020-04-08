@@ -3,12 +3,13 @@
 ## Make sure everything is up to date
 git pull
 
-## Run germany, italy and UK in parallel as we have 48 cores available
-Rscript germany/update_nowcasts.R &
-Rscript italy/update_nowcasts.R &
-Rscript united-kingdom/update_nowcasts.R &
-wait
-## Run the USA on its own as fully saturates available cores
+## Run germany
+Rscript germany/update_nowcasts.R
+## Run the Italy
+Rscript italy/update_nowcasts.R 
+## Run UK
+Rscript united-kingdom/update_nowcasts.R
+## Run the USA 
 Rscript united-states/update_nowcasts.R
 
 ## Update master with then new results

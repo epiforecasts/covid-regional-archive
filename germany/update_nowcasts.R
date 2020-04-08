@@ -43,6 +43,7 @@ data.table::setDTthreads(threads = 1)
 EpiNow::regional_rt_pipeline(
   cases = cases,
   linelist = linelist,
+  regions_in_parallel = FALSE,
   target_folder = "germany/regional",
   regional_delay = FALSE 
 )
