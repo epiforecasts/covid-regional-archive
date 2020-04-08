@@ -30,7 +30,7 @@ cases <- cases %>%
 
 # Get linelist ------------------------------------------------------------
 
-linelist <- NCoVUtils::get_international_linelist()
+linelist <- NCoVUtils::get_international_linelist() 
 
 # Set up cores -----------------------------------------------------
 
@@ -44,7 +44,7 @@ EpiNow::regional_rt_pipeline(
   cases = cases,
   linelist = linelist,
   target_folder = "germany/regional",
-  regional_delay = FALSE,
+  regional_delay = FALSE 
 )
 
 
