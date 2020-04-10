@@ -57,3 +57,13 @@ EpiNow::regional_summary(results_dir = "italy/regional",
                          summary_dir = "italy/regional-summary",
                          target_date = "latest",
                          region_scale = "Region")
+
+
+# Save summary csv --------------------------------------------------------
+
+source(here::here("utils/save_summary_csv.R"))
+
+
+save_summary_csv(results_dir = "italy/regional",
+                 summary_dir = "italy/regional-summary",
+                 type = "region")
