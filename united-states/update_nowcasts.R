@@ -26,9 +26,6 @@ saveRDS(region_codes, "united-states/data/region_codes.rds")
 
 cases <- cases %>%
   dplyr::select(date, region, cases) %>%
-  dplyr::group_by(region) %>% 
-  dplyr::mutate(cases = cases - lag(cases)) %>% 
-  dplyr::ungroup() %>% 
   dplyr::rename(local = cases) %>%
   dplyr::mutate(imported = 0) %>%
   tidyr::gather(key = "import_status", value = "cases", local, imported)
