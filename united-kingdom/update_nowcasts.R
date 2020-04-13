@@ -48,7 +48,7 @@ EpiNow::regional_summary(results_dir = "united-kingdom/regional",
 
 # Save summary csv --------------------------------------------------------
 
-source(here::here("utils/save_summary_csv.R"))
+source(here::here("../../utils/save_summary_csv.R"))
 
 
 save_summary_csv(results_dir = "united-kingdom/regional",
