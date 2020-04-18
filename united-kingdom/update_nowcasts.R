@@ -38,7 +38,6 @@ EpiNow::regional_rt_pipeline(
   target_folder = "united-kingdom/regional"
 )
 
-
 # Summarise results -------------------------------------------------------
 
 EpiNow::regional_summary(results_dir = "united-kingdom/regional",
