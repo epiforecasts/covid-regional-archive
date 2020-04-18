@@ -26,11 +26,12 @@ saveRDS(region_codes, "germany/data/region_codes.rds")
 cases <- cases %>%
   dplyr::rename(local = cases) %>%
   dplyr::mutate(imported = 0) %>%
-  tidyr::gather(key = "import_status", value = "cases", local, imported)
+  tidyr::gather(key = "import_status", value = "cases", local, imported) %>% 
+  tidyr::drop_na(region)
 
 # Get linelist ------------------------------------------------------------
 
-linelist <- NCoVUtils::get_international_linelist() 
+linelist <- NCoVUtils::get_international_linelist()
 
 # Set up cores -----------------------------------------------------
 
@@ -43,7 +44,7 @@ EpiNow::regional_rt_pipeline(
   cases = cases,
   linelist = linelist,
   target_folder = "germany/regional",
-  regional_delay = FALSE 
+  regional_delay = FALSE
 )
 
 
