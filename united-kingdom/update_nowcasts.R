@@ -14,7 +14,7 @@ require(magrittr)
 
 NCoVUtils::reset_cache()
 
-cases <- NCoVUtils::get_uk_nhs_region_cases()
+cases <- NCoVUtils::get_uk_regional_cases(geography = "regional")
 
 cases <- cases %>%
   dplyr::rename(local = cases) %>%
