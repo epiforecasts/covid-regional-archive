@@ -29,6 +29,8 @@ linelist <-  NCoVUtils::get_international_linelist()
 
 future::plan("multiprocess", workers = future::availableCores())
 
+data.table::setDTthreads(threads = 1)
+
 # Run pipeline ----------------------------------------------------
 
 EpiNow::regional_rt_pipeline(
