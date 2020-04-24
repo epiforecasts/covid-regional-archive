@@ -7,14 +7,18 @@ require(future)
 require(dplyr)
 require(tidyr)
 require(magrittr)
-
+require(future.apply)
+require(fable)
+require(fabletools)
+require(feasts)
+require(urca)
 
 
 # Get cases ---------------------------------------------------------------
 
 NCoVUtils::reset_cache()
 
-cases <- NCoVUtils::get_uk_regional_cases(geography = "regional")
+cases <- NCoVUtils::get_uk_regional_cases(geography = "all countries")
 
 cases <- cases %>%
   dplyr::rename(local = cases) %>%
@@ -38,7 +42,15 @@ EpiNow::regional_rt_pipeline(
   cases = cases,
   linelist = linelist,
   regional_delay = FALSE,
-  target_folder = "united-kingdom/regional"
+  target_folder = "united-kingdom/regional",
+  horizon = 14,
+  report_forecast = TRUE,
+  forecast_model = function(...) {
+    EpiSoon::fable_model(model = fabletools::combination_model(fable::RW(y ~ drift()), fable::ETS(y), 
+                                                               fable::NAIVE(y),
+                                                               cmbn_args = list(weights = "inv_var")), ...)
+  },
+  samples = 10
 )
 
 # Summarise results -------------------------------------------------------
@@ -48,11 +60,3 @@ EpiNow::regional_summary(results_dir = "united-kingdom/regional",
                          target_date = "latest",
                          region_scale = "Region")
 
-# Save summary csv --------------------------------------------------------
-
-source(here::here("../../utils/save_summary_csv.R"))
-
-
-save_summary_csv(results_dir = "united-kingdom/regional",
-                 summary_dir = "united-kingdom/regional-summary",
-                 type = "region")
