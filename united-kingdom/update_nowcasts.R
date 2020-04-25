@@ -1,17 +1,17 @@
 
 # Packages -----------------------------------------------------------------
-require(EpiNow)
-require(NCoVUtils)
-require(furrr)
-require(future)
-require(dplyr)
-require(tidyr)
-require(magrittr)
-require(future.apply)
-require(fable)
-require(fabletools)
-require(feasts)
-require(urca)
+require(EpiNow, quietly = TRUE)
+require(NCoVUtils, quietly = TRUE)
+require(furrr, quietly = TRUE)
+require(future, quietly = TRUE)
+require(dplyr, quietly = TRUE)
+require(tidyr, quietly = TRUE)
+require(magrittr, quietly = TRUE)
+require(future.apply, quietly = TRUE)
+require(fable, quietly = TRUE)
+require(fabletools, quietly = TRUE)
+require(feasts, quietly = TRUE)
+require(urca, quietly = TRUE)
 
 
 # Get cases ---------------------------------------------------------------
@@ -49,8 +49,7 @@ EpiNow::regional_rt_pipeline(
     EpiSoon::fable_model(model = fabletools::combination_model(fable::RW(y ~ drift()), fable::ETS(y), 
                                                                fable::NAIVE(y),
                                                                cmbn_args = list(weights = "inv_var")), ...)
-  },
-  samples = 10
+  }
 )
 
 # Summarise results -------------------------------------------------------
