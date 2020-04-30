@@ -1,17 +1,17 @@
 region,date,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
-Baden-Wurttemberg,2020-02-26,nowcast,2.3,1.7,3,2,2.5,0
-Baden-Wurttemberg,2020-02-27,nowcast,2.2,1.8,2.8,2,2.4,0
-Baden-Wurttemberg,2020-02-28,nowcast,2.2,1.7,2.7,1.9,2.3,0
+Baden-Wurttemberg,2020-02-26,nowcast,2.3,1.8,3,2.1,2.5,0
+Baden-Wurttemberg,2020-02-27,nowcast,2.3,1.8,2.8,2,2.4,0
+Baden-Wurttemberg,2020-02-28,nowcast,2.2,1.7,2.7,2,2.3,0
 Baden-Wurttemberg,2020-02-29,nowcast,2.1,1.7,2.6,1.9,2.2,0
-Baden-Wurttemberg,2020-03-01,nowcast,2.1,1.7,2.6,1.9,2.2,0
+Baden-Wurttemberg,2020-03-01,nowcast,2.1,1.7,2.6,1.9,2.3,0
 Baden-Wurttemberg,2020-03-02,nowcast,2.1,1.7,2.5,1.9,2.2,0
 Baden-Wurttemberg,2020-03-03,nowcast,2.1,1.7,2.5,1.9,2.2,0
-Baden-Wurttemberg,2020-03-04,nowcast,2.1,1.7,2.4,1.9,2.2,0
+Baden-Wurttemberg,2020-03-04,nowcast,2.1,1.7,2.5,1.8,2.1,0
 Baden-Wurttemberg,2020-03-05,nowcast,2,1.7,2.4,1.8,2.1,0
 Baden-Wurttemberg,2020-03-06,nowcast,1.9,1.6,2.3,1.8,2,0
 Baden-Wurttemberg,2020-03-07,nowcast,1.8,1.6,2.2,1.7,1.9,0
-Baden-Wurttemberg,2020-03-08,nowcast,1.8,1.5,2.1,1.6,1.8,0
-Baden-Wurttemberg,2020-03-09,nowcast,1.7,1.5,1.9,1.6,1.8,0
+Baden-Wurttemberg,2020-03-08,nowcast,1.8,1.5,2,1.6,1.8,0
+Baden-Wurttemberg,2020-03-09,nowcast,1.7,1.4,1.9,1.5,1.7,0
 Baden-Wurttemberg,2020-03-10,nowcast,1.6,1.4,1.9,1.5,1.7,0
 Baden-Wurttemberg,2020-03-11,nowcast,1.6,1.4,1.8,1.5,1.6,0
 Baden-Wurttemberg,2020-03-12,nowcast,1.5,1.3,1.7,1.4,1.5,0
@@ -22,13 +22,13 @@ Baden-Wurttemberg,2020-03-16,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Baden-Wurttemberg,2020-03-17,nowcast,1.2,1.1,1.4,1.2,1.3,0
 Baden-Wurttemberg,2020-03-18,nowcast,1.2,1.1,1.4,1.2,1.3,0
 Baden-Wurttemberg,2020-03-19,nowcast,1.2,1.1,1.3,1.2,1.2,0
-Baden-Wurttemberg,2020-03-20,nowcast,1.1,1.1,1.2,1.1,1.2,0
+Baden-Wurttemberg,2020-03-20,nowcast,1.1,1,1.2,1.1,1.2,0
 Baden-Wurttemberg,2020-03-21,nowcast,1.1,1,1.2,1,1.1,0.07
-Baden-Wurttemberg,2020-03-22,nowcast,1,0.9,1.1,1,1,0.39
-Baden-Wurttemberg,2020-03-23,nowcast,1,0.9,1,0.9,1,0.74
+Baden-Wurttemberg,2020-03-22,nowcast,1,0.9,1.1,1,1,0.4
+Baden-Wurttemberg,2020-03-23,nowcast,1,0.9,1,0.9,1,0.75
 Baden-Wurttemberg,2020-03-24,nowcast,1,0.9,1,0.9,1,0.84
 Baden-Wurttemberg,2020-03-25,nowcast,1,0.9,1,0.9,1,0.84
-Baden-Wurttemberg,2020-03-26,nowcast,0.9,0.9,1,0.9,1,0.93
+Baden-Wurttemberg,2020-03-26,nowcast,0.9,0.9,1,0.9,1,0.92
 Baden-Wurttemberg,2020-03-27,nowcast,0.9,0.8,1,0.9,0.9,1
 Baden-Wurttemberg,2020-03-28,nowcast,0.8,0.8,0.9,0.8,0.9,1
 Baden-Wurttemberg,2020-03-29,nowcast,0.8,0.7,0.8,0.8,0.8,1
@@ -38,44 +38,34 @@ Baden-Wurttemberg,2020-04-01,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Baden-Wurttemberg,2020-04-02,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Baden-Wurttemberg,2020-04-03,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Baden-Wurttemberg,2020-04-04,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-05,nowcast,0.7,0.7,0.8,0.7,0.8,1
+Baden-Wurttemberg,2020-04-05,nowcast,0.7,0.7,0.8,0.7,0.7,1
 Baden-Wurttemberg,2020-04-06,nowcast,0.7,0.6,0.8,0.7,0.7,1
 Baden-Wurttemberg,2020-04-07,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Baden-Wurttemberg,2020-04-08,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Baden-Wurttemberg,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Baden-Wurttemberg,2020-04-10,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Baden-Wurttemberg,2020-04-08,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Baden-Wurttemberg,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,2020-04-10,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Baden-Wurttemberg,2020-04-11,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Baden-Wurttemberg,2020-04-12,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,2020-04-12,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Baden-Wurttemberg,2020-04-13,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Baden-Wurttemberg,2020-04-14,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Baden-Wurttemberg,2020-04-15,forecast,0.8,0.6,0.9,0.7,0.8,0.99
-Baden-Wurttemberg,2020-04-16,forecast,0.8,0.6,1,0.7,0.9,0.98
-Baden-Wurttemberg,2020-04-17,forecast,0.8,0.6,1,0.7,0.9,0.96
-Baden-Wurttemberg,2020-04-18,forecast,0.8,0.5,1,0.7,0.9,0.94
-Baden-Wurttemberg,2020-04-19,forecast,0.8,0.5,1,0.7,0.9,0.93
-Baden-Wurttemberg,2020-04-20,forecast,0.7,0.5,1.1,0.6,0.8,0.92
-Baden-Wurttemberg,2020-04-21,forecast,0.7,0.4,1.1,0.6,0.9,0.91
-Baden-Wurttemberg,2020-04-22,forecast,0.7,0.4,1.1,0.6,0.9,0.9
-Baden-Wurttemberg,2020-04-23,forecast,0.7,0.3,1.1,0.6,0.9,0.9
-Baden-Wurttemberg,2020-04-24,forecast,0.7,0.3,1.1,0.6,0.9,0.9
-Baden-Wurttemberg,2020-04-25,forecast,0.7,0.3,1.1,0.6,0.9,0.88
-Baden-Wurttemberg,2020-04-26,forecast,0.7,0.2,1.1,0.5,0.9,0.88
-Baden-Wurttemberg,2020-04-27,forecast,0.7,0.2,1.1,0.5,0.9,0.88
-Baden-Wurttemberg,2020-04-28,forecast,0.7,0.2,1.2,0.5,0.9,0.88
-Bavaria,2020-02-26,nowcast,2.4,1.8,3.1,2.1,2.6,0
-Bavaria,2020-02-27,nowcast,2.3,1.8,3,2.1,2.5,0
-Bavaria,2020-02-28,nowcast,2.3,1.8,2.9,2,2.4,0
+Baden-Wurttemberg,2020-04-15,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Baden-Wurttemberg,2020-04-16,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Baden-Wurttemberg,2020-04-17,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Baden-Wurttemberg,2020-04-18,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Bavaria,2020-02-26,nowcast,2.4,1.8,3,2.1,2.6,0
+Bavaria,2020-02-27,nowcast,2.3,1.8,2.9,2.1,2.5,0
+Bavaria,2020-02-28,nowcast,2.3,1.8,2.9,2,2.5,0
 Bavaria,2020-02-29,nowcast,2.3,1.8,2.8,2,2.4,0
-Bavaria,2020-03-01,nowcast,2.2,1.8,2.7,2,2.4,0
+Bavaria,2020-03-01,nowcast,2.2,1.8,2.8,2,2.4,0
 Bavaria,2020-03-02,nowcast,2.2,1.8,2.7,2,2.3,0
-Bavaria,2020-03-03,nowcast,2.2,1.8,2.6,1.9,2.2,0
-Bavaria,2020-03-04,nowcast,2.1,1.7,2.5,1.9,2.2,0
-Bavaria,2020-03-05,nowcast,2.1,1.7,2.5,1.8,2.1,0
-Bavaria,2020-03-06,nowcast,2,1.6,2.4,1.8,2.1,0
-Bavaria,2020-03-07,nowcast,1.9,1.6,2.3,1.8,2.1,0
+Bavaria,2020-03-03,nowcast,2.2,1.8,2.6,2,2.3,0
+Bavaria,2020-03-04,nowcast,2.1,1.8,2.5,1.9,2.2,0
+Bavaria,2020-03-05,nowcast,2.1,1.7,2.5,1.9,2.2,0
+Bavaria,2020-03-06,nowcast,2,1.7,2.4,1.8,2.1,0
+Bavaria,2020-03-07,nowcast,2,1.6,2.3,1.8,2,0
 Bavaria,2020-03-08,nowcast,1.9,1.6,2.2,1.7,2,0
-Bavaria,2020-03-09,nowcast,1.9,1.6,2.2,1.7,1.9,0
-Bavaria,2020-03-10,nowcast,1.8,1.6,2.1,1.6,1.9,0
+Bavaria,2020-03-09,nowcast,1.9,1.6,2.2,1.7,2,0
+Bavaria,2020-03-10,nowcast,1.8,1.6,2.1,1.7,1.9,0
 Bavaria,2020-03-11,nowcast,1.8,1.5,2,1.6,1.8,0
 Bavaria,2020-03-12,nowcast,1.7,1.5,2,1.6,1.8,0
 Bavaria,2020-03-13,nowcast,1.6,1.4,1.9,1.5,1.7,0
@@ -83,473 +73,422 @@ Bavaria,2020-03-14,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Bavaria,2020-03-15,nowcast,1.4,1.3,1.6,1.4,1.5,0
 Bavaria,2020-03-16,nowcast,1.4,1.2,1.5,1.3,1.4,0
 Bavaria,2020-03-17,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Bavaria,2020-03-18,nowcast,1.3,1.2,1.5,1.2,1.3,0
+Bavaria,2020-03-18,nowcast,1.3,1.2,1.4,1.3,1.4,0
 Bavaria,2020-03-19,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Bavaria,2020-03-20,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Bavaria,2020-03-20,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Bavaria,2020-03-21,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Bavaria,2020-03-22,nowcast,1.1,1,1.2,1,1.1,0.02
+Bavaria,2020-03-22,nowcast,1.1,1,1.2,1.1,1.1,0.02
 Bavaria,2020-03-23,nowcast,1,1,1.1,1,1.1,0.16
-Bavaria,2020-03-24,nowcast,1,1,1.1,1,1,0.27
-Bavaria,2020-03-25,nowcast,1,1,1.1,1,1,0.24
-Bavaria,2020-03-26,nowcast,1,0.9,1.1,1,1,0.38
-Bavaria,2020-03-27,nowcast,1,0.9,1,0.9,1,0.86
+Bavaria,2020-03-24,nowcast,1,1,1.1,1,1,0.26
+Bavaria,2020-03-25,nowcast,1,1,1.1,1,1,0.22
+Bavaria,2020-03-26,nowcast,1,0.9,1.1,1,1,0.37
+Bavaria,2020-03-27,nowcast,1,0.9,1,0.9,1,0.85
 Bavaria,2020-03-28,nowcast,0.9,0.8,0.9,0.9,0.9,1
 Bavaria,2020-03-29,nowcast,0.8,0.8,0.9,0.8,0.8,1
 Bavaria,2020-03-30,nowcast,0.8,0.7,0.8,0.8,0.8,1
 Bavaria,2020-03-31,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-01,nowcast,0.8,0.7,0.8,0.8,0.8,1
+Bavaria,2020-04-01,nowcast,0.8,0.7,0.8,0.7,0.8,1
 Bavaria,2020-04-02,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-03,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-04,nowcast,0.7,0.6,0.8,0.7,0.7,1
+Bavaria,2020-04-03,nowcast,0.7,0.7,0.8,0.7,0.7,1
+Bavaria,2020-04-04,nowcast,0.7,0.6,0.7,0.7,0.7,1
 Bavaria,2020-04-05,nowcast,0.7,0.6,0.7,0.6,0.7,1
-Bavaria,2020-04-06,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Bavaria,2020-04-07,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-08,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Bavaria,2020-04-09,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Bavaria,2020-04-10,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Bavaria,2020-04-11,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Bavaria,2020-04-12,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Bavaria,2020-04-13,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-14,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Bavaria,2020-04-15,forecast,0.8,0.7,0.9,0.7,0.8,0.99
-Bavaria,2020-04-16,forecast,0.8,0.6,1,0.7,0.9,0.97
-Bavaria,2020-04-17,forecast,0.8,0.6,1,0.7,0.9,0.95
-Bavaria,2020-04-18,forecast,0.8,0.5,1,0.7,0.9,0.93
-Bavaria,2020-04-19,forecast,0.8,0.5,1,0.6,0.9,0.91
-Bavaria,2020-04-20,forecast,0.8,0.4,1.1,0.6,0.9,0.89
-Bavaria,2020-04-21,forecast,0.8,0.4,1.1,0.6,0.9,0.88
-Bavaria,2020-04-22,forecast,0.7,0.3,1.1,0.6,0.9,0.87
-Bavaria,2020-04-23,forecast,0.7,0.3,1.1,0.6,0.9,0.85
-Bavaria,2020-04-24,forecast,0.7,0.3,1.2,0.6,0.9,0.85
-Bavaria,2020-04-25,forecast,0.7,0.2,1.2,0.5,0.9,0.85
-Bavaria,2020-04-26,forecast,0.7,0.2,1.2,0.5,0.9,0.84
-Bavaria,2020-04-27,forecast,0.7,0.2,1.2,0.5,0.9,0.84
-Bavaria,2020-04-28,forecast,0.7,0,1.1,0.5,0.9,0.83
-Berlin,2020-02-27,nowcast,2.3,1.5,3.4,1.8,2.6,0
-Berlin,2020-02-28,nowcast,2.2,1.5,3.2,1.8,2.5,0
+Bavaria,2020-04-06,nowcast,0.7,0.6,0.7,0.6,0.7,1
+Bavaria,2020-04-07,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Bavaria,2020-04-08,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Bavaria,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Bavaria,2020-04-10,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Bavaria,2020-04-11,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Bavaria,2020-04-12,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,2020-04-13,nowcast,0.7,0.7,0.8,0.7,0.8,1
+Bavaria,2020-04-14,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,2020-04-15,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Bavaria,2020-04-16,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Bavaria,2020-04-17,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Bavaria,2020-04-18,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Berlin,2020-02-27,nowcast,2.4,1.5,3.3,2,2.7,0
+Berlin,2020-02-28,nowcast,2.3,1.5,3.2,1.9,2.6,0
 Berlin,2020-02-29,nowcast,2.2,1.5,3,1.9,2.4,0
-Berlin,2020-03-01,nowcast,2.1,1.5,2.9,1.8,2.3,0
-Berlin,2020-03-02,nowcast,2.1,1.5,2.7,1.8,2.3,0
-Berlin,2020-03-03,nowcast,2,1.5,2.6,1.7,2.2,0
-Berlin,2020-03-04,nowcast,2,1.5,2.6,1.8,2.2,0
-Berlin,2020-03-05,nowcast,1.9,1.5,2.4,1.7,2,0
-Berlin,2020-03-06,nowcast,1.8,1.4,2.3,1.6,2,0
-Berlin,2020-03-07,nowcast,1.7,1.4,2.1,1.6,1.9,0
-Berlin,2020-03-08,nowcast,1.7,1.4,2,1.5,1.8,0
-Berlin,2020-03-09,nowcast,1.6,1.4,2,1.5,1.7,0
-Berlin,2020-03-10,nowcast,1.6,1.4,2,1.5,1.7,0
-Berlin,2020-03-11,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Berlin,2020-03-12,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Berlin,2020-03-01,nowcast,2.2,1.6,2.9,1.8,2.3,0
+Berlin,2020-03-02,nowcast,2.1,1.5,2.8,1.8,2.3,0
+Berlin,2020-03-03,nowcast,2.1,1.5,2.7,1.8,2.2,0
+Berlin,2020-03-04,nowcast,2,1.5,2.6,1.7,2.2,0
+Berlin,2020-03-05,nowcast,1.9,1.5,2.4,1.6,2,0
+Berlin,2020-03-06,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Berlin,2020-03-07,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Berlin,2020-03-08,nowcast,1.7,1.4,2.1,1.5,1.8,0
+Berlin,2020-03-09,nowcast,1.7,1.3,2,1.5,1.8,0
+Berlin,2020-03-10,nowcast,1.7,1.4,2,1.5,1.7,0
+Berlin,2020-03-11,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Berlin,2020-03-12,nowcast,1.6,1.3,1.9,1.5,1.7,0
 Berlin,2020-03-13,nowcast,1.5,1.2,1.7,1.4,1.6,0
-Berlin,2020-03-14,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Berlin,2020-03-15,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Berlin,2020-03-14,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Berlin,2020-03-15,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Berlin,2020-03-16,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Berlin,2020-03-17,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Berlin,2020-03-18,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
+Berlin,2020-03-17,nowcast,1.2,1,1.4,1.1,1.3,0.01
+Berlin,2020-03-18,nowcast,1.2,1,1.4,1.1,1.3,0.02
 Berlin,2020-03-19,nowcast,1.2,1,1.3,1.1,1.2,0.03
-Berlin,2020-03-20,nowcast,1.1,1,1.3,1,1.2,0.12
-Berlin,2020-03-21,nowcast,1,0.9,1.2,1,1.1,0.39
-Berlin,2020-03-22,nowcast,1,0.8,1.1,0.9,1,0.72
-Berlin,2020-03-23,nowcast,0.9,0.8,1,0.9,1,0.87
+Berlin,2020-03-20,nowcast,1.1,1,1.3,1.1,1.2,0.1
+Berlin,2020-03-21,nowcast,1,0.9,1.2,1,1.1,0.37
+Berlin,2020-03-22,nowcast,1,0.8,1.1,0.9,1,0.7
+Berlin,2020-03-23,nowcast,0.9,0.8,1.1,0.9,1,0.85
 Berlin,2020-03-24,nowcast,0.9,0.8,1,0.9,1,0.89
-Berlin,2020-03-25,nowcast,0.9,0.8,1.1,0.9,1,0.84
-Berlin,2020-03-26,nowcast,0.9,0.8,1,0.9,1,0.85
-Berlin,2020-03-27,nowcast,0.9,0.8,1,0.9,1,0.91
-Berlin,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Berlin,2020-03-29,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Berlin,2020-03-25,nowcast,0.9,0.8,1,0.9,1,0.86
+Berlin,2020-03-26,nowcast,0.9,0.8,1,0.9,1,0.86
+Berlin,2020-03-27,nowcast,0.9,0.8,1,0.9,0.9,0.94
+Berlin,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Berlin,2020-03-29,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Berlin,2020-03-30,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Berlin,2020-03-31,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Berlin,2020-04-01,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Berlin,2020-04-01,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Berlin,2020-04-02,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Berlin,2020-04-03,nowcast,0.8,0.6,0.9,0.7,0.8,1
 Berlin,2020-04-04,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Berlin,2020-04-05,nowcast,0.7,0.6,0.8,0.6,0.7,1
 Berlin,2020-04-06,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Berlin,2020-04-07,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Berlin,2020-04-08,nowcast,0.8,0.7,1,0.7,0.9,0.93
-Berlin,2020-04-09,nowcast,0.9,0.7,1.1,0.8,1,0.82
-Berlin,2020-04-10,nowcast,0.9,0.7,1.1,0.8,1,0.77
-Berlin,2020-04-11,nowcast,0.9,0.7,1.1,0.8,1,0.81
-Berlin,2020-04-12,nowcast,0.9,0.7,1,0.8,0.9,0.88
-Berlin,2020-04-13,nowcast,0.8,0.6,1,0.7,0.9,0.91
-Berlin,2020-04-14,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
-Berlin,2020-04-15,forecast,0.8,0.6,1.1,0.7,0.9,0.85
-Berlin,2020-04-16,forecast,0.8,0.5,1.2,0.7,1,0.82
-Berlin,2020-04-17,forecast,0.8,0.4,1.2,0.7,0.9,0.8
-Berlin,2020-04-18,forecast,0.8,0.4,1.2,0.7,1,0.79
-Berlin,2020-04-19,forecast,0.8,0.3,1.2,0.6,1,0.78
-Berlin,2020-04-20,forecast,0.8,0.3,1.3,0.6,1,0.76
-Berlin,2020-04-21,forecast,0.8,0.3,1.3,0.6,1,0.77
-Berlin,2020-04-22,forecast,0.8,0.2,1.3,0.6,1,0.77
-Berlin,2020-04-23,forecast,0.8,0.2,1.3,0.6,1,0.75
-Berlin,2020-04-24,forecast,0.8,0,1.2,0.5,1,0.75
-Berlin,2020-04-25,forecast,0.8,0,1.2,0.5,1,0.75
-Berlin,2020-04-26,forecast,0.7,0,1.3,0.5,1,0.74
-Berlin,2020-04-27,forecast,0.7,0,1.3,0.5,1,0.74
-Berlin,2020-04-28,forecast,0.7,0,1.3,0.4,1,0.74
-Brandenburg,2020-03-05,nowcast,2.1,1.4,2.8,1.8,2.3,0
-Brandenburg,2020-03-06,nowcast,2,1.4,2.6,1.7,2.2,0
-Brandenburg,2020-03-07,nowcast,1.9,1.3,2.4,1.6,2.1,0
-Brandenburg,2020-03-08,nowcast,1.7,1.3,2.2,1.5,1.9,0
-Brandenburg,2020-03-09,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Brandenburg,2020-03-10,nowcast,1.6,1.2,2,1.5,1.8,0
-Brandenburg,2020-03-11,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Berlin,2020-04-07,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Berlin,2020-04-08,nowcast,0.8,0.7,1,0.7,0.9,0.95
+Berlin,2020-04-09,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Berlin,2020-04-10,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+Berlin,2020-04-11,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Berlin,2020-04-12,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Berlin,2020-04-13,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Berlin,2020-04-14,nowcast,0.8,0.6,1,0.7,0.9,0.94
+Berlin,2020-04-15,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+Berlin,2020-04-16,nowcast,0.9,0.7,1.1,0.8,1,0.75
+Berlin,2020-04-17,nowcast,0.9,0.6,1.2,0.8,1,0.74
+Berlin,2020-04-18,nowcast,0.9,0.6,1.1,0.7,1,0.8
+Brandenburg,2020-03-05,nowcast,2.1,1.4,2.8,1.7,2.3,0
+Brandenburg,2020-03-06,nowcast,2,1.3,2.6,1.7,2.2,0
+Brandenburg,2020-03-07,nowcast,1.9,1.3,2.5,1.5,2,0
+Brandenburg,2020-03-08,nowcast,1.8,1.3,2.3,1.6,2,0
+Brandenburg,2020-03-09,nowcast,1.7,1.2,2.2,1.5,1.9,0
+Brandenburg,2020-03-10,nowcast,1.6,1.2,2.1,1.4,1.8,0
+Brandenburg,2020-03-11,nowcast,1.6,1.2,1.9,1.4,1.7,0
 Brandenburg,2020-03-12,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
-Brandenburg,2020-03-13,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
+Brandenburg,2020-03-13,nowcast,1.4,1,1.7,1.3,1.5,0.02
 Brandenburg,2020-03-14,nowcast,1.3,1,1.6,1.2,1.4,0.05
-Brandenburg,2020-03-15,nowcast,1.2,1,1.5,1.1,1.3,0.06
+Brandenburg,2020-03-15,nowcast,1.2,1,1.5,1.1,1.3,0.08
 Brandenburg,2020-03-16,nowcast,1.2,1,1.5,1.1,1.3,0.07
 Brandenburg,2020-03-17,nowcast,1.2,1,1.5,1.1,1.3,0.04
-Brandenburg,2020-03-18,nowcast,1.3,1,1.5,1.2,1.3,0.03
-Brandenburg,2020-03-19,nowcast,1.3,1,1.5,1.2,1.3,0.02
-Brandenburg,2020-03-20,nowcast,1.2,1,1.5,1.1,1.3,0.03
+Brandenburg,2020-03-18,nowcast,1.3,1,1.5,1.2,1.4,0.02
+Brandenburg,2020-03-19,nowcast,1.3,1,1.5,1.2,1.4,0.02
+Brandenburg,2020-03-20,nowcast,1.2,1,1.5,1.1,1.3,0.04
 Brandenburg,2020-03-21,nowcast,1.2,1,1.4,1.1,1.3,0.06
-Brandenburg,2020-03-22,nowcast,1.2,1,1.4,1.1,1.2,0.1
-Brandenburg,2020-03-23,nowcast,1.2,0.9,1.3,1.1,1.2,0.1
-Brandenburg,2020-03-24,nowcast,1.2,0.9,1.4,1.1,1.2,0.09
-Brandenburg,2020-03-25,nowcast,1.1,0.9,1.3,1.1,1.2,0.1
-Brandenburg,2020-03-26,nowcast,1.1,0.9,1.3,1,1.2,0.16
+Brandenburg,2020-03-22,nowcast,1.2,0.9,1.4,1.1,1.2,0.12
+Brandenburg,2020-03-23,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
+Brandenburg,2020-03-24,nowcast,1.2,1,1.4,1.1,1.2,0.09
+Brandenburg,2020-03-25,nowcast,1.2,1,1.4,1.1,1.2,0.09
+Brandenburg,2020-03-26,nowcast,1.1,0.9,1.3,1,1.2,0.17
 Brandenburg,2020-03-27,nowcast,1.1,0.9,1.2,1,1.1,0.32
-Brandenburg,2020-03-28,nowcast,1,0.8,1.2,0.9,1.1,0.54
-Brandenburg,2020-03-29,nowcast,0.9,0.8,1.1,0.9,1,0.75
-Brandenburg,2020-03-30,nowcast,0.9,0.7,1.1,0.8,1,0.82
-Brandenburg,2020-03-31,nowcast,0.9,0.7,1.1,0.9,1,0.82
-Brandenburg,2020-04-01,nowcast,0.9,0.8,1.1,0.9,1,0.77
-Brandenburg,2020-04-02,nowcast,0.9,0.8,1.1,0.8,1,0.78
-Brandenburg,2020-04-03,nowcast,0.9,0.7,1,0.8,0.9,0.88
+Brandenburg,2020-03-28,nowcast,1,0.8,1.2,0.9,1.1,0.56
+Brandenburg,2020-03-29,nowcast,0.9,0.7,1.1,0.9,1,0.76
+Brandenburg,2020-03-30,nowcast,0.9,0.7,1.1,0.8,1,0.86
+Brandenburg,2020-03-31,nowcast,0.9,0.7,1.1,0.8,1,0.82
+Brandenburg,2020-04-01,nowcast,0.9,0.8,1.1,0.9,1,0.74
+Brandenburg,2020-04-02,nowcast,0.9,0.8,1.1,0.9,1,0.76
+Brandenburg,2020-04-03,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
 Brandenburg,2020-04-04,nowcast,0.8,0.7,1,0.8,0.9,0.96
 Brandenburg,2020-04-05,nowcast,0.8,0.6,0.9,0.7,0.9,0.98
 Brandenburg,2020-04-06,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 Brandenburg,2020-04-07,nowcast,0.8,0.6,1,0.7,0.9,0.95
 Brandenburg,2020-04-08,nowcast,0.9,0.7,1.1,0.8,0.9,0.84
-Brandenburg,2020-04-09,nowcast,0.9,0.7,1.2,0.8,1,0.66
-Brandenburg,2020-04-10,nowcast,1,0.8,1.3,0.9,1,0.52
-Brandenburg,2020-04-11,nowcast,1,0.8,1.3,0.9,1.1,0.52
-Brandenburg,2020-04-12,nowcast,1,0.7,1.2,0.9,1,0.61
-Brandenburg,2020-04-13,nowcast,0.9,0.6,1.1,0.8,1,0.73
-Brandenburg,2020-04-14,nowcast,0.9,0.6,1.2,0.8,1,0.73
-Brandenburg,2020-04-15,forecast,0.9,0.5,1.2,0.8,1,0.71
-Brandenburg,2020-04-16,forecast,0.9,0.5,1.3,0.7,1,0.69
-Brandenburg,2020-04-17,forecast,0.9,0.4,1.3,0.7,1,0.68
-Brandenburg,2020-04-18,forecast,0.9,0.4,1.4,0.7,1,0.69
-Brandenburg,2020-04-19,forecast,0.9,0.3,1.4,0.7,1,0.67
-Brandenburg,2020-04-20,forecast,0.9,0.3,1.4,0.7,1.1,0.67
-Brandenburg,2020-04-21,forecast,0.9,0.3,1.4,0.7,1.1,0.67
-Brandenburg,2020-04-22,forecast,0.8,0.2,1.4,0.6,1,0.69
-Brandenburg,2020-04-23,forecast,0.8,0.2,1.5,0.6,1.1,0.68
-Brandenburg,2020-04-24,forecast,0.8,0,1.3,0.5,1,0.68
-Brandenburg,2020-04-25,forecast,0.8,0,1.4,0.5,1,0.69
-Brandenburg,2020-04-26,forecast,0.8,0,1.4,0.5,1.1,0.68
-Brandenburg,2020-04-27,forecast,0.8,0,1.4,0.5,1.1,0.68
-Brandenburg,2020-04-28,forecast,0.8,0,1.4,0.5,1.1,0.68
-Bremen,2020-03-04,nowcast,1.9,1,2.9,1.5,2.2,0.03
-Bremen,2020-03-05,nowcast,1.8,0.9,2.6,1.4,2.1,0.04
-Bremen,2020-03-06,nowcast,1.6,0.9,2.4,1.3,1.9,0.06
-Bremen,2020-03-07,nowcast,1.5,0.9,2.2,1.3,1.8,0.08
-Bremen,2020-03-08,nowcast,1.5,0.8,2,1.2,1.7,0.09
-Bremen,2020-03-09,nowcast,1.4,0.9,2,1.2,1.6,0.09
-Bremen,2020-03-10,nowcast,1.5,0.9,2.1,1.2,1.6,0.06
+Brandenburg,2020-04-09,nowcast,0.9,0.7,1.2,0.8,1,0.67
+Brandenburg,2020-04-10,nowcast,1,0.8,1.2,0.9,1,0.59
+Brandenburg,2020-04-11,nowcast,1,0.8,1.2,0.9,1,0.58
+Brandenburg,2020-04-12,nowcast,0.9,0.7,1.2,0.9,1,0.7
+Brandenburg,2020-04-13,nowcast,0.9,0.7,1.1,0.8,1,0.81
+Brandenburg,2020-04-14,nowcast,0.9,0.6,1.1,0.8,1,0.84
+Brandenburg,2020-04-15,nowcast,0.9,0.7,1.1,0.8,1,0.81
+Brandenburg,2020-04-16,nowcast,0.9,0.6,1.1,0.8,1,0.8
+Brandenburg,2020-04-17,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
+Brandenburg,2020-04-18,nowcast,0.8,0.5,1.1,0.7,0.9,0.85
+Bremen,2020-03-04,nowcast,1.9,1.1,3,1.4,2.2,0.03
+Bremen,2020-03-05,nowcast,1.8,0.9,2.7,1.4,2.1,0.05
+Bremen,2020-03-06,nowcast,1.6,0.8,2.3,1.3,1.9,0.08
+Bremen,2020-03-07,nowcast,1.5,0.9,2.2,1.2,1.8,0.09
+Bremen,2020-03-08,nowcast,1.5,0.9,2.1,1.2,1.7,0.1
+Bremen,2020-03-09,nowcast,1.5,0.8,2,1.2,1.7,0.09
+Bremen,2020-03-10,nowcast,1.5,0.9,2.1,1.2,1.7,0.05
 Bremen,2020-03-11,nowcast,1.5,1,2.1,1.2,1.7,0.04
-Bremen,2020-03-12,nowcast,1.5,1,2.1,1.2,1.6,0.03
-Bremen,2020-03-13,nowcast,1.5,1,2,1.2,1.6,0.05
-Bremen,2020-03-14,nowcast,1.3,0.9,1.8,1.2,1.5,0.1
-Bremen,2020-03-15,nowcast,1.2,0.8,1.6,1,1.4,0.21
-Bremen,2020-03-16,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
-Bremen,2020-03-17,nowcast,1,0.7,1.4,0.9,1.2,0.44
-Bremen,2020-03-18,nowcast,1,0.7,1.4,0.9,1.2,0.44
-Bremen,2020-03-19,nowcast,1,0.7,1.4,0.9,1.2,0.43
+Bremen,2020-03-12,nowcast,1.5,1,2.1,1.3,1.7,0.03
+Bremen,2020-03-13,nowcast,1.4,0.9,2,1.2,1.6,0.05
+Bremen,2020-03-14,nowcast,1.3,0.9,1.8,1.1,1.5,0.1
+Bremen,2020-03-15,nowcast,1.2,0.8,1.6,1.1,1.4,0.22
+Bremen,2020-03-16,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
+Bremen,2020-03-17,nowcast,1,0.6,1.4,0.9,1.2,0.43
+Bremen,2020-03-18,nowcast,1,0.7,1.4,0.9,1.2,0.42
+Bremen,2020-03-19,nowcast,1,0.7,1.4,0.9,1.2,0.44
 Bremen,2020-03-20,nowcast,1,0.7,1.4,0.9,1.1,0.47
-Bremen,2020-03-21,nowcast,1,0.7,1.3,0.9,1.1,0.51
-Bremen,2020-03-22,nowcast,1,0.6,1.3,0.8,1.1,0.58
-Bremen,2020-03-23,nowcast,0.9,0.6,1.3,0.8,1,0.66
-Bremen,2020-03-24,nowcast,0.9,0.6,1.2,0.8,1,0.67
-Bremen,2020-03-25,nowcast,0.9,0.6,1.3,0.8,1.1,0.61
-Bremen,2020-03-26,nowcast,1,0.6,1.3,0.8,1.1,0.54
-Bremen,2020-03-27,nowcast,1,0.6,1.4,0.8,1.1,0.51
-Bremen,2020-03-28,nowcast,1,0.7,1.4,0.8,1.1,0.5
-Bremen,2020-03-29,nowcast,1,0.7,1.4,0.8,1.1,0.52
-Bremen,2020-03-30,nowcast,1,0.6,1.3,0.8,1.1,0.58
+Bremen,2020-03-21,nowcast,1,0.7,1.3,0.8,1.1,0.52
+Bremen,2020-03-22,nowcast,1,0.6,1.3,0.8,1.1,0.6
+Bremen,2020-03-23,nowcast,0.9,0.6,1.2,0.8,1.1,0.66
+Bremen,2020-03-24,nowcast,0.9,0.6,1.2,0.8,1.1,0.67
+Bremen,2020-03-25,nowcast,0.9,0.6,1.3,0.8,1,0.6
+Bremen,2020-03-26,nowcast,1,0.6,1.4,0.8,1.1,0.52
+Bremen,2020-03-27,nowcast,1,0.7,1.4,0.8,1.1,0.5
+Bremen,2020-03-28,nowcast,1,0.7,1.4,0.9,1.1,0.5
+Bremen,2020-03-29,nowcast,1,0.6,1.3,0.8,1.1,0.53
+Bremen,2020-03-30,nowcast,1,0.6,1.3,0.8,1.1,0.59
 Bremen,2020-03-31,nowcast,1,0.6,1.3,0.8,1.1,0.6
-Bremen,2020-04-01,nowcast,1,0.6,1.3,0.8,1.1,0.55
-Bremen,2020-04-02,nowcast,1,0.6,1.4,0.9,1.1,0.52
+Bremen,2020-04-01,nowcast,1,0.6,1.4,0.8,1.1,0.55
+Bremen,2020-04-02,nowcast,1,0.6,1.4,0.8,1.1,0.51
 Bremen,2020-04-03,nowcast,1,0.6,1.4,0.8,1.1,0.53
-Bremen,2020-04-04,nowcast,1,0.6,1.4,0.8,1.1,0.51
-Bremen,2020-04-05,nowcast,1,0.7,1.4,0.9,1.1,0.46
-Bremen,2020-04-06,nowcast,1.1,0.7,1.5,0.9,1.2,0.37
-Bremen,2020-04-07,nowcast,1.1,0.8,1.6,0.9,1.2,0.25
-Bremen,2020-04-08,nowcast,1.2,0.8,1.8,1,1.4,0.15
-Bremen,2020-04-09,nowcast,1.3,0.9,1.8,1.1,1.4,0.08
-Bremen,2020-04-10,nowcast,1.3,0.9,1.9,1.1,1.5,0.07
-Bremen,2020-04-11,nowcast,1.3,0.9,1.8,1.1,1.4,0.07
-Bremen,2020-04-12,nowcast,1.3,0.9,1.8,1.1,1.4,0.11
-Bremen,2020-04-13,nowcast,1.3,0.8,1.8,1.1,1.5,0.12
-Bremen,2020-04-14,nowcast,1.4,0.9,2,1.1,1.5,0.08
-Bremen,2020-04-15,forecast,1.4,0.7,2.1,1.1,1.6,0.13
-Bremen,2020-04-16,forecast,1.4,0.7,2.2,1.1,1.6,0.15
-Bremen,2020-04-17,forecast,1.4,0.5,2.2,1,1.6,0.18
-Bremen,2020-04-18,forecast,1.4,0.5,2.3,1.1,1.7,0.2
-Bremen,2020-04-19,forecast,1.4,0.4,2.4,1,1.7,0.22
-Bremen,2020-04-20,forecast,1.4,0.3,2.5,1,1.7,0.23
-Bremen,2020-04-21,forecast,1.4,0,2.2,0.9,1.7,0.26
-Bremen,2020-04-22,forecast,1.3,0,2.3,0.9,1.7,0.27
-Bremen,2020-04-23,forecast,1.4,0,2.3,0.9,1.7,0.27
-Bremen,2020-04-24,forecast,1.4,0,2.4,0.9,1.8,0.27
-Bremen,2020-04-25,forecast,1.4,0,2.4,0.8,1.8,0.3
-Bremen,2020-04-26,forecast,1.3,0,2.4,0.8,1.8,0.31
-Bremen,2020-04-27,forecast,1.3,0,2.5,0.8,1.8,0.32
-Bremen,2020-04-28,forecast,1.3,0,2.5,0.9,1.9,0.31
+Bremen,2020-04-04,nowcast,1,0.6,1.4,0.8,1.1,0.53
+Bremen,2020-04-05,nowcast,1,0.6,1.4,0.9,1.1,0.46
+Bremen,2020-04-06,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
+Bremen,2020-04-07,nowcast,1.1,0.8,1.6,0.9,1.3,0.26
+Bremen,2020-04-08,nowcast,1.2,0.8,1.7,1,1.4,0.16
+Bremen,2020-04-09,nowcast,1.3,0.9,1.8,1,1.4,0.1
+Bremen,2020-04-10,nowcast,1.3,0.9,1.8,1.1,1.5,0.08
+Bremen,2020-04-11,nowcast,1.3,0.9,1.8,1.1,1.5,0.11
+Bremen,2020-04-12,nowcast,1.2,0.8,1.6,1.1,1.4,0.17
+Bremen,2020-04-13,nowcast,1.2,0.8,1.6,1,1.4,0.19
+Bremen,2020-04-14,nowcast,1.2,0.8,1.6,1,1.4,0.19
+Bremen,2020-04-15,nowcast,1.2,0.8,1.7,1,1.4,0.15
+Bremen,2020-04-16,nowcast,1.2,0.8,1.7,1.1,1.4,0.15
+Bremen,2020-04-17,nowcast,1.2,0.7,1.7,1,1.3,0.24
+Bremen,2020-04-18,nowcast,1,0.5,1.5,0.8,1.2,0.44
+Bremen,2020-04-19,forecast,1,0.5,1.6,0.9,1.3,0.46
+Bremen,2020-04-20,forecast,1,0.3,1.7,0.8,1.3,0.46
+Bremen,2020-04-21,forecast,1,0.2,1.7,0.8,1.3,0.46
+Bremen,2020-04-22,forecast,1,0,1.6,0.8,1.4,0.45
+Bremen,2020-04-23,forecast,1,0,1.7,0.8,1.4,0.47
+Bremen,2020-04-24,forecast,1,0,1.7,0.7,1.4,0.48
+Bremen,2020-04-25,forecast,1,0,1.7,0.8,1.5,0.48
+Bremen,2020-04-26,forecast,1,0,1.8,0.7,1.4,0.49
+Bremen,2020-04-27,forecast,1,0,1.8,0.6,1.4,0.48
+Bremen,2020-04-28,forecast,1,0,1.8,0.7,1.5,0.5
+Bremen,2020-04-29,forecast,1,0,1.9,0.6,1.5,0.51
+Bremen,2020-04-30,forecast,1,0,1.9,0.6,1.4,0.51
+Bremen,2020-05-01,forecast,1,0,2,0.6,1.5,0.5
+Bremen,2020-05-02,forecast,1,0,2,0.5,1.5,0.5
 Hamburg,2020-02-29,nowcast,2.3,1.6,3.1,1.9,2.5,0
-Hamburg,2020-03-01,nowcast,2.2,1.6,3,1.9,2.5,0
+Hamburg,2020-03-01,nowcast,2.2,1.5,3,1.9,2.5,0
 Hamburg,2020-03-02,nowcast,2.2,1.6,2.9,1.9,2.4,0
-Hamburg,2020-03-03,nowcast,2.1,1.6,2.8,1.8,2.3,0
-Hamburg,2020-03-04,nowcast,2.1,1.5,2.6,1.8,2.2,0
+Hamburg,2020-03-03,nowcast,2.2,1.6,2.8,1.8,2.3,0
+Hamburg,2020-03-04,nowcast,2.1,1.6,2.7,1.8,2.3,0
 Hamburg,2020-03-05,nowcast,2,1.5,2.5,1.7,2.1,0
 Hamburg,2020-03-06,nowcast,1.9,1.5,2.4,1.7,2,0
 Hamburg,2020-03-07,nowcast,1.8,1.4,2.2,1.6,1.9,0
-Hamburg,2020-03-08,nowcast,1.7,1.4,2.1,1.5,1.8,0
+Hamburg,2020-03-08,nowcast,1.7,1.4,2.1,1.6,1.9,0
 Hamburg,2020-03-09,nowcast,1.7,1.3,2,1.5,1.8,0
-Hamburg,2020-03-10,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Hamburg,2020-03-10,nowcast,1.6,1.3,1.9,1.4,1.7,0
 Hamburg,2020-03-11,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Hamburg,2020-03-12,nowcast,1.4,1.2,1.7,1.3,1.5,0
-Hamburg,2020-03-13,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Hamburg,2020-03-12,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Hamburg,2020-03-13,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Hamburg,2020-03-14,nowcast,1.2,1,1.4,1.1,1.3,0.04
-Hamburg,2020-03-15,nowcast,1.1,1,1.3,1.1,1.2,0.12
+Hamburg,2020-03-15,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
 Hamburg,2020-03-16,nowcast,1.1,0.9,1.2,1,1.1,0.24
-Hamburg,2020-03-17,nowcast,1,0.9,1.2,1,1.1,0.32
-Hamburg,2020-03-18,nowcast,1,0.9,1.2,1,1.1,0.4
-Hamburg,2020-03-19,nowcast,1,0.9,1.1,0.9,1.1,0.51
+Hamburg,2020-03-17,nowcast,1,0.9,1.2,1,1.1,0.31
+Hamburg,2020-03-18,nowcast,1,0.9,1.2,1,1.1,0.39
+Hamburg,2020-03-19,nowcast,1,0.9,1.1,0.9,1,0.5
 Hamburg,2020-03-20,nowcast,1,0.8,1.1,0.9,1,0.64
-Hamburg,2020-03-21,nowcast,0.9,0.8,1.1,0.9,1,0.75
-Hamburg,2020-03-22,nowcast,0.9,0.8,1.1,0.9,1,0.8
-Hamburg,2020-03-23,nowcast,0.9,0.8,1.1,0.9,1,0.81
-Hamburg,2020-03-24,nowcast,0.9,0.8,1.1,0.9,1,0.78
+Hamburg,2020-03-21,nowcast,0.9,0.8,1.1,0.9,1,0.77
+Hamburg,2020-03-22,nowcast,0.9,0.8,1.1,0.9,1,0.81
+Hamburg,2020-03-23,nowcast,0.9,0.8,1.1,0.9,1,0.83
+Hamburg,2020-03-24,nowcast,0.9,0.8,1.1,0.9,1,0.79
 Hamburg,2020-03-25,nowcast,1,0.8,1.1,0.9,1,0.72
-Hamburg,2020-03-26,nowcast,1,0.8,1.1,0.9,1,0.67
+Hamburg,2020-03-26,nowcast,1,0.8,1.1,0.9,1,0.68
 Hamburg,2020-03-27,nowcast,1,0.8,1.1,0.9,1,0.7
-Hamburg,2020-03-28,nowcast,0.9,0.8,1.1,0.9,1,0.81
-Hamburg,2020-03-29,nowcast,0.9,0.8,1,0.8,1,0.91
+Hamburg,2020-03-28,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Hamburg,2020-03-29,nowcast,0.9,0.7,1,0.9,1,0.91
 Hamburg,2020-03-30,nowcast,0.9,0.7,1,0.8,0.9,0.96
 Hamburg,2020-03-31,nowcast,0.8,0.7,1,0.8,0.9,0.98
 Hamburg,2020-04-01,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-Hamburg,2020-04-02,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Hamburg,2020-04-02,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Hamburg,2020-04-03,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Hamburg,2020-04-04,nowcast,0.7,0.6,0.8,0.6,0.8,1
+Hamburg,2020-04-04,nowcast,0.7,0.5,0.8,0.6,0.7,1
 Hamburg,2020-04-05,nowcast,0.7,0.5,0.8,0.6,0.7,1
 Hamburg,2020-04-06,nowcast,0.7,0.5,0.8,0.6,0.7,1
 Hamburg,2020-04-07,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Hamburg,2020-04-08,nowcast,0.7,0.6,0.9,0.6,0.8,0.98
-Hamburg,2020-04-09,nowcast,0.8,0.6,1,0.7,0.8,0.95
-Hamburg,2020-04-10,nowcast,0.8,0.6,1,0.7,0.9,0.92
-Hamburg,2020-04-11,nowcast,0.8,0.6,1,0.7,0.9,0.93
-Hamburg,2020-04-12,nowcast,0.8,0.5,1,0.7,0.8,0.95
-Hamburg,2020-04-13,nowcast,0.7,0.5,1,0.6,0.8,0.94
-Hamburg,2020-04-14,nowcast,0.8,0.5,1.1,0.6,0.9,0.88
-Hamburg,2020-04-15,forecast,0.8,0.4,1.1,0.6,0.9,0.87
-Hamburg,2020-04-16,forecast,0.8,0.4,1.2,0.6,0.9,0.85
-Hamburg,2020-04-17,forecast,0.8,0.4,1.2,0.6,0.9,0.83
-Hamburg,2020-04-18,forecast,0.7,0.3,1.2,0.6,0.9,0.83
-Hamburg,2020-04-19,forecast,0.7,0.3,1.2,0.5,0.9,0.83
-Hamburg,2020-04-20,forecast,0.7,0.2,1.2,0.5,0.9,0.82
-Hamburg,2020-04-21,forecast,0.7,0.2,1.3,0.5,0.9,0.81
-Hamburg,2020-04-22,forecast,0.7,0,1.2,0.4,0.9,0.8
-Hamburg,2020-04-23,forecast,0.7,0,1.2,0.4,0.9,0.81
-Hamburg,2020-04-24,forecast,0.7,0,1.2,0.4,0.9,0.8
-Hamburg,2020-04-25,forecast,0.7,0,1.2,0.4,0.9,0.8
-Hamburg,2020-04-26,forecast,0.7,0,1.2,0.4,1,0.8
-Hamburg,2020-04-27,forecast,0.6,0,1.2,0.4,0.9,0.79
-Hamburg,2020-04-28,forecast,0.6,0,1.2,0.4,0.9,0.79
-Hesse,2020-02-26,nowcast,2.4,1.5,3.4,2,2.7,0
+Hamburg,2020-04-08,nowcast,0.7,0.6,0.9,0.6,0.8,0.99
+Hamburg,2020-04-09,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+Hamburg,2020-04-10,nowcast,0.8,0.6,1,0.7,0.8,0.95
+Hamburg,2020-04-11,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Hamburg,2020-04-12,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Hamburg,2020-04-13,nowcast,0.7,0.5,1,0.6,0.8,0.97
+Hamburg,2020-04-14,nowcast,0.8,0.6,1,0.7,0.8,0.93
+Hamburg,2020-04-15,nowcast,0.8,0.6,1.1,0.7,0.9,0.82
+Hamburg,2020-04-16,nowcast,0.9,0.6,1.2,0.8,1,0.71
+Hamburg,2020-04-17,nowcast,0.9,0.6,1.2,0.8,1,0.7
+Hamburg,2020-04-18,nowcast,0.9,0.5,1.3,0.7,1,0.72
+Hesse,2020-02-26,nowcast,2.4,1.5,3.4,1.9,2.7,0
 Hesse,2020-02-27,nowcast,2.3,1.5,3.2,1.9,2.6,0
-Hesse,2020-02-28,nowcast,2.3,1.5,3.1,1.9,2.5,0
-Hesse,2020-02-29,nowcast,2.3,1.6,3,1.9,2.4,0
-Hesse,2020-03-01,nowcast,2.3,1.6,3,2,2.5,0
-Hesse,2020-03-02,nowcast,2.2,1.7,2.9,2,2.5,0
-Hesse,2020-03-03,nowcast,2.2,1.7,2.8,1.9,2.4,0
+Hesse,2020-02-28,nowcast,2.3,1.6,3.1,1.9,2.5,0
+Hesse,2020-02-29,nowcast,2.3,1.6,3.1,2,2.5,0
+Hesse,2020-03-01,nowcast,2.3,1.7,3,2,2.5,0
+Hesse,2020-03-02,nowcast,2.3,1.7,3,1.9,2.4,0
+Hesse,2020-03-03,nowcast,2.2,1.6,2.8,2,2.4,0
 Hesse,2020-03-04,nowcast,2.2,1.7,2.8,1.9,2.3,0
-Hesse,2020-03-05,nowcast,2.1,1.6,2.6,1.9,2.3,0
-Hesse,2020-03-06,nowcast,2,1.6,2.5,1.7,2.1,0
+Hesse,2020-03-05,nowcast,2.1,1.6,2.6,1.8,2.2,0
+Hesse,2020-03-06,nowcast,2,1.5,2.5,1.7,2.1,0
 Hesse,2020-03-07,nowcast,1.9,1.5,2.4,1.7,2,0
 Hesse,2020-03-08,nowcast,1.8,1.5,2.2,1.6,1.9,0
 Hesse,2020-03-09,nowcast,1.7,1.4,2.1,1.6,1.8,0
-Hesse,2020-03-10,nowcast,1.7,1.4,2,1.5,1.8,0
-Hesse,2020-03-11,nowcast,1.6,1.3,1.8,1.4,1.7,0
+Hesse,2020-03-10,nowcast,1.6,1.4,2,1.5,1.7,0
+Hesse,2020-03-11,nowcast,1.6,1.3,1.9,1.5,1.7,0
 Hesse,2020-03-12,nowcast,1.5,1.2,1.7,1.4,1.6,0
-Hesse,2020-03-13,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Hesse,2020-03-13,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Hesse,2020-03-14,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Hesse,2020-03-15,nowcast,1.2,1,1.4,1.1,1.3,0.01
-Hesse,2020-03-16,nowcast,1.2,1,1.3,1.1,1.3,0.02
+Hesse,2020-03-16,nowcast,1.2,1,1.4,1.1,1.3,0.01
 Hesse,2020-03-17,nowcast,1.2,1,1.3,1.1,1.2,0.01
 Hesse,2020-03-18,nowcast,1.2,1,1.3,1.1,1.2,0.01
 Hesse,2020-03-19,nowcast,1.1,1,1.3,1.1,1.2,0.03
-Hesse,2020-03-20,nowcast,1.1,1,1.2,1,1.1,0.08
-Hesse,2020-03-21,nowcast,1.1,0.9,1.2,1,1.1,0.25
-Hesse,2020-03-22,nowcast,1,0.9,1.1,1,1.1,0.49
-Hesse,2020-03-23,nowcast,1,0.9,1.1,0.9,1,0.64
-Hesse,2020-03-24,nowcast,1,0.9,1.1,0.9,1,0.62
-Hesse,2020-03-25,nowcast,1,0.9,1.1,0.9,1,0.53
-Hesse,2020-03-26,nowcast,1,0.9,1.1,0.9,1,0.55
+Hesse,2020-03-20,nowcast,1.1,1,1.2,1,1.1,0.1
+Hesse,2020-03-21,nowcast,1,0.9,1.2,1,1.1,0.27
+Hesse,2020-03-22,nowcast,1,0.9,1.1,0.9,1,0.5
+Hesse,2020-03-23,nowcast,1,0.9,1.1,0.9,1,0.66
+Hesse,2020-03-24,nowcast,1,0.9,1.1,0.9,1,0.64
+Hesse,2020-03-25,nowcast,1,0.9,1.1,0.9,1,0.54
+Hesse,2020-03-26,nowcast,1,0.9,1.1,0.9,1,0.56
 Hesse,2020-03-27,nowcast,1,0.9,1.1,0.9,1,0.71
 Hesse,2020-03-28,nowcast,0.9,0.8,1,0.9,1,0.9
-Hesse,2020-03-29,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Hesse,2020-03-30,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Hesse,2020-03-29,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Hesse,2020-03-30,nowcast,0.9,0.8,1,0.8,0.9,0.98
 Hesse,2020-03-31,nowcast,0.9,0.8,1,0.8,0.9,0.96
-Hesse,2020-04-01,nowcast,0.9,0.8,1,0.9,1,0.89
-Hesse,2020-04-02,nowcast,0.9,0.8,1,0.9,1,0.86
+Hesse,2020-04-01,nowcast,0.9,0.8,1,0.9,0.9,0.9
+Hesse,2020-04-02,nowcast,0.9,0.8,1,0.9,1,0.88
 Hesse,2020-04-03,nowcast,0.9,0.8,1,0.8,0.9,0.94
-Hesse,2020-04-04,nowcast,0.8,0.7,1,0.8,0.9,0.99
-Hesse,2020-04-05,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Hesse,2020-04-06,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Hesse,2020-04-07,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Hesse,2020-04-08,nowcast,0.9,0.8,1,0.8,1,0.85
-Hesse,2020-04-09,nowcast,1,0.8,1.1,0.9,1,0.69
-Hesse,2020-04-10,nowcast,1,0.8,1.1,0.9,1,0.71
-Hesse,2020-04-11,nowcast,0.9,0.8,1.1,0.9,1,0.84
-Hesse,2020-04-12,nowcast,0.9,0.7,1,0.8,0.9,0.93
-Hesse,2020-04-13,nowcast,0.8,0.7,1,0.8,0.9,0.94
-Hesse,2020-04-14,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
-Hesse,2020-04-15,forecast,0.9,0.6,1.1,0.8,0.9,0.81
-Hesse,2020-04-16,forecast,0.9,0.6,1.1,0.7,1,0.79
-Hesse,2020-04-17,forecast,0.9,0.5,1.2,0.7,1,0.77
-Hesse,2020-04-18,forecast,0.8,0.5,1.2,0.7,1,0.76
-Hesse,2020-04-19,forecast,0.8,0.4,1.2,0.7,1,0.75
-Hesse,2020-04-20,forecast,0.8,0.4,1.3,0.7,1,0.75
-Hesse,2020-04-21,forecast,0.8,0.4,1.3,0.6,1,0.73
-Hesse,2020-04-22,forecast,0.8,0.3,1.3,0.6,1,0.73
-Hesse,2020-04-23,forecast,0.8,0.3,1.4,0.6,1,0.74
-Hesse,2020-04-24,forecast,0.8,0.3,1.4,0.6,1,0.72
-Hesse,2020-04-25,forecast,0.8,0.2,1.4,0.6,1.1,0.72
-Hesse,2020-04-26,forecast,0.8,0.1,1.4,0.5,1,0.74
-Hesse,2020-04-27,forecast,0.8,0.2,1.5,0.5,1,0.72
-Hesse,2020-04-28,forecast,0.8,0,1.3,0.5,1,0.72
-Lower Saxony,2020-02-27,nowcast,2.4,1.6,3.3,1.9,2.6,0
-Lower Saxony,2020-02-28,nowcast,2.3,1.7,3.1,1.9,2.5,0
-Lower Saxony,2020-02-29,nowcast,2.3,1.7,3,2,2.5,0
-Lower Saxony,2020-03-01,nowcast,2.3,1.6,2.9,1.9,2.4,0
-Lower Saxony,2020-03-02,nowcast,2.2,1.7,2.8,1.9,2.4,0
-Lower Saxony,2020-03-03,nowcast,2.2,1.7,2.7,1.8,2.3,0
-Lower Saxony,2020-03-04,nowcast,2.1,1.6,2.6,1.8,2.2,0
-Lower Saxony,2020-03-05,nowcast,2,1.6,2.5,1.8,2.2,0
-Lower Saxony,2020-03-06,nowcast,1.9,1.5,2.4,1.7,2.1,0
-Lower Saxony,2020-03-07,nowcast,1.8,1.5,2.2,1.7,2,0
-Lower Saxony,2020-03-08,nowcast,1.8,1.4,2.1,1.6,1.9,0
-Lower Saxony,2020-03-09,nowcast,1.7,1.4,2,1.5,1.8,0
-Lower Saxony,2020-03-10,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Hesse,2020-04-04,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Hesse,2020-04-05,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Hesse,2020-04-06,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Hesse,2020-04-07,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Hesse,2020-04-08,nowcast,0.9,0.8,1,0.8,0.9,0.92
+Hesse,2020-04-09,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Hesse,2020-04-10,nowcast,0.9,0.8,1,0.8,1,0.83
+Hesse,2020-04-11,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Hesse,2020-04-12,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Hesse,2020-04-13,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Hesse,2020-04-14,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Hesse,2020-04-15,nowcast,0.8,0.7,1,0.8,0.9,0.95
+Hesse,2020-04-16,nowcast,0.8,0.7,1,0.8,0.9,0.93
+Hesse,2020-04-17,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Hesse,2020-04-18,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Lower Saxony,2020-02-27,nowcast,2.4,1.6,3.3,2,2.6,0
+Lower Saxony,2020-02-28,nowcast,2.3,1.7,3.2,2,2.6,0
+Lower Saxony,2020-02-29,nowcast,2.3,1.7,3,1.9,2.4,0
+Lower Saxony,2020-03-01,nowcast,2.2,1.6,2.9,1.9,2.4,0
+Lower Saxony,2020-03-02,nowcast,2.2,1.6,2.8,2,2.5,0
+Lower Saxony,2020-03-03,nowcast,2.2,1.7,2.8,1.9,2.3,0
+Lower Saxony,2020-03-04,nowcast,2.1,1.7,2.7,1.9,2.3,0
+Lower Saxony,2020-03-05,nowcast,2.1,1.6,2.5,1.8,2.2,0
+Lower Saxony,2020-03-06,nowcast,2,1.6,2.4,1.7,2.1,0
+Lower Saxony,2020-03-07,nowcast,1.9,1.5,2.3,1.7,2,0
+Lower Saxony,2020-03-08,nowcast,1.8,1.5,2.1,1.6,1.9,0
+Lower Saxony,2020-03-09,nowcast,1.7,1.4,2,1.6,1.8,0
+Lower Saxony,2020-03-10,nowcast,1.7,1.4,2,1.5,1.8,0
 Lower Saxony,2020-03-11,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Lower Saxony,2020-03-12,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Lower Saxony,2020-03-13,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Lower Saxony,2020-03-12,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Lower Saxony,2020-03-13,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Lower Saxony,2020-03-14,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Lower Saxony,2020-03-15,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Lower Saxony,2020-03-16,nowcast,1.2,1.1,1.4,1.1,1.3,0
+Lower Saxony,2020-03-16,nowcast,1.2,1.1,1.4,1.2,1.3,0
 Lower Saxony,2020-03-17,nowcast,1.2,1.1,1.4,1.2,1.3,0
 Lower Saxony,2020-03-18,nowcast,1.2,1.1,1.4,1.2,1.3,0
 Lower Saxony,2020-03-19,nowcast,1.2,1.1,1.3,1.1,1.3,0
-Lower Saxony,2020-03-20,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Lower Saxony,2020-03-20,nowcast,1.2,1,1.3,1.1,1.2,0.01
 Lower Saxony,2020-03-21,nowcast,1.1,1,1.2,1,1.1,0.11
-Lower Saxony,2020-03-22,nowcast,1,0.9,1.1,1,1.1,0.36
-Lower Saxony,2020-03-23,nowcast,1,0.9,1.1,0.9,1,0.66
+Lower Saxony,2020-03-22,nowcast,1,0.9,1.1,1,1.1,0.37
+Lower Saxony,2020-03-23,nowcast,1,0.9,1.1,0.9,1,0.65
 Lower Saxony,2020-03-24,nowcast,1,0.9,1.1,0.9,1,0.77
-Lower Saxony,2020-03-25,nowcast,1,0.9,1,0.9,1,0.77
-Lower Saxony,2020-03-26,nowcast,0.9,0.9,1,0.9,1,0.81
+Lower Saxony,2020-03-25,nowcast,1,0.9,1,0.9,1,0.79
+Lower Saxony,2020-03-26,nowcast,0.9,0.9,1,0.9,1,0.83
 Lower Saxony,2020-03-27,nowcast,0.9,0.8,1,0.9,1,0.93
-Lower Saxony,2020-03-28,nowcast,0.9,0.8,1,0.9,0.9,0.98
+Lower Saxony,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.98
 Lower Saxony,2020-03-29,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Lower Saxony,2020-03-30,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Lower Saxony,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Lower Saxony,2020-03-31,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
 Lower Saxony,2020-04-01,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Lower Saxony,2020-04-02,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Lower Saxony,2020-04-02,nowcast,0.9,0.8,1,0.8,0.9,0.99
 Lower Saxony,2020-04-03,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Lower Saxony,2020-04-04,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Lower Saxony,2020-04-05,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Lower Saxony,2020-04-06,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Lower Saxony,2020-04-07,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Lower Saxony,2020-04-08,nowcast,0.8,0.7,1,0.8,0.9,0.96
-Lower Saxony,2020-04-09,nowcast,0.9,0.8,1,0.8,1,0.86
-Lower Saxony,2020-04-10,nowcast,0.9,0.8,1.1,0.9,1,0.8
-Lower Saxony,2020-04-11,nowcast,0.9,0.8,1,0.8,0.9,0.89
-Lower Saxony,2020-04-12,nowcast,0.8,0.7,1,0.8,0.9,0.96
-Lower Saxony,2020-04-13,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Lower Saxony,2020-04-14,nowcast,0.8,0.7,1,0.8,0.9,0.93
-Lower Saxony,2020-04-15,forecast,0.8,0.6,1,0.8,0.9,0.89
-Lower Saxony,2020-04-16,forecast,0.8,0.6,1.1,0.7,0.9,0.87
-Lower Saxony,2020-04-17,forecast,0.8,0.5,1.1,0.7,0.9,0.85
-Lower Saxony,2020-04-18,forecast,0.8,0.5,1.1,0.7,0.9,0.83
-Lower Saxony,2020-04-19,forecast,0.8,0.4,1.2,0.7,0.9,0.83
-Lower Saxony,2020-04-20,forecast,0.8,0.4,1.2,0.6,0.9,0.81
-Lower Saxony,2020-04-21,forecast,0.8,0.3,1.2,0.6,0.9,0.81
-Lower Saxony,2020-04-22,forecast,0.8,0.3,1.2,0.6,0.9,0.8
-Lower Saxony,2020-04-23,forecast,0.8,0.3,1.2,0.6,1,0.79
-Lower Saxony,2020-04-24,forecast,0.8,0.3,1.3,0.5,0.9,0.79
-Lower Saxony,2020-04-25,forecast,0.8,0.2,1.3,0.5,1,0.78
-Lower Saxony,2020-04-26,forecast,0.7,0.2,1.3,0.5,0.9,0.79
-Lower Saxony,2020-04-27,forecast,0.7,0.2,1.4,0.5,1,0.78
-Lower Saxony,2020-04-28,forecast,0.7,0.1,1.3,0.5,1,0.77
-Mecklenburg-Vorpommern,2020-03-06,nowcast,1.9,1.1,2.8,1.6,2.2,0.02
-Mecklenburg-Vorpommern,2020-03-07,nowcast,1.8,1.1,2.6,1.5,2.1,0.02
+Lower Saxony,2020-04-07,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Lower Saxony,2020-04-08,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Lower Saxony,2020-04-09,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Lower Saxony,2020-04-10,nowcast,0.9,0.8,1,0.8,0.9,0.92
+Lower Saxony,2020-04-11,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Lower Saxony,2020-04-12,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Lower Saxony,2020-04-13,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Lower Saxony,2020-04-14,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Lower Saxony,2020-04-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Lower Saxony,2020-04-16,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Lower Saxony,2020-04-17,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Lower Saxony,2020-04-18,nowcast,0.7,0.5,0.9,0.6,0.7,0.99
+Mecklenburg-Vorpommern,2020-03-06,nowcast,1.9,1.2,2.8,1.5,2.1,0.01
+Mecklenburg-Vorpommern,2020-03-07,nowcast,1.9,1.1,2.6,1.5,2.1,0.02
 Mecklenburg-Vorpommern,2020-03-08,nowcast,1.8,1.1,2.5,1.4,2,0.02
 Mecklenburg-Vorpommern,2020-03-09,nowcast,1.7,1.1,2.4,1.4,1.9,0.02
-Mecklenburg-Vorpommern,2020-03-10,nowcast,1.7,1.1,2.2,1.4,1.8,0.02
-Mecklenburg-Vorpommern,2020-03-11,nowcast,1.6,1.1,2.2,1.4,1.8,0.03
-Mecklenburg-Vorpommern,2020-03-12,nowcast,1.5,1,2,1.2,1.6,0.05
+Mecklenburg-Vorpommern,2020-03-10,nowcast,1.7,1.1,2.3,1.4,1.8,0.02
+Mecklenburg-Vorpommern,2020-03-11,nowcast,1.6,1.1,2.2,1.4,1.8,0.02
+Mecklenburg-Vorpommern,2020-03-12,nowcast,1.5,1,2,1.3,1.7,0.04
 Mecklenburg-Vorpommern,2020-03-13,nowcast,1.3,0.9,1.8,1.1,1.5,0.13
-Mecklenburg-Vorpommern,2020-03-14,nowcast,1.2,0.8,1.6,1,1.3,0.26
-Mecklenburg-Vorpommern,2020-03-15,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
-Mecklenburg-Vorpommern,2020-03-16,nowcast,1.1,0.7,1.4,0.9,1.2,0.37
-Mecklenburg-Vorpommern,2020-03-17,nowcast,1.1,0.8,1.4,1,1.2,0.31
+Mecklenburg-Vorpommern,2020-03-14,nowcast,1.2,0.7,1.6,1,1.3,0.27
+Mecklenburg-Vorpommern,2020-03-15,nowcast,1.1,0.7,1.4,0.9,1.2,0.38
+Mecklenburg-Vorpommern,2020-03-16,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
+Mecklenburg-Vorpommern,2020-03-17,nowcast,1.1,0.8,1.4,1,1.2,0.33
 Mecklenburg-Vorpommern,2020-03-18,nowcast,1.1,0.8,1.5,1,1.2,0.24
-Mecklenburg-Vorpommern,2020-03-19,nowcast,1.1,0.8,1.5,1,1.2,0.22
-Mecklenburg-Vorpommern,2020-03-20,nowcast,1.1,0.8,1.4,1,1.2,0.26
+Mecklenburg-Vorpommern,2020-03-19,nowcast,1.1,0.8,1.5,1,1.2,0.21
+Mecklenburg-Vorpommern,2020-03-20,nowcast,1.1,0.8,1.5,1,1.2,0.25
 Mecklenburg-Vorpommern,2020-03-21,nowcast,1.1,0.7,1.4,1,1.2,0.34
-Mecklenburg-Vorpommern,2020-03-22,nowcast,1,0.7,1.3,0.9,1.2,0.45
-Mecklenburg-Vorpommern,2020-03-23,nowcast,1,0.7,1.3,0.9,1.1,0.56
-Mecklenburg-Vorpommern,2020-03-24,nowcast,0.9,0.6,1.2,0.8,1.1,0.63
-Mecklenburg-Vorpommern,2020-03-25,nowcast,0.9,0.6,1.2,0.8,1.1,0.65
+Mecklenburg-Vorpommern,2020-03-22,nowcast,1,0.7,1.3,0.9,1.1,0.45
+Mecklenburg-Vorpommern,2020-03-23,nowcast,1,0.7,1.3,0.8,1.1,0.57
+Mecklenburg-Vorpommern,2020-03-24,nowcast,0.9,0.7,1.2,0.8,1,0.65
+Mecklenburg-Vorpommern,2020-03-25,nowcast,0.9,0.7,1.2,0.8,1,0.68
 Mecklenburg-Vorpommern,2020-03-26,nowcast,0.9,0.6,1.2,0.8,1,0.73
 Mecklenburg-Vorpommern,2020-03-27,nowcast,0.8,0.5,1.1,0.7,0.9,0.85
-Mecklenburg-Vorpommern,2020-03-28,nowcast,0.8,0.5,1,0.7,0.9,0.92
+Mecklenburg-Vorpommern,2020-03-28,nowcast,0.8,0.5,1,0.7,0.9,0.93
 Mecklenburg-Vorpommern,2020-03-29,nowcast,0.7,0.4,1,0.6,0.8,0.96
 Mecklenburg-Vorpommern,2020-03-30,nowcast,0.7,0.4,0.9,0.6,0.8,0.97
 Mecklenburg-Vorpommern,2020-03-31,nowcast,0.7,0.4,0.9,0.6,0.8,0.96
-Mecklenburg-Vorpommern,2020-04-01,nowcast,0.7,0.4,1,0.6,0.8,0.93
-Mecklenburg-Vorpommern,2020-04-02,nowcast,0.7,0.4,1.1,0.6,0.8,0.9
-Mecklenburg-Vorpommern,2020-04-03,nowcast,0.7,0.4,1,0.6,0.8,0.92
-Mecklenburg-Vorpommern,2020-04-04,nowcast,0.7,0.3,1,0.5,0.7,0.94
-Mecklenburg-Vorpommern,2020-04-05,nowcast,0.6,0.3,1,0.5,0.7,0.94
-Mecklenburg-Vorpommern,2020-04-06,nowcast,0.6,0.3,1,0.5,0.8,0.94
-Mecklenburg-Vorpommern,2020-04-07,nowcast,0.6,0.2,1,0.5,0.7,0.91
-Mecklenburg-Vorpommern,2020-04-08,nowcast,0.7,0.3,1.2,0.5,0.8,0.85
-Mecklenburg-Vorpommern,2020-04-09,nowcast,0.7,0.3,1.3,0.5,0.8,0.79
-Mecklenburg-Vorpommern,2020-04-10,nowcast,0.8,0.3,1.4,0.5,0.9,0.71
-Mecklenburg-Vorpommern,2020-04-11,nowcast,0.8,0.2,1.6,0.5,1,0.67
-Mecklenburg-Vorpommern,2020-04-12,nowcast,0.8,0.2,1.8,0.5,1,0.63
-Mecklenburg-Vorpommern,2020-04-12,forecast,5.6,3.8,8.7,3.8,6.3,0
-Mecklenburg-Vorpommern,2020-04-13,nowcast,0.9,0.1,2.2,0.5,1.1,0.58
-Mecklenburg-Vorpommern,2020-04-13,forecast,4.5,1.4,10,2.2,5.2,0.01
-Mecklenburg-Vorpommern,2020-04-14,forecast,0.9,0,2.3,0.4,1.1,0.57
-Mecklenburg-Vorpommern,2020-04-15,forecast,0.9,0,2.4,0.4,1.2,0.57
-Mecklenburg-Vorpommern,2020-04-16,forecast,0.9,0,2.4,0.4,1.2,0.56
-Mecklenburg-Vorpommern,2020-04-17,forecast,0.9,0,2.5,0.4,1.2,0.57
-Mecklenburg-Vorpommern,2020-04-18,forecast,0.9,0,2.4,0,0.9,0.57
-Mecklenburg-Vorpommern,2020-04-19,forecast,0.9,0,2.6,0,0.9,0.57
-Mecklenburg-Vorpommern,2020-04-20,forecast,0.9,0,2.6,0,0.9,0.57
-Mecklenburg-Vorpommern,2020-04-21,forecast,0.8,0,2.6,0,0.8,0.57
-Mecklenburg-Vorpommern,2020-04-22,forecast,0.9,0,2.7,0,0.9,0.57
-Mecklenburg-Vorpommern,2020-04-23,forecast,0.8,0,2.6,0,0.8,0.59
-Mecklenburg-Vorpommern,2020-04-24,forecast,0.8,0,2.6,0,0.8,0.58
-Mecklenburg-Vorpommern,2020-04-25,forecast,0.8,0,2.9,0,0.8,0.57
-Mecklenburg-Vorpommern,2020-04-26,forecast,0.8,0,2.7,0,0.8,0.59
-Mecklenburg-Vorpommern,2020-04-27,forecast,0.8,0,2.7,0,0.8,0.59
-North Rhine-Westphalia,2020-02-26,nowcast,2.1,1.7,2.7,1.9,2.3,0
+Mecklenburg-Vorpommern,2020-04-01,nowcast,0.7,0.4,1,0.6,0.8,0.94
+Mecklenburg-Vorpommern,2020-04-02,nowcast,0.7,0.4,1,0.6,0.8,0.91
+Mecklenburg-Vorpommern,2020-04-03,nowcast,0.7,0.4,1,0.5,0.8,0.93
+Mecklenburg-Vorpommern,2020-04-04,nowcast,0.6,0.3,1,0.5,0.7,0.95
+Mecklenburg-Vorpommern,2020-04-05,nowcast,0.6,0.3,0.9,0.5,0.7,0.96
+Mecklenburg-Vorpommern,2020-04-06,nowcast,0.6,0.3,0.9,0.5,0.7,0.96
+Mecklenburg-Vorpommern,2020-04-07,nowcast,0.6,0.3,1,0.4,0.7,0.94
+Mecklenburg-Vorpommern,2020-04-08,nowcast,0.6,0.2,1,0.5,0.7,0.91
+Mecklenburg-Vorpommern,2020-04-09,nowcast,0.7,0.3,1.2,0.5,0.8,0.85
+Mecklenburg-Vorpommern,2020-04-10,nowcast,0.7,0.3,1.2,0.5,0.8,0.82
+Mecklenburg-Vorpommern,2020-04-11,nowcast,0.7,0.3,1.3,0.5,0.8,0.81
+Mecklenburg-Vorpommern,2020-04-12,nowcast,0.7,0.2,1.3,0.5,0.9,0.8
+Mecklenburg-Vorpommern,2020-04-13,nowcast,0.7,0.2,1.4,0.4,0.9,0.77
+Mecklenburg-Vorpommern,2020-04-14,nowcast,0.8,0.2,1.5,0.5,0.9,0.7
+Mecklenburg-Vorpommern,2020-04-15,nowcast,0.9,0.2,1.9,0.5,1,0.58
+Mecklenburg-Vorpommern,2020-04-16,nowcast,1.1,0.2,2.3,0.5,1.3,0.41
+Mecklenburg-Vorpommern,2020-04-17,forecast,5.3,1.3,13.6,1.8,8.8,0
+Mecklenburg-Vorpommern,2020-04-17,nowcast,1.4,0.2,3.4,0.6,1.6,0.27
+Mecklenburg-Vorpommern,2020-04-18,forecast,4.4,1.4,10.6,2,4.7,0
+Mecklenburg-Vorpommern,2020-04-18,nowcast,1.8,0.2,5.1,0.7,2.1,0.17
+Mecklenburg-Vorpommern,2020-04-19,forecast,1.9,0,5.5,0.7,2.1,0.17
+Mecklenburg-Vorpommern,2020-04-20,forecast,1.9,0,5.9,0.6,2.2,0.2
+Mecklenburg-Vorpommern,2020-04-21,forecast,1.9,0,6.3,0.7,2.3,0.21
+Mecklenburg-Vorpommern,2020-04-22,forecast,1.9,0,6.6,0.5,2.3,0.23
+Mecklenburg-Vorpommern,2020-04-23,forecast,1.9,0,7,0.5,2.4,0.23
+Mecklenburg-Vorpommern,2020-04-24,forecast,1.9,0,7.6,0,1.9,0.25
+Mecklenburg-Vorpommern,2020-04-25,forecast,1.8,0,7.8,0,1.8,0.27
+Mecklenburg-Vorpommern,2020-04-26,forecast,1.8,0,8.1,0,1.8,0.27
+Mecklenburg-Vorpommern,2020-04-27,forecast,1.8,0,8.6,0,1.8,0.28
+Mecklenburg-Vorpommern,2020-04-28,forecast,1.8,0,9.4,0,1.8,0.29
+Mecklenburg-Vorpommern,2020-04-29,forecast,1.8,0,9.6,0,1.8,0.31
+Mecklenburg-Vorpommern,2020-04-30,forecast,1.8,0,10.2,0,1.8,0.31
+Mecklenburg-Vorpommern,2020-05-01,forecast,1.8,0,10.5,0,1.8,0.32
+Mecklenburg-Vorpommern,2020-05-02,forecast,1.7,0,10,0,1.7,0.33
+North Rhine-Westphalia,2020-02-26,nowcast,2.1,1.7,2.6,1.9,2.3,0
 North Rhine-Westphalia,2020-02-27,nowcast,2,1.6,2.5,1.8,2.1,0
-North Rhine-Westphalia,2020-02-28,nowcast,1.9,1.6,2.4,1.8,2.1,0
+North Rhine-Westphalia,2020-02-28,nowcast,1.9,1.6,2.4,1.7,2.1,0
 North Rhine-Westphalia,2020-02-29,nowcast,1.9,1.6,2.3,1.7,2,0
-North Rhine-Westphalia,2020-03-01,nowcast,1.9,1.5,2.2,1.7,2,0
+North Rhine-Westphalia,2020-03-01,nowcast,1.9,1.6,2.3,1.7,2,0
 North Rhine-Westphalia,2020-03-02,nowcast,1.9,1.6,2.2,1.7,2,0
-North Rhine-Westphalia,2020-03-03,nowcast,1.9,1.6,2.2,1.8,2,0
+North Rhine-Westphalia,2020-03-03,nowcast,1.9,1.6,2.2,1.7,2,0
 North Rhine-Westphalia,2020-03-04,nowcast,1.9,1.6,2.2,1.7,2,0
 North Rhine-Westphalia,2020-03-05,nowcast,1.9,1.6,2.2,1.7,2,0
-North Rhine-Westphalia,2020-03-06,nowcast,1.8,1.5,2.1,1.6,1.9,0
+North Rhine-Westphalia,2020-03-06,nowcast,1.8,1.5,2.1,1.7,1.9,0
 North Rhine-Westphalia,2020-03-07,nowcast,1.7,1.5,2,1.6,1.8,0
-North Rhine-Westphalia,2020-03-08,nowcast,1.6,1.4,1.9,1.5,1.7,0
+North Rhine-Westphalia,2020-03-08,nowcast,1.7,1.4,1.9,1.5,1.7,0
 North Rhine-Westphalia,2020-03-09,nowcast,1.6,1.4,1.8,1.5,1.6,0
 North Rhine-Westphalia,2020-03-10,nowcast,1.5,1.3,1.7,1.4,1.6,0
 North Rhine-Westphalia,2020-03-11,nowcast,1.5,1.3,1.7,1.4,1.5,0
@@ -559,15 +498,15 @@ North Rhine-Westphalia,2020-03-14,nowcast,1.2,1.1,1.3,1.1,1.2,0
 North Rhine-Westphalia,2020-03-15,nowcast,1.1,1,1.2,1.1,1.1,0.01
 North Rhine-Westphalia,2020-03-16,nowcast,1.1,1,1.2,1,1.1,0.03
 North Rhine-Westphalia,2020-03-17,nowcast,1.1,1,1.2,1.1,1.1,0.02
-North Rhine-Westphalia,2020-03-18,nowcast,1.1,1,1.2,1.1,1.1,0.01
-North Rhine-Westphalia,2020-03-19,nowcast,1.1,1,1.2,1.1,1.1,0
+North Rhine-Westphalia,2020-03-18,nowcast,1.1,1,1.2,1.1,1.1,0
+North Rhine-Westphalia,2020-03-19,nowcast,1.1,1,1.2,1.1,1.1,0.01
 North Rhine-Westphalia,2020-03-20,nowcast,1.1,1,1.1,1,1.1,0.03
-North Rhine-Westphalia,2020-03-21,nowcast,1,1,1.1,1,1.1,0.16
-North Rhine-Westphalia,2020-03-22,nowcast,1,0.9,1.1,1,1,0.42
-North Rhine-Westphalia,2020-03-23,nowcast,1,0.9,1.1,1,1,0.6
-North Rhine-Westphalia,2020-03-24,nowcast,1,0.9,1.1,1,1,0.56
+North Rhine-Westphalia,2020-03-21,nowcast,1,1,1.1,1,1.1,0.15
+North Rhine-Westphalia,2020-03-22,nowcast,1,0.9,1.1,1,1,0.44
+North Rhine-Westphalia,2020-03-23,nowcast,1,0.9,1.1,1,1,0.62
+North Rhine-Westphalia,2020-03-24,nowcast,1,0.9,1.1,1,1,0.57
 North Rhine-Westphalia,2020-03-25,nowcast,1,0.9,1.1,1,1,0.45
-North Rhine-Westphalia,2020-03-26,nowcast,1,0.9,1.1,1,1,0.56
+North Rhine-Westphalia,2020-03-26,nowcast,1,0.9,1.1,1,1,0.58
 North Rhine-Westphalia,2020-03-27,nowcast,1,0.9,1,0.9,1,0.89
 North Rhine-Westphalia,2020-03-28,nowcast,0.9,0.8,1,0.9,0.9,1
 North Rhine-Westphalia,2020-03-29,nowcast,0.9,0.8,0.9,0.8,0.9,1
@@ -575,153 +514,137 @@ North Rhine-Westphalia,2020-03-30,nowcast,0.8,0.8,0.9,0.8,0.9,1
 North Rhine-Westphalia,2020-03-31,nowcast,0.9,0.8,0.9,0.8,0.9,1
 North Rhine-Westphalia,2020-04-01,nowcast,0.9,0.8,0.9,0.8,0.9,1
 North Rhine-Westphalia,2020-04-02,nowcast,0.9,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-04-03,nowcast,0.8,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-04-04,nowcast,0.8,0.7,0.8,0.8,0.8,1
+North Rhine-Westphalia,2020-04-03,nowcast,0.8,0.8,0.9,0.8,0.8,1
+North Rhine-Westphalia,2020-04-04,nowcast,0.8,0.7,0.8,0.7,0.8,1
 North Rhine-Westphalia,2020-04-05,nowcast,0.7,0.7,0.8,0.7,0.8,1
-North Rhine-Westphalia,2020-04-06,nowcast,0.8,0.7,0.8,0.7,0.8,1
+North Rhine-Westphalia,2020-04-06,nowcast,0.7,0.7,0.8,0.7,0.8,1
 North Rhine-Westphalia,2020-04-07,nowcast,0.8,0.7,0.9,0.8,0.8,1
-North Rhine-Westphalia,2020-04-08,nowcast,0.9,0.8,1,0.8,0.9,0.99
-North Rhine-Westphalia,2020-04-09,nowcast,0.9,0.8,1,0.9,1,0.91
-North Rhine-Westphalia,2020-04-10,nowcast,0.9,0.9,1,0.9,1,0.85
-North Rhine-Westphalia,2020-04-11,nowcast,0.9,0.8,1,0.9,1,0.95
-North Rhine-Westphalia,2020-04-12,nowcast,0.9,0.8,1,0.8,0.9,0.99
-North Rhine-Westphalia,2020-04-13,nowcast,0.8,0.7,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-04-14,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-North Rhine-Westphalia,2020-04-15,forecast,0.8,0.7,1,0.8,0.9,0.98
-North Rhine-Westphalia,2020-04-16,forecast,0.8,0.7,1,0.8,0.9,0.95
-North Rhine-Westphalia,2020-04-17,forecast,0.8,0.6,1,0.7,0.9,0.93
-North Rhine-Westphalia,2020-04-18,forecast,0.8,0.6,1,0.7,0.9,0.91
-North Rhine-Westphalia,2020-04-19,forecast,0.8,0.5,1.1,0.7,0.9,0.89
-North Rhine-Westphalia,2020-04-20,forecast,0.8,0.5,1.1,0.6,0.9,0.88
-North Rhine-Westphalia,2020-04-21,forecast,0.8,0.5,1.1,0.7,0.9,0.86
-North Rhine-Westphalia,2020-04-22,forecast,0.8,0.4,1.1,0.6,0.9,0.86
-North Rhine-Westphalia,2020-04-23,forecast,0.8,0.4,1.1,0.6,0.9,0.85
-North Rhine-Westphalia,2020-04-24,forecast,0.8,0.3,1.2,0.6,0.9,0.85
-North Rhine-Westphalia,2020-04-25,forecast,0.8,0.3,1.2,0.6,0.9,0.84
-North Rhine-Westphalia,2020-04-26,forecast,0.7,0.3,1.2,0.6,0.9,0.84
-North Rhine-Westphalia,2020-04-27,forecast,0.7,0.2,1.2,0.6,0.9,0.83
-North Rhine-Westphalia,2020-04-28,forecast,0.7,0.2,1.2,0.5,0.9,0.83
-Rhineland-Palatinate,2020-03-04,nowcast,2.2,1.7,2.8,1.9,2.4,0
-Rhineland-Palatinate,2020-03-05,nowcast,2.1,1.6,2.7,1.9,2.3,0
-Rhineland-Palatinate,2020-03-06,nowcast,2,1.5,2.5,1.8,2.2,0
-Rhineland-Palatinate,2020-03-07,nowcast,1.9,1.5,2.4,1.7,2,0
-Rhineland-Palatinate,2020-03-08,nowcast,1.8,1.4,2.2,1.6,1.9,0
-Rhineland-Palatinate,2020-03-09,nowcast,1.7,1.3,2,1.5,1.8,0
-Rhineland-Palatinate,2020-03-10,nowcast,1.6,1.3,1.9,1.4,1.7,0
-Rhineland-Palatinate,2020-03-11,nowcast,1.5,1.2,1.8,1.3,1.6,0
-Rhineland-Palatinate,2020-03-12,nowcast,1.4,1.2,1.7,1.3,1.5,0
+North Rhine-Westphalia,2020-04-08,nowcast,0.8,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,2020-04-09,nowcast,0.9,0.8,1,0.9,0.9,0.98
+North Rhine-Westphalia,2020-04-10,nowcast,0.9,0.8,1,0.9,0.9,0.97
+North Rhine-Westphalia,2020-04-11,nowcast,0.9,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,2020-04-12,nowcast,0.8,0.7,0.9,0.8,0.9,1
+North Rhine-Westphalia,2020-04-13,nowcast,0.8,0.7,0.9,0.8,0.8,1
+North Rhine-Westphalia,2020-04-14,nowcast,0.8,0.7,0.9,0.7,0.8,1
+North Rhine-Westphalia,2020-04-15,nowcast,0.8,0.7,0.9,0.7,0.8,1
+North Rhine-Westphalia,2020-04-16,nowcast,0.7,0.7,0.8,0.7,0.8,1
+North Rhine-Westphalia,2020-04-17,nowcast,0.7,0.6,0.8,0.7,0.7,1
+North Rhine-Westphalia,2020-04-18,nowcast,0.7,0.6,0.8,0.6,0.7,1
+Rhineland-Palatinate,2020-03-04,nowcast,2.2,1.7,2.8,1.9,2.3,0
+Rhineland-Palatinate,2020-03-05,nowcast,2.1,1.6,2.7,1.8,2.2,0
+Rhineland-Palatinate,2020-03-06,nowcast,2,1.6,2.5,1.8,2.2,0
+Rhineland-Palatinate,2020-03-07,nowcast,1.9,1.5,2.3,1.7,2,0
+Rhineland-Palatinate,2020-03-08,nowcast,1.8,1.4,2.1,1.6,1.9,0
+Rhineland-Palatinate,2020-03-09,nowcast,1.7,1.4,2,1.5,1.8,0
+Rhineland-Palatinate,2020-03-10,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Rhineland-Palatinate,2020-03-11,nowcast,1.5,1.2,1.7,1.4,1.6,0
+Rhineland-Palatinate,2020-03-12,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Rhineland-Palatinate,2020-03-13,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Rhineland-Palatinate,2020-03-14,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
 Rhineland-Palatinate,2020-03-15,nowcast,1.2,1,1.4,1.1,1.3,0.02
-Rhineland-Palatinate,2020-03-16,nowcast,1.2,1,1.3,1.1,1.2,0.02
-Rhineland-Palatinate,2020-03-17,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Rhineland-Palatinate,2020-03-16,nowcast,1.2,1,1.3,1.1,1.2,0.03
+Rhineland-Palatinate,2020-03-17,nowcast,1.2,1,1.3,1.1,1.2,0.03
 Rhineland-Palatinate,2020-03-18,nowcast,1.1,1,1.3,1.1,1.2,0.04
-Rhineland-Palatinate,2020-03-19,nowcast,1.1,1,1.2,1.1,1.2,0.11
+Rhineland-Palatinate,2020-03-19,nowcast,1.1,1,1.2,1,1.1,0.11
 Rhineland-Palatinate,2020-03-20,nowcast,1.1,0.9,1.2,1,1.1,0.22
 Rhineland-Palatinate,2020-03-21,nowcast,1,0.9,1.2,1,1.1,0.39
-Rhineland-Palatinate,2020-03-22,nowcast,1,0.8,1.1,0.9,1,0.6
-Rhineland-Palatinate,2020-03-23,nowcast,0.9,0.8,1.1,0.9,1,0.76
-Rhineland-Palatinate,2020-03-24,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Rhineland-Palatinate,2020-03-22,nowcast,1,0.9,1.1,0.9,1,0.61
+Rhineland-Palatinate,2020-03-23,nowcast,0.9,0.8,1.1,0.9,1,0.79
+Rhineland-Palatinate,2020-03-24,nowcast,0.9,0.8,1,0.9,1,0.84
 Rhineland-Palatinate,2020-03-25,nowcast,0.9,0.8,1,0.9,1,0.83
 Rhineland-Palatinate,2020-03-26,nowcast,0.9,0.8,1.1,0.9,1,0.83
 Rhineland-Palatinate,2020-03-27,nowcast,0.9,0.8,1,0.9,0.9,0.91
-Rhineland-Palatinate,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Rhineland-Palatinate,2020-03-28,nowcast,0.9,0.7,1,0.8,0.9,0.98
 Rhineland-Palatinate,2020-03-29,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Rhineland-Palatinate,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Rhineland-Palatinate,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Rhineland-Palatinate,2020-03-31,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 Rhineland-Palatinate,2020-04-01,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Rhineland-Palatinate,2020-04-02,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Rhineland-Palatinate,2020-04-02,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Rhineland-Palatinate,2020-04-03,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Rhineland-Palatinate,2020-04-04,nowcast,0.7,0.6,0.9,0.7,0.8,1
 Rhineland-Palatinate,2020-04-05,nowcast,0.7,0.6,0.9,0.7,0.8,1
 Rhineland-Palatinate,2020-04-06,nowcast,0.7,0.6,0.9,0.7,0.8,1
 Rhineland-Palatinate,2020-04-07,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Rhineland-Palatinate,2020-04-08,nowcast,0.8,0.7,1,0.7,0.9,0.95
-Rhineland-Palatinate,2020-04-09,nowcast,0.9,0.7,1,0.8,0.9,0.89
-Rhineland-Palatinate,2020-04-10,nowcast,0.9,0.7,1,0.8,0.9,0.89
-Rhineland-Palatinate,2020-04-11,nowcast,0.8,0.6,1,0.8,0.9,0.93
-Rhineland-Palatinate,2020-04-12,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Rhineland-Palatinate,2020-04-13,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
-Rhineland-Palatinate,2020-04-14,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-Rhineland-Palatinate,2020-04-15,forecast,0.7,0.5,1,0.6,0.8,0.97
-Rhineland-Palatinate,2020-04-16,forecast,0.7,0.4,0.9,0.6,0.8,0.96
-Rhineland-Palatinate,2020-04-17,forecast,0.7,0.3,1,0.5,0.8,0.95
-Rhineland-Palatinate,2020-04-18,forecast,0.7,0.3,1,0.5,0.8,0.95
-Rhineland-Palatinate,2020-04-19,forecast,0.6,0.3,1,0.5,0.8,0.95
-Rhineland-Palatinate,2020-04-20,forecast,0.6,0.2,1.1,0.5,0.8,0.93
-Rhineland-Palatinate,2020-04-21,forecast,0.6,0.2,1,0.5,0.8,0.93
-Rhineland-Palatinate,2020-04-22,forecast,0.6,0.1,1.1,0.4,0.8,0.92
-Rhineland-Palatinate,2020-04-23,forecast,0.6,0.1,1.1,0.5,0.8,0.93
-Rhineland-Palatinate,2020-04-24,forecast,0.6,0,1,0.4,0.8,0.92
-Rhineland-Palatinate,2020-04-25,forecast,0.6,0,1,0.4,0.8,0.92
-Rhineland-Palatinate,2020-04-26,forecast,0.6,0,1,0.4,0.8,0.91
-Rhineland-Palatinate,2020-04-27,forecast,0.6,0,1,0.3,0.8,0.91
-Rhineland-Palatinate,2020-04-28,forecast,0.6,0,1,0.3,0.8,0.9
-Saarland,2020-03-04,nowcast,2.2,1.3,3.2,1.7,2.4,0
-Saarland,2020-03-05,nowcast,2.1,1.3,3,1.7,2.4,0
-Saarland,2020-03-06,nowcast,2,1.3,2.9,1.7,2.3,0
-Saarland,2020-03-07,nowcast,1.9,1.3,2.6,1.6,2.2,0
-Saarland,2020-03-08,nowcast,1.8,1.3,2.4,1.6,2,0
-Saarland,2020-03-09,nowcast,1.7,1.2,2.3,1.5,2,0
+Rhineland-Palatinate,2020-04-08,nowcast,0.8,0.7,1,0.7,0.9,0.97
+Rhineland-Palatinate,2020-04-09,nowcast,0.8,0.7,1,0.8,0.9,0.92
+Rhineland-Palatinate,2020-04-10,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Rhineland-Palatinate,2020-04-11,nowcast,0.8,0.6,1,0.7,0.9,0.98
+Rhineland-Palatinate,2020-04-12,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Rhineland-Palatinate,2020-04-13,nowcast,0.7,0.5,0.8,0.6,0.8,1
+Rhineland-Palatinate,2020-04-14,nowcast,0.7,0.5,0.9,0.6,0.7,1
+Rhineland-Palatinate,2020-04-15,nowcast,0.7,0.5,0.9,0.7,0.8,0.97
+Rhineland-Palatinate,2020-04-16,nowcast,0.8,0.6,1,0.7,0.9,0.9
+Rhineland-Palatinate,2020-04-17,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
+Rhineland-Palatinate,2020-04-18,nowcast,0.8,0.5,1.1,0.7,0.9,0.89
+Saarland,2020-03-04,nowcast,2.2,1.3,3.1,1.7,2.5,0
+Saarland,2020-03-05,nowcast,2.1,1.4,3,1.8,2.4,0
+Saarland,2020-03-06,nowcast,2,1.3,2.8,1.7,2.2,0
+Saarland,2020-03-07,nowcast,1.9,1.3,2.6,1.6,2.1,0
+Saarland,2020-03-08,nowcast,1.8,1.2,2.4,1.5,2,0
+Saarland,2020-03-09,nowcast,1.7,1.2,2.3,1.5,1.9,0
 Saarland,2020-03-10,nowcast,1.7,1.2,2.2,1.5,1.9,0
 Saarland,2020-03-11,nowcast,1.6,1.2,2.1,1.5,1.8,0
-Saarland,2020-03-12,nowcast,1.6,1.2,2,1.4,1.7,0
-Saarland,2020-03-13,nowcast,1.6,1.2,1.9,1.4,1.7,0
-Saarland,2020-03-14,nowcast,1.5,1.1,1.9,1.4,1.7,0.01
-Saarland,2020-03-15,nowcast,1.5,1.1,1.8,1.3,1.6,0
-Saarland,2020-03-16,nowcast,1.4,1.1,1.8,1.3,1.5,0
+Saarland,2020-03-12,nowcast,1.6,1.2,2.1,1.4,1.8,0
+Saarland,2020-03-13,nowcast,1.5,1.2,2,1.4,1.7,0
+Saarland,2020-03-14,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Saarland,2020-03-15,nowcast,1.4,1.1,1.8,1.3,1.6,0.01
+Saarland,2020-03-16,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
 Saarland,2020-03-17,nowcast,1.4,1.1,1.7,1.3,1.5,0
-Saarland,2020-03-18,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Saarland,2020-03-19,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
+Saarland,2020-03-18,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Saarland,2020-03-19,nowcast,1.4,1.1,1.7,1.3,1.5,0
 Saarland,2020-03-20,nowcast,1.4,1.1,1.7,1.3,1.5,0
 Saarland,2020-03-21,nowcast,1.4,1.1,1.6,1.2,1.4,0.01
-Saarland,2020-03-22,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Saarland,2020-03-22,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
 Saarland,2020-03-23,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
-Saarland,2020-03-24,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
-Saarland,2020-03-25,nowcast,1.2,1,1.5,1.2,1.3,0.03
-Saarland,2020-03-26,nowcast,1.2,1,1.4,1.1,1.2,0.07
-Saarland,2020-03-27,nowcast,1.1,0.9,1.3,1,1.2,0.23
-Saarland,2020-03-28,nowcast,1,0.8,1.2,0.9,1.1,0.52
-Saarland,2020-03-29,nowcast,0.9,0.7,1.1,0.8,1,0.79
-Saarland,2020-03-30,nowcast,0.9,0.7,1,0.8,0.9,0.94
-Saarland,2020-03-31,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Saarland,2020-03-24,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Saarland,2020-03-25,nowcast,1.2,1,1.5,1.1,1.3,0.03
+Saarland,2020-03-26,nowcast,1.2,1,1.4,1.1,1.3,0.07
+Saarland,2020-03-27,nowcast,1.1,0.9,1.3,1,1.2,0.22
+Saarland,2020-03-28,nowcast,1,0.8,1.2,0.9,1.1,0.55
+Saarland,2020-03-29,nowcast,0.9,0.7,1.1,0.8,1,0.82
+Saarland,2020-03-30,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Saarland,2020-03-31,nowcast,0.8,0.7,1,0.7,0.9,0.98
 Saarland,2020-04-01,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Saarland,2020-04-02,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Saarland,2020-04-03,nowcast,0.7,0.5,0.9,0.6,0.8,1
+Saarland,2020-04-02,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Saarland,2020-04-03,nowcast,0.7,0.5,0.8,0.6,0.8,1
 Saarland,2020-04-04,nowcast,0.6,0.5,0.8,0.6,0.7,1
 Saarland,2020-04-05,nowcast,0.5,0.4,0.7,0.5,0.6,1
-Saarland,2020-04-06,nowcast,0.5,0.4,0.7,0.5,0.6,1
-Saarland,2020-04-07,nowcast,0.5,0.4,0.7,0.5,0.6,1
-Saarland,2020-04-08,nowcast,0.6,0.4,0.8,0.5,0.6,0.99
-Saarland,2020-04-09,nowcast,0.7,0.5,0.9,0.6,0.7,0.97
-Saarland,2020-04-10,nowcast,0.7,0.5,1,0.6,0.8,0.94
-Saarland,2020-04-11,nowcast,0.7,0.5,1,0.6,0.8,0.93
-Saarland,2020-04-12,nowcast,0.7,0.5,1.1,0.6,0.8,0.91
-Saarland,2020-04-13,nowcast,0.8,0.5,1.1,0.6,0.9,0.84
-Saarland,2020-04-14,nowcast,0.9,0.5,1.3,0.7,1,0.7
-Saarland,2020-04-15,forecast,0.9,0.4,1.4,0.7,1,0.69
-Saarland,2020-04-16,forecast,0.9,0.3,1.4,0.6,1,0.67
-Saarland,2020-04-17,forecast,0.8,0.2,1.4,0.6,1,0.67
-Saarland,2020-04-18,forecast,0.8,0.2,1.5,0.6,1.1,0.66
-Saarland,2020-04-19,forecast,0.8,0.2,1.5,0.5,1.1,0.66
-Saarland,2020-04-20,forecast,0.8,0,1.4,0.5,1.1,0.66
-Saarland,2020-04-21,forecast,0.8,0,1.5,0.5,1.1,0.65
-Saarland,2020-04-22,forecast,0.8,0,1.5,0.4,1.1,0.66
-Saarland,2020-04-23,forecast,0.8,0,1.5,0.4,1.1,0.65
-Saarland,2020-04-24,forecast,0.8,0,1.6,0.4,1.1,0.65
-Saarland,2020-04-25,forecast,0.8,0,1.6,0.3,1.1,0.65
-Saarland,2020-04-26,forecast,0.8,0,1.6,0,0.8,0.64
-Saarland,2020-04-27,forecast,0.8,0,1.6,0,0.8,0.65
-Saarland,2020-04-28,forecast,0.7,0,1.7,0,0.7,0.65
-Saxony,2020-03-03,nowcast,2.3,1.6,3,2,2.6,0
-Saxony,2020-03-04,nowcast,2.2,1.5,2.9,1.9,2.4,0
-Saxony,2020-03-05,nowcast,2.1,1.6,2.7,1.8,2.3,0
-Saxony,2020-03-06,nowcast,2,1.5,2.6,1.8,2.2,0
-Saxony,2020-03-07,nowcast,1.9,1.5,2.4,1.7,2.1,0
-Saxony,2020-03-08,nowcast,1.9,1.4,2.4,1.6,2,0
+Saarland,2020-04-06,nowcast,0.5,0.4,0.6,0.4,0.5,1
+Saarland,2020-04-07,nowcast,0.5,0.4,0.7,0.4,0.6,1
+Saarland,2020-04-08,nowcast,0.6,0.4,0.8,0.5,0.6,1
+Saarland,2020-04-09,nowcast,0.7,0.5,0.9,0.6,0.7,0.98
+Saarland,2020-04-10,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
+Saarland,2020-04-11,nowcast,0.7,0.5,1,0.6,0.8,0.95
+Saarland,2020-04-12,nowcast,0.7,0.5,1,0.6,0.8,0.94
+Saarland,2020-04-13,nowcast,0.7,0.5,1,0.6,0.8,0.93
+Saarland,2020-04-14,nowcast,0.8,0.5,1.1,0.6,0.9,0.85
+Saarland,2020-04-15,nowcast,0.9,0.6,1.3,0.7,1,0.7
+Saarland,2020-04-16,nowcast,0.9,0.6,1.4,0.8,1.1,0.6
+Saarland,2020-04-17,nowcast,0.9,0.5,1.4,0.7,1.1,0.62
+Saarland,2020-04-18,nowcast,0.9,0.4,1.4,0.6,1,0.68
+Saarland,2020-04-19,forecast,0.9,0.3,1.4,0.6,1,0.67
+Saarland,2020-04-20,forecast,0.9,0.2,1.5,0.6,1.1,0.65
+Saarland,2020-04-21,forecast,0.8,0.2,1.5,0.6,1.1,0.67
+Saarland,2020-04-22,forecast,0.8,0,1.4,0.6,1.1,0.65
+Saarland,2020-04-23,forecast,0.8,0,1.5,0.5,1.1,0.65
+Saarland,2020-04-24,forecast,0.8,0,1.5,0.5,1.1,0.66
+Saarland,2020-04-25,forecast,0.8,0,1.5,0.4,1.1,0.65
+Saarland,2020-04-26,forecast,0.8,0,1.5,0.5,1.1,0.65
+Saarland,2020-04-27,forecast,0.8,0,1.6,0.4,1.2,0.64
+Saarland,2020-04-28,forecast,0.8,0,1.6,0.4,1.1,0.65
+Saarland,2020-04-29,forecast,0.8,0,1.6,0,0.8,0.66
+Saarland,2020-04-30,forecast,0.8,0,1.6,0,0.8,0.66
+Saarland,2020-05-01,forecast,0.8,0,1.6,0,0.8,0.65
+Saarland,2020-05-02,forecast,0.7,0,1.7,0,0.7,0.66
+Saxony,2020-03-03,nowcast,2.3,1.6,3,1.9,2.5,0
+Saxony,2020-03-04,nowcast,2.2,1.6,2.9,1.9,2.4,0
+Saxony,2020-03-05,nowcast,2.1,1.5,2.7,1.8,2.3,0
+Saxony,2020-03-06,nowcast,2,1.5,2.6,1.7,2.2,0
+Saxony,2020-03-07,nowcast,1.9,1.5,2.5,1.7,2.1,0
+Saxony,2020-03-08,nowcast,1.9,1.5,2.3,1.7,2,0
 Saxony,2020-03-09,nowcast,1.8,1.4,2.2,1.6,1.9,0
 Saxony,2020-03-10,nowcast,1.7,1.4,2.1,1.6,1.9,0
-Saxony,2020-03-11,nowcast,1.7,1.4,2.1,1.5,1.8,0
+Saxony,2020-03-11,nowcast,1.7,1.3,2,1.5,1.8,0
 Saxony,2020-03-12,nowcast,1.6,1.3,1.9,1.5,1.7,0
 Saxony,2020-03-13,nowcast,1.5,1.2,1.8,1.4,1.6,0
 Saxony,2020-03-14,nowcast,1.4,1.2,1.7,1.3,1.5,0
@@ -729,217 +652,191 @@ Saxony,2020-03-15,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Saxony,2020-03-16,nowcast,1.2,1,1.4,1.1,1.3,0.03
 Saxony,2020-03-17,nowcast,1.2,1,1.4,1.1,1.3,0.02
 Saxony,2020-03-18,nowcast,1.2,1,1.4,1.1,1.3,0.02
-Saxony,2020-03-19,nowcast,1.2,1,1.4,1.1,1.3,0.03
-Saxony,2020-03-20,nowcast,1.1,1,1.3,1.1,1.2,0.06
-Saxony,2020-03-21,nowcast,1.1,0.9,1.2,1,1.1,0.17
-Saxony,2020-03-22,nowcast,1,0.9,1.2,1,1.1,0.32
-Saxony,2020-03-23,nowcast,1,0.9,1.1,0.9,1.1,0.44
-Saxony,2020-03-24,nowcast,1,0.9,1.1,0.9,1.1,0.5
+Saxony,2020-03-19,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Saxony,2020-03-20,nowcast,1.1,1,1.3,1.1,1.2,0.05
+Saxony,2020-03-21,nowcast,1.1,0.9,1.2,1,1.1,0.16
+Saxony,2020-03-22,nowcast,1,0.9,1.2,1,1.1,0.31
+Saxony,2020-03-23,nowcast,1,0.9,1.1,1,1.1,0.47
+Saxony,2020-03-24,nowcast,1,0.9,1.1,0.9,1,0.53
 Saxony,2020-03-25,nowcast,1,0.9,1.1,0.9,1,0.51
-Saxony,2020-03-26,nowcast,1,0.9,1.1,0.9,1,0.6
-Saxony,2020-03-27,nowcast,0.9,0.8,1.1,0.9,1,0.79
-Saxony,2020-03-28,nowcast,0.9,0.7,1,0.8,0.9,0.95
-Saxony,2020-03-29,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Saxony,2020-03-26,nowcast,1,0.9,1.1,0.9,1,0.58
+Saxony,2020-03-27,nowcast,0.9,0.8,1.1,0.9,1,0.78
+Saxony,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.95
+Saxony,2020-03-29,nowcast,0.8,0.7,0.9,0.7,0.9,1
 Saxony,2020-03-30,nowcast,0.7,0.6,0.9,0.7,0.8,1
 Saxony,2020-03-31,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Saxony,2020-04-01,nowcast,0.7,0.6,0.9,0.7,0.8,1
 Saxony,2020-04-02,nowcast,0.8,0.6,0.9,0.7,0.8,1
 Saxony,2020-04-03,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Saxony,2020-04-04,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Saxony,2020-04-04,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Saxony,2020-04-05,nowcast,0.7,0.5,0.8,0.6,0.7,1
 Saxony,2020-04-06,nowcast,0.7,0.5,0.8,0.6,0.7,1
 Saxony,2020-04-07,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Saxony,2020-04-08,nowcast,0.7,0.5,0.9,0.6,0.7,0.99
-Saxony,2020-04-09,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
-Saxony,2020-04-10,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-Saxony,2020-04-11,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-Saxony,2020-04-12,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-Saxony,2020-04-13,nowcast,0.7,0.5,1,0.6,0.8,0.96
-Saxony,2020-04-14,nowcast,0.8,0.5,1.1,0.6,0.9,0.88
-Saxony,2020-04-15,forecast,0.8,0.4,1.1,0.6,0.9,0.86
-Saxony,2020-04-16,forecast,0.7,0.4,1.1,0.6,0.9,0.86
-Saxony,2020-04-17,forecast,0.7,0.3,1.2,0.5,0.8,0.85
-Saxony,2020-04-18,forecast,0.7,0.3,1.2,0.5,0.9,0.84
-Saxony,2020-04-19,forecast,0.7,0.2,1.2,0.5,0.9,0.83
-Saxony,2020-04-20,forecast,0.7,0.2,1.2,0.5,0.9,0.83
-Saxony,2020-04-21,forecast,0.7,0.2,1.3,0.5,0.9,0.82
-Saxony,2020-04-22,forecast,0.7,0,1.1,0.4,0.8,0.82
-Saxony,2020-04-23,forecast,0.7,0,1.2,0.4,0.9,0.82
-Saxony,2020-04-24,forecast,0.6,0,1.2,0.4,0.9,0.82
-Saxony,2020-04-25,forecast,0.6,0,1.2,0.4,0.9,0.81
-Saxony,2020-04-26,forecast,0.6,0,1.2,0.4,0.9,0.82
-Saxony,2020-04-27,forecast,0.6,0,1.2,0.3,0.9,0.82
-Saxony,2020-04-28,forecast,0.6,0,1.2,0.3,0.9,0.81
-Saxony-Anhalt,2020-03-05,nowcast,2.2,1.4,3.1,1.7,2.4,0
-Saxony-Anhalt,2020-03-06,nowcast,2,1.3,2.8,1.7,2.3,0
-Saxony-Anhalt,2020-03-07,nowcast,1.9,1.3,2.7,1.6,2.1,0.01
-Saxony-Anhalt,2020-03-08,nowcast,1.8,1.2,2.4,1.5,2,0
-Saxony-Anhalt,2020-03-09,nowcast,1.8,1.2,2.3,1.5,1.9,0
-Saxony-Anhalt,2020-03-10,nowcast,1.7,1.2,2.3,1.5,1.9,0
-Saxony-Anhalt,2020-03-11,nowcast,1.7,1.2,2.2,1.5,1.8,0
-Saxony-Anhalt,2020-03-12,nowcast,1.6,1.1,2,1.4,1.7,0.01
-Saxony-Anhalt,2020-03-13,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Saxony,2020-04-08,nowcast,0.7,0.5,0.8,0.6,0.7,1
+Saxony,2020-04-09,nowcast,0.7,0.5,0.9,0.6,0.7,0.99
+Saxony,2020-04-10,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Saxony,2020-04-11,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Saxony,2020-04-12,nowcast,0.7,0.5,0.9,0.6,0.7,0.99
+Saxony,2020-04-13,nowcast,0.7,0.5,0.9,0.6,0.7,0.99
+Saxony,2020-04-14,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Saxony,2020-04-15,nowcast,0.8,0.5,1,0.7,0.9,0.92
+Saxony,2020-04-16,nowcast,0.8,0.5,1.1,0.7,0.9,0.84
+Saxony,2020-04-17,nowcast,0.8,0.5,1.2,0.7,0.9,0.82
+Saxony,2020-04-18,nowcast,0.8,0.5,1.2,0.6,0.9,0.82
+Saxony-Anhalt,2020-03-05,nowcast,2.2,1.4,3,1.7,2.4,0
+Saxony-Anhalt,2020-03-06,nowcast,2,1.3,2.8,1.6,2.2,0
+Saxony-Anhalt,2020-03-07,nowcast,1.9,1.3,2.6,1.6,2.1,0
+Saxony-Anhalt,2020-03-08,nowcast,1.8,1.2,2.4,1.6,2,0
+Saxony-Anhalt,2020-03-09,nowcast,1.8,1.3,2.4,1.5,1.9,0
+Saxony-Anhalt,2020-03-10,nowcast,1.7,1.2,2.2,1.5,1.9,0
+Saxony-Anhalt,2020-03-11,nowcast,1.7,1.2,2.2,1.5,1.9,0
+Saxony-Anhalt,2020-03-12,nowcast,1.6,1.2,2.1,1.4,1.8,0.01
+Saxony-Anhalt,2020-03-13,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
 Saxony-Anhalt,2020-03-14,nowcast,1.4,1,1.7,1.2,1.5,0.03
 Saxony-Anhalt,2020-03-15,nowcast,1.3,1,1.6,1.2,1.4,0.05
-Saxony-Anhalt,2020-03-16,nowcast,1.3,1,1.6,1.1,1.4,0.06
-Saxony-Anhalt,2020-03-17,nowcast,1.3,1,1.5,1.1,1.3,0.06
+Saxony-Anhalt,2020-03-16,nowcast,1.3,1,1.6,1.1,1.4,0.07
+Saxony-Anhalt,2020-03-17,nowcast,1.2,1,1.5,1.1,1.3,0.07
 Saxony-Anhalt,2020-03-18,nowcast,1.2,0.9,1.5,1.1,1.3,0.08
-Saxony-Anhalt,2020-03-19,nowcast,1.2,0.9,1.4,1.1,1.3,0.13
-Saxony-Anhalt,2020-03-20,nowcast,1.1,0.8,1.4,1,1.2,0.26
-Saxony-Anhalt,2020-03-21,nowcast,1,0.8,1.3,1,1.1,0.4
-Saxony-Anhalt,2020-03-22,nowcast,1,0.8,1.2,0.9,1.1,0.58
-Saxony-Anhalt,2020-03-23,nowcast,0.9,0.7,1.1,0.8,1,0.72
-Saxony-Anhalt,2020-03-24,nowcast,0.9,0.7,1.1,0.8,1,0.77
-Saxony-Anhalt,2020-03-25,nowcast,0.9,0.7,1.1,0.8,1,0.8
-Saxony-Anhalt,2020-03-26,nowcast,0.9,0.7,1.1,0.8,1,0.83
-Saxony-Anhalt,2020-03-27,nowcast,0.9,0.6,1.1,0.8,0.9,0.87
-Saxony-Anhalt,2020-03-28,nowcast,0.9,0.6,1.1,0.8,0.9,0.88
-Saxony-Anhalt,2020-03-29,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-Saxony-Anhalt,2020-03-30,nowcast,0.8,0.6,1.1,0.8,0.9,0.88
-Saxony-Anhalt,2020-03-31,nowcast,0.8,0.6,1.1,0.8,0.9,0.87
-Saxony-Anhalt,2020-04-01,nowcast,0.9,0.6,1.1,0.8,0.9,0.86
-Saxony-Anhalt,2020-04-02,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
+Saxony-Anhalt,2020-03-19,nowcast,1.2,0.9,1.4,1,1.2,0.14
+Saxony-Anhalt,2020-03-20,nowcast,1.1,0.9,1.3,1,1.2,0.24
+Saxony-Anhalt,2020-03-21,nowcast,1,0.8,1.3,1,1.1,0.39
+Saxony-Anhalt,2020-03-22,nowcast,1,0.8,1.2,0.9,1.1,0.56
+Saxony-Anhalt,2020-03-23,nowcast,0.9,0.7,1.1,0.8,1,0.71
+Saxony-Anhalt,2020-03-24,nowcast,0.9,0.7,1.1,0.8,1,0.76
+Saxony-Anhalt,2020-03-25,nowcast,0.9,0.7,1.1,0.8,1,0.78
+Saxony-Anhalt,2020-03-26,nowcast,0.9,0.7,1.1,0.8,1,0.84
+Saxony-Anhalt,2020-03-27,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+Saxony-Anhalt,2020-03-28,nowcast,0.9,0.6,1,0.8,0.9,0.89
+Saxony-Anhalt,2020-03-29,nowcast,0.8,0.6,1.1,0.8,0.9,0.89
+Saxony-Anhalt,2020-03-30,nowcast,0.8,0.6,1.1,0.8,0.9,0.89
+Saxony-Anhalt,2020-03-31,nowcast,0.8,0.6,1.1,0.8,0.9,0.88
+Saxony-Anhalt,2020-04-01,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
+Saxony-Anhalt,2020-04-02,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
 Saxony-Anhalt,2020-04-03,nowcast,0.8,0.6,1,0.7,0.9,0.9
-Saxony-Anhalt,2020-04-04,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Saxony-Anhalt,2020-04-04,nowcast,0.8,0.5,1,0.7,0.9,0.93
 Saxony-Anhalt,2020-04-05,nowcast,0.8,0.5,1,0.7,0.9,0.93
-Saxony-Anhalt,2020-04-06,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
+Saxony-Anhalt,2020-04-06,nowcast,0.8,0.5,1,0.7,0.9,0.9
 Saxony-Anhalt,2020-04-07,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
-Saxony-Anhalt,2020-04-08,nowcast,0.9,0.6,1.2,0.8,1,0.68
-Saxony-Anhalt,2020-04-09,nowcast,1,0.7,1.4,0.8,1.1,0.51
-Saxony-Anhalt,2020-04-10,nowcast,1,0.7,1.4,0.9,1.1,0.43
-Saxony-Anhalt,2020-04-11,nowcast,1,0.7,1.4,0.9,1.1,0.42
-Saxony-Anhalt,2020-04-12,nowcast,1,0.6,1.4,0.8,1.1,0.5
-Saxony-Anhalt,2020-04-13,nowcast,0.9,0.6,1.3,0.8,1.1,0.62
-Saxony-Anhalt,2020-04-14,nowcast,0.9,0.5,1.3,0.8,1,0.66
-Saxony-Anhalt,2020-04-15,forecast,0.9,0.5,1.4,0.7,1.1,0.65
-Saxony-Anhalt,2020-04-16,forecast,0.9,0.4,1.4,0.7,1.1,0.67
-Saxony-Anhalt,2020-04-17,forecast,0.9,0.3,1.4,0.7,1.1,0.65
-Saxony-Anhalt,2020-04-18,forecast,0.9,0.3,1.5,0.6,1,0.65
-Saxony-Anhalt,2020-04-19,forecast,0.9,0.2,1.5,0.7,1.1,0.64
-Saxony-Anhalt,2020-04-20,forecast,0.9,0,1.4,0.6,1.1,0.65
-Saxony-Anhalt,2020-04-21,forecast,0.8,0,1.4,0.6,1.1,0.65
-Saxony-Anhalt,2020-04-22,forecast,0.8,0,1.4,0.5,1.1,0.65
-Saxony-Anhalt,2020-04-23,forecast,0.8,0,1.4,0.6,1.2,0.65
-Saxony-Anhalt,2020-04-24,forecast,0.8,0,1.5,0.6,1.2,0.66
-Saxony-Anhalt,2020-04-25,forecast,0.8,0,1.5,0.5,1.2,0.65
-Saxony-Anhalt,2020-04-26,forecast,0.8,0,1.5,0.5,1.2,0.65
-Saxony-Anhalt,2020-04-27,forecast,0.8,0,1.6,0.5,1.2,0.64
-Saxony-Anhalt,2020-04-28,forecast,0.8,0,1.6,0.4,1.2,0.65
-Schleswig-Holstein,2020-02-26,nowcast,2.4,1.1,3.9,1.7,2.7,0.02
-Schleswig-Holstein,2020-02-27,nowcast,2.3,1.1,3.6,1.6,2.6,0.02
-Schleswig-Holstein,2020-02-28,nowcast,2.2,1.2,3.4,1.7,2.5,0.01
-Schleswig-Holstein,2020-02-29,nowcast,2.3,1.3,3.4,1.7,2.5,0.01
-Schleswig-Holstein,2020-03-01,nowcast,2.3,1.4,3.3,1.8,2.5,0
-Schleswig-Holstein,2020-03-02,nowcast,2.3,1.4,3.3,1.8,2.5,0
+Saxony-Anhalt,2020-04-08,nowcast,0.9,0.6,1.2,0.8,1,0.71
+Saxony-Anhalt,2020-04-09,nowcast,1,0.7,1.3,0.8,1,0.59
+Saxony-Anhalt,2020-04-10,nowcast,1,0.7,1.3,0.8,1.1,0.52
+Saxony-Anhalt,2020-04-11,nowcast,1,0.7,1.3,0.9,1.1,0.52
+Saxony-Anhalt,2020-04-12,nowcast,1,0.7,1.3,0.8,1.1,0.6
+Saxony-Anhalt,2020-04-13,nowcast,0.9,0.6,1.2,0.8,1,0.7
+Saxony-Anhalt,2020-04-14,nowcast,0.9,0.5,1.2,0.7,1,0.76
+Saxony-Anhalt,2020-04-15,nowcast,0.9,0.5,1.2,0.7,1,0.72
+Saxony-Anhalt,2020-04-16,nowcast,0.9,0.6,1.4,0.7,1,0.64
+Saxony-Anhalt,2020-04-17,nowcast,0.9,0.5,1.4,0.7,1.1,0.58
+Saxony-Anhalt,2020-04-18,nowcast,1,0.5,1.6,0.7,1.1,0.54
+Saxony-Anhalt,2020-04-19,forecast,1,0.4,1.6,0.7,1.2,0.55
+Saxony-Anhalt,2020-04-20,forecast,0.9,0.3,1.7,0.7,1.1,0.56
+Saxony-Anhalt,2020-04-21,forecast,0.9,0.3,1.8,0.6,1.1,0.56
+Saxony-Anhalt,2020-04-22,forecast,0.9,0.2,1.8,0.6,1.1,0.56
+Saxony-Anhalt,2020-04-23,forecast,0.9,0,1.7,0.6,1.1,0.57
+Saxony-Anhalt,2020-04-24,forecast,0.9,0,1.7,0.6,1.2,0.57
+Saxony-Anhalt,2020-04-25,forecast,0.9,0,1.7,0.6,1.2,0.57
+Saxony-Anhalt,2020-04-26,forecast,0.9,0,1.7,0.6,1.2,0.58
+Saxony-Anhalt,2020-04-27,forecast,0.9,0,1.8,0.4,1.1,0.58
+Saxony-Anhalt,2020-04-28,forecast,0.9,0,1.8,0.5,1.2,0.57
+Saxony-Anhalt,2020-04-29,forecast,0.9,0,1.8,0.5,1.2,0.58
+Saxony-Anhalt,2020-04-30,forecast,0.9,0,1.8,0.4,1.2,0.59
+Saxony-Anhalt,2020-05-01,forecast,0.9,0,1.9,0.4,1.2,0.59
+Saxony-Anhalt,2020-05-02,forecast,0.9,0,1.8,0.4,1.2,0.59
+Schleswig-Holstein,2020-02-26,nowcast,2.4,1,3.9,1.6,2.7,0.02
+Schleswig-Holstein,2020-02-27,nowcast,2.3,1.1,3.6,1.7,2.7,0.02
+Schleswig-Holstein,2020-02-28,nowcast,2.3,1.2,3.5,1.8,2.7,0.01
+Schleswig-Holstein,2020-02-29,nowcast,2.3,1.2,3.3,1.7,2.5,0
+Schleswig-Holstein,2020-03-01,nowcast,2.3,1.4,3.3,1.9,2.6,0
+Schleswig-Holstein,2020-03-02,nowcast,2.3,1.5,3.3,1.9,2.6,0
 Schleswig-Holstein,2020-03-03,nowcast,2.2,1.5,3.2,1.8,2.5,0
-Schleswig-Holstein,2020-03-04,nowcast,2.2,1.4,2.9,1.8,2.4,0
-Schleswig-Holstein,2020-03-05,nowcast,2.1,1.5,2.8,1.7,2.2,0
+Schleswig-Holstein,2020-03-04,nowcast,2.2,1.5,3,1.8,2.4,0
+Schleswig-Holstein,2020-03-05,nowcast,2.1,1.4,2.8,1.8,2.3,0
 Schleswig-Holstein,2020-03-06,nowcast,2,1.4,2.7,1.7,2.2,0
-Schleswig-Holstein,2020-03-07,nowcast,1.9,1.4,2.5,1.6,2.1,0
-Schleswig-Holstein,2020-03-08,nowcast,1.8,1.3,2.3,1.6,2,0
+Schleswig-Holstein,2020-03-07,nowcast,1.9,1.4,2.5,1.7,2.1,0
+Schleswig-Holstein,2020-03-08,nowcast,1.8,1.3,2.3,1.6,1.9,0
 Schleswig-Holstein,2020-03-09,nowcast,1.7,1.3,2.2,1.5,1.8,0
-Schleswig-Holstein,2020-03-10,nowcast,1.6,1.3,2.1,1.5,1.8,0
+Schleswig-Holstein,2020-03-10,nowcast,1.7,1.2,2.1,1.5,1.8,0
 Schleswig-Holstein,2020-03-11,nowcast,1.6,1.2,2,1.4,1.7,0
-Schleswig-Holstein,2020-03-12,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Schleswig-Holstein,2020-03-12,nowcast,1.6,1.2,1.9,1.4,1.7,0
 Schleswig-Holstein,2020-03-13,nowcast,1.5,1.2,1.8,1.3,1.6,0
 Schleswig-Holstein,2020-03-14,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Schleswig-Holstein,2020-03-15,nowcast,1.4,1.1,1.6,1.2,1.4,0.02
-Schleswig-Holstein,2020-03-16,nowcast,1.3,1,1.5,1.2,1.4,0.02
-Schleswig-Holstein,2020-03-17,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
+Schleswig-Holstein,2020-03-15,nowcast,1.4,1.1,1.6,1.2,1.4,0.01
+Schleswig-Holstein,2020-03-16,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Schleswig-Holstein,2020-03-17,nowcast,1.3,1,1.5,1.2,1.3,0.02
 Schleswig-Holstein,2020-03-18,nowcast,1.2,1,1.5,1.2,1.3,0.02
 Schleswig-Holstein,2020-03-19,nowcast,1.2,1,1.4,1.1,1.3,0.06
-Schleswig-Holstein,2020-03-20,nowcast,1.1,0.9,1.3,1,1.2,0.12
-Schleswig-Holstein,2020-03-21,nowcast,1.1,0.9,1.2,1,1.2,0.25
+Schleswig-Holstein,2020-03-20,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
+Schleswig-Holstein,2020-03-21,nowcast,1.1,0.9,1.3,1,1.2,0.24
 Schleswig-Holstein,2020-03-22,nowcast,1,0.9,1.2,1,1.1,0.38
-Schleswig-Holstein,2020-03-23,nowcast,1,0.8,1.2,0.9,1.1,0.51
-Schleswig-Holstein,2020-03-24,nowcast,1,0.8,1.2,0.9,1.1,0.56
-Schleswig-Holstein,2020-03-25,nowcast,1,0.8,1.2,0.9,1,0.54
-Schleswig-Holstein,2020-03-26,nowcast,1,0.8,1.1,0.9,1,0.6
-Schleswig-Holstein,2020-03-27,nowcast,0.9,0.8,1.1,0.9,1,0.73
+Schleswig-Holstein,2020-03-23,nowcast,1,0.8,1.2,0.9,1.1,0.5
+Schleswig-Holstein,2020-03-24,nowcast,1,0.8,1.1,0.9,1,0.54
+Schleswig-Holstein,2020-03-25,nowcast,1,0.8,1.1,0.9,1,0.55
+Schleswig-Holstein,2020-03-26,nowcast,1,0.8,1.1,0.9,1,0.61
+Schleswig-Holstein,2020-03-27,nowcast,0.9,0.8,1.1,0.9,1,0.75
 Schleswig-Holstein,2020-03-28,nowcast,0.9,0.7,1,0.8,1,0.87
 Schleswig-Holstein,2020-03-29,nowcast,0.8,0.7,1,0.8,0.9,0.95
-Schleswig-Holstein,2020-03-30,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Schleswig-Holstein,2020-03-31,nowcast,0.8,0.6,1,0.7,0.9,0.98
-Schleswig-Holstein,2020-04-01,nowcast,0.8,0.7,1,0.7,0.9,0.96
+Schleswig-Holstein,2020-03-30,nowcast,0.8,0.6,1,0.8,0.9,0.98
+Schleswig-Holstein,2020-03-31,nowcast,0.8,0.6,1,0.7,0.9,0.97
+Schleswig-Holstein,2020-04-01,nowcast,0.8,0.7,1,0.8,0.9,0.95
 Schleswig-Holstein,2020-04-02,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Schleswig-Holstein,2020-04-03,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Schleswig-Holstein,2020-04-04,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Schleswig-Holstein,2020-04-05,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Schleswig-Holstein,2020-04-03,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Schleswig-Holstein,2020-04-04,nowcast,0.7,0.5,0.9,0.7,0.8,1
+Schleswig-Holstein,2020-04-05,nowcast,0.7,0.5,0.8,0.6,0.8,1
 Schleswig-Holstein,2020-04-06,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
-Schleswig-Holstein,2020-04-07,nowcast,0.7,0.6,0.9,0.7,0.8,0.97
-Schleswig-Holstein,2020-04-08,nowcast,0.8,0.6,1,0.7,0.8,0.95
-Schleswig-Holstein,2020-04-09,nowcast,0.8,0.6,1,0.7,0.8,0.94
-Schleswig-Holstein,2020-04-10,nowcast,0.8,0.6,1,0.7,0.8,0.93
-Schleswig-Holstein,2020-04-11,nowcast,0.8,0.5,1,0.7,0.9,0.92
-Schleswig-Holstein,2020-04-12,nowcast,0.8,0.5,1.1,0.7,0.9,0.89
-Schleswig-Holstein,2020-04-13,nowcast,0.8,0.5,1.1,0.7,0.9,0.84
-Schleswig-Holstein,2020-04-14,nowcast,0.9,0.6,1.2,0.8,1,0.7
-Schleswig-Holstein,2020-04-15,forecast,0.9,0.5,1.3,0.7,1,0.69
-Schleswig-Holstein,2020-04-16,forecast,0.9,0.4,1.4,0.7,1,0.69
-Schleswig-Holstein,2020-04-17,forecast,0.9,0.3,1.4,0.6,1,0.67
-Schleswig-Holstein,2020-04-18,forecast,0.9,0.3,1.5,0.6,1,0.66
-Schleswig-Holstein,2020-04-19,forecast,0.9,0.3,1.6,0.6,1.1,0.65
-Schleswig-Holstein,2020-04-20,forecast,0.8,0,1.4,0.6,1.1,0.65
-Schleswig-Holstein,2020-04-21,forecast,0.8,0,1.5,0.5,1.1,0.65
-Schleswig-Holstein,2020-04-22,forecast,0.8,0,1.5,0.5,1.1,0.65
-Schleswig-Holstein,2020-04-23,forecast,0.8,0,1.5,0.5,1.1,0.64
-Schleswig-Holstein,2020-04-24,forecast,0.8,0,1.5,0.5,1.1,0.64
-Schleswig-Holstein,2020-04-25,forecast,0.8,0,1.6,0.4,1.1,0.64
-Schleswig-Holstein,2020-04-26,forecast,0.8,0,1.6,0.5,1.2,0.64
-Schleswig-Holstein,2020-04-27,forecast,0.8,0,1.6,0.4,1.1,0.64
-Schleswig-Holstein,2020-04-28,forecast,0.8,0,1.6,0.3,1.1,0.65
-Thuringia,2020-03-05,nowcast,2.2,1.4,3,1.8,2.4,0
+Schleswig-Holstein,2020-04-07,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
+Schleswig-Holstein,2020-04-08,nowcast,0.7,0.6,1,0.7,0.8,0.96
+Schleswig-Holstein,2020-04-09,nowcast,0.7,0.6,1,0.7,0.8,0.96
+Schleswig-Holstein,2020-04-10,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Schleswig-Holstein,2020-04-11,nowcast,0.8,0.6,1,0.7,0.8,0.95
+Schleswig-Holstein,2020-04-12,nowcast,0.8,0.5,1,0.7,0.9,0.94
+Schleswig-Holstein,2020-04-13,nowcast,0.8,0.5,1,0.7,0.9,0.92
+Schleswig-Holstein,2020-04-14,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
+Schleswig-Holstein,2020-04-15,nowcast,0.9,0.6,1.2,0.7,1,0.7
+Schleswig-Holstein,2020-04-16,nowcast,0.9,0.6,1.3,0.8,1,0.63
+Schleswig-Holstein,2020-04-17,nowcast,0.9,0.6,1.3,0.7,1,0.64
+Schleswig-Holstein,2020-04-18,nowcast,0.9,0.5,1.3,0.7,1,0.7
+Thuringia,2020-03-05,nowcast,2.2,1.4,3.2,1.8,2.5,0
 Thuringia,2020-03-06,nowcast,2.1,1.4,2.9,1.8,2.4,0
-Thuringia,2020-03-07,nowcast,2.1,1.4,2.7,1.7,2.3,0
+Thuringia,2020-03-07,nowcast,2,1.4,2.8,1.7,2.3,0
 Thuringia,2020-03-08,nowcast,2,1.4,2.6,1.7,2.2,0
-Thuringia,2020-03-09,nowcast,1.9,1.3,2.4,1.7,2.1,0
+Thuringia,2020-03-09,nowcast,1.9,1.3,2.5,1.6,2.1,0
 Thuringia,2020-03-10,nowcast,1.8,1.3,2.3,1.6,2,0
-Thuringia,2020-03-11,nowcast,1.8,1.3,2.3,1.6,2,0
+Thuringia,2020-03-11,nowcast,1.8,1.3,2.3,1.6,1.9,0
 Thuringia,2020-03-12,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Thuringia,2020-03-13,nowcast,1.6,1.2,2,1.4,1.8,0
+Thuringia,2020-03-13,nowcast,1.6,1.2,2,1.4,1.7,0
 Thuringia,2020-03-14,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
-Thuringia,2020-03-15,nowcast,1.4,1,1.7,1.2,1.5,0.03
-Thuringia,2020-03-16,nowcast,1.3,1,1.6,1.2,1.4,0.05
+Thuringia,2020-03-15,nowcast,1.4,1,1.7,1.2,1.5,0.02
+Thuringia,2020-03-16,nowcast,1.3,1,1.6,1.1,1.4,0.05
 Thuringia,2020-03-17,nowcast,1.2,1,1.5,1.1,1.3,0.07
-Thuringia,2020-03-18,nowcast,1.2,1,1.5,1.1,1.3,0.09
-Thuringia,2020-03-19,nowcast,1.2,0.9,1.4,1.1,1.2,0.13
+Thuringia,2020-03-18,nowcast,1.2,0.9,1.4,1.1,1.3,0.08
+Thuringia,2020-03-19,nowcast,1.2,0.9,1.4,1,1.2,0.12
 Thuringia,2020-03-20,nowcast,1.1,0.9,1.3,1,1.2,0.23
-Thuringia,2020-03-21,nowcast,1,0.8,1.3,0.9,1.1,0.38
-Thuringia,2020-03-22,nowcast,1,0.8,1.2,0.9,1.1,0.53
+Thuringia,2020-03-21,nowcast,1,0.8,1.3,0.9,1.1,0.4
+Thuringia,2020-03-22,nowcast,1,0.8,1.2,0.9,1.1,0.55
 Thuringia,2020-03-23,nowcast,1,0.8,1.1,0.9,1,0.66
 Thuringia,2020-03-24,nowcast,1,0.8,1.2,0.9,1,0.66
-Thuringia,2020-03-25,nowcast,1,0.8,1.2,0.9,1,0.59
+Thuringia,2020-03-25,nowcast,1,0.8,1.2,0.9,1,0.58
 Thuringia,2020-03-26,nowcast,1,0.8,1.2,0.9,1,0.54
 Thuringia,2020-03-27,nowcast,1,0.8,1.2,0.9,1,0.58
 Thuringia,2020-03-28,nowcast,0.9,0.7,1.1,0.9,1,0.69
-Thuringia,2020-03-29,nowcast,0.9,0.7,1.1,0.8,1,0.8
-Thuringia,2020-03-30,nowcast,0.9,0.7,1.1,0.8,1,0.87
+Thuringia,2020-03-29,nowcast,0.9,0.7,1.1,0.8,1,0.81
+Thuringia,2020-03-30,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
 Thuringia,2020-03-31,nowcast,0.9,0.7,1.1,0.8,1,0.86
-Thuringia,2020-04-01,nowcast,0.9,0.7,1.1,0.8,1,0.84
-Thuringia,2020-04-02,nowcast,0.9,0.7,1.1,0.8,1,0.79
-Thuringia,2020-04-03,nowcast,0.9,0.7,1.1,0.8,1,0.8
-Thuringia,2020-04-04,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
-Thuringia,2020-04-05,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
-Thuringia,2020-04-06,nowcast,0.9,0.7,1.1,0.8,1,0.78
-Thuringia,2020-04-07,nowcast,1,0.7,1.2,0.9,1,0.62
-Thuringia,2020-04-08,nowcast,1,0.8,1.3,0.9,1.1,0.46
-Thuringia,2020-04-09,nowcast,1.1,0.8,1.4,1,1.2,0.3
-Thuringia,2020-04-10,nowcast,1.1,0.8,1.4,1,1.2,0.24
-Thuringia,2020-04-11,nowcast,1.1,0.8,1.4,1,1.2,0.26
-Thuringia,2020-04-12,nowcast,1.1,0.8,1.4,0.9,1.2,0.33
-Thuringia,2020-04-13,nowcast,1.1,0.8,1.4,1,1.2,0.34
-Thuringia,2020-04-14,nowcast,1.1,0.8,1.4,1,1.2,0.28
-Thuringia,2020-04-15,forecast,1.1,0.7,1.5,0.9,1.2,0.32
-Thuringia,2020-04-16,forecast,1.1,0.6,1.5,0.9,1.3,0.36
-Thuringia,2020-04-17,forecast,1.1,0.6,1.6,0.9,1.3,0.38
-Thuringia,2020-04-18,forecast,1.1,0.5,1.7,0.9,1.3,0.4
-Thuringia,2020-04-19,forecast,1.1,0.4,1.7,0.8,1.3,0.41
-Thuringia,2020-04-20,forecast,1.1,0.4,1.7,0.8,1.3,0.43
-Thuringia,2020-04-21,forecast,1,0.4,1.8,0.8,1.3,0.46
-Thuringia,2020-04-22,forecast,1,0.3,1.8,0.7,1.3,0.46
-Thuringia,2020-04-23,forecast,1,0.2,1.8,0.7,1.3,0.46
-Thuringia,2020-04-24,forecast,1,0.2,1.9,0.7,1.3,0.48
-Thuringia,2020-04-25,forecast,1,0.2,1.9,0.7,1.3,0.48
-Thuringia,2020-04-26,forecast,1,0,1.7,0.7,1.3,0.49
-Thuringia,2020-04-27,forecast,1,0,1.7,0.6,1.3,0.5
-Thuringia,2020-04-28,forecast,1,0,1.7,0.6,1.3,0.5
+Thuringia,2020-04-01,nowcast,0.9,0.7,1.1,0.8,1,0.82
+Thuringia,2020-04-02,nowcast,0.9,0.7,1.1,0.8,1,0.78
+Thuringia,2020-04-03,nowcast,0.9,0.7,1.1,0.8,1,0.82
+Thuringia,2020-04-04,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+Thuringia,2020-04-05,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+Thuringia,2020-04-06,nowcast,0.9,0.7,1.1,0.8,1,0.79
+Thuringia,2020-04-07,nowcast,0.9,0.7,1.2,0.9,1,0.65
+Thuringia,2020-04-08,nowcast,1,0.8,1.3,0.9,1.1,0.49
+Thuringia,2020-04-09,nowcast,1.1,0.8,1.3,0.9,1.2,0.35
+Thuringia,2020-04-10,nowcast,1.1,0.8,1.3,0.9,1.1,0.31
+Thuringia,2020-04-11,nowcast,1.1,0.8,1.3,0.9,1.1,0.35
+Thuringia,2020-04-12,nowcast,1,0.8,1.3,0.9,1.1,0.43
+Thuringia,2020-04-13,nowcast,1,0.8,1.3,0.9,1.1,0.47
+Thuringia,2020-04-14,nowcast,1,0.8,1.3,0.9,1.1,0.46
+Thuringia,2020-04-15,nowcast,1,0.8,1.3,0.9,1.1,0.39
+Thuringia,2020-04-16,nowcast,1,0.8,1.3,0.9,1.2,0.4
+Thuringia,2020-04-17,nowcast,1,0.7,1.3,0.9,1.1,0.57
+Thuringia,2020-04-18,nowcast,0.9,0.6,1.2,0.7,1,0.74
