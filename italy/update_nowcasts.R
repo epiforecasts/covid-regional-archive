@@ -42,6 +42,9 @@ cases <- cases %>%
 linelist <- NCoVUtils::get_international_linelist()
 
 # Set up cores -----------------------------------------------------
+if (!interactive()){
+  options(future.fork.enable = TRUE)
+}
 
 future::plan("multiprocess", workers = future::availableCores())
 

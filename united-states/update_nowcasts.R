@@ -40,6 +40,9 @@ linelist <- NCoVUtils::get_international_linelist() %>%
   tidyr::drop_na(date_onset)
 
 # Set up cores -----------------------------------------------------
+if (!interactive()){
+  options(future.fork.enable = TRUE)
+}
 
 future::plan("multiprocess", workers = future::availableCores())
 
