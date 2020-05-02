@@ -47,6 +47,7 @@ EpiNow::regional_rt_pipeline(
   regional_delay = FALSE,
   target_folder = "united-kingdom/regional",
   horizon = 14,
+  approx_delay = TRUE,
   report_forecast = TRUE,
   forecast_model = function(...) {
     EpiSoon::fable_model(model = fabletools::combination_model(fable::RW(y ~ drift()), fable::ETS(y), 
