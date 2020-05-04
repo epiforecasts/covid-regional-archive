@@ -28,7 +28,8 @@ cases <- cases %>%
 
 # Get linelist ------------------------------------------------------------
 
-linelist <-  NCoVUtils::get_international_linelist()
+linelist <-  NCoVUtils::get_international_linelist() %>% 
+  tidyr::drop_na(date_onset)
 
 # Set up cores -----------------------------------------------------
 if (!interactive()){
