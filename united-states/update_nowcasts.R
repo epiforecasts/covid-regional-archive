@@ -32,12 +32,21 @@ cases <- cases %>%
   dplyr::select(date, region, cases) %>%
   dplyr::rename(local = cases) %>%
   dplyr::mutate(imported = 0) %>%
-  tidyr::gather(key = "import_status", value = "cases", local, imported)
+  tidyr::gather(key = "import_status", value = "confirm", local, imported)
 
 # Get linelist ------------------------------------------------------------
 
-linelist <- NCoVUtils::get_international_linelist() %>% 
-  tidyr::drop_na(date_onset)
+# linelist <-  NCoVUtils::get_international_linelist() %>% 
+#   tidyr::drop_na(date_onset)
+linelist <- 
+  data.table::fread("https://raw.githubusercontent.com/epiforecasts/NCoVUtils/master/data-raw/linelist.csv")
+
+
+delays <- linelist[!is.na(date_onset_symptoms)][, 
+                                                .(report_delay = as.numeric(lubridate::dmy(date_confirmation) - 
+                                                                              as.Date(lubridate::dmy(date_onset_symptoms))))]
+
+delays <- delays$report_delay
 
 # Set up cores -----------------------------------------------------
 if (!interactive()){
@@ -46,14 +55,19 @@ if (!interactive()){
 
 future::plan("multiprocess", workers = future::availableCores())
 
-data.table::setDTthreads(threads = 1)
+
+# Fit the reporting delay -------------------------------------------------
+
+delay_defs <- EpiNow::get_dist_def(delays, 
+                                   bootstraps = 100, samples = 1000)
+
 
 # Run pipeline ----------------------------------------------------
 
+
 EpiNow::regional_rt_pipeline(
   cases = cases,
-  linelist = linelist,
-  regional_delay = FALSE,
+  delay_defs = delay_defs,
   target_folder = "united-states/regional",
   horizon = 14,
   approx_delay = TRUE,

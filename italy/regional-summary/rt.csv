@@ -1,1224 +1,1272 @@
-region,date,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
-Abruzzo,2020-03-03,nowcast,2,1.6,2.4,1.7,2.1,0
-Abruzzo,2020-03-04,nowcast,1.9,1.5,2.3,1.7,2,0
-Abruzzo,2020-03-05,nowcast,1.8,1.5,2.2,1.7,1.9,0
-Abruzzo,2020-03-06,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Abruzzo,2020-03-07,nowcast,1.7,1.4,2,1.6,1.8,0
-Abruzzo,2020-03-08,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Abruzzo,2020-03-09,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Abruzzo,2020-03-10,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Abruzzo,2020-03-11,nowcast,1.5,1.2,1.7,1.4,1.6,0
-Abruzzo,2020-03-12,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Abruzzo,2020-03-13,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Abruzzo,2020-03-14,nowcast,1.3,1.1,1.5,1.2,1.3,0
-Abruzzo,2020-03-15,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
-Abruzzo,2020-03-16,nowcast,1.2,1,1.3,1.1,1.2,0.04
-Abruzzo,2020-03-17,nowcast,1.1,1,1.3,1.1,1.2,0.07
-Abruzzo,2020-03-18,nowcast,1.1,1,1.2,1,1.1,0.1
-Abruzzo,2020-03-19,nowcast,1.1,1,1.2,1,1.1,0.17
-Abruzzo,2020-03-20,nowcast,1,0.9,1.2,1,1.1,0.29
-Abruzzo,2020-03-21,nowcast,1,0.9,1.1,0.9,1,0.52
-Abruzzo,2020-03-22,nowcast,0.9,0.8,1.1,0.9,1,0.8
-Abruzzo,2020-03-23,nowcast,0.9,0.8,1,0.9,0.9,0.94
-Abruzzo,2020-03-24,nowcast,0.9,0.7,1,0.8,0.9,0.98
-Abruzzo,2020-03-25,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Abruzzo,2020-03-26,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Abruzzo,2020-03-27,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Abruzzo,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.92
-Abruzzo,2020-03-29,nowcast,0.9,0.8,1.1,0.9,1,0.82
-Abruzzo,2020-03-30,nowcast,0.9,0.8,1.1,0.9,1,0.75
-Abruzzo,2020-03-31,nowcast,1,0.8,1.1,0.9,1,0.68
-Abruzzo,2020-04-01,nowcast,1,0.8,1.1,0.9,1,0.65
-Abruzzo,2020-04-02,nowcast,1,0.8,1.1,0.9,1,0.63
-Abruzzo,2020-04-03,nowcast,1,0.8,1.1,0.9,1,0.65
-Abruzzo,2020-04-04,nowcast,1,0.8,1.1,0.9,1,0.73
-Abruzzo,2020-04-05,nowcast,0.9,0.8,1,0.9,1,0.84
-Abruzzo,2020-04-06,nowcast,0.9,0.8,1,0.9,1,0.91
-Abruzzo,2020-04-07,nowcast,0.9,0.8,1,0.8,0.9,0.95
-Abruzzo,2020-04-08,nowcast,0.9,0.7,1,0.8,0.9,0.94
-Abruzzo,2020-04-09,nowcast,0.9,0.8,1,0.8,0.9,0.92
-Abruzzo,2020-04-10,nowcast,0.9,0.8,1,0.8,0.9,0.88
-Abruzzo,2020-04-11,nowcast,0.9,0.8,1,0.9,1,0.87
-Abruzzo,2020-04-12,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Abruzzo,2020-04-13,nowcast,0.9,0.7,1,0.8,0.9,0.96
-Abruzzo,2020-04-14,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Abruzzo,2020-04-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Abruzzo,2020-04-16,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Abruzzo,2020-04-17,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Abruzzo,2020-04-18,nowcast,0.6,0.5,0.8,0.6,0.7,1
-Abruzzo,2020-04-19,nowcast,0.6,0.5,0.8,0.5,0.7,1
-Abruzzo,2020-04-20,nowcast,0.6,0.5,0.8,0.6,0.7,1
-Abruzzo,2020-04-21,nowcast,0.7,0.5,0.9,0.6,0.7,0.98
-Abruzzo,2020-04-22,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
-Abruzzo,2020-04-23,nowcast,0.8,0.5,1.1,0.6,0.9,0.88
-Abruzzo,2020-04-24,nowcast,0.9,0.5,1.2,0.7,1,0.76
-Calabria,2020-03-03,nowcast,2,1.5,2.6,1.7,2.2,0
-Calabria,2020-03-04,nowcast,1.9,1.5,2.5,1.7,2.1,0
-Calabria,2020-03-05,nowcast,1.9,1.4,2.3,1.6,2,0
-Calabria,2020-03-06,nowcast,1.8,1.4,2.2,1.6,1.9,0
-Calabria,2020-03-07,nowcast,1.7,1.4,2.1,1.6,1.9,0
-Calabria,2020-03-08,nowcast,1.7,1.3,2,1.5,1.8,0
-Calabria,2020-03-09,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Calabria,2020-03-10,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Calabria,2020-03-11,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Calabria,2020-03-12,nowcast,1.4,1.2,1.7,1.3,1.5,0
-Calabria,2020-03-13,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Calabria,2020-03-14,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
-Calabria,2020-03-15,nowcast,1.3,1,1.5,1.2,1.4,0.02
-Calabria,2020-03-16,nowcast,1.2,1,1.4,1.1,1.3,0.04
-Calabria,2020-03-17,nowcast,1.2,1,1.4,1.1,1.2,0.05
-Calabria,2020-03-18,nowcast,1.1,1,1.3,1.1,1.2,0.1
-Calabria,2020-03-19,nowcast,1.1,0.9,1.3,1,1.2,0.15
-Calabria,2020-03-20,nowcast,1.1,0.9,1.2,1,1.1,0.23
-Calabria,2020-03-21,nowcast,1,0.8,1.2,1,1.1,0.42
-Calabria,2020-03-22,nowcast,1,0.8,1.1,0.9,1,0.7
-Calabria,2020-03-23,nowcast,0.9,0.7,1,0.8,1,0.92
-Calabria,2020-03-24,nowcast,0.8,0.6,1,0.7,0.9,0.99
-Calabria,2020-03-25,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Calabria,2020-03-26,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Calabria,2020-03-27,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Calabria,2020-03-28,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Calabria,2020-03-29,nowcast,0.8,0.6,1,0.7,0.8,0.96
-Calabria,2020-03-30,nowcast,0.8,0.6,1,0.7,0.8,0.96
-Calabria,2020-03-31,nowcast,0.8,0.6,1,0.7,0.8,0.96
-Calabria,2020-04-01,nowcast,0.8,0.6,1,0.7,0.9,0.97
-Calabria,2020-04-02,nowcast,0.8,0.6,1,0.7,0.8,0.98
-Calabria,2020-04-03,nowcast,0.8,0.6,1,0.7,0.8,0.98
-Calabria,2020-04-04,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-Calabria,2020-04-05,nowcast,0.8,0.6,1,0.7,0.9,0.95
-Calabria,2020-04-06,nowcast,0.8,0.6,1,0.7,0.9,0.95
-Calabria,2020-04-07,nowcast,0.8,0.6,1,0.7,0.9,0.92
-Calabria,2020-04-08,nowcast,0.8,0.6,1,0.7,0.9,0.89
-Calabria,2020-04-09,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
-Calabria,2020-04-10,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
-Calabria,2020-04-11,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Calabria,2020-04-12,nowcast,0.8,0.5,1,0.7,0.9,0.96
-Calabria,2020-04-13,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
-Calabria,2020-04-14,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-Calabria,2020-04-15,nowcast,0.7,0.4,0.9,0.6,0.7,0.98
-Calabria,2020-04-16,nowcast,0.6,0.4,0.9,0.5,0.7,0.98
-Calabria,2020-04-17,nowcast,0.6,0.4,0.9,0.5,0.7,0.97
-Calabria,2020-04-18,nowcast,0.6,0.4,0.9,0.5,0.7,0.96
-Calabria,2020-04-19,nowcast,0.6,0.4,0.9,0.5,0.7,0.97
-Calabria,2020-04-20,nowcast,0.6,0.3,0.9,0.5,0.7,0.96
-Calabria,2020-04-21,nowcast,0.6,0.3,1,0.5,0.7,0.95
-Calabria,2020-04-22,nowcast,0.6,0.2,1,0.4,0.7,0.92
-Calabria,2020-04-23,nowcast,0.7,0.3,1.2,0.5,0.8,0.86
-Calabria,2020-04-24,nowcast,0.7,0.3,1.4,0.5,0.9,0.76
-Campania,2020-02-24,nowcast,2,1.5,2.6,1.8,2.2,0
-Campania,2020-02-25,nowcast,2,1.5,2.4,1.8,2.1,0
-Campania,2020-02-26,nowcast,1.9,1.5,2.4,1.7,2,0
-Campania,2020-02-27,nowcast,1.9,1.5,2.3,1.7,2,0
-Campania,2020-02-28,nowcast,1.8,1.5,2.2,1.7,2,0
-Campania,2020-02-29,nowcast,1.8,1.5,2.2,1.6,1.9,0
-Campania,2020-03-01,nowcast,1.8,1.5,2.2,1.6,1.9,0
-Campania,2020-03-02,nowcast,1.7,1.4,2.1,1.6,1.8,0
-Campania,2020-03-03,nowcast,1.7,1.4,2,1.6,1.8,0
-Campania,2020-03-04,nowcast,1.7,1.4,1.9,1.5,1.8,0
-Campania,2020-03-05,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Campania,2020-03-06,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Campania,2020-03-07,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Campania,2020-03-08,nowcast,1.6,1.3,1.8,1.4,1.6,0
-Campania,2020-03-09,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Campania,2020-03-10,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Campania,2020-03-11,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Campania,2020-03-12,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Campania,2020-03-13,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Campania,2020-03-14,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Campania,2020-03-15,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Campania,2020-03-16,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Campania,2020-03-17,nowcast,1.2,1.1,1.3,1.2,1.2,0
-Campania,2020-03-18,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Campania,2020-03-19,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Campania,2020-03-20,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Campania,2020-03-21,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Campania,2020-03-22,nowcast,1.1,1,1.2,1.1,1.2,0.01
-Campania,2020-03-23,nowcast,1.1,1,1.2,1.1,1.1,0.05
-Campania,2020-03-24,nowcast,1.1,1,1.2,1,1.1,0.16
-Campania,2020-03-25,nowcast,1,0.9,1.1,1,1.1,0.42
-Campania,2020-03-26,nowcast,1,0.9,1.1,0.9,1,0.73
-Campania,2020-03-27,nowcast,0.9,0.8,1,0.9,0.9,0.93
-Campania,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Campania,2020-03-29,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Campania,2020-03-30,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Campania,2020-03-31,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Campania,2020-04-01,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Campania,2020-04-02,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Campania,2020-04-03,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Campania,2020-04-04,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Campania,2020-04-05,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Campania,2020-04-06,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Campania,2020-04-07,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Campania,2020-04-08,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Campania,2020-04-09,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Campania,2020-04-10,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Campania,2020-04-11,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Campania,2020-04-12,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Campania,2020-04-13,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Campania,2020-04-14,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Campania,2020-04-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Campania,2020-04-16,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Campania,2020-04-17,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Campania,2020-04-18,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Campania,2020-04-19,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Campania,2020-04-20,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Campania,2020-04-21,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
-Campania,2020-04-22,nowcast,0.8,0.6,1,0.7,0.8,0.96
-Campania,2020-04-23,nowcast,0.8,0.6,1,0.7,0.9,0.9
-Campania,2020-04-24,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
-Emilia-Romagna,2020-02-19,nowcast,2,1.7,2.4,1.9,2.2,0
-Emilia-Romagna,2020-02-20,nowcast,2,1.7,2.3,1.8,2.1,0
-Emilia-Romagna,2020-02-21,nowcast,1.9,1.6,2.3,1.8,2,0
-Emilia-Romagna,2020-02-22,nowcast,1.9,1.6,2.2,1.7,1.9,0
-Emilia-Romagna,2020-02-23,nowcast,1.8,1.5,2.1,1.7,1.9,0
-Emilia-Romagna,2020-02-24,nowcast,1.7,1.5,2,1.6,1.8,0
-Emilia-Romagna,2020-02-25,nowcast,1.7,1.5,1.9,1.6,1.8,0
-Emilia-Romagna,2020-02-26,nowcast,1.7,1.5,1.9,1.6,1.7,0
-Emilia-Romagna,2020-02-27,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Emilia-Romagna,2020-02-28,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Emilia-Romagna,2020-02-29,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Emilia-Romagna,2020-03-01,nowcast,1.6,1.4,1.7,1.5,1.6,0
-Emilia-Romagna,2020-03-02,nowcast,1.5,1.4,1.7,1.5,1.6,0
-Emilia-Romagna,2020-03-03,nowcast,1.5,1.4,1.7,1.4,1.6,0
-Emilia-Romagna,2020-03-04,nowcast,1.5,1.4,1.7,1.4,1.6,0
-Emilia-Romagna,2020-03-05,nowcast,1.5,1.4,1.7,1.4,1.6,0
-Emilia-Romagna,2020-03-06,nowcast,1.5,1.3,1.6,1.4,1.5,0
-Emilia-Romagna,2020-03-07,nowcast,1.5,1.3,1.6,1.4,1.5,0
-Emilia-Romagna,2020-03-08,nowcast,1.4,1.3,1.6,1.4,1.5,0
-Emilia-Romagna,2020-03-09,nowcast,1.4,1.3,1.5,1.3,1.4,0
-Emilia-Romagna,2020-03-10,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Emilia-Romagna,2020-03-11,nowcast,1.3,1.2,1.4,1.3,1.4,0
-Emilia-Romagna,2020-03-12,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Emilia-Romagna,2020-03-13,nowcast,1.2,1.1,1.3,1.2,1.3,0
-Emilia-Romagna,2020-03-14,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Emilia-Romagna,2020-03-15,nowcast,1.1,1,1.2,1.1,1.1,0
-Emilia-Romagna,2020-03-16,nowcast,1.1,1,1.2,1,1.1,0.04
-Emilia-Romagna,2020-03-17,nowcast,1,1,1.1,1,1,0.31
-Emilia-Romagna,2020-03-18,nowcast,1,0.9,1,0.9,1,0.75
-Emilia-Romagna,2020-03-19,nowcast,0.9,0.9,1,0.9,1,0.96
-Emilia-Romagna,2020-03-20,nowcast,0.9,0.8,1,0.9,0.9,1
-Emilia-Romagna,2020-03-21,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Emilia-Romagna,2020-03-22,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-03-23,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-03-24,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-03-25,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-03-26,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-03-27,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-03-28,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-03-29,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-03-30,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-03-31,nowcast,0.8,0.8,0.9,0.8,0.8,1
-Emilia-Romagna,2020-04-01,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-02,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-03,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-04,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-05,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Emilia-Romagna,2020-04-06,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-07,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-08,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-09,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-10,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-11,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Emilia-Romagna,2020-04-12,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-13,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-14,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-15,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-16,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-17,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,2020-04-18,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Emilia-Romagna,2020-04-19,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Emilia-Romagna,2020-04-20,nowcast,0.9,0.8,1,0.9,0.9,0.96
-Emilia-Romagna,2020-04-21,nowcast,0.9,0.8,1,0.9,1,0.91
-Emilia-Romagna,2020-04-22,nowcast,0.9,0.9,1,0.9,1,0.82
-Emilia-Romagna,2020-04-23,nowcast,1,0.9,1.1,0.9,1,0.72
-Emilia-Romagna,2020-04-24,nowcast,1,0.9,1.1,0.9,1,0.64
-Emilia-Romagna,2020-04-25,forecast,1,0.9,1.1,0.9,1,0.6
-Emilia-Romagna,2020-04-26,forecast,1,0.8,1.2,0.9,1,0.57
-Emilia-Romagna,2020-04-27,forecast,1,0.8,1.2,0.9,1,0.55
-Emilia-Romagna,2020-04-28,forecast,1,0.8,1.2,0.9,1.1,0.54
-Emilia-Romagna,2020-04-29,forecast,1,0.8,1.2,0.9,1.1,0.54
-Emilia-Romagna,2020-04-30,forecast,1,0.8,1.3,0.9,1.1,0.51
-Emilia-Romagna,2020-05-01,forecast,1,0.7,1.3,0.9,1.1,0.51
-Emilia-Romagna,2020-05-02,forecast,1,0.7,1.3,0.9,1.1,0.51
-Emilia-Romagna,2020-05-03,forecast,1,0.7,1.4,0.9,1.1,0.51
-Emilia-Romagna,2020-05-04,forecast,1,0.6,1.3,0.9,1.1,0.5
-Emilia-Romagna,2020-05-05,forecast,1,0.6,1.4,0.8,1.1,0.5
-Emilia-Romagna,2020-05-06,forecast,1,0.6,1.4,0.8,1.1,0.51
-Emilia-Romagna,2020-05-07,forecast,1,0.6,1.4,0.8,1.1,0.51
-Emilia-Romagna,2020-05-08,forecast,1,0.6,1.5,0.8,1.1,0.51
-Friuli Venezia Giulia,2020-02-25,nowcast,2.1,1.7,2.8,1.8,2.3,0
-Friuli Venezia Giulia,2020-02-26,nowcast,2.1,1.6,2.6,1.8,2.2,0
-Friuli Venezia Giulia,2020-02-27,nowcast,2,1.5,2.5,1.8,2.1,0
-Friuli Venezia Giulia,2020-02-28,nowcast,1.9,1.5,2.4,1.7,2.1,0
-Friuli Venezia Giulia,2020-02-29,nowcast,1.9,1.5,2.3,1.7,2,0
-Friuli Venezia Giulia,2020-03-01,nowcast,1.8,1.5,2.2,1.6,1.9,0
-Friuli Venezia Giulia,2020-03-02,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Friuli Venezia Giulia,2020-03-03,nowcast,1.7,1.4,2,1.6,1.8,0
-Friuli Venezia Giulia,2020-03-04,nowcast,1.6,1.4,2,1.5,1.7,0
-Friuli Venezia Giulia,2020-03-05,nowcast,1.6,1.3,1.8,1.5,1.7,0
-Friuli Venezia Giulia,2020-03-06,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Friuli Venezia Giulia,2020-03-07,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Friuli Venezia Giulia,2020-03-08,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Friuli Venezia Giulia,2020-03-09,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Friuli Venezia Giulia,2020-03-10,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Friuli Venezia Giulia,2020-03-11,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Friuli Venezia Giulia,2020-03-12,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Friuli Venezia Giulia,2020-03-13,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Friuli Venezia Giulia,2020-03-14,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Friuli Venezia Giulia,2020-03-15,nowcast,1.2,1,1.3,1.1,1.2,0.02
-Friuli Venezia Giulia,2020-03-16,nowcast,1.1,1,1.3,1.1,1.2,0.08
-Friuli Venezia Giulia,2020-03-17,nowcast,1.1,0.9,1.2,1,1.1,0.21
-Friuli Venezia Giulia,2020-03-18,nowcast,1,0.9,1.1,1,1.1,0.35
-Friuli Venezia Giulia,2020-03-19,nowcast,1,0.9,1.1,1,1,0.49
-Friuli Venezia Giulia,2020-03-20,nowcast,1,0.9,1.1,0.9,1,0.64
-Friuli Venezia Giulia,2020-03-21,nowcast,1,0.9,1.1,0.9,1,0.78
-Friuli Venezia Giulia,2020-03-22,nowcast,0.9,0.8,1,0.9,1,0.88
-Friuli Venezia Giulia,2020-03-23,nowcast,0.9,0.8,1,0.9,1,0.93
-Friuli Venezia Giulia,2020-03-24,nowcast,0.9,0.8,1,0.9,0.9,0.95
-Friuli Venezia Giulia,2020-03-25,nowcast,0.9,0.8,1,0.9,0.9,0.94
-Friuli Venezia Giulia,2020-03-26,nowcast,0.9,0.8,1,0.9,0.9,0.91
-Friuli Venezia Giulia,2020-03-27,nowcast,0.9,0.8,1,0.9,0.9,0.93
-Friuli Venezia Giulia,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.96
-Friuli Venezia Giulia,2020-03-29,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Friuli Venezia Giulia,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Friuli Venezia Giulia,2020-03-31,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Friuli Venezia Giulia,2020-04-01,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Friuli Venezia Giulia,2020-04-02,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Friuli Venezia Giulia,2020-04-03,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Friuli Venezia Giulia,2020-04-04,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Friuli Venezia Giulia,2020-04-05,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Friuli Venezia Giulia,2020-04-06,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-Friuli Venezia Giulia,2020-04-07,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-Friuli Venezia Giulia,2020-04-08,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-Friuli Venezia Giulia,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-Friuli Venezia Giulia,2020-04-10,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-Friuli Venezia Giulia,2020-04-11,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Friuli Venezia Giulia,2020-04-12,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-Friuli Venezia Giulia,2020-04-13,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Friuli Venezia Giulia,2020-04-14,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Friuli Venezia Giulia,2020-04-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Friuli Venezia Giulia,2020-04-16,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-Friuli Venezia Giulia,2020-04-17,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Friuli Venezia Giulia,2020-04-18,nowcast,0.8,0.7,1,0.8,0.9,0.91
-Friuli Venezia Giulia,2020-04-19,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
-Friuli Venezia Giulia,2020-04-20,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
-Friuli Venezia Giulia,2020-04-21,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
-Friuli Venezia Giulia,2020-04-22,nowcast,0.9,0.7,1.1,0.8,0.9,0.84
-Friuli Venezia Giulia,2020-04-23,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
-Friuli Venezia Giulia,2020-04-24,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
-Lazio,2020-02-27,nowcast,2,1.6,2.5,1.8,2.2,0
-Lazio,2020-02-28,nowcast,2,1.6,2.4,1.7,2.1,0
-Lazio,2020-02-29,nowcast,1.9,1.5,2.3,1.7,2,0
-Lazio,2020-03-01,nowcast,1.9,1.5,2.2,1.7,1.9,0
-Lazio,2020-03-02,nowcast,1.8,1.5,2.2,1.7,1.9,0
-Lazio,2020-03-03,nowcast,1.8,1.5,2.1,1.7,1.9,0
-Lazio,2020-03-04,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Lazio,2020-03-05,nowcast,1.7,1.5,2,1.6,1.8,0
-Lazio,2020-03-06,nowcast,1.7,1.4,2,1.6,1.8,0
-Lazio,2020-03-07,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Lazio,2020-03-08,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Lazio,2020-03-09,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Lazio,2020-03-10,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Lazio,2020-03-11,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Lazio,2020-03-12,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Lazio,2020-03-13,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Lazio,2020-03-14,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Lazio,2020-03-15,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Lazio,2020-03-16,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Lazio,2020-03-17,nowcast,1.1,1,1.3,1.1,1.2,0.02
-Lazio,2020-03-18,nowcast,1.1,1,1.2,1,1.1,0.06
-Lazio,2020-03-19,nowcast,1.1,1,1.1,1,1.1,0.14
-Lazio,2020-03-20,nowcast,1,0.9,1.1,1,1.1,0.29
-Lazio,2020-03-21,nowcast,1,0.9,1.1,1,1,0.48
-Lazio,2020-03-22,nowcast,1,0.9,1.1,0.9,1,0.69
-Lazio,2020-03-23,nowcast,1,0.9,1,0.9,1,0.87
-Lazio,2020-03-24,nowcast,0.9,0.8,1,0.9,1,0.95
-Lazio,2020-03-25,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Lazio,2020-03-26,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Lazio,2020-03-27,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Lazio,2020-03-28,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Lazio,2020-03-29,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-Lazio,2020-03-30,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Lazio,2020-03-31,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Lazio,2020-04-01,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Lazio,2020-04-02,nowcast,0.9,0.8,1,0.9,0.9,0.96
-Lazio,2020-04-03,nowcast,0.9,0.8,1,0.9,0.9,0.95
-Lazio,2020-04-04,nowcast,0.9,0.8,1,0.9,0.9,0.94
-Lazio,2020-04-05,nowcast,0.9,0.8,1,0.9,0.9,0.96
-Lazio,2020-04-06,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Lazio,2020-04-07,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Lazio,2020-04-08,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Lazio,2020-04-09,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Lazio,2020-04-10,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Lazio,2020-04-11,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Lazio,2020-04-12,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Lazio,2020-04-13,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Lazio,2020-04-14,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Lazio,2020-04-15,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Lazio,2020-04-16,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Lazio,2020-04-17,nowcast,0.9,0.8,1,0.8,0.9,0.93
-Lazio,2020-04-18,nowcast,0.9,0.8,1,0.9,1,0.87
-Lazio,2020-04-19,nowcast,0.9,0.8,1.1,0.9,1,0.81
-Lazio,2020-04-20,nowcast,0.9,0.8,1.1,0.9,1,0.76
-Lazio,2020-04-21,nowcast,0.9,0.8,1.1,0.9,1,0.73
-Lazio,2020-04-22,nowcast,1,0.8,1.1,0.9,1,0.72
-Lazio,2020-04-23,nowcast,0.9,0.8,1.1,0.9,1,0.71
-Lazio,2020-04-24,nowcast,1,0.8,1.1,0.9,1,0.64
-Lazio,2020-04-25,forecast,1,0.8,1.2,0.9,1,0.63
-Lazio,2020-04-26,forecast,1,0.7,1.2,0.9,1,0.62
-Lazio,2020-04-27,forecast,1,0.7,1.2,0.8,1,0.62
-Lazio,2020-04-28,forecast,1,0.7,1.2,0.8,1,0.61
-Lazio,2020-04-29,forecast,1,0.7,1.3,0.8,1.1,0.61
-Lazio,2020-04-30,forecast,1,0.6,1.3,0.8,1.1,0.61
-Lazio,2020-05-01,forecast,0.9,0.6,1.3,0.8,1.1,0.61
-Lazio,2020-05-02,forecast,0.9,0.6,1.3,0.8,1.1,0.61
-Lazio,2020-05-03,forecast,0.9,0.5,1.3,0.8,1.1,0.6
-Lazio,2020-05-04,forecast,0.9,0.5,1.4,0.8,1.1,0.6
-Lazio,2020-05-05,forecast,0.9,0.5,1.4,0.8,1.1,0.61
-Lazio,2020-05-06,forecast,0.9,0.5,1.4,0.8,1.1,0.61
-Lazio,2020-05-07,forecast,0.9,0.4,1.4,0.7,1.1,0.6
-Lazio,2020-05-08,forecast,0.9,0.4,1.5,0.8,1.1,0.6
-Liguria,2020-02-21,nowcast,2.1,1.5,2.6,1.8,2.2,0
-Liguria,2020-02-22,nowcast,2,1.5,2.6,1.8,2.2,0
-Liguria,2020-02-23,nowcast,2,1.5,2.5,1.8,2.1,0
-Liguria,2020-02-24,nowcast,1.9,1.5,2.4,1.7,2.1,0
-Liguria,2020-02-25,nowcast,1.9,1.6,2.4,1.7,2.1,0
-Liguria,2020-02-26,nowcast,2,1.6,2.4,1.7,2.1,0
-Liguria,2020-02-27,nowcast,2,1.6,2.4,1.8,2.1,0
-Liguria,2020-02-28,nowcast,2,1.6,2.4,1.8,2.1,0
-Liguria,2020-02-29,nowcast,2,1.6,2.3,1.8,2,0
-Liguria,2020-03-01,nowcast,1.9,1.6,2.3,1.7,2,0
-Liguria,2020-03-02,nowcast,1.9,1.6,2.2,1.7,2,0
-Liguria,2020-03-03,nowcast,1.8,1.5,2.1,1.7,1.9,0
-Liguria,2020-03-04,nowcast,1.8,1.5,2.1,1.6,1.8,0
-Liguria,2020-03-05,nowcast,1.7,1.4,2,1.5,1.8,0
-Liguria,2020-03-06,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Liguria,2020-03-07,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Liguria,2020-03-08,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Liguria,2020-03-09,nowcast,1.5,1.3,1.6,1.4,1.5,0
-Liguria,2020-03-10,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Liguria,2020-03-11,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Liguria,2020-03-12,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Liguria,2020-03-13,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Liguria,2020-03-14,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Liguria,2020-03-15,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Liguria,2020-03-16,nowcast,1.1,1,1.3,1.1,1.2,0.01
-Liguria,2020-03-17,nowcast,1.1,1,1.2,1.1,1.1,0.05
-Liguria,2020-03-18,nowcast,1.1,0.9,1.1,1,1.1,0.18
-Liguria,2020-03-19,nowcast,1,0.9,1.1,1,1,0.42
-Liguria,2020-03-20,nowcast,1,0.9,1.1,0.9,1,0.64
-Liguria,2020-03-21,nowcast,1,0.9,1,0.9,1,0.77
-Liguria,2020-03-22,nowcast,1,0.9,1,0.9,1,0.83
-Liguria,2020-03-23,nowcast,1,0.9,1,0.9,1,0.82
-Liguria,2020-03-24,nowcast,1,0.9,1,0.9,1,0.78
-Liguria,2020-03-25,nowcast,1,0.9,1,0.9,1,0.8
-Liguria,2020-03-26,nowcast,1,0.9,1,0.9,1,0.82
-Liguria,2020-03-27,nowcast,1,0.9,1,0.9,1,0.86
-Liguria,2020-03-28,nowcast,0.9,0.9,1,0.9,1,0.92
-Liguria,2020-03-29,nowcast,0.9,0.9,1,0.9,1,0.95
-Liguria,2020-03-30,nowcast,0.9,0.9,1,0.9,1,0.97
-Liguria,2020-03-31,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Liguria,2020-04-01,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Liguria,2020-04-02,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Liguria,2020-04-03,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Liguria,2020-04-04,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Liguria,2020-04-05,nowcast,0.9,0.9,1,0.9,1,0.94
-Liguria,2020-04-06,nowcast,0.9,0.9,1,0.9,1,0.9
-Liguria,2020-04-07,nowcast,0.9,0.9,1,0.9,1,0.87
-Liguria,2020-04-08,nowcast,1,0.9,1,0.9,1,0.81
-Liguria,2020-04-09,nowcast,1,0.9,1.1,0.9,1,0.75
-Liguria,2020-04-10,nowcast,1,0.9,1.1,0.9,1,0.73
-Liguria,2020-04-11,nowcast,1,0.9,1.1,0.9,1,0.68
-Liguria,2020-04-12,nowcast,1,0.9,1.1,0.9,1,0.62
-Liguria,2020-04-13,nowcast,1,0.9,1.1,0.9,1,0.59
-Liguria,2020-04-14,nowcast,1,0.9,1.1,1,1,0.6
-Liguria,2020-04-15,nowcast,1,0.9,1.1,0.9,1,0.66
-Liguria,2020-04-16,nowcast,1,0.9,1.1,0.9,1,0.67
-Liguria,2020-04-17,nowcast,1,0.9,1.1,0.9,1,0.64
-Liguria,2020-04-18,nowcast,1,0.9,1.1,1,1,0.59
-Liguria,2020-04-19,nowcast,1,0.9,1.1,1,1,0.55
-Liguria,2020-04-20,nowcast,1,0.9,1.1,1,1,0.54
-Liguria,2020-04-21,nowcast,1,0.9,1.1,1,1,0.55
-Liguria,2020-04-22,nowcast,1,0.9,1.1,0.9,1,0.61
-Liguria,2020-04-23,nowcast,1,0.9,1.1,0.9,1,0.67
-Liguria,2020-04-24,nowcast,1,0.9,1.1,0.9,1,0.66
-Liguria,2020-04-25,forecast,1,0.8,1.1,0.9,1,0.65
-Liguria,2020-04-26,forecast,1,0.8,1.1,0.9,1,0.66
-Liguria,2020-04-27,forecast,1,0.8,1.1,0.9,1,0.66
-Liguria,2020-04-28,forecast,1,0.7,1.2,0.9,1,0.67
-Liguria,2020-04-29,forecast,0.9,0.7,1.2,0.9,1,0.66
-Liguria,2020-04-30,forecast,0.9,0.7,1.2,0.8,1,0.67
-Liguria,2020-05-01,forecast,0.9,0.7,1.2,0.8,1,0.67
-Liguria,2020-05-02,forecast,0.9,0.6,1.2,0.8,1,0.67
-Liguria,2020-05-03,forecast,0.9,0.6,1.2,0.8,1,0.67
-Liguria,2020-05-04,forecast,0.9,0.6,1.2,0.8,1,0.68
-Liguria,2020-05-05,forecast,0.9,0.6,1.3,0.8,1,0.67
-Liguria,2020-05-06,forecast,0.9,0.6,1.3,0.8,1,0.67
-Liguria,2020-05-07,forecast,0.9,0.5,1.3,0.8,1,0.67
-Liguria,2020-05-08,forecast,0.9,0.5,1.3,0.8,1.1,0.67
-Lombardia,2020-02-19,nowcast,2,1.7,2.3,1.8,2.1,0
-Lombardia,2020-02-20,nowcast,1.9,1.7,2.2,1.8,2,0
-Lombardia,2020-02-21,nowcast,1.9,1.6,2.2,1.7,2,0
-Lombardia,2020-02-22,nowcast,1.8,1.6,2.1,1.7,1.9,0
-Lombardia,2020-02-23,nowcast,1.8,1.6,2.1,1.7,1.9,0
-Lombardia,2020-02-24,nowcast,1.8,1.6,2,1.6,1.8,0
-Lombardia,2020-02-25,nowcast,1.7,1.5,2,1.6,1.8,0
-Lombardia,2020-02-26,nowcast,1.7,1.5,1.9,1.6,1.7,0
-Lombardia,2020-02-27,nowcast,1.6,1.5,1.9,1.6,1.7,0
-Lombardia,2020-02-28,nowcast,1.6,1.5,1.8,1.5,1.7,0
-Lombardia,2020-02-29,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Lombardia,2020-03-01,nowcast,1.5,1.4,1.7,1.5,1.6,0
-Lombardia,2020-03-02,nowcast,1.5,1.4,1.7,1.4,1.5,0
-Lombardia,2020-03-03,nowcast,1.4,1.3,1.6,1.4,1.5,0
-Lombardia,2020-03-04,nowcast,1.4,1.3,1.5,1.3,1.4,0
-Lombardia,2020-03-05,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Lombardia,2020-03-06,nowcast,1.3,1.2,1.4,1.3,1.3,0
-Lombardia,2020-03-07,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Lombardia,2020-03-08,nowcast,1.2,1.1,1.3,1.2,1.3,0
-Lombardia,2020-03-09,nowcast,1.2,1.1,1.3,1.2,1.2,0
-Lombardia,2020-03-10,nowcast,1.2,1.1,1.2,1.1,1.2,0
-Lombardia,2020-03-11,nowcast,1.1,1.1,1.2,1.1,1.2,0
-Lombardia,2020-03-12,nowcast,1.1,1.1,1.2,1.1,1.1,0
-Lombardia,2020-03-13,nowcast,1.1,1,1.1,1.1,1.1,0
-Lombardia,2020-03-14,nowcast,1.1,1,1.1,1,1.1,0.02
-Lombardia,2020-03-15,nowcast,1,1,1.1,1,1,0.41
-Lombardia,2020-03-16,nowcast,1,0.9,1,0.9,1,0.96
-Lombardia,2020-03-17,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-03-18,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-03-19,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-03-20,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-03-21,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,2020-03-22,nowcast,0.8,0.8,0.9,0.8,0.8,1
-Lombardia,2020-03-23,nowcast,0.8,0.8,0.8,0.8,0.8,1
-Lombardia,2020-03-24,nowcast,0.8,0.8,0.8,0.8,0.8,1
-Lombardia,2020-03-25,nowcast,0.8,0.8,0.9,0.8,0.8,1
-Lombardia,2020-03-26,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Lombardia,2020-03-27,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,2020-03-28,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-03-29,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-03-30,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-03-31,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-04-01,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,2020-04-02,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,2020-04-03,nowcast,0.9,0.9,1,0.9,1,0.99
-Lombardia,2020-04-04,nowcast,0.9,0.9,1,0.9,1,0.99
-Lombardia,2020-04-05,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,2020-04-06,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-04-07,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,2020-04-08,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,2020-04-09,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,2020-04-10,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,2020-04-11,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,2020-04-12,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,2020-04-13,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,2020-04-14,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,2020-04-15,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,2020-04-16,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,2020-04-17,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,2020-04-18,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,2020-04-19,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Lombardia,2020-04-20,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Lombardia,2020-04-21,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Lombardia,2020-04-22,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,2020-04-23,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Lombardia,2020-04-24,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Lombardia,2020-04-25,forecast,0.9,0.8,1,0.9,1,0.92
-Lombardia,2020-04-26,forecast,0.9,0.8,1,0.9,1,0.85
-Lombardia,2020-04-27,forecast,0.9,0.8,1.1,0.9,1,0.81
-Lombardia,2020-04-28,forecast,0.9,0.8,1.1,0.9,1,0.77
-Lombardia,2020-04-29,forecast,0.9,0.7,1.1,0.8,1,0.75
-Lombardia,2020-04-30,forecast,0.9,0.7,1.2,0.8,1,0.72
-Lombardia,2020-05-01,forecast,0.9,0.7,1.2,0.8,1,0.71
-Lombardia,2020-05-02,forecast,0.9,0.7,1.2,0.8,1,0.69
-Lombardia,2020-05-03,forecast,0.9,0.6,1.2,0.8,1,0.68
-Lombardia,2020-05-04,forecast,0.9,0.6,1.2,0.8,1,0.66
-Lombardia,2020-05-05,forecast,0.9,0.6,1.3,0.8,1,0.66
-Lombardia,2020-05-06,forecast,0.9,0.6,1.3,0.8,1,0.65
-Lombardia,2020-05-07,forecast,0.9,0.5,1.3,0.8,1,0.65
-Lombardia,2020-05-08,forecast,0.9,0.5,1.3,0.8,1.1,0.64
-Marche,2020-02-24,nowcast,2,1.7,2.4,1.8,2.1,0
-Marche,2020-02-25,nowcast,2,1.6,2.3,1.8,2.1,0
-Marche,2020-02-26,nowcast,1.9,1.6,2.2,1.7,2,0
-Marche,2020-02-27,nowcast,1.8,1.5,2.1,1.7,1.9,0
-Marche,2020-02-28,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Marche,2020-02-29,nowcast,1.7,1.5,2,1.6,1.8,0
-Marche,2020-03-01,nowcast,1.7,1.4,1.9,1.5,1.7,0
-Marche,2020-03-02,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Marche,2020-03-03,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Marche,2020-03-04,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Marche,2020-03-05,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Marche,2020-03-06,nowcast,1.4,1.3,1.6,1.3,1.5,0
-Marche,2020-03-07,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Marche,2020-03-08,nowcast,1.3,1.2,1.5,1.2,1.3,0
-Marche,2020-03-09,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Marche,2020-03-10,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Marche,2020-03-11,nowcast,1.1,1,1.3,1.1,1.2,0.02
-Marche,2020-03-12,nowcast,1.1,1,1.2,1.1,1.1,0.06
-Marche,2020-03-13,nowcast,1.1,1,1.2,1,1.1,0.12
-Marche,2020-03-14,nowcast,1,0.9,1.1,1,1.1,0.25
-Marche,2020-03-15,nowcast,1,0.9,1.1,1,1,0.48
-Marche,2020-03-16,nowcast,1,0.9,1,0.9,1,0.76
-Marche,2020-03-17,nowcast,0.9,0.8,1,0.9,1,0.93
-Marche,2020-03-18,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Marche,2020-03-19,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Marche,2020-03-20,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Marche,2020-03-21,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Marche,2020-03-22,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Marche,2020-03-23,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-Marche,2020-03-24,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Marche,2020-03-25,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-Marche,2020-03-26,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-Marche,2020-03-27,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Marche,2020-03-28,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Marche,2020-03-29,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-Marche,2020-03-30,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Marche,2020-03-31,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Marche,2020-04-01,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Marche,2020-04-02,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Marche,2020-04-03,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Marche,2020-04-04,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Marche,2020-04-05,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Marche,2020-04-06,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Marche,2020-04-07,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Marche,2020-04-08,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Marche,2020-04-09,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Marche,2020-04-10,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Marche,2020-04-11,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Marche,2020-04-12,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Marche,2020-04-13,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Marche,2020-04-14,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Marche,2020-04-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Marche,2020-04-16,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
-Marche,2020-04-17,nowcast,0.8,0.7,1,0.7,0.9,0.98
-Marche,2020-04-18,nowcast,0.8,0.7,1,0.8,0.9,0.96
-Marche,2020-04-19,nowcast,0.8,0.7,1,0.7,0.9,0.95
-Marche,2020-04-20,nowcast,0.8,0.7,1,0.8,0.9,0.94
-Marche,2020-04-21,nowcast,0.8,0.7,1,0.8,0.9,0.93
-Marche,2020-04-22,nowcast,0.8,0.6,1,0.8,0.9,0.91
-Marche,2020-04-23,nowcast,0.9,0.6,1.1,0.8,0.9,0.86
-Marche,2020-04-24,nowcast,0.9,0.6,1.1,0.8,0.9,0.81
-Marche,2020-04-25,forecast,0.9,0.6,1.1,0.8,1,0.79
-Marche,2020-04-26,forecast,0.9,0.6,1.2,0.7,1,0.78
-Marche,2020-04-27,forecast,0.9,0.6,1.2,0.7,1,0.77
-Marche,2020-04-28,forecast,0.9,0.5,1.2,0.7,1,0.76
-Marche,2020-04-29,forecast,0.9,0.5,1.3,0.7,1,0.75
-Marche,2020-04-30,forecast,0.9,0.5,1.3,0.7,1,0.73
-Marche,2020-05-01,forecast,0.9,0.5,1.3,0.7,1,0.72
-Marche,2020-05-02,forecast,0.9,0.4,1.4,0.7,1,0.72
-Marche,2020-05-03,forecast,0.9,0.4,1.4,0.7,1,0.71
-Marche,2020-05-04,forecast,0.9,0.4,1.4,0.7,1,0.72
-Marche,2020-05-05,forecast,0.8,0.4,1.4,0.6,1,0.7
-Marche,2020-05-06,forecast,0.8,0.4,1.5,0.6,1,0.7
-Marche,2020-05-07,forecast,0.8,0.3,1.5,0.6,1,0.7
-Marche,2020-05-08,forecast,0.8,0.3,1.5,0.6,1,0.7
-Piemonte,2020-02-23,nowcast,2.1,1.8,2.6,1.9,2.3,0
-Piemonte,2020-02-24,nowcast,2.1,1.7,2.5,1.9,2.2,0
-Piemonte,2020-02-25,nowcast,2,1.7,2.4,1.9,2.2,0
-Piemonte,2020-02-26,nowcast,2,1.7,2.4,1.8,2.1,0
-Piemonte,2020-02-27,nowcast,2,1.7,2.3,1.8,2.1,0
-Piemonte,2020-02-28,nowcast,1.9,1.6,2.3,1.8,2,0
-Piemonte,2020-02-29,nowcast,1.9,1.6,2.2,1.7,2,0
-Piemonte,2020-03-01,nowcast,1.8,1.6,2.1,1.7,1.9,0
-Piemonte,2020-03-02,nowcast,1.8,1.6,2.1,1.7,1.9,0
-Piemonte,2020-03-03,nowcast,1.8,1.5,2,1.6,1.8,0
-Piemonte,2020-03-04,nowcast,1.7,1.5,2,1.6,1.8,0
-Piemonte,2020-03-05,nowcast,1.7,1.5,1.9,1.6,1.8,0
-Piemonte,2020-03-06,nowcast,1.7,1.5,1.9,1.6,1.7,0
-Piemonte,2020-03-07,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Piemonte,2020-03-08,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Piemonte,2020-03-09,nowcast,1.5,1.4,1.7,1.5,1.6,0
-Piemonte,2020-03-10,nowcast,1.5,1.3,1.6,1.4,1.5,0
-Piemonte,2020-03-11,nowcast,1.4,1.3,1.6,1.3,1.5,0
-Piemonte,2020-03-12,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Piemonte,2020-03-13,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Piemonte,2020-03-14,nowcast,1.2,1.1,1.3,1.2,1.2,0
-Piemonte,2020-03-15,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Piemonte,2020-03-16,nowcast,1.1,1.1,1.2,1.1,1.1,0
-Piemonte,2020-03-17,nowcast,1.1,1,1.2,1.1,1.1,0
-Piemonte,2020-03-18,nowcast,1.1,1,1.2,1.1,1.1,0.01
-Piemonte,2020-03-19,nowcast,1.1,1,1.1,1,1.1,0.02
-Piemonte,2020-03-20,nowcast,1.1,1,1.1,1,1.1,0.03
-Piemonte,2020-03-21,nowcast,1.1,1,1.1,1,1.1,0.05
-Piemonte,2020-03-22,nowcast,1,1,1.1,1,1.1,0.05
-Piemonte,2020-03-23,nowcast,1,1,1.1,1,1.1,0.06
-Piemonte,2020-03-24,nowcast,1,1,1.1,1,1.1,0.06
-Piemonte,2020-03-25,nowcast,1,1,1.1,1,1.1,0.05
-Piemonte,2020-03-26,nowcast,1,1,1.1,1,1.1,0.05
-Piemonte,2020-03-27,nowcast,1,1,1.1,1,1.1,0.05
-Piemonte,2020-03-28,nowcast,1,1,1.1,1,1.1,0.05
-Piemonte,2020-03-29,nowcast,1,1,1.1,1,1.1,0.07
-Piemonte,2020-03-30,nowcast,1,1,1.1,1,1,0.13
-Piemonte,2020-03-31,nowcast,1,1,1.1,1,1,0.26
-Piemonte,2020-04-01,nowcast,1,1,1.1,1,1,0.34
-Piemonte,2020-04-02,nowcast,1,1,1.1,1,1,0.31
-Piemonte,2020-04-03,nowcast,1,1,1.1,1,1,0.22
-Piemonte,2020-04-04,nowcast,1,1,1.1,1,1,0.22
-Piemonte,2020-04-05,nowcast,1,1,1.1,1,1,0.3
-Piemonte,2020-04-06,nowcast,1,1,1,1,1,0.53
-Piemonte,2020-04-07,nowcast,1,0.9,1,1,1,0.81
-Piemonte,2020-04-08,nowcast,1,0.9,1,0.9,1,0.94
-Piemonte,2020-04-09,nowcast,1,0.9,1,0.9,1,0.97
-Piemonte,2020-04-10,nowcast,0.9,0.9,1,0.9,1,0.97
-Piemonte,2020-04-11,nowcast,0.9,0.9,1,0.9,1,0.99
-Piemonte,2020-04-12,nowcast,0.9,0.9,1,0.9,0.9,1
-Piemonte,2020-04-13,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Piemonte,2020-04-14,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Piemonte,2020-04-15,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Piemonte,2020-04-16,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Piemonte,2020-04-17,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Piemonte,2020-04-18,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Piemonte,2020-04-19,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Piemonte,2020-04-20,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Piemonte,2020-04-21,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Piemonte,2020-04-22,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Piemonte,2020-04-23,nowcast,0.9,0.9,1,0.9,1,0.88
-Piemonte,2020-04-24,nowcast,1,0.9,1.1,0.9,1,0.58
-Piemonte,2020-04-25,forecast,1,0.9,1.1,1,1,0.44
-Piemonte,2020-04-26,forecast,1,0.9,1.2,1,1.1,0.35
-Piemonte,2020-04-27,forecast,1.1,0.9,1.2,1,1.1,0.3
-Piemonte,2020-04-28,forecast,1.1,0.9,1.3,1,1.1,0.28
-Piemonte,2020-04-29,forecast,1.1,0.9,1.3,1,1.2,0.25
-Piemonte,2020-04-30,forecast,1.1,0.8,1.4,1,1.2,0.25
-Piemonte,2020-05-01,forecast,1.1,0.8,1.5,1,1.2,0.24
-Piemonte,2020-05-02,forecast,1.1,0.8,1.5,1,1.2,0.24
-Piemonte,2020-05-03,forecast,1.1,0.8,1.6,0.9,1.2,0.24
-Piemonte,2020-05-04,forecast,1.2,0.8,1.6,0.9,1.3,0.24
-Piemonte,2020-05-05,forecast,1.2,0.8,1.7,0.9,1.2,0.26
-Piemonte,2020-05-06,forecast,1.2,0.7,1.8,0.9,1.3,0.26
-Piemonte,2020-05-07,forecast,1.2,0.7,1.8,0.9,1.3,0.26
-Piemonte,2020-05-08,forecast,1.2,0.7,1.9,0.9,1.3,0.26
-Puglia,2020-02-29,nowcast,2,1.6,2.5,1.8,2.2,0
-Puglia,2020-03-01,nowcast,2,1.5,2.4,1.8,2.1,0
-Puglia,2020-03-02,nowcast,1.9,1.5,2.3,1.7,2.1,0
-Puglia,2020-03-03,nowcast,1.9,1.5,2.3,1.7,2,0
-Puglia,2020-03-04,nowcast,1.8,1.5,2.2,1.7,1.9,0
-Puglia,2020-03-05,nowcast,1.8,1.4,2.1,1.6,1.9,0
-Puglia,2020-03-06,nowcast,1.7,1.4,2,1.6,1.8,0
-Puglia,2020-03-07,nowcast,1.7,1.4,2,1.6,1.8,0
-Puglia,2020-03-08,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Puglia,2020-03-09,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Puglia,2020-03-10,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Puglia,2020-03-11,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Puglia,2020-03-12,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Puglia,2020-03-13,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Puglia,2020-03-14,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Puglia,2020-03-15,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Puglia,2020-03-16,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-Puglia,2020-03-17,nowcast,1.1,1,1.3,1.1,1.2,0.03
-Puglia,2020-03-18,nowcast,1.1,1,1.2,1.1,1.2,0.06
-Puglia,2020-03-19,nowcast,1.1,1,1.2,1,1.1,0.11
-Puglia,2020-03-20,nowcast,1.1,0.9,1.2,1,1.1,0.18
-Puglia,2020-03-21,nowcast,1,0.9,1.1,1,1.1,0.25
-Puglia,2020-03-22,nowcast,1,0.9,1.1,1,1.1,0.36
-Puglia,2020-03-23,nowcast,1,0.9,1.1,1,1,0.54
-Puglia,2020-03-24,nowcast,1,0.9,1.1,0.9,1,0.71
-Puglia,2020-03-25,nowcast,0.9,0.8,1,0.9,1,0.86
-Puglia,2020-03-26,nowcast,0.9,0.8,1,0.9,1,0.94
-Puglia,2020-03-27,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Puglia,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Puglia,2020-03-29,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Puglia,2020-03-30,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Puglia,2020-03-31,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Puglia,2020-04-01,nowcast,0.9,0.8,1,0.9,0.9,0.95
-Puglia,2020-04-02,nowcast,0.9,0.8,1,0.9,0.9,0.95
-Puglia,2020-04-03,nowcast,0.9,0.8,1,0.8,0.9,0.96
-Puglia,2020-04-04,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Puglia,2020-04-05,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Puglia,2020-04-06,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Puglia,2020-04-07,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Puglia,2020-04-08,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Puglia,2020-04-09,nowcast,0.9,0.8,1,0.8,0.9,0.95
-Puglia,2020-04-10,nowcast,0.9,0.8,1,0.8,0.9,0.93
-Puglia,2020-04-11,nowcast,0.9,0.8,1,0.8,0.9,0.91
-Puglia,2020-04-12,nowcast,0.9,0.8,1,0.8,0.9,0.92
-Puglia,2020-04-13,nowcast,0.9,0.8,1,0.8,0.9,0.95
-Puglia,2020-04-14,nowcast,0.9,0.7,1,0.8,0.9,0.98
-Puglia,2020-04-15,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Puglia,2020-04-16,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Puglia,2020-04-17,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Puglia,2020-04-18,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Puglia,2020-04-19,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Puglia,2020-04-20,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Puglia,2020-04-21,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Puglia,2020-04-22,nowcast,0.7,0.6,0.9,0.6,0.8,0.98
-Puglia,2020-04-23,nowcast,0.8,0.6,1,0.7,0.9,0.89
-Puglia,2020-04-24,nowcast,0.9,0.6,1.2,0.8,1,0.75
-Puglia,2020-04-25,forecast,0.9,0.6,1.3,0.8,1,0.68
-Puglia,2020-04-26,forecast,0.9,0.6,1.3,0.7,1,0.63
-Puglia,2020-04-27,forecast,0.9,0.6,1.4,0.7,1,0.59
-Puglia,2020-04-28,forecast,1,0.6,1.5,0.7,1.1,0.54
-Puglia,2020-04-29,forecast,1,0.6,1.6,0.7,1.1,0.51
-Puglia,2020-04-30,forecast,1,0.5,1.6,0.7,1.1,0.49
-Puglia,2020-05-01,forecast,1,0.5,1.7,0.7,1.1,0.47
-Puglia,2020-05-02,forecast,1,0.5,1.8,0.7,1.2,0.46
-Puglia,2020-05-03,forecast,1,0.4,1.9,0.7,1.2,0.45
-Puglia,2020-05-04,forecast,1.1,0.4,2,0.6,1.2,0.44
-Puglia,2020-05-05,forecast,1.1,0.4,2.2,0.6,1.2,0.44
-Puglia,2020-05-06,forecast,1.1,0.4,2.2,0.6,1.2,0.43
-Puglia,2020-05-07,forecast,1.1,0.3,2.3,0.6,1.3,0.43
-Puglia,2020-05-08,forecast,1.1,0.3,2.4,0.5,1.2,0.43
-Sardegna,2020-03-03,nowcast,2,1.5,2.5,1.7,2.1,0
-Sardegna,2020-03-04,nowcast,1.9,1.5,2.4,1.7,2,0
-Sardegna,2020-03-05,nowcast,1.8,1.4,2.2,1.6,2,0
-Sardegna,2020-03-06,nowcast,1.8,1.4,2.2,1.6,1.9,0
-Sardegna,2020-03-07,nowcast,1.7,1.4,2.1,1.6,1.8,0
-Sardegna,2020-03-08,nowcast,1.7,1.4,2,1.5,1.8,0
-Sardegna,2020-03-09,nowcast,1.6,1.3,2,1.5,1.7,0
-Sardegna,2020-03-10,nowcast,1.6,1.3,1.9,1.4,1.7,0
-Sardegna,2020-03-11,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Sardegna,2020-03-12,nowcast,1.4,1.2,1.7,1.3,1.5,0
-Sardegna,2020-03-13,nowcast,1.4,1.1,1.6,1.3,1.4,0
-Sardegna,2020-03-14,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Sardegna,2020-03-15,nowcast,1.2,1,1.4,1.1,1.3,0.06
-Sardegna,2020-03-16,nowcast,1.1,0.9,1.3,1,1.2,0.18
-Sardegna,2020-03-17,nowcast,1.1,0.9,1.3,1,1.1,0.29
-Sardegna,2020-03-18,nowcast,1,0.9,1.2,1,1.1,0.34
-Sardegna,2020-03-19,nowcast,1,0.9,1.2,1,1.1,0.39
-Sardegna,2020-03-20,nowcast,1,0.9,1.2,1,1.1,0.43
-Sardegna,2020-03-21,nowcast,1,0.9,1.1,0.9,1,0.52
-Sardegna,2020-03-22,nowcast,1,0.8,1.1,0.9,1,0.61
-Sardegna,2020-03-23,nowcast,0.9,0.8,1.1,0.9,1,0.75
-Sardegna,2020-03-24,nowcast,0.9,0.8,1,0.9,1,0.89
-Sardegna,2020-03-25,nowcast,0.9,0.7,1,0.8,0.9,0.93
-Sardegna,2020-03-26,nowcast,0.9,0.7,1,0.8,0.9,0.95
-Sardegna,2020-03-27,nowcast,0.9,0.7,1,0.8,0.9,0.96
-Sardegna,2020-03-28,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Sardegna,2020-03-29,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Sardegna,2020-03-30,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Sardegna,2020-03-31,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Sardegna,2020-04-01,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-Sardegna,2020-04-02,nowcast,0.8,0.7,1,0.7,0.9,0.98
-Sardegna,2020-04-03,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Sardegna,2020-04-04,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Sardegna,2020-04-05,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Sardegna,2020-04-06,nowcast,0.7,0.5,0.9,0.6,0.8,1
-Sardegna,2020-04-07,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Sardegna,2020-04-08,nowcast,0.6,0.5,0.8,0.6,0.7,1
-Sardegna,2020-04-09,nowcast,0.6,0.5,0.8,0.6,0.7,1
-Sardegna,2020-04-10,nowcast,0.7,0.5,0.9,0.6,0.7,0.99
-Sardegna,2020-04-11,nowcast,0.7,0.5,0.9,0.6,0.7,0.98
-Sardegna,2020-04-12,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
-Sardegna,2020-04-13,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
-Sardegna,2020-04-14,nowcast,0.7,0.5,1,0.6,0.8,0.96
-Sardegna,2020-04-15,nowcast,0.7,0.5,1,0.6,0.8,0.96
-Sardegna,2020-04-16,nowcast,0.7,0.5,1,0.6,0.8,0.96
-Sardegna,2020-04-17,nowcast,0.7,0.5,1,0.6,0.8,0.95
-Sardegna,2020-04-18,nowcast,0.7,0.4,1,0.6,0.8,0.93
-Sardegna,2020-04-19,nowcast,0.7,0.5,1.1,0.6,0.8,0.9
-Sardegna,2020-04-20,nowcast,0.8,0.5,1.2,0.6,0.9,0.84
-Sardegna,2020-04-21,nowcast,0.8,0.5,1.2,0.7,0.9,0.77
-Sardegna,2020-04-22,nowcast,0.9,0.6,1.4,0.7,1,0.68
-Sardegna,2020-04-23,nowcast,0.9,0.5,1.4,0.7,1.1,0.6
-Sardegna,2020-04-24,nowcast,1,0.5,1.6,0.8,1.1,0.47
-Sicilia,2020-02-25,nowcast,2.1,1.5,2.7,1.9,2.3,0
-Sicilia,2020-02-26,nowcast,2.1,1.5,2.6,1.8,2.2,0
-Sicilia,2020-02-27,nowcast,2,1.6,2.6,1.8,2.2,0
-Sicilia,2020-02-28,nowcast,2,1.5,2.5,1.8,2.1,0
-Sicilia,2020-02-29,nowcast,1.9,1.5,2.4,1.7,2,0
-Sicilia,2020-03-01,nowcast,1.9,1.5,2.3,1.7,2,0
-Sicilia,2020-03-02,nowcast,1.9,1.5,2.2,1.7,2,0
-Sicilia,2020-03-03,nowcast,1.8,1.5,2.2,1.6,1.9,0
-Sicilia,2020-03-04,nowcast,1.8,1.4,2.1,1.7,1.9,0
-Sicilia,2020-03-05,nowcast,1.7,1.5,2.1,1.6,1.9,0
-Sicilia,2020-03-06,nowcast,1.7,1.4,2,1.6,1.8,0
-Sicilia,2020-03-07,nowcast,1.7,1.4,2,1.5,1.8,0
-Sicilia,2020-03-08,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Sicilia,2020-03-09,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Sicilia,2020-03-10,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Sicilia,2020-03-11,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Sicilia,2020-03-12,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Sicilia,2020-03-13,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Sicilia,2020-03-14,nowcast,1.4,1.2,1.6,1.4,1.5,0
-Sicilia,2020-03-15,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Sicilia,2020-03-16,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Sicilia,2020-03-17,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Sicilia,2020-03-18,nowcast,1.1,1,1.3,1.1,1.2,0.06
-Sicilia,2020-03-19,nowcast,1.1,0.9,1.2,1,1.1,0.22
-Sicilia,2020-03-20,nowcast,1,0.9,1.1,0.9,1,0.52
-Sicilia,2020-03-21,nowcast,0.9,0.8,1.1,0.9,1,0.8
-Sicilia,2020-03-22,nowcast,0.9,0.8,1,0.8,0.9,0.95
-Sicilia,2020-03-23,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Sicilia,2020-03-24,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Sicilia,2020-03-25,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Sicilia,2020-03-26,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Sicilia,2020-03-27,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Sicilia,2020-03-28,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Sicilia,2020-03-29,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Sicilia,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
-Sicilia,2020-03-31,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Sicilia,2020-04-01,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Sicilia,2020-04-02,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Sicilia,2020-04-03,nowcast,0.9,0.8,1,0.8,0.9,0.96
-Sicilia,2020-04-04,nowcast,0.9,0.8,1,0.8,0.9,0.95
-Sicilia,2020-04-05,nowcast,0.9,0.8,1,0.8,0.9,0.96
-Sicilia,2020-04-06,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Sicilia,2020-04-07,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Sicilia,2020-04-08,nowcast,0.9,0.8,1,0.8,0.9,0.95
-Sicilia,2020-04-09,nowcast,0.9,0.8,1,0.8,0.9,0.93
-Sicilia,2020-04-10,nowcast,0.9,0.8,1,0.9,0.9,0.87
-Sicilia,2020-04-11,nowcast,0.9,0.8,1.1,0.9,1,0.8
-Sicilia,2020-04-12,nowcast,0.9,0.8,1.1,0.9,1,0.76
-Sicilia,2020-04-13,nowcast,1,0.8,1.1,0.9,1,0.73
-Sicilia,2020-04-14,nowcast,0.9,0.8,1.1,0.9,1,0.74
-Sicilia,2020-04-15,nowcast,0.9,0.8,1.1,0.9,1,0.79
-Sicilia,2020-04-16,nowcast,0.9,0.8,1,0.9,1,0.85
-Sicilia,2020-04-17,nowcast,0.9,0.7,1,0.8,0.9,0.92
-Sicilia,2020-04-18,nowcast,0.9,0.7,1,0.8,0.9,0.96
-Sicilia,2020-04-19,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Sicilia,2020-04-20,nowcast,0.8,0.6,1,0.7,0.9,0.98
-Sicilia,2020-04-21,nowcast,0.8,0.6,1,0.7,0.9,0.97
-Sicilia,2020-04-22,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Sicilia,2020-04-23,nowcast,0.8,0.6,1,0.7,0.9,0.92
-Sicilia,2020-04-24,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
-Sicilia,2020-04-25,forecast,0.8,0.6,1.1,0.7,0.9,0.84
-Sicilia,2020-04-26,forecast,0.8,0.6,1.2,0.7,0.9,0.81
-Sicilia,2020-04-27,forecast,0.8,0.5,1.2,0.7,0.9,0.8
-Sicilia,2020-04-28,forecast,0.8,0.5,1.2,0.7,1,0.78
-Sicilia,2020-04-29,forecast,0.8,0.5,1.3,0.7,0.9,0.77
-Sicilia,2020-04-30,forecast,0.8,0.5,1.3,0.7,1,0.75
-Sicilia,2020-05-01,forecast,0.8,0.4,1.3,0.6,1,0.74
-Sicilia,2020-05-02,forecast,0.8,0.3,1.3,0.6,1,0.73
-Sicilia,2020-05-03,forecast,0.8,0.4,1.4,0.6,1,0.73
-Sicilia,2020-05-04,forecast,0.8,0.3,1.4,0.6,1,0.73
-Sicilia,2020-05-05,forecast,0.8,0.2,1.4,0.6,1,0.71
-Sicilia,2020-05-06,forecast,0.8,0.2,1.4,0.6,1,0.71
-Sicilia,2020-05-07,forecast,0.8,0.2,1.5,0.6,1,0.71
-Sicilia,2020-05-08,forecast,0.8,0.2,1.5,0.6,1,0.7
-Toscana,2020-02-23,nowcast,2.2,1.7,2.7,1.9,2.3,0
-Toscana,2020-02-24,nowcast,2.1,1.7,2.6,1.9,2.2,0
-Toscana,2020-02-25,nowcast,2.1,1.7,2.5,1.9,2.2,0
-Toscana,2020-02-26,nowcast,2,1.6,2.5,1.9,2.2,0
-Toscana,2020-02-27,nowcast,2,1.7,2.4,1.8,2.1,0
-Toscana,2020-02-28,nowcast,1.9,1.6,2.3,1.7,2,0
-Toscana,2020-02-29,nowcast,1.9,1.6,2.2,1.7,2,0
-Toscana,2020-03-01,nowcast,1.8,1.6,2.1,1.7,1.9,0
-Toscana,2020-03-02,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Toscana,2020-03-03,nowcast,1.7,1.5,2,1.6,1.8,0
-Toscana,2020-03-04,nowcast,1.7,1.4,1.9,1.5,1.7,0
-Toscana,2020-03-05,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Toscana,2020-03-06,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Toscana,2020-03-07,nowcast,1.5,1.4,1.8,1.4,1.6,0
-Toscana,2020-03-08,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Toscana,2020-03-09,nowcast,1.5,1.3,1.6,1.4,1.5,0
-Toscana,2020-03-10,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Toscana,2020-03-11,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Toscana,2020-03-12,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Toscana,2020-03-13,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Toscana,2020-03-14,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Toscana,2020-03-15,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Toscana,2020-03-16,nowcast,1.1,1,1.2,1.1,1.1,0.02
-Toscana,2020-03-17,nowcast,1.1,1,1.2,1,1.1,0.04
-Toscana,2020-03-18,nowcast,1.1,1,1.1,1,1.1,0.08
-Toscana,2020-03-19,nowcast,1,1,1.1,1,1.1,0.13
-Toscana,2020-03-20,nowcast,1,1,1.1,1,1.1,0.21
-Toscana,2020-03-21,nowcast,1,0.9,1.1,1,1,0.38
-Toscana,2020-03-22,nowcast,1,0.9,1.1,1,1,0.6
-Toscana,2020-03-23,nowcast,1,0.9,1,0.9,1,0.83
-Toscana,2020-03-24,nowcast,0.9,0.9,1,0.9,1,0.97
-Toscana,2020-03-25,nowcast,0.9,0.8,1,0.9,0.9,1
-Toscana,2020-03-26,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Toscana,2020-03-27,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Toscana,2020-03-28,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Toscana,2020-03-29,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Toscana,2020-03-30,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Toscana,2020-03-31,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Toscana,2020-04-01,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Toscana,2020-04-02,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Toscana,2020-04-03,nowcast,0.9,0.8,1,0.9,0.9,0.96
-Toscana,2020-04-04,nowcast,0.9,0.8,1,0.9,0.9,0.96
-Toscana,2020-04-05,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Toscana,2020-04-06,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Toscana,2020-04-07,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Toscana,2020-04-08,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Toscana,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Toscana,2020-04-10,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Toscana,2020-04-11,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Toscana,2020-04-12,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Toscana,2020-04-13,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Toscana,2020-04-14,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Toscana,2020-04-15,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Toscana,2020-04-16,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Toscana,2020-04-17,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Toscana,2020-04-18,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
-Toscana,2020-04-19,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Toscana,2020-04-20,nowcast,0.8,0.7,1,0.8,0.9,0.99
-Toscana,2020-04-21,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Toscana,2020-04-22,nowcast,0.8,0.6,0.9,0.7,0.9,0.98
-Toscana,2020-04-23,nowcast,0.8,0.7,1,0.8,0.9,0.93
-Toscana,2020-04-24,nowcast,0.9,0.7,1.1,0.8,1,0.76
-Toscana,2020-04-25,forecast,0.9,0.7,1.2,0.8,1,0.73
-Toscana,2020-04-26,forecast,0.9,0.7,1.2,0.8,1,0.69
-Toscana,2020-04-27,forecast,0.9,0.7,1.2,0.8,1,0.65
-Toscana,2020-04-28,forecast,0.9,0.6,1.3,0.8,1,0.63
-Toscana,2020-04-29,forecast,0.9,0.6,1.3,0.8,1,0.61
-Toscana,2020-04-30,forecast,0.9,0.6,1.4,0.8,1.1,0.6
-Toscana,2020-05-01,forecast,1,0.6,1.4,0.8,1.1,0.58
-Toscana,2020-05-02,forecast,1,0.5,1.5,0.7,1,0.57
-Toscana,2020-05-03,forecast,1,0.5,1.5,0.7,1.1,0.56
-Toscana,2020-05-04,forecast,1,0.5,1.6,0.7,1.1,0.56
-Toscana,2020-05-05,forecast,1,0.5,1.6,0.7,1.1,0.55
-Toscana,2020-05-06,forecast,1,0.5,1.7,0.7,1.1,0.54
-Toscana,2020-05-07,forecast,1,0.5,1.7,0.7,1.1,0.55
-Toscana,2020-05-08,forecast,1,0.4,1.7,0.7,1.1,0.53
-Trentino-Alto Adige,2020-03-01,nowcast,2,1.6,2.4,1.8,2.1,0
-Trentino-Alto Adige,2020-03-02,nowcast,1.9,1.6,2.3,1.8,2,0
-Trentino-Alto Adige,2020-03-03,nowcast,1.9,1.6,2.2,1.7,2,0
-Trentino-Alto Adige,2020-03-04,nowcast,1.8,1.5,2.1,1.7,1.9,0
-Trentino-Alto Adige,2020-03-05,nowcast,1.7,1.4,2,1.6,1.8,0
-Trentino-Alto Adige,2020-03-06,nowcast,1.7,1.4,1.9,1.5,1.7,0
-Trentino-Alto Adige,2020-03-07,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Trentino-Alto Adige,2020-03-08,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Trentino-Alto Adige,2020-03-09,nowcast,1.4,1.3,1.6,1.3,1.5,0
-Trentino-Alto Adige,2020-03-10,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Trentino-Alto Adige,2020-03-11,nowcast,1.3,1.2,1.5,1.2,1.4,0
-Trentino-Alto Adige,2020-03-12,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Trentino-Alto Adige,2020-03-13,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Trentino-Alto Adige,2020-03-14,nowcast,1.2,1.1,1.3,1.2,1.3,0
-Trentino-Alto Adige,2020-03-15,nowcast,1.2,1,1.3,1.1,1.2,0.01
-Trentino-Alto Adige,2020-03-16,nowcast,1.1,1,1.2,1.1,1.1,0.05
-Trentino-Alto Adige,2020-03-17,nowcast,1.1,1,1.2,1,1.1,0.16
-Trentino-Alto Adige,2020-03-18,nowcast,1,0.9,1.1,1,1.1,0.32
-Trentino-Alto Adige,2020-03-19,nowcast,1,0.9,1.1,1,1,0.41
-Trentino-Alto Adige,2020-03-20,nowcast,1,0.9,1.1,1,1,0.43
-Trentino-Alto Adige,2020-03-21,nowcast,1,0.9,1.1,1,1,0.46
-Trentino-Alto Adige,2020-03-22,nowcast,1,0.9,1.1,1,1,0.53
-Trentino-Alto Adige,2020-03-23,nowcast,1,0.9,1.1,1,1,0.64
-Trentino-Alto Adige,2020-03-24,nowcast,1,0.9,1,0.9,1,0.78
-Trentino-Alto Adige,2020-03-25,nowcast,0.9,0.9,1,0.9,1,0.89
-Trentino-Alto Adige,2020-03-26,nowcast,0.9,0.9,1,0.9,1,0.92
-Trentino-Alto Adige,2020-03-27,nowcast,0.9,0.9,1,0.9,1,0.92
-Trentino-Alto Adige,2020-03-28,nowcast,0.9,0.9,1,0.9,1,0.92
-Trentino-Alto Adige,2020-03-29,nowcast,0.9,0.9,1,0.9,1,0.94
-Trentino-Alto Adige,2020-03-30,nowcast,0.9,0.8,1,0.9,0.9,0.96
-Trentino-Alto Adige,2020-03-31,nowcast,0.9,0.8,1,0.9,0.9,0.96
-Trentino-Alto Adige,2020-04-01,nowcast,0.9,0.8,1,0.9,0.9,0.96
-Trentino-Alto Adige,2020-04-02,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Trentino-Alto Adige,2020-04-03,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Trentino-Alto Adige,2020-04-04,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Trentino-Alto Adige,2020-04-05,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Trentino-Alto Adige,2020-04-06,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Trentino-Alto Adige,2020-04-07,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Trentino-Alto Adige,2020-04-08,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Trentino-Alto Adige,2020-04-09,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Trentino-Alto Adige,2020-04-10,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Trentino-Alto Adige,2020-04-11,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Trentino-Alto Adige,2020-04-12,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Trentino-Alto Adige,2020-04-13,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Trentino-Alto Adige,2020-04-14,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Trentino-Alto Adige,2020-04-15,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Trentino-Alto Adige,2020-04-16,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Trentino-Alto Adige,2020-04-17,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Trentino-Alto Adige,2020-04-18,nowcast,0.9,0.7,1,0.8,0.9,0.93
-Trentino-Alto Adige,2020-04-19,nowcast,0.9,0.8,1,0.8,0.9,0.9
-Trentino-Alto Adige,2020-04-20,nowcast,0.9,0.8,1,0.8,1,0.88
-Trentino-Alto Adige,2020-04-21,nowcast,0.9,0.7,1,0.8,0.9,0.89
-Trentino-Alto Adige,2020-04-22,nowcast,0.9,0.7,1,0.8,0.9,0.9
-Trentino-Alto Adige,2020-04-23,nowcast,0.9,0.7,1,0.8,0.9,0.89
-Trentino-Alto Adige,2020-04-24,nowcast,0.9,0.7,1.1,0.8,1,0.81
-Trentino-Alto Adige,2020-04-25,forecast,0.9,0.7,1.1,0.8,1,0.79
-Trentino-Alto Adige,2020-04-26,forecast,0.9,0.7,1.2,0.8,1,0.78
-Trentino-Alto Adige,2020-04-27,forecast,0.9,0.6,1.2,0.8,1,0.77
-Trentino-Alto Adige,2020-04-28,forecast,0.9,0.6,1.2,0.8,1,0.76
-Trentino-Alto Adige,2020-04-29,forecast,0.9,0.6,1.2,0.7,1,0.75
-Trentino-Alto Adige,2020-04-30,forecast,0.9,0.5,1.2,0.7,1,0.75
-Trentino-Alto Adige,2020-05-01,forecast,0.9,0.5,1.3,0.7,1,0.75
-Trentino-Alto Adige,2020-05-02,forecast,0.9,0.5,1.3,0.7,1,0.73
-Trentino-Alto Adige,2020-05-03,forecast,0.9,0.4,1.3,0.7,1,0.74
-Trentino-Alto Adige,2020-05-04,forecast,0.8,0.4,1.3,0.7,1,0.74
-Trentino-Alto Adige,2020-05-05,forecast,0.9,0.4,1.3,0.7,1,0.73
-Trentino-Alto Adige,2020-05-06,forecast,0.9,0.4,1.4,0.7,1,0.73
-Trentino-Alto Adige,2020-05-07,forecast,0.8,0.3,1.4,0.7,1,0.73
-Trentino-Alto Adige,2020-05-08,forecast,0.8,0.3,1.4,0.7,1,0.72
-Umbria,2020-02-27,nowcast,2.1,1.6,2.8,1.8,2.3,0
-Umbria,2020-02-28,nowcast,2.1,1.5,2.6,1.8,2.2,0
-Umbria,2020-02-29,nowcast,2,1.5,2.5,1.8,2.2,0
-Umbria,2020-03-01,nowcast,2,1.5,2.5,1.8,2.1,0
-Umbria,2020-03-02,nowcast,1.9,1.5,2.4,1.7,2,0
-Umbria,2020-03-03,nowcast,1.9,1.5,2.3,1.7,2,0
-Umbria,2020-03-04,nowcast,1.8,1.5,2.2,1.6,1.9,0
-Umbria,2020-03-05,nowcast,1.8,1.5,2.2,1.6,1.9,0
-Umbria,2020-03-06,nowcast,1.8,1.4,2.1,1.6,1.9,0
-Umbria,2020-03-07,nowcast,1.7,1.4,2,1.5,1.8,0
-Umbria,2020-03-08,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Umbria,2020-03-09,nowcast,1.6,1.3,1.8,1.4,1.7,0
-Umbria,2020-03-10,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Umbria,2020-03-11,nowcast,1.4,1.2,1.7,1.3,1.5,0
-Umbria,2020-03-12,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Umbria,2020-03-13,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Umbria,2020-03-14,nowcast,1.2,1,1.4,1.2,1.3,0.02
-Umbria,2020-03-15,nowcast,1.1,1,1.3,1.1,1.2,0.08
-Umbria,2020-03-16,nowcast,1.1,0.9,1.2,1,1.1,0.22
-Umbria,2020-03-17,nowcast,1,0.9,1.2,1,1.1,0.46
-Umbria,2020-03-18,nowcast,1,0.8,1.1,0.9,1,0.69
-Umbria,2020-03-19,nowcast,0.9,0.8,1.1,0.9,1,0.86
-Umbria,2020-03-20,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Umbria,2020-03-21,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Umbria,2020-03-22,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Umbria,2020-03-23,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Umbria,2020-03-24,nowcast,0.6,0.5,0.7,0.6,0.7,1
-Umbria,2020-03-25,nowcast,0.6,0.5,0.7,0.5,0.6,1
-Umbria,2020-03-26,nowcast,0.6,0.4,0.7,0.5,0.6,1
-Umbria,2020-03-27,nowcast,0.6,0.4,0.7,0.5,0.6,1
-Umbria,2020-03-28,nowcast,0.6,0.4,0.7,0.5,0.6,1
-Umbria,2020-03-29,nowcast,0.6,0.4,0.7,0.5,0.6,1
-Umbria,2020-03-30,nowcast,0.5,0.4,0.7,0.5,0.6,1
-Umbria,2020-03-31,nowcast,0.5,0.3,0.6,0.4,0.6,1
-Umbria,2020-04-01,nowcast,0.5,0.3,0.6,0.4,0.5,1
-Umbria,2020-04-02,nowcast,0.5,0.3,0.6,0.4,0.5,1
-Umbria,2020-04-03,nowcast,0.4,0.3,0.6,0.4,0.5,1
-Umbria,2020-04-04,nowcast,0.4,0.3,0.6,0.4,0.5,1
-Umbria,2020-04-05,nowcast,0.4,0.3,0.6,0.3,0.5,1
-Umbria,2020-04-06,nowcast,0.5,0.3,0.7,0.4,0.5,0.99
-Umbria,2020-04-07,nowcast,0.5,0.3,0.8,0.4,0.6,0.99
-Umbria,2020-04-08,nowcast,0.5,0.3,0.8,0.4,0.6,0.98
-Umbria,2020-04-09,nowcast,0.6,0.3,1,0.4,0.7,0.94
-Umbria,2020-04-10,nowcast,0.7,0.3,1.1,0.5,0.8,0.86
-Umbria,2020-04-11,nowcast,0.8,0.4,1.2,0.5,0.9,0.8
-Umbria,2020-04-12,nowcast,0.8,0.4,1.3,0.6,0.9,0.76
-Umbria,2020-04-13,nowcast,0.8,0.5,1.3,0.6,1,0.71
-Umbria,2020-04-14,nowcast,0.9,0.5,1.4,0.7,1,0.65
-Umbria,2020-04-15,nowcast,0.9,0.5,1.5,0.7,1.1,0.58
-Umbria,2020-04-16,nowcast,1,0.5,1.5,0.7,1.1,0.56
-Umbria,2020-04-17,nowcast,0.9,0.5,1.4,0.7,1.1,0.6
-Umbria,2020-04-18,nowcast,0.9,0.4,1.4,0.7,1,0.61
-Umbria,2020-04-19,nowcast,0.9,0.5,1.5,0.7,1.1,0.58
-Umbria,2020-04-20,nowcast,1,0.4,1.6,0.7,1.2,0.49
-Umbria,2020-04-21,nowcast,1.1,0.6,1.9,0.8,1.3,0.38
-Umbria,2020-04-22,nowcast,1.1,0.4,1.9,0.8,1.3,0.38
-Umbria,2020-04-23,nowcast,1.1,0.4,1.9,0.7,1.3,0.38
-Umbria,2020-04-24,nowcast,1,0.3,1.7,0.7,1.2,0.52
-Valle d'Aosta,2020-03-01,nowcast,2.1,1.5,2.8,1.8,2.3,0
-Valle d'Aosta,2020-03-02,nowcast,2,1.5,2.7,1.8,2.3,0
-Valle d'Aosta,2020-03-03,nowcast,2,1.4,2.5,1.7,2.1,0
-Valle d'Aosta,2020-03-04,nowcast,1.9,1.4,2.4,1.7,2.1,0
-Valle d'Aosta,2020-03-05,nowcast,1.9,1.4,2.3,1.7,2,0
-Valle d'Aosta,2020-03-06,nowcast,1.8,1.4,2.2,1.6,1.9,0
-Valle d'Aosta,2020-03-07,nowcast,1.8,1.4,2.2,1.6,1.9,0
-Valle d'Aosta,2020-03-08,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Valle d'Aosta,2020-03-09,nowcast,1.6,1.3,2,1.5,1.7,0
-Valle d'Aosta,2020-03-10,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Valle d'Aosta,2020-03-11,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Valle d'Aosta,2020-03-12,nowcast,1.3,1,1.5,1.2,1.4,0.02
-Valle d'Aosta,2020-03-13,nowcast,1.2,1,1.4,1.1,1.3,0.08
-Valle d'Aosta,2020-03-14,nowcast,1.1,0.9,1.3,1,1.2,0.2
-Valle d'Aosta,2020-03-15,nowcast,1,0.9,1.2,1,1.1,0.38
-Valle d'Aosta,2020-03-16,nowcast,1,0.8,1.2,0.9,1.1,0.58
-Valle d'Aosta,2020-03-17,nowcast,0.9,0.8,1.1,0.9,1,0.74
-Valle d'Aosta,2020-03-18,nowcast,0.9,0.7,1.1,0.9,1,0.8
-Valle d'Aosta,2020-03-19,nowcast,0.9,0.8,1.1,0.9,1,0.77
-Valle d'Aosta,2020-03-20,nowcast,1,0.8,1.1,0.9,1,0.64
-Valle d'Aosta,2020-03-21,nowcast,1,0.8,1.2,0.9,1.1,0.47
-Valle d'Aosta,2020-03-22,nowcast,1,0.9,1.2,0.9,1.1,0.38
-Valle d'Aosta,2020-03-23,nowcast,1,0.8,1.2,0.9,1.1,0.46
-Valle d'Aosta,2020-03-24,nowcast,1,0.8,1.1,0.9,1,0.65
-Valle d'Aosta,2020-03-25,nowcast,0.9,0.7,1.1,0.8,1,0.82
-Valle d'Aosta,2020-03-26,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
-Valle d'Aosta,2020-03-27,nowcast,0.9,0.7,1,0.8,0.9,0.92
-Valle d'Aosta,2020-03-28,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Valle d'Aosta,2020-03-29,nowcast,0.8,0.7,1,0.8,0.9,0.93
-Valle d'Aosta,2020-03-30,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Valle d'Aosta,2020-03-31,nowcast,0.8,0.6,1,0.7,0.8,0.98
-Valle d'Aosta,2020-04-01,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Valle d'Aosta,2020-04-02,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Valle d'Aosta,2020-04-03,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-Valle d'Aosta,2020-04-04,nowcast,0.8,0.6,1,0.7,0.8,0.94
-Valle d'Aosta,2020-04-05,nowcast,0.8,0.6,1,0.7,0.9,0.91
-Valle d'Aosta,2020-04-06,nowcast,0.8,0.6,1.1,0.8,0.9,0.87
-Valle d'Aosta,2020-04-07,nowcast,0.9,0.7,1.1,0.8,0.9,0.82
-Valle d'Aosta,2020-04-08,nowcast,0.9,0.7,1.1,0.8,0.9,0.81
-Valle d'Aosta,2020-04-09,nowcast,0.9,0.7,1.1,0.8,1,0.79
-Valle d'Aosta,2020-04-10,nowcast,0.9,0.7,1.1,0.8,1,0.81
-Valle d'Aosta,2020-04-11,nowcast,0.8,0.6,1.1,0.8,0.9,0.88
-Valle d'Aosta,2020-04-12,nowcast,0.8,0.6,1,0.7,0.9,0.95
-Valle d'Aosta,2020-04-13,nowcast,0.7,0.4,0.9,0.6,0.8,0.99
-Valle d'Aosta,2020-04-14,nowcast,0.5,0.3,0.8,0.4,0.6,1
-Valle d'Aosta,2020-04-15,nowcast,0.4,0.2,0.7,0.3,0.5,1
-Valle d'Aosta,2020-04-16,nowcast,0.4,0.2,0.6,0.3,0.5,1
-Valle d'Aosta,2020-04-17,nowcast,0.4,0.2,0.7,0.3,0.5,1
-Valle d'Aosta,2020-04-18,nowcast,0.5,0.2,0.8,0.4,0.6,0.96
-Valle d'Aosta,2020-04-19,nowcast,0.6,0.3,1.1,0.4,0.7,0.89
-Valle d'Aosta,2020-04-20,nowcast,0.8,0.4,1.3,0.5,0.9,0.75
-Valle d'Aosta,2020-04-21,nowcast,0.9,0.4,1.5,0.6,1,0.61
-Valle d'Aosta,2020-04-22,nowcast,1,0.4,1.6,0.7,1.2,0.51
-Valle d'Aosta,2020-04-23,nowcast,1.1,0.5,1.7,0.7,1.2,0.43
-Valle d'Aosta,2020-04-24,nowcast,1.1,0.4,1.8,0.7,1.3,0.42
-Veneto,2020-02-19,nowcast,1.9,1.6,2.4,1.7,2,0
-Veneto,2020-02-20,nowcast,1.9,1.5,2.2,1.7,2,0
-Veneto,2020-02-21,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Veneto,2020-02-22,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Veneto,2020-02-23,nowcast,1.7,1.4,2,1.6,1.8,0
-Veneto,2020-02-24,nowcast,1.7,1.4,2,1.5,1.8,0
-Veneto,2020-02-25,nowcast,1.7,1.4,2,1.6,1.8,0
-Veneto,2020-02-26,nowcast,1.7,1.5,2,1.6,1.7,0
-Veneto,2020-02-27,nowcast,1.7,1.5,1.9,1.6,1.8,0
-Veneto,2020-02-28,nowcast,1.7,1.5,2,1.6,1.8,0
-Veneto,2020-02-29,nowcast,1.7,1.5,1.9,1.6,1.7,0
-Veneto,2020-03-01,nowcast,1.7,1.5,1.9,1.6,1.7,0
-Veneto,2020-03-02,nowcast,1.6,1.4,1.9,1.6,1.7,0
-Veneto,2020-03-03,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Veneto,2020-03-04,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Veneto,2020-03-05,nowcast,1.5,1.4,1.7,1.4,1.6,0
-Veneto,2020-03-06,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Veneto,2020-03-07,nowcast,1.4,1.3,1.6,1.3,1.5,0
-Veneto,2020-03-08,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Veneto,2020-03-09,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Veneto,2020-03-10,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Veneto,2020-03-11,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Veneto,2020-03-12,nowcast,1.2,1.1,1.3,1.2,1.2,0
-Veneto,2020-03-13,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Veneto,2020-03-14,nowcast,1.2,1.1,1.2,1.1,1.2,0
-Veneto,2020-03-15,nowcast,1.1,1,1.2,1.1,1.1,0.01
-Veneto,2020-03-16,nowcast,1.1,1,1.1,1,1.1,0.04
-Veneto,2020-03-17,nowcast,1,1,1.1,1,1.1,0.23
-Veneto,2020-03-18,nowcast,1,0.9,1.1,1,1,0.5
-Veneto,2020-03-19,nowcast,1,0.9,1,1,1,0.69
-Veneto,2020-03-20,nowcast,1,0.9,1,1,1,0.81
-Veneto,2020-03-21,nowcast,1,0.9,1,0.9,1,0.91
-Veneto,2020-03-22,nowcast,0.9,0.9,1,0.9,1,0.97
-Veneto,2020-03-23,nowcast,0.9,0.9,1,0.9,0.9,0.99
-Veneto,2020-03-24,nowcast,0.9,0.9,1,0.9,0.9,0.99
-Veneto,2020-03-25,nowcast,0.9,0.9,1,0.9,0.9,0.99
-Veneto,2020-03-26,nowcast,0.9,0.9,1,0.9,0.9,0.98
-Veneto,2020-03-27,nowcast,0.9,0.9,1,0.9,0.9,0.99
-Veneto,2020-03-28,nowcast,0.9,0.9,1,0.9,0.9,0.99
-Veneto,2020-03-29,nowcast,0.9,0.9,1,0.9,0.9,0.99
-Veneto,2020-03-30,nowcast,0.9,0.9,1,0.9,0.9,1
-Veneto,2020-03-31,nowcast,0.9,0.8,1,0.9,0.9,1
-Veneto,2020-04-01,nowcast,0.9,0.8,1,0.9,0.9,1
-Veneto,2020-04-02,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Veneto,2020-04-03,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Veneto,2020-04-04,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Veneto,2020-04-05,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Veneto,2020-04-06,nowcast,0.8,0.7,0.8,0.8,0.8,1
-Veneto,2020-04-07,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Veneto,2020-04-08,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Veneto,2020-04-09,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Veneto,2020-04-10,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Veneto,2020-04-11,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Veneto,2020-04-12,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Veneto,2020-04-13,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Veneto,2020-04-14,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Veneto,2020-04-15,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Veneto,2020-04-16,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Veneto,2020-04-17,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Veneto,2020-04-18,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Veneto,2020-04-19,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Veneto,2020-04-20,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Veneto,2020-04-21,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Veneto,2020-04-22,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-Veneto,2020-04-23,nowcast,0.9,0.7,1,0.8,0.9,0.93
-Veneto,2020-04-24,nowcast,0.9,0.8,1.1,0.8,1,0.77
-Veneto,2020-04-25,forecast,0.9,0.8,1.1,0.9,1,0.68
-Veneto,2020-04-26,forecast,1,0.7,1.2,0.9,1,0.6
-Veneto,2020-04-27,forecast,1,0.7,1.3,0.9,1.1,0.55
-Veneto,2020-04-28,forecast,1,0.7,1.3,0.9,1.1,0.51
-Veneto,2020-04-29,forecast,1,0.7,1.4,0.9,1.1,0.49
-Veneto,2020-04-30,forecast,1,0.7,1.5,0.8,1.1,0.47
-Veneto,2020-05-01,forecast,1,0.7,1.5,0.8,1.1,0.47
-Veneto,2020-05-02,forecast,1,0.6,1.6,0.8,1.1,0.46
-Veneto,2020-05-03,forecast,1,0.6,1.6,0.8,1.1,0.46
-Veneto,2020-05-04,forecast,1,0.5,1.7,0.8,1.1,0.45
-Veneto,2020-05-05,forecast,1,0.5,1.7,0.8,1.2,0.46
-Veneto,2020-05-06,forecast,1,0.5,1.8,0.8,1.2,0.45
-Veneto,2020-05-07,forecast,1,0.5,1.8,0.8,1.2,0.45
-Veneto,2020-05-08,forecast,1,0.5,1.9,0.7,1.2,0.44
+region,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
+Abruzzo,nowcast,1.6,1.2,2,1.4,1.7,0
+Abruzzo,nowcast,1.6,1.2,2,1.4,1.7,0
+Abruzzo,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Abruzzo,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Abruzzo,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Abruzzo,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
+Abruzzo,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Abruzzo,nowcast,1.3,1,1.5,1.2,1.4,0.02
+Abruzzo,nowcast,1.2,1,1.4,1.2,1.3,0.03
+Abruzzo,nowcast,1.2,1,1.4,1.1,1.3,0.07
+Abruzzo,nowcast,1.2,0.9,1.3,1.1,1.2,0.11
+Abruzzo,nowcast,1.1,0.9,1.3,1.1,1.2,0.14
+Abruzzo,nowcast,1.1,0.9,1.3,1,1.2,0.18
+Abruzzo,nowcast,1.1,0.9,1.2,1,1.1,0.26
+Abruzzo,nowcast,1,0.9,1.2,1,1.1,0.37
+Abruzzo,nowcast,1,0.8,1.2,0.9,1.1,0.51
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.69
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Abruzzo,nowcast,0.9,0.7,1,0.8,1,0.89
+Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Abruzzo,nowcast,0.9,0.8,1,0.8,0.9,0.9
+Abruzzo,nowcast,0.9,0.8,1.1,0.8,1,0.83
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.78
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.73
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.7
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.67
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.67
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.7
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.72
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.76
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.84
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.84
+Abruzzo,nowcast,0.9,0.8,1.1,0.8,1,0.85
+Abruzzo,nowcast,0.9,0.7,1.1,0.9,1,0.85
+Abruzzo,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
+Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Abruzzo,nowcast,0.8,0.6,1,0.8,0.9,0.97
+Abruzzo,nowcast,0.8,0.6,1,0.7,0.9,0.98
+Abruzzo,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Abruzzo,nowcast,0.7,0.5,0.9,0.7,0.8,1
+Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.7,0.97
+Abruzzo,nowcast,0.7,0.5,1,0.6,0.8,0.96
+Abruzzo,nowcast,0.7,0.5,1,0.6,0.8,0.92
+Abruzzo,nowcast,0.8,0.5,1,0.7,0.8,0.88
+Abruzzo,nowcast,0.8,0.6,1.1,0.7,0.9,0.85
+Abruzzo,nowcast,0.8,0.6,1.2,0.7,0.9,0.81
+Abruzzo,nowcast,0.9,0.6,1.2,0.7,1,0.75
+Abruzzo,nowcast,0.9,0.6,1.2,0.8,1,0.7
+Abruzzo,nowcast,0.9,0.6,1.3,0.8,1,0.65
+Abruzzo,nowcast,0.9,0.6,1.3,0.8,1,0.63
+Abruzzo,nowcast,1,0.6,1.4,0.8,1.1,0.57
+Abruzzo,nowcast,1,0.5,1.6,0.8,1.1,0.48
+Calabria,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
+Calabria,nowcast,1.5,1.1,2,1.4,1.7,0.02
+Calabria,nowcast,1.5,1.1,1.9,1.3,1.7,0.02
+Calabria,nowcast,1.4,1.1,1.9,1.3,1.6,0.03
+Calabria,nowcast,1.4,1,1.8,1.2,1.5,0.03
+Calabria,nowcast,1.4,1,1.7,1.2,1.5,0.03
+Calabria,nowcast,1.3,1,1.7,1.2,1.5,0.05
+Calabria,nowcast,1.3,1,1.6,1.1,1.4,0.06
+Calabria,nowcast,1.2,1,1.5,1.2,1.4,0.07
+Calabria,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
+Calabria,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+Calabria,nowcast,1.1,0.9,1.4,1,1.2,0.16
+Calabria,nowcast,1.1,0.9,1.4,1,1.2,0.2
+Calabria,nowcast,1.1,0.8,1.3,1,1.2,0.27
+Calabria,nowcast,1,0.8,1.3,1,1.1,0.39
+Calabria,nowcast,1,0.8,1.2,0.9,1.1,0.52
+Calabria,nowcast,0.9,0.7,1.1,0.8,1,0.7
+Calabria,nowcast,0.9,0.6,1.1,0.8,1,0.85
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.93
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.9
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.9
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.9
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.89
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.86
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.85
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.82
+Calabria,nowcast,0.8,0.5,1.1,0.7,0.9,0.84
+Calabria,nowcast,0.8,0.5,1.1,0.7,0.9,0.89
+Calabria,nowcast,0.8,0.5,1,0.7,0.9,0.92
+Calabria,nowcast,0.7,0.4,1,0.6,0.9,0.93
+Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.94
+Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.95
+Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.95
+Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.94
+Calabria,nowcast,0.7,0.3,1,0.5,0.8,0.94
+Calabria,nowcast,0.7,0.3,1,0.5,0.8,0.93
+Calabria,nowcast,0.6,0.3,1,0.5,0.7,0.92
+Calabria,nowcast,0.6,0.3,1.1,0.5,0.7,0.89
+Calabria,nowcast,0.7,0.3,1.2,0.5,0.8,0.87
+Calabria,nowcast,0.7,0.3,1.2,0.5,0.8,0.83
+Calabria,nowcast,0.7,0.3,1.3,0.5,0.9,0.81
+Calabria,nowcast,0.8,0.3,1.4,0.5,0.9,0.72
+Calabria,nowcast,0.8,0.3,1.6,0.5,1,0.66
+Calabria,nowcast,0.9,0.4,1.7,0.6,1.1,0.57
+Calabria,nowcast,1,0.4,2,0.6,1.2,0.46
+Calabria,nowcast,1.2,0.4,2.2,0.7,1.4,0.37
+Calabria,nowcast,1.3,0.5,2.6,0.8,1.5,0.27
+Calabria,nowcast,1.5,0.5,2.7,0.9,1.6,0.18
+Calabria,nowcast,1.7,0.6,3.1,1,1.9,0.1
+Campania,nowcast,1.7,1.2,2.2,1.4,1.8,0
+Campania,nowcast,1.6,1.2,2.1,1.4,1.8,0
+Campania,nowcast,1.6,1.2,2,1.4,1.7,0
+Campania,nowcast,1.6,1.2,2,1.4,1.7,0
+Campania,nowcast,1.6,1.2,2,1.4,1.7,0
+Campania,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Campania,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Campania,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Campania,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Campania,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Campania,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Campania,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Campania,nowcast,1.4,1.1,1.6,1.3,1.4,0
+Campania,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Campania,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Campania,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Campania,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Campania,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Campania,nowcast,1.2,1,1.4,1.1,1.2,0.03
+Campania,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Campania,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Campania,nowcast,1.2,1,1.3,1.1,1.2,0.03
+Campania,nowcast,1.1,1,1.3,1.1,1.2,0.04
+Campania,nowcast,1.1,1,1.3,1.1,1.2,0.07
+Campania,nowcast,1.1,1,1.2,1.1,1.2,0.11
+Campania,nowcast,1.1,0.9,1.2,1,1.1,0.18
+Campania,nowcast,1,0.9,1.2,1,1.1,0.33
+Campania,nowcast,1,0.9,1.1,0.9,1.1,0.54
+Campania,nowcast,1,0.8,1.1,0.9,1,0.7
+Campania,nowcast,0.9,0.8,1,0.9,1,0.86
+Campania,nowcast,0.9,0.7,1,0.8,0.9,0.96
+Campania,nowcast,0.8,0.7,1,0.8,0.9,0.99
+Campania,nowcast,0.8,0.7,0.9,0.7,0.9,1
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Campania,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
+Campania,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
+Campania,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
+Campania,nowcast,0.7,0.5,0.9,0.7,0.8,0.97
+Campania,nowcast,0.7,0.5,1,0.7,0.8,0.96
+Campania,nowcast,0.8,0.5,1,0.7,0.8,0.94
+Campania,nowcast,0.8,0.6,1,0.7,0.8,0.91
+Campania,nowcast,0.8,0.5,1,0.7,0.9,0.9
+Campania,nowcast,0.8,0.6,1.1,0.7,0.9,0.86
+Campania,nowcast,0.8,0.6,1.1,0.7,0.9,0.82
+Campania,nowcast,0.9,0.6,1.2,0.7,1,0.77
+Campania,nowcast,0.9,0.6,1.3,0.7,1,0.69
+Campania,nowcast,0.9,0.6,1.3,0.8,1,0.61
+Campania,nowcast,1,0.6,1.5,0.8,1.1,0.5
+Campania,nowcast,1.1,0.7,1.7,0.8,1.2,0.39
+Emilia-Romagna,nowcast,1.7,1.4,2,1.5,1.8,0
+Emilia-Romagna,nowcast,1.6,1.3,1.9,1.5,1.8,0
+Emilia-Romagna,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Emilia-Romagna,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Emilia-Romagna,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Emilia-Romagna,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Emilia-Romagna,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Emilia-Romagna,nowcast,1.5,1.3,1.7,1.4,1.5,0
+Emilia-Romagna,nowcast,1.5,1.3,1.6,1.4,1.5,0
+Emilia-Romagna,nowcast,1.4,1.3,1.6,1.4,1.5,0
+Emilia-Romagna,nowcast,1.4,1.3,1.6,1.4,1.5,0
+Emilia-Romagna,nowcast,1.4,1.3,1.6,1.3,1.5,0
+Emilia-Romagna,nowcast,1.4,1.3,1.6,1.3,1.5,0
+Emilia-Romagna,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Emilia-Romagna,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Emilia-Romagna,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Emilia-Romagna,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Emilia-Romagna,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Emilia-Romagna,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Emilia-Romagna,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Emilia-Romagna,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Emilia-Romagna,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Emilia-Romagna,nowcast,1.1,1,1.2,1.1,1.2,0.01
+Emilia-Romagna,nowcast,1.1,1,1.2,1,1.1,0.07
+Emilia-Romagna,nowcast,1,1,1.1,1,1.1,0.21
+Emilia-Romagna,nowcast,1,0.9,1.1,1,1,0.48
+Emilia-Romagna,nowcast,1,0.9,1,0.9,1,0.75
+Emilia-Romagna,nowcast,0.9,0.9,1,0.9,1,0.91
+Emilia-Romagna,nowcast,0.9,0.8,1,0.9,0.9,0.98
+Emilia-Romagna,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,1,0.8,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Emilia-Romagna,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
+Emilia-Romagna,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Emilia-Romagna,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Emilia-Romagna,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Emilia-Romagna,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Emilia-Romagna,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Emilia-Romagna,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Emilia-Romagna,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Emilia-Romagna,nowcast,0.8,0.7,1,0.7,0.9,0.94
+Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.94
+Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.92
+Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.92
+Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.91
+Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.91
+Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.9
+Emilia-Romagna,forecast,0.8,0.5,1.1,0.7,0.9,0.89
+Emilia-Romagna,forecast,0.8,0.5,1.1,0.6,0.9,0.89
+Emilia-Romagna,forecast,0.8,0.5,1.1,0.7,0.9,0.89
+Emilia-Romagna,forecast,0.8,0.5,1.1,0.7,0.9,0.89
+Emilia-Romagna,forecast,0.8,0.5,1.1,0.6,0.9,0.88
+Emilia-Romagna,forecast,0.8,0.4,1.1,0.7,0.9,0.87
+Emilia-Romagna,forecast,0.8,0.5,1.1,0.6,0.9,0.87
+Emilia-Romagna,forecast,0.8,0.4,1.1,0.6,0.9,0.87
+Friuli Venezia Giulia,nowcast,1.7,1.2,2.3,1.5,1.9,0
+Friuli Venezia Giulia,nowcast,1.7,1.2,2.1,1.5,1.8,0
+Friuli Venezia Giulia,nowcast,1.6,1.2,2,1.5,1.8,0
+Friuli Venezia Giulia,nowcast,1.6,1.2,2,1.4,1.7,0
+Friuli Venezia Giulia,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Friuli Venezia Giulia,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Friuli Venezia Giulia,nowcast,1.4,1.1,1.8,1.3,1.5,0
+Friuli Venezia Giulia,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Friuli Venezia Giulia,nowcast,1.4,1.1,1.6,1.2,1.5,0.01
+Friuli Venezia Giulia,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Friuli Venezia Giulia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Friuli Venezia Giulia,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+Friuli Venezia Giulia,nowcast,1.2,1,1.5,1.2,1.3,0.03
+Friuli Venezia Giulia,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Friuli Venezia Giulia,nowcast,1.2,1,1.4,1.1,1.3,0.04
+Friuli Venezia Giulia,nowcast,1.2,1,1.3,1.1,1.2,0.07
+Friuli Venezia Giulia,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
+Friuli Venezia Giulia,nowcast,1.1,0.9,1.3,1,1.2,0.21
+Friuli Venezia Giulia,nowcast,1.1,0.9,1.2,1,1.1,0.29
+Friuli Venezia Giulia,nowcast,1,0.9,1.2,1,1.1,0.37
+Friuli Venezia Giulia,nowcast,1,0.9,1.2,1,1.1,0.44
+Friuli Venezia Giulia,nowcast,1,0.8,1.1,0.9,1.1,0.55
+Friuli Venezia Giulia,nowcast,1,0.8,1.1,0.9,1,0.64
+Friuli Venezia Giulia,nowcast,1,0.8,1.1,0.9,1,0.72
+Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.78
+Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.8
+Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.81
+Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.84
+Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.86
+Friuli Venezia Giulia,nowcast,0.9,0.8,1,0.8,0.9,0.9
+Friuli Venezia Giulia,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Friuli Venezia Giulia,nowcast,0.9,0.7,1,0.8,0.9,0.96
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.7,0.9,0.95
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.95
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.8,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.93
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.97
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.93
+Friuli Venezia Giulia,nowcast,0.8,0.5,1,0.7,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.8,0.5,1,0.7,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.8,0.5,1,0.7,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.7,0.5,1,0.6,0.8,0.95
+Friuli Venezia Giulia,nowcast,0.7,0.5,1,0.6,0.8,0.94
+Friuli Venezia Giulia,nowcast,0.7,0.5,1,0.6,0.8,0.93
+Friuli Venezia Giulia,nowcast,0.8,0.5,1.1,0.6,0.9,0.88
+Friuli Venezia Giulia,nowcast,0.8,0.5,1.2,0.6,0.9,0.82
+Friuli Venezia Giulia,nowcast,0.8,0.5,1.3,0.6,0.9,0.73
+Friuli Venezia Giulia,nowcast,0.9,0.5,1.4,0.7,1,0.64
+Friuli Venezia Giulia,nowcast,1,0.6,1.7,0.7,1.1,0.49
+Friuli Venezia Giulia,nowcast,1.1,0.6,1.9,0.8,1.2,0.37
+Lazio,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Lazio,nowcast,1.6,1.3,2,1.5,1.8,0
+Lazio,nowcast,1.6,1.3,2,1.4,1.7,0
+Lazio,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Lazio,nowcast,1.6,1.3,1.9,1.4,1.6,0
+Lazio,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Lazio,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Lazio,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Lazio,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Lazio,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Lazio,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Lazio,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Lazio,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Lazio,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Lazio,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Lazio,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Lazio,nowcast,1.1,1,1.3,1.1,1.2,0.08
+Lazio,nowcast,1.1,0.9,1.2,1,1.1,0.14
+Lazio,nowcast,1.1,0.9,1.2,1,1.1,0.21
+Lazio,nowcast,1,0.9,1.2,1,1.1,0.31
+Lazio,nowcast,1,0.9,1.1,1,1.1,0.43
+Lazio,nowcast,1,0.9,1.1,0.9,1,0.57
+Lazio,nowcast,1,0.9,1.1,0.9,1,0.7
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.82
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.89
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.94
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.96
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.93
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.91
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.9
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.89
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.9
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.91
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.92
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.94
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Lazio,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Lazio,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.98
+Lazio,nowcast,0.8,0.7,1,0.8,0.9,0.99
+Lazio,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Lazio,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
+Lazio,nowcast,0.8,0.7,0.9,0.8,0.9,0.97
+Lazio,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Lazio,nowcast,0.9,0.8,1,0.8,0.9,0.92
+Lazio,nowcast,0.9,0.8,1,0.8,0.9,0.93
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Lazio,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
+Lazio,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+Lazio,nowcast,0.9,0.6,1.1,0.7,0.9,0.82
+Lazio,forecast,0.9,0.6,1.1,0.8,0.9,0.81
+Lazio,forecast,0.9,0.6,1.1,0.7,1,0.8
+Lazio,forecast,0.9,0.6,1.2,0.7,1,0.79
+Lazio,forecast,0.9,0.5,1.2,0.7,1,0.79
+Lazio,forecast,0.8,0.5,1.2,0.7,1,0.79
+Lazio,forecast,0.8,0.5,1.2,0.7,1,0.77
+Lazio,forecast,0.8,0.5,1.2,0.7,1,0.77
+Lazio,forecast,0.8,0.4,1.2,0.7,1,0.76
+Lazio,forecast,0.8,0.4,1.2,0.7,1,0.76
+Lazio,forecast,0.8,0.4,1.3,0.6,0.9,0.75
+Lazio,forecast,0.8,0.4,1.3,0.6,1,0.76
+Lazio,forecast,0.8,0.4,1.3,0.6,1,0.75
+Lazio,forecast,0.8,0.4,1.3,0.7,1,0.75
+Lazio,forecast,0.8,0.3,1.3,0.7,1,0.75
+Liguria,nowcast,1.7,1.3,2.3,1.5,1.9,0
+Liguria,nowcast,1.7,1.3,2.2,1.5,1.9,0
+Liguria,nowcast,1.7,1.3,2.2,1.5,1.9,0
+Liguria,nowcast,1.7,1.4,2.2,1.5,1.8,0
+Liguria,nowcast,1.7,1.3,2.2,1.5,1.9,0
+Liguria,nowcast,1.7,1.4,2.2,1.5,1.8,0
+Liguria,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Liguria,nowcast,1.7,1.3,2,1.5,1.8,0
+Liguria,nowcast,1.6,1.3,2,1.5,1.7,0
+Liguria,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Liguria,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Liguria,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Liguria,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Liguria,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Liguria,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Liguria,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Liguria,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Liguria,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Liguria,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Liguria,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Liguria,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Liguria,nowcast,1.1,1,1.2,1.1,1.2,0.08
+Liguria,nowcast,1.1,1,1.2,1,1.1,0.18
+Liguria,nowcast,1,0.9,1.2,1,1.1,0.28
+Liguria,nowcast,1,0.9,1.1,1,1.1,0.39
+Liguria,nowcast,1,0.9,1.1,1,1,0.5
+Liguria,nowcast,1,0.9,1.1,1,1,0.57
+Liguria,nowcast,1,0.9,1.1,1,1,0.62
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.65
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.67
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.69
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.73
+Liguria,nowcast,1,0.9,1,0.9,1,0.79
+Liguria,nowcast,1,0.9,1,0.9,1,0.83
+Liguria,nowcast,0.9,0.9,1,0.9,1,0.86
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.91
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.93
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.93
+Liguria,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.92
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.89
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.87
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.84
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.81
+Liguria,nowcast,1,0.8,1.1,0.9,1,0.79
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.77
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.75
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.73
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.72
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.74
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.76
+Liguria,nowcast,1,0.8,1.1,0.9,1,0.77
+Liguria,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.86
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.87
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.91
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.94
+Liguria,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Liguria,nowcast,0.9,0.7,1,0.8,0.9,0.98
+Liguria,nowcast,0.8,0.7,1,0.8,0.9,0.99
+Liguria,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Liguria,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Liguria,nowcast,0.8,0.6,1,0.7,0.8,0.94
+Liguria,nowcast,0.8,0.6,1,0.7,0.8,0.9
+Liguria,forecast,0.8,0.6,1.1,0.7,0.8,0.9
+Liguria,forecast,0.8,0.5,1.1,0.7,0.9,0.88
+Liguria,forecast,0.8,0.5,1.1,0.7,0.9,0.87
+Liguria,forecast,0.8,0.5,1.1,0.7,0.9,0.87
+Liguria,forecast,0.8,0.5,1.1,0.6,0.9,0.86
+Liguria,forecast,0.8,0.4,1.1,0.6,0.9,0.84
+Liguria,forecast,0.8,0.4,1.2,0.6,0.9,0.84
+Liguria,forecast,0.8,0.4,1.2,0.6,0.9,0.83
+Liguria,forecast,0.8,0.4,1.2,0.6,0.9,0.82
+Liguria,forecast,0.8,0.3,1.2,0.6,0.9,0.82
+Liguria,forecast,0.7,0.3,1.2,0.6,0.9,0.83
+Liguria,forecast,0.8,0.3,1.2,0.6,0.9,0.8
+Liguria,forecast,0.8,0.3,1.2,0.6,0.9,0.81
+Liguria,forecast,0.8,0.2,1.2,0.5,0.9,0.81
+Lombardia,nowcast,1.7,1.4,2,1.6,1.8,0
+Lombardia,nowcast,1.7,1.4,1.9,1.6,1.8,0
+Lombardia,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Lombardia,nowcast,1.6,1.4,1.8,1.5,1.7,0
+Lombardia,nowcast,1.6,1.4,1.8,1.5,1.7,0
+Lombardia,nowcast,1.6,1.3,1.8,1.5,1.6,0
+Lombardia,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Lombardia,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Lombardia,nowcast,1.5,1.3,1.6,1.4,1.5,0
+Lombardia,nowcast,1.4,1.3,1.6,1.3,1.5,0
+Lombardia,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Lombardia,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Lombardia,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Lombardia,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Lombardia,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Lombardia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Lombardia,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Lombardia,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Lombardia,nowcast,1.1,1.1,1.2,1.1,1.2,0
+Lombardia,nowcast,1.1,1,1.2,1.1,1.1,0
+Lombardia,nowcast,1.1,1,1.2,1.1,1.1,0.01
+Lombardia,nowcast,1.1,1,1.1,1,1.1,0.04
+Lombardia,nowcast,1,1,1.1,1,1.1,0.18
+Lombardia,nowcast,1,0.9,1.1,1,1,0.52
+Lombardia,nowcast,1,0.9,1,0.9,1,0.87
+Lombardia,nowcast,0.9,0.9,1,0.9,1,0.98
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,0.99
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,0.99
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,0.98
+Lombardia,nowcast,0.9,0.9,1,0.9,1,0.98
+Lombardia,nowcast,0.9,0.9,1,0.9,1,0.98
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,0.99
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Lombardia,nowcast,0.9,0.8,1,0.9,0.9,0.97
+Lombardia,nowcast,0.9,0.9,1,0.9,1,0.92
+Lombardia,nowcast,1,0.9,1,0.9,1,0.79
+Lombardia,nowcast,1,0.9,1.1,1,1,0.56
+Lombardia,nowcast,1,0.9,1.1,1,1.1,0.31
+Lombardia,nowcast,1.1,1,1.2,1,1.1,0.15
+Lombardia,nowcast,1.1,1,1.2,1.1,1.2,0.04
+Lombardia,forecast,1.1,1,1.3,1.1,1.2,0.07
+Lombardia,forecast,1.1,1,1.3,1.1,1.2,0.09
+Lombardia,forecast,1.1,1,1.3,1.1,1.2,0.1
+Lombardia,forecast,1.1,0.9,1.4,1.1,1.2,0.12
+Lombardia,forecast,1.1,0.9,1.4,1,1.2,0.13
+Lombardia,forecast,1.2,0.9,1.4,1,1.2,0.14
+Lombardia,forecast,1.2,0.9,1.4,1,1.2,0.15
+Lombardia,forecast,1.2,0.9,1.5,1,1.2,0.16
+Lombardia,forecast,1.2,0.9,1.5,1,1.3,0.16
+Lombardia,forecast,1.2,0.9,1.6,1,1.3,0.18
+Lombardia,forecast,1.2,0.8,1.6,1,1.3,0.18
+Lombardia,forecast,1.2,0.8,1.6,1,1.3,0.19
+Lombardia,forecast,1.2,0.8,1.6,1,1.3,0.2
+Lombardia,forecast,1.2,0.8,1.6,1,1.3,0.21
+Marche,nowcast,1.6,1.3,2,1.5,1.8,0
+Marche,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Marche,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Marche,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Marche,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Marche,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Marche,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Marche,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Marche,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Marche,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Marche,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Marche,nowcast,1.2,1,1.4,1.1,1.2,0.02
+Marche,nowcast,1.2,1,1.3,1.1,1.2,0.05
+Marche,nowcast,1.1,1,1.3,1.1,1.2,0.08
+Marche,nowcast,1.1,1,1.2,1,1.2,0.13
+Marche,nowcast,1.1,0.9,1.2,1,1.1,0.22
+Marche,nowcast,1,0.9,1.1,1,1.1,0.34
+Marche,nowcast,1,0.9,1.1,1,1.1,0.45
+Marche,nowcast,1,0.9,1.1,0.9,1,0.65
+Marche,nowcast,1,0.8,1.1,0.9,1,0.77
+Marche,nowcast,0.9,0.8,1,0.9,1,0.88
+Marche,nowcast,0.9,0.8,1,0.9,1,0.92
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Marche,nowcast,0.9,0.8,1,0.8,0.9,0.96
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Marche,nowcast,0.9,0.8,1,0.8,0.9,0.96
+Marche,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Marche,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Marche,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Marche,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Marche,nowcast,0.9,0.7,1,0.8,0.9,0.99
+Marche,nowcast,0.8,0.7,1,0.8,0.9,0.99
+Marche,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Marche,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Marche,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Marche,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+Marche,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Marche,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Marche,nowcast,0.8,0.7,1,0.7,0.9,0.94
+Marche,nowcast,0.8,0.6,1,0.7,0.9,0.94
+Marche,nowcast,0.8,0.6,1,0.8,0.9,0.93
+Marche,nowcast,0.8,0.7,1,0.8,0.9,0.93
+Marche,nowcast,0.8,0.7,1,0.8,0.9,0.93
+Marche,nowcast,0.8,0.7,1,0.8,0.9,0.92
+Marche,nowcast,0.8,0.7,1,0.8,0.9,0.91
+Marche,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+Marche,nowcast,0.9,0.7,1.1,0.8,0.9,0.83
+Marche,nowcast,0.9,0.7,1.1,0.8,1,0.79
+Marche,nowcast,0.9,0.7,1.2,0.8,1,0.74
+Marche,nowcast,0.9,0.7,1.2,0.8,1,0.72
+Marche,nowcast,0.9,0.7,1.2,0.8,1,0.67
+Marche,nowcast,1,0.7,1.2,0.8,1,0.61
+Marche,nowcast,1,0.7,1.3,0.9,1.1,0.54
+Marche,nowcast,1,0.7,1.4,0.9,1.1,0.46
+Marche,forecast,1,0.7,1.4,0.8,1.1,0.49
+Marche,forecast,1,0.6,1.4,0.8,1.1,0.49
+Marche,forecast,1,0.6,1.5,0.8,1.1,0.49
+Marche,forecast,1,0.6,1.5,0.8,1.2,0.48
+Marche,forecast,1,0.5,1.5,0.8,1.1,0.49
+Marche,forecast,1,0.5,1.5,0.8,1.1,0.49
+Marche,forecast,1,0.5,1.5,0.8,1.2,0.49
+Marche,forecast,1,0.5,1.6,0.8,1.2,0.51
+Marche,forecast,1,0.5,1.6,0.8,1.2,0.49
+Marche,forecast,1,0.5,1.6,0.8,1.2,0.5
+Marche,forecast,1,0.4,1.6,0.7,1.2,0.51
+Marche,forecast,1,0.4,1.6,0.7,1.2,0.51
+Marche,forecast,1,0.4,1.6,0.7,1.2,0.52
+Marche,forecast,1,0.4,1.7,0.7,1.2,0.51
+Piemonte,nowcast,1.8,1.5,2.2,1.6,1.9,0
+Piemonte,nowcast,1.8,1.4,2.1,1.6,1.9,0
+Piemonte,nowcast,1.8,1.4,2.1,1.6,1.8,0
+Piemonte,nowcast,1.7,1.4,2.1,1.6,1.8,0
+Piemonte,nowcast,1.7,1.4,2,1.5,1.8,0
+Piemonte,nowcast,1.7,1.4,1.9,1.5,1.8,0
+Piemonte,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Piemonte,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Piemonte,nowcast,1.6,1.3,1.8,1.5,1.6,0
+Piemonte,nowcast,1.6,1.3,1.8,1.4,1.6,0
+Piemonte,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Piemonte,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Piemonte,nowcast,1.5,1.3,1.7,1.4,1.5,0
+Piemonte,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Piemonte,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Piemonte,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Piemonte,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Piemonte,nowcast,1.2,1.1,1.3,1.1,1.3,0
+Piemonte,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Piemonte,nowcast,1.1,1,1.2,1.1,1.2,0.01
+Piemonte,nowcast,1.1,1,1.2,1.1,1.1,0.02
+Piemonte,nowcast,1.1,1,1.2,1.1,1.1,0.04
+Piemonte,nowcast,1.1,1,1.2,1,1.1,0.05
+Piemonte,nowcast,1.1,1,1.1,1,1.1,0.06
+Piemonte,nowcast,1.1,1,1.1,1,1.1,0.09
+Piemonte,nowcast,1.1,1,1.1,1,1.1,0.1
+Piemonte,nowcast,1,1,1.1,1,1.1,0.1
+Piemonte,nowcast,1,1,1.1,1,1.1,0.11
+Piemonte,nowcast,1,1,1.1,1,1.1,0.1
+Piemonte,nowcast,1,1,1.1,1,1.1,0.11
+Piemonte,nowcast,1,1,1.1,1,1.1,0.12
+Piemonte,nowcast,1,1,1.1,1,1.1,0.11
+Piemonte,nowcast,1,1,1.1,1,1.1,0.13
+Piemonte,nowcast,1,1,1.1,1,1.1,0.18
+Piemonte,nowcast,1,1,1.1,1,1,0.21
+Piemonte,nowcast,1,1,1.1,1,1,0.26
+Piemonte,nowcast,1,1,1.1,1,1,0.26
+Piemonte,nowcast,1,1,1.1,1,1,0.27
+Piemonte,nowcast,1,1,1.1,1,1,0.29
+Piemonte,nowcast,1,1,1.1,1,1,0.33
+Piemonte,nowcast,1,0.9,1.1,1,1,0.46
+Piemonte,nowcast,1,0.9,1,1,1,0.6
+Piemonte,nowcast,1,0.9,1,1,1,0.74
+Piemonte,nowcast,1,0.9,1,1,1,0.83
+Piemonte,nowcast,1,0.9,1,0.9,1,0.9
+Piemonte,nowcast,0.9,0.9,1,0.9,1,0.95
+Piemonte,nowcast,0.9,0.9,1,0.9,1,0.98
+Piemonte,nowcast,0.9,0.9,1,0.9,0.9,1
+Piemonte,nowcast,0.9,0.8,1,0.9,0.9,1
+Piemonte,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Piemonte,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Piemonte,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Piemonte,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Piemonte,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Piemonte,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Piemonte,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Piemonte,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Piemonte,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Piemonte,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Piemonte,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Piemonte,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Piemonte,nowcast,0.8,0.7,1,0.7,0.9,0.97
+Piemonte,forecast,0.8,0.7,1,0.7,0.9,0.96
+Piemonte,forecast,0.8,0.6,1,0.7,0.9,0.95
+Piemonte,forecast,0.8,0.6,1,0.7,0.9,0.94
+Piemonte,forecast,0.8,0.6,1,0.7,0.9,0.93
+Piemonte,forecast,0.8,0.6,1,0.7,0.9,0.92
+Piemonte,forecast,0.8,0.5,1,0.7,0.9,0.91
+Piemonte,forecast,0.8,0.5,1,0.7,0.9,0.91
+Piemonte,forecast,0.8,0.5,1,0.7,0.9,0.9
+Piemonte,forecast,0.8,0.5,1.1,0.7,0.9,0.9
+Piemonte,forecast,0.8,0.5,1.1,0.6,0.9,0.89
+Piemonte,forecast,0.8,0.4,1.1,0.6,0.9,0.89
+Piemonte,forecast,0.8,0.4,1.1,0.6,0.9,0.89
+Piemonte,forecast,0.8,0.4,1.1,0.6,0.9,0.88
+Piemonte,forecast,0.8,0.4,1.1,0.6,0.9,0.88
+Puglia,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Puglia,nowcast,1.6,1.3,2,1.4,1.7,0
+Puglia,nowcast,1.6,1.3,2,1.5,1.8,0
+Puglia,nowcast,1.6,1.2,1.9,1.4,1.7,0
+Puglia,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Puglia,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Puglia,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Puglia,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Puglia,nowcast,1.4,1.1,1.6,1.2,1.4,0
+Puglia,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Puglia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Puglia,nowcast,1.2,1,1.4,1.2,1.3,0.02
+Puglia,nowcast,1.2,1,1.4,1.1,1.3,0.04
+Puglia,nowcast,1.2,1,1.3,1.1,1.2,0.06
+Puglia,nowcast,1.1,1,1.3,1.1,1.2,0.09
+Puglia,nowcast,1.1,1,1.3,1,1.2,0.13
+Puglia,nowcast,1.1,0.9,1.2,1,1.1,0.18
+Puglia,nowcast,1.1,0.9,1.2,1,1.1,0.22
+Puglia,nowcast,1,0.9,1.2,1,1.1,0.28
+Puglia,nowcast,1,0.9,1.1,1,1.1,0.37
+Puglia,nowcast,1,0.9,1.1,1,1.1,0.48
+Puglia,nowcast,1,0.8,1.1,0.9,1,0.6
+Puglia,nowcast,1,0.8,1.1,0.9,1,0.71
+Puglia,nowcast,0.9,0.8,1.1,0.9,1,0.81
+Puglia,nowcast,0.9,0.8,1,0.9,1,0.86
+Puglia,nowcast,0.9,0.8,1,0.9,1,0.9
+Puglia,nowcast,0.9,0.8,1,0.9,1,0.92
+Puglia,nowcast,0.9,0.8,1,0.9,1,0.91
+Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.9
+Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.9
+Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.9
+Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.91
+Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.91
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.91
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.92
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.92
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.92
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.89
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.89
+Puglia,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Puglia,nowcast,0.9,0.7,1,0.8,0.9,0.91
+Puglia,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Puglia,nowcast,0.8,0.7,1,0.8,0.9,0.95
+Puglia,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Puglia,nowcast,0.8,0.6,0.9,0.7,0.9,0.99
+Puglia,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Puglia,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Puglia,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Puglia,nowcast,0.7,0.5,0.9,0.6,0.8,1
+Puglia,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
+Puglia,nowcast,0.7,0.6,0.9,0.6,0.8,0.97
+Puglia,nowcast,0.7,0.6,1,0.7,0.8,0.94
+Puglia,nowcast,0.8,0.6,1,0.7,0.8,0.91
+Puglia,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
+Puglia,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
+Puglia,nowcast,0.9,0.6,1.1,0.7,0.9,0.82
+Puglia,nowcast,0.9,0.7,1.2,0.7,0.9,0.75
+Puglia,nowcast,0.9,0.7,1.3,0.8,1,0.64
+Puglia,nowcast,1,0.7,1.4,0.8,1.1,0.52
+Puglia,nowcast,1,0.7,1.5,0.8,1.1,0.46
+Puglia,nowcast,1.1,0.7,1.5,0.8,1.1,0.4
+Sardegna,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
+Sardegna,nowcast,1.6,1.1,2,1.4,1.7,0.01
+Sardegna,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Sardegna,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+Sardegna,nowcast,1.4,1.1,1.8,1.2,1.5,0.01
+Sardegna,nowcast,1.4,1,1.7,1.2,1.5,0.02
+Sardegna,nowcast,1.3,1,1.6,1.2,1.4,0.05
+Sardegna,nowcast,1.2,0.9,1.5,1.1,1.4,0.09
+Sardegna,nowcast,1.2,0.9,1.4,1.1,1.3,0.14
+Sardegna,nowcast,1.1,0.9,1.4,1,1.2,0.22
+Sardegna,nowcast,1.1,0.8,1.3,1,1.2,0.29
+Sardegna,nowcast,1.1,0.8,1.3,1,1.2,0.33
+Sardegna,nowcast,1,0.8,1.2,1,1.1,0.38
+Sardegna,nowcast,1,0.8,1.2,1,1.1,0.39
+Sardegna,nowcast,1,0.8,1.2,0.9,1.1,0.45
+Sardegna,nowcast,1,0.8,1.2,0.9,1.1,0.5
+Sardegna,nowcast,1,0.8,1.2,0.9,1.1,0.59
+Sardegna,nowcast,1,0.7,1.1,0.9,1,0.67
+Sardegna,nowcast,0.9,0.7,1.1,0.9,1,0.74
+Sardegna,nowcast,0.9,0.7,1.1,0.8,1,0.82
+Sardegna,nowcast,0.9,0.7,1.1,0.8,1,0.83
+Sardegna,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+Sardegna,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+Sardegna,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
+Sardegna,nowcast,0.8,0.7,1.1,0.8,0.9,0.91
+Sardegna,nowcast,0.8,0.6,1,0.8,0.9,0.91
+Sardegna,nowcast,0.8,0.6,1.1,0.8,0.9,0.9
+Sardegna,nowcast,0.8,0.6,1,0.8,0.9,0.92
+Sardegna,nowcast,0.8,0.6,1,0.7,0.9,0.93
+Sardegna,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Sardegna,nowcast,0.8,0.5,1,0.7,0.9,0.97
+Sardegna,nowcast,0.7,0.5,1,0.7,0.8,0.97
+Sardegna,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Sardegna,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Sardegna,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
+Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.94
+Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.94
+Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.93
+Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.91
+Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.92
+Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.92
+Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.91
+Sardegna,nowcast,0.7,0.4,1.1,0.6,0.8,0.9
+Sardegna,nowcast,0.7,0.4,1.1,0.6,0.8,0.88
+Sardegna,nowcast,0.8,0.4,1.1,0.6,0.9,0.86
+Sardegna,nowcast,0.8,0.4,1.2,0.6,0.9,0.85
+Sardegna,nowcast,0.8,0.4,1.2,0.6,0.9,0.81
+Sardegna,nowcast,0.8,0.4,1.3,0.6,0.9,0.78
+Sardegna,nowcast,0.8,0.4,1.3,0.6,0.9,0.76
+Sardegna,nowcast,0.9,0.4,1.4,0.6,1,0.69
+Sardegna,nowcast,0.9,0.4,1.4,0.7,1,0.66
+Sardegna,nowcast,0.9,0.4,1.5,0.7,1.1,0.61
+Sardegna,nowcast,1,0.5,1.7,0.7,1.1,0.55
+Sardegna,nowcast,1,0.4,1.8,0.7,1.2,0.46
+Sardegna,nowcast,1.1,0.5,2.1,0.7,1.3,0.36
+Sardegna,nowcast,1.3,0.5,2.3,0.8,1.5,0.23
+Sardegna,nowcast,1.5,0.7,2.7,1,1.8,0.15
+Sardegna,nowcast,1.8,0.7,3.1,1.1,2,0.09
+Sicilia,nowcast,1.7,1.2,2.3,1.5,1.9,0.01
+Sicilia,nowcast,1.7,1.2,2.2,1.5,1.8,0.01
+Sicilia,nowcast,1.7,1.2,2.1,1.4,1.8,0.01
+Sicilia,nowcast,1.6,1.2,2.1,1.4,1.8,0
+Sicilia,nowcast,1.6,1.2,2,1.4,1.7,0
+Sicilia,nowcast,1.6,1.2,2,1.5,1.8,0
+Sicilia,nowcast,1.6,1.2,2,1.4,1.7,0
+Sicilia,nowcast,1.6,1.2,1.9,1.4,1.7,0
+Sicilia,nowcast,1.5,1.2,1.8,1.4,1.7,0
+Sicilia,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Sicilia,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Sicilia,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Sicilia,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Sicilia,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Sicilia,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
+Sicilia,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Sicilia,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
+Sicilia,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Sicilia,nowcast,1.1,0.9,1.4,1.1,1.2,0.11
+Sicilia,nowcast,1.1,0.9,1.3,1,1.2,0.23
+Sicilia,nowcast,1,0.8,1.2,1,1.1,0.4
+Sicilia,nowcast,1,0.8,1.1,0.9,1.1,0.59
+Sicilia,nowcast,0.9,0.8,1.1,0.9,1,0.77
+Sicilia,nowcast,0.9,0.7,1,0.8,1,0.9
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.96
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.97
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.99
+Sicilia,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.87
+Sicilia,nowcast,0.9,0.7,1.1,0.8,1,0.84
+Sicilia,nowcast,0.9,0.8,1.1,0.8,1,0.8
+Sicilia,nowcast,0.9,0.7,1.1,0.8,1,0.79
+Sicilia,nowcast,0.9,0.8,1.1,0.9,1,0.77
+Sicilia,nowcast,0.9,0.8,1.1,0.9,1,0.76
+Sicilia,nowcast,0.9,0.8,1.1,0.9,1,0.81
+Sicilia,nowcast,0.9,0.7,1.1,0.8,1,0.84
+Sicilia,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Sicilia,nowcast,0.8,0.6,1,0.8,0.9,0.96
+Sicilia,nowcast,0.8,0.6,1,0.7,0.9,0.98
+Sicilia,nowcast,0.8,0.6,0.9,0.7,0.9,0.97
+Sicilia,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+Sicilia,nowcast,0.8,0.5,0.9,0.7,0.8,0.97
+Sicilia,nowcast,0.7,0.5,0.9,0.7,0.8,0.97
+Sicilia,nowcast,0.7,0.5,1,0.7,0.8,0.96
+Sicilia,nowcast,0.7,0.5,1,0.7,0.8,0.94
+Sicilia,nowcast,0.8,0.5,1,0.6,0.8,0.93
+Sicilia,nowcast,0.8,0.5,1,0.7,0.8,0.91
+Sicilia,nowcast,0.8,0.5,1.1,0.7,0.9,0.87
+Sicilia,nowcast,0.8,0.5,1.2,0.7,0.9,0.81
+Sicilia,nowcast,0.9,0.5,1.3,0.7,1,0.71
+Sicilia,nowcast,0.9,0.6,1.5,0.7,1,0.57
+Sicilia,nowcast,1.1,0.6,1.8,0.7,1.2,0.44
+Toscana,nowcast,1.8,1.4,2.3,1.6,1.9,0
+Toscana,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Toscana,nowcast,1.7,1.3,2.1,1.6,1.8,0
+Toscana,nowcast,1.7,1.3,2,1.5,1.8,0
+Toscana,nowcast,1.6,1.3,2,1.5,1.8,0
+Toscana,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Toscana,nowcast,1.6,1.3,1.9,1.4,1.6,0
+Toscana,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Toscana,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Toscana,nowcast,1.5,1.3,1.7,1.4,1.5,0
+Toscana,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Toscana,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Toscana,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Toscana,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Toscana,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Toscana,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Toscana,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
+Toscana,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Toscana,nowcast,1.1,1,1.3,1.1,1.2,0.04
+Toscana,nowcast,1.1,1,1.2,1.1,1.2,0.07
+Toscana,nowcast,1.1,1,1.2,1,1.1,0.11
+Toscana,nowcast,1.1,1,1.2,1,1.1,0.14
+Toscana,nowcast,1.1,1,1.2,1,1.1,0.18
+Toscana,nowcast,1,0.9,1.1,1,1.1,0.24
+Toscana,nowcast,1,0.9,1.1,1,1.1,0.37
+Toscana,nowcast,1,0.9,1.1,1,1,0.51
+Toscana,nowcast,1,0.9,1.1,0.9,1,0.68
+Toscana,nowcast,0.9,0.8,1,0.9,1,0.85
+Toscana,nowcast,0.9,0.8,1,0.9,1,0.92
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.97
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Toscana,nowcast,0.9,0.8,1,0.8,0.9,0.99
+Toscana,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.93
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.93
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.94
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.97
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.98
+Toscana,nowcast,0.9,0.8,1,0.8,0.9,0.99
+Toscana,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Toscana,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Toscana,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Toscana,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Toscana,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Toscana,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Toscana,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Toscana,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Toscana,nowcast,0.7,0.5,0.9,0.7,0.8,0.99
+Toscana,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
+Toscana,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
+Toscana,nowcast,0.7,0.5,1,0.6,0.8,0.92
+Toscana,nowcast,0.8,0.5,1.1,0.6,0.8,0.85
+Toscana,nowcast,0.8,0.5,1.2,0.6,0.9,0.77
+Toscana,forecast,0.8,0.5,1.2,0.6,0.9,0.78
+Toscana,forecast,0.8,0.5,1.3,0.6,0.9,0.78
+Toscana,forecast,0.8,0.4,1.3,0.6,0.9,0.78
+Toscana,forecast,0.8,0.4,1.3,0.6,0.9,0.78
+Toscana,forecast,0.8,0.4,1.3,0.6,0.9,0.77
+Toscana,forecast,0.8,0.4,1.3,0.6,0.9,0.76
+Toscana,forecast,0.8,0.3,1.3,0.6,0.9,0.77
+Toscana,forecast,0.8,0.3,1.3,0.5,0.9,0.76
+Toscana,forecast,0.8,0.3,1.4,0.5,0.9,0.77
+Toscana,forecast,0.8,0.3,1.4,0.5,0.9,0.76
+Toscana,forecast,0.8,0.3,1.4,0.5,0.9,0.76
+Toscana,forecast,0.8,0.2,1.3,0.5,0.9,0.76
+Toscana,forecast,0.8,0.2,1.4,0.5,0.9,0.75
+Toscana,forecast,0.7,0.2,1.4,0.5,0.9,0.76
+Trentino-Alto Adige,nowcast,1.6,1.3,2,1.5,1.7,0
+Trentino-Alto Adige,nowcast,1.6,1.2,1.8,1.4,1.7,0
+Trentino-Alto Adige,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Trentino-Alto Adige,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Trentino-Alto Adige,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Trentino-Alto Adige,nowcast,1.4,1.1,1.6,1.3,1.4,0
+Trentino-Alto Adige,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Trentino-Alto Adige,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Trentino-Alto Adige,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Trentino-Alto Adige,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Trentino-Alto Adige,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Trentino-Alto Adige,nowcast,1.1,1,1.3,1.1,1.2,0.08
+Trentino-Alto Adige,nowcast,1.1,1,1.2,1,1.1,0.13
+Trentino-Alto Adige,nowcast,1.1,0.9,1.2,1,1.1,0.21
+Trentino-Alto Adige,nowcast,1,0.9,1.2,1,1.1,0.27
+Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1.1,0.31
+Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1.1,0.36
+Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1.1,0.43
+Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1,0.49
+Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1,0.56
+Trentino-Alto Adige,nowcast,1,0.9,1.1,0.9,1,0.65
+Trentino-Alto Adige,nowcast,1,0.9,1.1,0.9,1,0.73
+Trentino-Alto Adige,nowcast,1,0.9,1,0.9,1,0.78
+Trentino-Alto Adige,nowcast,1,0.9,1,0.9,1,0.79
+Trentino-Alto Adige,nowcast,1,0.9,1,0.9,1,0.83
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.85
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.87
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.89
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.91
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.93
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.96
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Trentino-Alto Adige,nowcast,0.9,0.7,1,0.8,0.9,0.98
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Trentino-Alto Adige,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Trentino-Alto Adige,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Trentino-Alto Adige,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Trentino-Alto Adige,nowcast,0.7,0.5,0.9,0.7,0.8,0.99
+Trentino-Alto Adige,nowcast,0.7,0.5,0.8,0.6,0.8,1
+Trentino-Alto Adige,nowcast,0.7,0.5,0.8,0.6,0.7,1
+Trentino-Alto Adige,nowcast,0.6,0.5,0.8,0.6,0.7,1
+Trentino-Alto Adige,nowcast,0.6,0.4,0.8,0.6,0.7,0.99
+Trentino-Alto Adige,nowcast,0.6,0.4,0.8,0.5,0.7,0.98
+Trentino-Alto Adige,nowcast,0.6,0.4,0.8,0.5,0.7,0.98
+Trentino-Alto Adige,nowcast,0.6,0.3,0.9,0.5,0.7,0.95
+Trentino-Alto Adige,nowcast,0.6,0.3,1.1,0.4,0.7,0.88
+Trentino-Alto Adige,nowcast,0.7,0.4,1.4,0.5,0.8,0.75
+Umbria,nowcast,1.7,1.2,2.3,1.5,1.9,0.01
+Umbria,nowcast,1.7,1.2,2.3,1.4,1.9,0.01
+Umbria,nowcast,1.7,1.2,2.2,1.4,1.8,0
+Umbria,nowcast,1.6,1.2,2.1,1.4,1.8,0
+Umbria,nowcast,1.6,1.2,2.1,1.4,1.7,0
+Umbria,nowcast,1.6,1.2,2,1.4,1.7,0
+Umbria,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Umbria,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
+Umbria,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
+Umbria,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
+Umbria,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Umbria,nowcast,1.3,1,1.6,1.2,1.4,0.04
+Umbria,nowcast,1.2,1,1.5,1.1,1.3,0.07
+Umbria,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
+Umbria,nowcast,1.1,0.9,1.3,1,1.2,0.19
+Umbria,nowcast,1.1,0.8,1.3,1,1.2,0.3
+Umbria,nowcast,1,0.8,1.2,0.9,1.1,0.45
+Umbria,nowcast,1,0.8,1.2,0.9,1.1,0.6
+Umbria,nowcast,0.9,0.7,1.1,0.9,1,0.73
+Umbria,nowcast,0.9,0.7,1.1,0.8,1,0.87
+Umbria,nowcast,0.8,0.6,1,0.8,0.9,0.96
+Umbria,nowcast,0.8,0.6,1,0.7,0.9,0.99
+Umbria,nowcast,0.7,0.5,0.9,0.7,0.8,1
+Umbria,nowcast,0.7,0.5,0.9,0.6,0.8,1
+Umbria,nowcast,0.7,0.5,0.8,0.6,0.7,1
+Umbria,nowcast,0.7,0.5,0.8,0.6,0.7,1
+Umbria,nowcast,0.6,0.5,0.8,0.6,0.7,0.99
+Umbria,nowcast,0.6,0.4,0.8,0.6,0.7,0.99
+Umbria,nowcast,0.6,0.4,0.8,0.5,0.7,0.99
+Umbria,nowcast,0.6,0.4,0.8,0.5,0.7,0.99
+Umbria,nowcast,0.6,0.3,0.8,0.5,0.7,1
+Umbria,nowcast,0.5,0.3,0.7,0.5,0.6,1
+Umbria,nowcast,0.5,0.3,0.8,0.4,0.6,1
+Umbria,nowcast,0.5,0.3,0.7,0.4,0.6,0.99
+Umbria,nowcast,0.5,0.2,0.8,0.4,0.6,0.99
+Umbria,nowcast,0.5,0.2,0.8,0.4,0.6,0.98
+Umbria,nowcast,0.5,0.2,0.8,0.4,0.6,0.97
+Umbria,nowcast,0.5,0.2,0.9,0.4,0.6,0.95
+Umbria,nowcast,0.6,0.3,1,0.4,0.7,0.91
+Umbria,nowcast,0.6,0.3,1.1,0.4,0.8,0.87
+Umbria,nowcast,0.7,0.3,1.2,0.4,0.8,0.82
+Umbria,nowcast,0.7,0.3,1.3,0.5,0.8,0.81
+Umbria,nowcast,0.8,0.3,1.3,0.5,0.8,0.77
+Umbria,nowcast,0.8,0.3,1.3,0.6,0.9,0.74
+Umbria,nowcast,0.8,0.4,1.4,0.6,1,0.72
+Umbria,nowcast,0.8,0.3,1.4,0.6,1,0.7
+Umbria,nowcast,0.9,0.4,1.5,0.6,1,0.65
+Umbria,nowcast,0.9,0.4,1.5,0.6,1,0.62
+Umbria,nowcast,0.9,0.4,1.6,0.7,1.1,0.62
+Umbria,nowcast,0.9,0.4,1.5,0.7,1.1,0.58
+Umbria,nowcast,1,0.4,1.6,0.7,1.1,0.55
+Umbria,nowcast,1,0.4,1.6,0.7,1.1,0.55
+Umbria,nowcast,1,0.4,1.6,0.7,1.2,0.54
+Umbria,nowcast,1,0.4,1.6,0.7,1.1,0.54
+Umbria,nowcast,0.9,0.4,1.5,0.7,1.1,0.57
+Umbria,nowcast,0.9,0.3,1.6,0.6,1.1,0.56
+Umbria,nowcast,1,0.3,1.7,0.6,1.1,0.55
+Umbria,nowcast,1,0.4,1.9,0.7,1.2,0.47
+Umbria,nowcast,1.1,0.4,2,0.7,1.3,0.41
+Umbria,nowcast,1.2,0.5,2.2,0.8,1.4,0.3
+Umbria,nowcast,1.4,0.5,2.5,0.9,1.6,0.21
+Umbria,nowcast,1.5,0.6,2.7,1,1.7,0.15
+Umbria,nowcast,1.7,0.8,3.2,1.1,1.9,0.1
+Valle d'Aosta,nowcast,1.7,1.1,2.3,1.4,1.8,0.01
+Valle d'Aosta,nowcast,1.7,1.2,2.2,1.4,1.8,0.01
+Valle d'Aosta,nowcast,1.6,1.1,2.2,1.4,1.8,0.01
+Valle d'Aosta,nowcast,1.6,1.1,2,1.3,1.7,0.01
+Valle d'Aosta,nowcast,1.5,1.1,2,1.3,1.6,0.02
+Valle d'Aosta,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+Valle d'Aosta,nowcast,1.4,1,1.8,1.2,1.5,0.03
+Valle d'Aosta,nowcast,1.3,0.9,1.6,1.2,1.4,0.07
+Valle d'Aosta,nowcast,1.2,0.9,1.5,1.1,1.4,0.13
+Valle d'Aosta,nowcast,1.2,0.8,1.4,1,1.3,0.2
+Valle d'Aosta,nowcast,1.1,0.8,1.4,1,1.2,0.3
+Valle d'Aosta,nowcast,1,0.8,1.3,0.9,1.2,0.41
+Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1.1,0.5
+Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1.1,0.57
+Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1.1,0.59
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.6
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.54
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1,0.51
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.52
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.56
+Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1,0.63
+Valle d'Aosta,nowcast,0.9,0.7,1.2,0.9,1,0.69
+Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.76
+Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.81
+Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.83
+Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.87
+Valle d'Aosta,nowcast,0.8,0.6,1,0.8,0.9,0.9
+Valle d'Aosta,nowcast,0.8,0.6,1,0.8,0.9,0.92
+Valle d'Aosta,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Valle d'Aosta,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Valle d'Aosta,nowcast,0.8,0.6,1.1,0.7,0.9,0.9
+Valle d'Aosta,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
+Valle d'Aosta,nowcast,0.8,0.6,1.1,0.7,0.9,0.84
+Valle d'Aosta,nowcast,0.9,0.6,1.1,0.7,0.9,0.81
+Valle d'Aosta,nowcast,0.9,0.6,1.1,0.7,0.9,0.79
+Valle d'Aosta,nowcast,0.9,0.6,1.1,0.8,1,0.78
+Valle d'Aosta,nowcast,0.9,0.6,1.2,0.8,1,0.77
+Valle d'Aosta,nowcast,0.9,0.6,1.1,0.8,1,0.8
+Valle d'Aosta,nowcast,0.8,0.5,1.1,0.7,1,0.85
+Valle d'Aosta,nowcast,0.8,0.4,1,0.6,0.9,0.92
+Valle d'Aosta,nowcast,0.7,0.4,1,0.5,0.8,0.97
+Valle d'Aosta,nowcast,0.6,0.3,0.9,0.5,0.8,0.99
+Valle d'Aosta,nowcast,0.5,0.2,0.8,0.4,0.6,0.99
+Valle d'Aosta,nowcast,0.5,0.2,0.8,0.4,0.6,0.99
+Valle d'Aosta,nowcast,0.5,0.2,0.8,0.4,0.6,0.97
+Valle d'Aosta,nowcast,0.6,0.2,0.9,0.4,0.7,0.94
+Valle d'Aosta,nowcast,0.6,0.2,1.1,0.4,0.7,0.89
+Valle d'Aosta,nowcast,0.7,0.3,1.2,0.4,0.8,0.83
+Valle d'Aosta,nowcast,0.7,0.3,1.3,0.5,0.8,0.78
+Valle d'Aosta,nowcast,0.8,0.3,1.4,0.5,0.9,0.75
+Valle d'Aosta,nowcast,0.8,0.3,1.4,0.6,0.9,0.72
+Valle d'Aosta,nowcast,0.9,0.4,1.4,0.6,1,0.67
+Valle d'Aosta,nowcast,0.9,0.4,1.5,0.6,1,0.65
+Valle d'Aosta,nowcast,0.9,0.4,1.6,0.7,1.1,0.6
+Valle d'Aosta,nowcast,1,0.4,1.7,0.6,1.1,0.55
+Valle d'Aosta,nowcast,1.1,0.4,2,0.7,1.2,0.45
+Valle d'Aosta,nowcast,1.1,0.4,2.2,0.7,1.3,0.37
+Valle d'Aosta,nowcast,1.3,0.4,2.5,0.8,1.5,0.26
+Valle d'Aosta,nowcast,1.6,0.5,3,0.9,1.8,0.17
+Valle d'Aosta,nowcast,1.8,0.6,3.5,1,2.1,0.11
+Veneto,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Veneto,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Veneto,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Veneto,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Veneto,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Veneto,nowcast,1.4,1.2,1.6,1.4,1.5,0
+Veneto,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Veneto,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Veneto,nowcast,1.3,1.2,1.5,1.2,1.4,0
+Veneto,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Veneto,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Veneto,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Veneto,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Veneto,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Veneto,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Veneto,nowcast,1.1,1,1.2,1.1,1.2,0.02
+Veneto,nowcast,1.1,1,1.2,1.1,1.1,0.07
+Veneto,nowcast,1.1,1,1.2,1,1.1,0.14
+Veneto,nowcast,1,0.9,1.1,1,1.1,0.29
+Veneto,nowcast,1,0.9,1.1,1,1,0.41
+Veneto,nowcast,1,0.9,1.1,1,1,0.53
+Veneto,nowcast,1,0.9,1.1,1,1,0.63
+Veneto,nowcast,1,0.9,1,0.9,1,0.76
+Veneto,nowcast,1,0.9,1,0.9,1,0.85
+Veneto,nowcast,1,0.9,1,0.9,1,0.89
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.93
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.94
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.95
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.95
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.96
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.97
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.97
+Veneto,nowcast,0.9,0.9,1,0.9,0.9,0.97
+Veneto,nowcast,0.9,0.8,1,0.9,0.9,0.98
+Veneto,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Veneto,nowcast,0.9,0.8,1,0.9,0.9,1
+Veneto,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Veneto,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Veneto,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Veneto,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Veneto,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Veneto,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Veneto,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Veneto,nowcast,0.9,0.8,1,0.8,0.9,0.99
+Veneto,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Veneto,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Veneto,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Veneto,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Veneto,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Veneto,nowcast,0.8,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
+Veneto,nowcast,0.8,0.6,1,0.7,0.8,0.94
+Veneto,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
+Veneto,forecast,0.8,0.6,1,0.7,0.9,0.89
+Veneto,forecast,0.8,0.6,1.1,0.7,0.9,0.88
+Veneto,forecast,0.8,0.6,1.1,0.7,0.9,0.86
+Veneto,forecast,0.8,0.5,1.1,0.7,0.9,0.87
+Veneto,forecast,0.8,0.5,1.1,0.7,0.9,0.86
+Veneto,forecast,0.8,0.5,1.1,0.6,0.9,0.85
+Veneto,forecast,0.8,0.5,1.1,0.6,0.9,0.84
+Veneto,forecast,0.8,0.5,1.1,0.6,0.9,0.83
+Veneto,forecast,0.8,0.4,1.1,0.6,0.9,0.84
+Veneto,forecast,0.8,0.4,1.2,0.6,0.9,0.83
+Veneto,forecast,0.8,0.4,1.2,0.6,0.9,0.83
+Veneto,forecast,0.8,0.4,1.2,0.6,0.9,0.82
+Veneto,forecast,0.8,0.4,1.2,0.6,0.9,0.81
+Veneto,forecast,0.8,0.3,1.2,0.6,0.9,0.81

@@ -1,1002 +1,1038 @@
-region,date,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
-Baden-Wurttemberg,2020-02-26,nowcast,2.1,1.8,2.5,1.9,2.2,0
-Baden-Wurttemberg,2020-02-27,nowcast,2,1.7,2.4,1.9,2.2,0
-Baden-Wurttemberg,2020-02-28,nowcast,2,1.7,2.4,1.8,2.1,0
-Baden-Wurttemberg,2020-02-29,nowcast,2,1.7,2.3,1.8,2.1,0
-Baden-Wurttemberg,2020-03-01,nowcast,1.9,1.7,2.3,1.8,2,0
-Baden-Wurttemberg,2020-03-02,nowcast,1.9,1.6,2.2,1.8,2,0
-Baden-Wurttemberg,2020-03-03,nowcast,1.9,1.6,2.2,1.7,1.9,0
-Baden-Wurttemberg,2020-03-04,nowcast,1.8,1.6,2.1,1.7,1.9,0
-Baden-Wurttemberg,2020-03-05,nowcast,1.8,1.6,2.1,1.7,1.9,0
-Baden-Wurttemberg,2020-03-06,nowcast,1.7,1.5,2,1.6,1.8,0
-Baden-Wurttemberg,2020-03-07,nowcast,1.7,1.5,1.9,1.6,1.7,0
-Baden-Wurttemberg,2020-03-08,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Baden-Wurttemberg,2020-03-09,nowcast,1.5,1.4,1.7,1.5,1.6,0
-Baden-Wurttemberg,2020-03-10,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Baden-Wurttemberg,2020-03-11,nowcast,1.4,1.3,1.6,1.4,1.5,0
-Baden-Wurttemberg,2020-03-12,nowcast,1.4,1.3,1.5,1.3,1.4,0
-Baden-Wurttemberg,2020-03-13,nowcast,1.3,1.2,1.4,1.3,1.4,0
-Baden-Wurttemberg,2020-03-14,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Baden-Wurttemberg,2020-03-15,nowcast,1.2,1.1,1.3,1.2,1.3,0
-Baden-Wurttemberg,2020-03-16,nowcast,1.2,1.1,1.3,1.2,1.2,0
-Baden-Wurttemberg,2020-03-17,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Baden-Wurttemberg,2020-03-18,nowcast,1.2,1.1,1.2,1.1,1.2,0
-Baden-Wurttemberg,2020-03-19,nowcast,1.1,1.1,1.2,1.1,1.1,0
-Baden-Wurttemberg,2020-03-20,nowcast,1.1,1,1.1,1,1.1,0.01
-Baden-Wurttemberg,2020-03-21,nowcast,1,1,1.1,1,1,0.24
-Baden-Wurttemberg,2020-03-22,nowcast,1,0.9,1,1,1,0.74
-Baden-Wurttemberg,2020-03-23,nowcast,1,0.9,1,0.9,1,0.96
-Baden-Wurttemberg,2020-03-24,nowcast,0.9,0.9,1,0.9,0.9,0.99
-Baden-Wurttemberg,2020-03-25,nowcast,0.9,0.9,1,0.9,0.9,1
-Baden-Wurttemberg,2020-03-26,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Baden-Wurttemberg,2020-03-27,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Baden-Wurttemberg,2020-03-28,nowcast,0.8,0.8,0.9,0.8,0.8,1
-Baden-Wurttemberg,2020-03-29,nowcast,0.8,0.7,0.8,0.8,0.8,1
-Baden-Wurttemberg,2020-03-30,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-03-31,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-01,nowcast,0.8,0.7,0.8,0.8,0.8,1
-Baden-Wurttemberg,2020-04-02,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Baden-Wurttemberg,2020-04-03,nowcast,0.8,0.7,0.8,0.8,0.8,1
-Baden-Wurttemberg,2020-04-04,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-05,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-06,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-07,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-08,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Baden-Wurttemberg,2020-04-10,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Baden-Wurttemberg,2020-04-11,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Baden-Wurttemberg,2020-04-12,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Baden-Wurttemberg,2020-04-13,nowcast,0.8,0.7,0.8,0.8,0.8,1
-Baden-Wurttemberg,2020-04-14,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Baden-Wurttemberg,2020-04-15,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Baden-Wurttemberg,2020-04-16,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Baden-Wurttemberg,2020-04-17,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Baden-Wurttemberg,2020-04-18,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-19,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-20,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-21,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Baden-Wurttemberg,2020-04-22,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Baden-Wurttemberg,2020-04-23,forecast,0.8,0.7,1,0.8,0.9,0.94
-Baden-Wurttemberg,2020-04-24,forecast,0.9,0.7,1,0.8,0.9,0.89
-Baden-Wurttemberg,2020-04-25,forecast,0.9,0.6,1.1,0.8,0.9,0.83
-Baden-Wurttemberg,2020-04-26,forecast,0.9,0.6,1.1,0.8,0.9,0.79
-Baden-Wurttemberg,2020-04-27,forecast,0.9,0.6,1.2,0.7,1,0.75
-Baden-Wurttemberg,2020-04-28,forecast,0.9,0.6,1.2,0.7,1,0.71
-Baden-Wurttemberg,2020-04-29,forecast,0.9,0.5,1.3,0.7,1,0.7
-Baden-Wurttemberg,2020-04-30,forecast,0.9,0.5,1.3,0.7,1,0.67
-Baden-Wurttemberg,2020-05-01,forecast,0.9,0.5,1.4,0.7,1,0.66
-Baden-Wurttemberg,2020-05-02,forecast,0.9,0.4,1.4,0.7,1,0.64
-Baden-Wurttemberg,2020-05-03,forecast,0.9,0.4,1.5,0.7,1,0.63
-Baden-Wurttemberg,2020-05-04,forecast,0.9,0.4,1.5,0.6,1,0.62
-Baden-Wurttemberg,2020-05-05,forecast,0.9,0.4,1.5,0.7,1.1,0.62
-Baden-Wurttemberg,2020-05-06,forecast,0.9,0.4,1.6,0.6,1,0.61
-Bavaria,2020-02-26,nowcast,2.2,1.8,2.6,2,2.3,0
-Bavaria,2020-02-27,nowcast,2.1,1.8,2.5,1.9,2.2,0
-Bavaria,2020-02-28,nowcast,2.1,1.8,2.5,1.9,2.2,0
-Bavaria,2020-02-29,nowcast,2.1,1.8,2.4,1.9,2.1,0
-Bavaria,2020-03-01,nowcast,2,1.7,2.4,1.9,2.1,0
-Bavaria,2020-03-02,nowcast,2,1.7,2.3,1.8,2.1,0
-Bavaria,2020-03-03,nowcast,2,1.7,2.3,1.8,2,0
-Bavaria,2020-03-04,nowcast,1.9,1.7,2.2,1.8,2,0
-Bavaria,2020-03-05,nowcast,1.9,1.6,2.2,1.7,1.9,0
-Bavaria,2020-03-06,nowcast,1.8,1.6,2.1,1.7,1.9,0
-Bavaria,2020-03-07,nowcast,1.8,1.6,2,1.6,1.8,0
-Bavaria,2020-03-08,nowcast,1.7,1.5,2,1.6,1.8,0
-Bavaria,2020-03-09,nowcast,1.7,1.5,1.9,1.6,1.7,0
-Bavaria,2020-03-10,nowcast,1.6,1.5,1.9,1.5,1.7,0
-Bavaria,2020-03-11,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Bavaria,2020-03-12,nowcast,1.5,1.4,1.7,1.5,1.6,0
-Bavaria,2020-03-13,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Bavaria,2020-03-14,nowcast,1.4,1.3,1.6,1.3,1.4,0
-Bavaria,2020-03-15,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Bavaria,2020-03-16,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Bavaria,2020-03-17,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Bavaria,2020-03-18,nowcast,1.2,1.1,1.3,1.2,1.3,0
-Bavaria,2020-03-19,nowcast,1.2,1.1,1.3,1.2,1.2,0
-Bavaria,2020-03-20,nowcast,1.2,1.1,1.2,1.1,1.2,0
-Bavaria,2020-03-21,nowcast,1.1,1,1.2,1.1,1.1,0
-Bavaria,2020-03-22,nowcast,1,1,1.1,1,1.1,0.07
-Bavaria,2020-03-23,nowcast,1,1,1.1,1,1,0.43
-Bavaria,2020-03-24,nowcast,1,0.9,1,1,1,0.73
-Bavaria,2020-03-25,nowcast,1,0.9,1,1,1,0.88
-Bavaria,2020-03-26,nowcast,0.9,0.9,1,0.9,1,0.98
-Bavaria,2020-03-27,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Bavaria,2020-03-28,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Bavaria,2020-03-29,nowcast,0.8,0.8,0.8,0.8,0.8,1
-Bavaria,2020-03-30,nowcast,0.8,0.7,0.8,0.8,0.8,1
-Bavaria,2020-03-31,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-01,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-02,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-03,nowcast,0.7,0.7,0.8,0.7,0.7,1
-Bavaria,2020-04-04,nowcast,0.7,0.6,0.7,0.7,0.7,1
-Bavaria,2020-04-05,nowcast,0.7,0.6,0.7,0.7,0.7,1
-Bavaria,2020-04-06,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Bavaria,2020-04-07,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-08,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Bavaria,2020-04-10,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Bavaria,2020-04-11,nowcast,0.8,0.7,0.8,0.8,0.8,1
-Bavaria,2020-04-12,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-13,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-14,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-15,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Bavaria,2020-04-16,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Bavaria,2020-04-17,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Bavaria,2020-04-18,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-19,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-20,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Bavaria,2020-04-21,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Bavaria,2020-04-22,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Bavaria,2020-04-23,forecast,0.8,0.7,0.9,0.7,0.9,0.98
-Bavaria,2020-04-24,forecast,0.8,0.7,1,0.7,0.9,0.95
-Bavaria,2020-04-25,forecast,0.8,0.6,1,0.7,0.9,0.91
-Bavaria,2020-04-26,forecast,0.8,0.6,1.1,0.7,0.9,0.87
-Bavaria,2020-04-27,forecast,0.8,0.6,1.1,0.7,0.9,0.84
-Bavaria,2020-04-28,forecast,0.8,0.6,1.1,0.7,0.9,0.81
-Bavaria,2020-04-29,forecast,0.8,0.5,1.2,0.7,1,0.79
-Bavaria,2020-04-30,forecast,0.8,0.5,1.2,0.7,1,0.77
-Bavaria,2020-05-01,forecast,0.8,0.4,1.3,0.7,0.9,0.74
-Bavaria,2020-05-02,forecast,0.8,0.4,1.3,0.6,1,0.73
-Bavaria,2020-05-03,forecast,0.8,0.4,1.4,0.6,1,0.72
-Bavaria,2020-05-04,forecast,0.8,0.4,1.4,0.6,1,0.7
-Bavaria,2020-05-05,forecast,0.8,0.3,1.4,0.6,1,0.7
-Bavaria,2020-05-06,forecast,0.8,0.3,1.5,0.6,1,0.69
-Berlin,2020-02-27,nowcast,2.2,1.7,2.7,1.9,2.3,0
-Berlin,2020-02-28,nowcast,2.1,1.7,2.6,1.9,2.3,0
-Berlin,2020-02-29,nowcast,2,1.7,2.5,1.8,2.2,0
-Berlin,2020-03-01,nowcast,2,1.6,2.4,1.8,2.1,0
-Berlin,2020-03-02,nowcast,1.9,1.6,2.3,1.8,2.1,0
-Berlin,2020-03-03,nowcast,1.9,1.6,2.2,1.7,2,0
-Berlin,2020-03-04,nowcast,1.8,1.5,2.2,1.7,1.9,0
-Berlin,2020-03-05,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Berlin,2020-03-06,nowcast,1.7,1.5,2,1.6,1.8,0
-Berlin,2020-03-07,nowcast,1.7,1.4,1.9,1.5,1.7,0
-Berlin,2020-03-08,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Berlin,2020-03-09,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Berlin,2020-03-10,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Berlin,2020-03-11,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Berlin,2020-03-12,nowcast,1.4,1.3,1.6,1.4,1.5,0
-Berlin,2020-03-13,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Berlin,2020-03-14,nowcast,1.3,1.2,1.5,1.2,1.4,0
-Berlin,2020-03-15,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Berlin,2020-03-16,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Berlin,2020-03-17,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Berlin,2020-03-18,nowcast,1.1,1,1.2,1.1,1.2,0.01
-Berlin,2020-03-19,nowcast,1.1,1,1.2,1.1,1.1,0.04
-Berlin,2020-03-20,nowcast,1.1,1,1.2,1,1.1,0.17
-Berlin,2020-03-21,nowcast,1,0.9,1.1,1,1,0.51
-Berlin,2020-03-22,nowcast,0.9,0.9,1,0.9,1,0.84
-Berlin,2020-03-23,nowcast,0.9,0.8,1,0.9,1,0.96
-Berlin,2020-03-24,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Berlin,2020-03-25,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Berlin,2020-03-26,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Berlin,2020-03-27,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Berlin,2020-03-28,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Berlin,2020-03-29,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Berlin,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Berlin,2020-03-31,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Berlin,2020-04-01,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Berlin,2020-04-02,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Berlin,2020-04-03,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Berlin,2020-04-04,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Berlin,2020-04-05,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Berlin,2020-04-06,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Berlin,2020-04-07,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Berlin,2020-04-08,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Berlin,2020-04-09,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Berlin,2020-04-10,nowcast,0.9,0.7,1,0.8,0.9,0.96
-Berlin,2020-04-11,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Berlin,2020-04-12,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Berlin,2020-04-13,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Berlin,2020-04-14,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Berlin,2020-04-15,nowcast,0.9,0.7,1,0.8,0.9,0.93
-Berlin,2020-04-16,nowcast,0.9,0.8,1,0.8,1,0.87
-Berlin,2020-04-17,nowcast,0.9,0.8,1.1,0.9,1,0.83
-Berlin,2020-04-18,nowcast,0.9,0.8,1.1,0.9,1,0.83
-Berlin,2020-04-19,nowcast,0.9,0.7,1.1,0.8,1,0.85
-Berlin,2020-04-20,nowcast,0.9,0.7,1.1,0.8,1,0.82
-Berlin,2020-04-21,nowcast,0.9,0.7,1.1,0.9,1,0.72
-Berlin,2020-04-22,nowcast,1,0.8,1.2,0.9,1.1,0.53
-Berlin,2020-04-23,forecast,1,0.8,1.2,0.9,1.1,0.54
-Berlin,2020-04-24,forecast,1,0.7,1.3,0.9,1.1,0.53
-Berlin,2020-04-25,forecast,1,0.7,1.3,0.9,1.1,0.52
-Berlin,2020-04-26,forecast,1,0.7,1.3,0.8,1.1,0.52
-Berlin,2020-04-27,forecast,1,0.6,1.3,0.8,1.1,0.53
-Berlin,2020-04-28,forecast,1,0.6,1.4,0.8,1.1,0.53
-Berlin,2020-04-29,forecast,1,0.6,1.4,0.8,1.1,0.52
-Berlin,2020-04-30,forecast,1,0.6,1.4,0.8,1.1,0.53
-Berlin,2020-05-01,forecast,1,0.5,1.4,0.8,1.1,0.53
-Berlin,2020-05-02,forecast,1,0.5,1.5,0.8,1.1,0.53
-Berlin,2020-05-03,forecast,1,0.5,1.5,0.8,1.2,0.52
-Berlin,2020-05-04,forecast,1,0.5,1.5,0.8,1.1,0.53
-Berlin,2020-05-05,forecast,1,0.4,1.5,0.8,1.1,0.53
-Berlin,2020-05-06,forecast,1,0.4,1.6,0.7,1.1,0.53
-Brandenburg,2020-03-05,nowcast,1.9,1.5,2.3,1.7,2,0
-Brandenburg,2020-03-06,nowcast,1.8,1.5,2.2,1.6,1.9,0
-Brandenburg,2020-03-07,nowcast,1.7,1.4,2.1,1.6,1.8,0
-Brandenburg,2020-03-08,nowcast,1.6,1.3,2,1.5,1.7,0
-Brandenburg,2020-03-09,nowcast,1.6,1.3,1.8,1.4,1.7,0
-Brandenburg,2020-03-10,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Brandenburg,2020-03-11,nowcast,1.5,1.2,1.7,1.3,1.5,0
-Brandenburg,2020-03-12,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Brandenburg,2020-03-13,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Brandenburg,2020-03-14,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Brandenburg,2020-03-15,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Brandenburg,2020-03-16,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Brandenburg,2020-03-17,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Brandenburg,2020-03-18,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Brandenburg,2020-03-19,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Brandenburg,2020-03-20,nowcast,1.2,1.1,1.3,1.1,1.3,0.01
-Brandenburg,2020-03-21,nowcast,1.2,1,1.3,1.1,1.2,0.02
-Brandenburg,2020-03-22,nowcast,1.1,1,1.3,1.1,1.2,0.03
-Brandenburg,2020-03-23,nowcast,1.1,1,1.2,1.1,1.2,0.05
-Brandenburg,2020-03-24,nowcast,1.1,1,1.2,1.1,1.2,0.07
-Brandenburg,2020-03-25,nowcast,1.1,1,1.2,1,1.1,0.09
-Brandenburg,2020-03-26,nowcast,1.1,1,1.2,1,1.1,0.17
-Brandenburg,2020-03-27,nowcast,1,0.9,1.1,1,1.1,0.39
-Brandenburg,2020-03-28,nowcast,1,0.9,1.1,0.9,1,0.63
-Brandenburg,2020-03-29,nowcast,0.9,0.8,1,0.9,1,0.83
-Brandenburg,2020-03-30,nowcast,0.9,0.8,1,0.9,0.9,0.93
-Brandenburg,2020-03-31,nowcast,0.9,0.8,1,0.9,0.9,0.95
-Brandenburg,2020-04-01,nowcast,0.9,0.8,1,0.9,0.9,0.93
-Brandenburg,2020-04-02,nowcast,0.9,0.8,1,0.9,0.9,0.95
-Brandenburg,2020-04-03,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Brandenburg,2020-04-04,nowcast,0.8,0.7,1,0.8,0.9,0.99
-Brandenburg,2020-04-05,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Brandenburg,2020-04-06,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Brandenburg,2020-04-07,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Brandenburg,2020-04-08,nowcast,0.9,0.7,1,0.8,0.9,0.95
-Brandenburg,2020-04-09,nowcast,0.9,0.8,1,0.8,0.9,0.87
-Brandenburg,2020-04-10,nowcast,0.9,0.8,1.1,0.9,1,0.8
-Brandenburg,2020-04-11,nowcast,0.9,0.8,1.1,0.9,1,0.78
-Brandenburg,2020-04-12,nowcast,0.9,0.8,1.1,0.9,1,0.84
-Brandenburg,2020-04-13,nowcast,0.9,0.8,1,0.9,1,0.91
-Brandenburg,2020-04-14,nowcast,0.9,0.7,1,0.8,0.9,0.94
-Brandenburg,2020-04-15,nowcast,0.9,0.7,1,0.8,0.9,0.95
-Brandenburg,2020-04-16,nowcast,0.9,0.7,1,0.8,0.9,0.95
-Brandenburg,2020-04-17,nowcast,0.8,0.7,1,0.8,0.9,0.95
-Brandenburg,2020-04-18,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Brandenburg,2020-04-19,nowcast,0.8,0.6,1,0.7,0.9,0.97
-Brandenburg,2020-04-20,nowcast,0.8,0.6,1,0.7,0.9,0.97
-Brandenburg,2020-04-21,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Brandenburg,2020-04-22,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
-Brandenburg,2020-04-23,forecast,0.8,0.6,1.1,0.7,0.9,0.87
-Brandenburg,2020-04-24,forecast,0.8,0.5,1.1,0.7,0.9,0.86
-Brandenburg,2020-04-25,forecast,0.8,0.5,1.1,0.7,0.9,0.85
-Brandenburg,2020-04-26,forecast,0.8,0.5,1.1,0.7,0.9,0.84
-Brandenburg,2020-04-27,forecast,0.8,0.5,1.2,0.7,0.9,0.83
-Brandenburg,2020-04-28,forecast,0.8,0.5,1.1,0.7,0.9,0.84
-Brandenburg,2020-04-29,forecast,0.8,0.4,1.2,0.6,0.9,0.82
-Brandenburg,2020-04-30,forecast,0.8,0.4,1.2,0.6,0.9,0.81
-Brandenburg,2020-05-01,forecast,0.8,0.4,1.2,0.6,0.9,0.82
-Brandenburg,2020-05-02,forecast,0.8,0.3,1.2,0.6,0.9,0.82
-Brandenburg,2020-05-03,forecast,0.8,0.3,1.2,0.6,0.9,0.82
-Brandenburg,2020-05-04,forecast,0.8,0.3,1.2,0.6,0.9,0.82
-Brandenburg,2020-05-05,forecast,0.8,0.3,1.2,0.6,0.9,0.82
-Brandenburg,2020-05-06,forecast,0.8,0.2,1.3,0.6,0.9,0.82
-Bremen,2020-03-04,nowcast,1.8,1.3,2.4,1.6,2,0
-Bremen,2020-03-05,nowcast,1.7,1.2,2.2,1.5,1.9,0
-Bremen,2020-03-06,nowcast,1.6,1.2,2.1,1.4,1.8,0.01
-Bremen,2020-03-07,nowcast,1.5,1.1,1.9,1.3,1.7,0.01
-Bremen,2020-03-08,nowcast,1.5,1.2,1.9,1.3,1.6,0.01
-Bremen,2020-03-09,nowcast,1.4,1.1,1.8,1.3,1.6,0.01
-Bremen,2020-03-10,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
-Bremen,2020-03-11,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Bremen,2020-03-12,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Bremen,2020-03-13,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-Bremen,2020-03-14,nowcast,1.3,1,1.5,1.2,1.4,0.05
-Bremen,2020-03-15,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
-Bremen,2020-03-16,nowcast,1.1,0.9,1.4,1,1.2,0.24
-Bremen,2020-03-17,nowcast,1,0.8,1.3,1,1.2,0.36
-Bremen,2020-03-18,nowcast,1,0.8,1.2,1,1.1,0.42
-Bremen,2020-03-19,nowcast,1,0.8,1.2,0.9,1.1,0.46
-Bremen,2020-03-20,nowcast,1,0.8,1.2,0.9,1.1,0.5
-Bremen,2020-03-21,nowcast,1,0.8,1.2,0.9,1.1,0.52
-Bremen,2020-03-22,nowcast,1,0.8,1.2,0.9,1,0.59
-Bremen,2020-03-23,nowcast,1,0.8,1.2,0.9,1,0.63
-Bremen,2020-03-24,nowcast,1,0.8,1.1,0.9,1,0.66
-Bremen,2020-03-25,nowcast,1,0.8,1.2,0.9,1,0.61
-Bremen,2020-03-26,nowcast,1,0.8,1.2,0.9,1,0.55
-Bremen,2020-03-27,nowcast,1,0.8,1.2,0.9,1.1,0.55
-Bremen,2020-03-28,nowcast,1,0.8,1.2,0.9,1,0.56
-Bremen,2020-03-29,nowcast,1,0.8,1.2,0.9,1.1,0.54
-Bremen,2020-03-30,nowcast,1,0.8,1.2,0.9,1.1,0.59
-Bremen,2020-03-31,nowcast,1,0.8,1.2,0.9,1.1,0.56
-Bremen,2020-04-01,nowcast,1,0.8,1.2,0.9,1.1,0.54
-Bremen,2020-04-02,nowcast,1,0.8,1.2,0.9,1.1,0.51
-Bremen,2020-04-03,nowcast,1,0.8,1.2,0.9,1.1,0.48
-Bremen,2020-04-04,nowcast,1,0.8,1.3,0.9,1.1,0.39
-Bremen,2020-04-05,nowcast,1.1,0.9,1.3,1,1.1,0.3
-Bremen,2020-04-06,nowcast,1.1,0.9,1.4,1,1.2,0.2
-Bremen,2020-04-07,nowcast,1.1,0.9,1.4,1,1.2,0.11
-Bremen,2020-04-08,nowcast,1.2,1,1.5,1.1,1.3,0.06
-Bremen,2020-04-09,nowcast,1.2,1,1.5,1.1,1.3,0.03
-Bremen,2020-04-10,nowcast,1.3,1,1.5,1.2,1.3,0.02
-Bremen,2020-04-11,nowcast,1.2,1,1.5,1.2,1.3,0.03
-Bremen,2020-04-12,nowcast,1.2,1,1.4,1.1,1.3,0.05
-Bremen,2020-04-13,nowcast,1.2,1,1.4,1.1,1.3,0.07
-Bremen,2020-04-14,nowcast,1.2,1,1.4,1.1,1.3,0.08
-Bremen,2020-04-15,nowcast,1.2,1,1.4,1.1,1.2,0.08
-Bremen,2020-04-16,nowcast,1.2,0.9,1.4,1.1,1.2,0.1
-Bremen,2020-04-17,nowcast,1.1,0.9,1.3,1,1.2,0.16
-Bremen,2020-04-18,nowcast,1.1,0.9,1.3,1,1.2,0.26
-Bremen,2020-04-19,nowcast,1,0.8,1.3,1,1.1,0.35
-Bremen,2020-04-20,nowcast,1,0.8,1.3,1,1.1,0.35
-Bremen,2020-04-21,nowcast,1.1,0.8,1.3,1,1.2,0.32
-Bremen,2020-04-22,nowcast,1.1,0.8,1.4,1,1.2,0.25
-Hamburg,2020-02-29,nowcast,2.1,1.7,2.5,1.9,2.2,0
-Hamburg,2020-03-01,nowcast,2,1.6,2.4,1.8,2.1,0
-Hamburg,2020-03-02,nowcast,2,1.6,2.3,1.8,2.1,0
-Hamburg,2020-03-03,nowcast,1.9,1.6,2.3,1.7,2,0
-Hamburg,2020-03-04,nowcast,1.8,1.5,2.2,1.7,2,0
-Hamburg,2020-03-05,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Hamburg,2020-03-06,nowcast,1.7,1.4,2,1.6,1.8,0
-Hamburg,2020-03-07,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Hamburg,2020-03-08,nowcast,1.6,1.3,1.8,1.5,1.6,0
-Hamburg,2020-03-09,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Hamburg,2020-03-10,nowcast,1.4,1.3,1.6,1.3,1.5,0
-Hamburg,2020-03-11,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Hamburg,2020-03-12,nowcast,1.3,1.1,1.5,1.2,1.3,0
-Hamburg,2020-03-13,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Hamburg,2020-03-14,nowcast,1.2,1,1.3,1.1,1.2,0.02
-Hamburg,2020-03-15,nowcast,1.1,1,1.2,1,1.1,0.09
-Hamburg,2020-03-16,nowcast,1,0.9,1.2,1,1.1,0.22
-Hamburg,2020-03-17,nowcast,1,0.9,1.1,1,1.1,0.36
-Hamburg,2020-03-18,nowcast,1,0.9,1.1,1,1,0.51
-Hamburg,2020-03-19,nowcast,1,0.9,1.1,0.9,1,0.65
-Hamburg,2020-03-20,nowcast,1,0.9,1,0.9,1,0.77
-Hamburg,2020-03-21,nowcast,0.9,0.9,1,0.9,1,0.86
-Hamburg,2020-03-22,nowcast,0.9,0.8,1,0.9,1,0.9
-Hamburg,2020-03-23,nowcast,0.9,0.8,1,0.9,1,0.92
-Hamburg,2020-03-24,nowcast,0.9,0.8,1,0.9,1,0.91
-Hamburg,2020-03-25,nowcast,0.9,0.8,1,0.9,1,0.9
-Hamburg,2020-03-26,nowcast,0.9,0.8,1,0.9,1,0.91
-Hamburg,2020-03-27,nowcast,0.9,0.8,1,0.9,1,0.94
-Hamburg,2020-03-28,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Hamburg,2020-03-29,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Hamburg,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Hamburg,2020-03-31,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Hamburg,2020-04-01,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Hamburg,2020-04-02,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Hamburg,2020-04-03,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Hamburg,2020-04-04,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Hamburg,2020-04-05,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Hamburg,2020-04-06,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Hamburg,2020-04-07,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Hamburg,2020-04-08,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Hamburg,2020-04-09,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Hamburg,2020-04-10,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Hamburg,2020-04-11,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Hamburg,2020-04-12,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Hamburg,2020-04-13,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Hamburg,2020-04-14,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Hamburg,2020-04-15,nowcast,0.8,0.6,1,0.7,0.8,0.97
-Hamburg,2020-04-16,nowcast,0.8,0.6,1,0.7,0.9,0.95
-Hamburg,2020-04-17,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Hamburg,2020-04-18,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Hamburg,2020-04-19,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-Hamburg,2020-04-20,nowcast,0.7,0.5,0.9,0.7,0.8,0.97
-Hamburg,2020-04-21,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
-Hamburg,2020-04-22,nowcast,0.8,0.5,1,0.6,0.9,0.9
-Hamburg,2020-04-23,forecast,0.7,0.5,1.1,0.6,0.8,0.9
-Hamburg,2020-04-24,forecast,0.7,0.4,1.1,0.6,0.9,0.89
-Hamburg,2020-04-25,forecast,0.7,0.4,1.1,0.6,0.8,0.87
-Hamburg,2020-04-26,forecast,0.7,0.3,1.1,0.6,0.9,0.87
-Hamburg,2020-04-27,forecast,0.7,0.3,1.2,0.5,0.8,0.86
-Hamburg,2020-04-28,forecast,0.7,0.3,1.2,0.5,0.9,0.86
-Hamburg,2020-04-29,forecast,0.7,0.2,1.2,0.5,0.9,0.85
-Hamburg,2020-04-30,forecast,0.7,0.2,1.2,0.5,0.9,0.84
-Hamburg,2020-05-01,forecast,0.7,0,1.1,0.5,0.9,0.83
-Hamburg,2020-05-02,forecast,0.7,0,1.1,0.5,0.9,0.83
-Hamburg,2020-05-03,forecast,0.7,0,1.2,0.5,0.9,0.82
-Hamburg,2020-05-04,forecast,0.7,0,1.2,0.4,0.9,0.81
-Hamburg,2020-05-05,forecast,0.7,0,1.2,0.4,0.9,0.82
-Hamburg,2020-05-06,forecast,0.7,0,1.2,0.4,0.9,0.82
-Hesse,2020-02-26,nowcast,2.2,1.7,2.7,2,2.4,0
-Hesse,2020-02-27,nowcast,2.2,1.7,2.7,1.9,2.3,0
-Hesse,2020-02-28,nowcast,2.1,1.7,2.6,1.9,2.2,0
-Hesse,2020-02-29,nowcast,2.1,1.7,2.5,1.9,2.2,0
-Hesse,2020-03-01,nowcast,2.1,1.7,2.5,1.9,2.2,0
-Hesse,2020-03-02,nowcast,2,1.6,2.4,1.8,2.1,0
-Hesse,2020-03-03,nowcast,2,1.6,2.4,1.8,2.1,0
-Hesse,2020-03-04,nowcast,1.9,1.6,2.3,1.8,2,0
-Hesse,2020-03-05,nowcast,1.9,1.6,2.2,1.7,2,0
-Hesse,2020-03-06,nowcast,1.8,1.5,2.1,1.7,1.9,0
-Hesse,2020-03-07,nowcast,1.7,1.5,2,1.6,1.8,0
-Hesse,2020-03-08,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Hesse,2020-03-09,nowcast,1.6,1.4,1.8,1.4,1.6,0
-Hesse,2020-03-10,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Hesse,2020-03-11,nowcast,1.4,1.3,1.6,1.4,1.5,0
-Hesse,2020-03-12,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Hesse,2020-03-13,nowcast,1.3,1.2,1.5,1.2,1.3,0
-Hesse,2020-03-14,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Hesse,2020-03-15,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Hesse,2020-03-16,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Hesse,2020-03-17,nowcast,1.1,1,1.2,1.1,1.2,0
-Hesse,2020-03-18,nowcast,1.1,1,1.2,1.1,1.2,0.01
-Hesse,2020-03-19,nowcast,1.1,1,1.2,1.1,1.1,0.02
-Hesse,2020-03-20,nowcast,1.1,1,1.2,1,1.1,0.11
-Hesse,2020-03-21,nowcast,1,0.9,1.1,1,1.1,0.29
-Hesse,2020-03-22,nowcast,1,0.9,1.1,1,1,0.57
-Hesse,2020-03-23,nowcast,1,0.9,1,0.9,1,0.75
-Hesse,2020-03-24,nowcast,1,0.9,1,0.9,1,0.8
-Hesse,2020-03-25,nowcast,1,0.9,1,0.9,1,0.79
-Hesse,2020-03-26,nowcast,1,0.9,1,0.9,1,0.84
-Hesse,2020-03-27,nowcast,0.9,0.9,1,0.9,1,0.93
-Hesse,2020-03-28,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Hesse,2020-03-29,nowcast,0.9,0.8,1,0.9,0.9,1
-Hesse,2020-03-30,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Hesse,2020-03-31,nowcast,0.9,0.8,0.9,0.9,0.9,0.99
-Hesse,2020-04-01,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Hesse,2020-04-02,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Hesse,2020-04-03,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Hesse,2020-04-04,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Hesse,2020-04-05,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Hesse,2020-04-06,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Hesse,2020-04-07,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Hesse,2020-04-08,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Hesse,2020-04-09,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Hesse,2020-04-10,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Hesse,2020-04-11,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Hesse,2020-04-12,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Hesse,2020-04-13,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Hesse,2020-04-14,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Hesse,2020-04-15,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Hesse,2020-04-16,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Hesse,2020-04-17,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Hesse,2020-04-18,nowcast,0.9,0.7,1,0.8,0.9,0.98
-Hesse,2020-04-19,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Hesse,2020-04-20,nowcast,0.9,0.8,1,0.8,0.9,0.9
-Hesse,2020-04-21,nowcast,1,0.8,1.1,0.9,1,0.68
-Hesse,2020-04-22,nowcast,1,0.9,1.3,0.9,1.1,0.34
-Hesse,2020-04-23,forecast,1.1,0.9,1.3,1,1.1,0.3
-Hesse,2020-04-24,forecast,1.1,0.8,1.4,1,1.2,0.28
-Hesse,2020-04-25,forecast,1.1,0.8,1.5,0.9,1.2,0.27
-Hesse,2020-04-26,forecast,1.1,0.8,1.5,0.9,1.2,0.25
-Hesse,2020-04-27,forecast,1.1,0.8,1.6,0.9,1.2,0.25
-Hesse,2020-04-28,forecast,1.2,0.7,1.7,1,1.3,0.25
-Hesse,2020-04-29,forecast,1.2,0.7,1.8,0.9,1.3,0.25
-Hesse,2020-04-30,forecast,1.2,0.7,1.8,0.9,1.3,0.25
-Hesse,2020-05-01,forecast,1.2,0.7,1.8,0.9,1.3,0.26
-Hesse,2020-05-02,forecast,1.2,0.7,2,0.9,1.3,0.25
-Hesse,2020-05-03,forecast,1.2,0.6,2,0.9,1.3,0.26
-Hesse,2020-05-04,forecast,1.2,0.6,2.1,0.9,1.4,0.26
-Hesse,2020-05-05,forecast,1.2,0.6,2.1,0.9,1.4,0.27
-Hesse,2020-05-06,forecast,1.2,0.6,2.2,0.9,1.4,0.27
-Lower Saxony,2020-02-27,nowcast,2.2,1.7,2.7,1.9,2.3,0
-Lower Saxony,2020-02-28,nowcast,2.1,1.7,2.6,1.9,2.2,0
-Lower Saxony,2020-02-29,nowcast,2.1,1.7,2.5,1.9,2.2,0
-Lower Saxony,2020-03-01,nowcast,2,1.7,2.4,1.8,2.1,0
-Lower Saxony,2020-03-02,nowcast,2,1.7,2.4,1.8,2.1,0
-Lower Saxony,2020-03-03,nowcast,1.9,1.6,2.3,1.8,2,0
-Lower Saxony,2020-03-04,nowcast,1.9,1.6,2.2,1.7,2,0
-Lower Saxony,2020-03-05,nowcast,1.8,1.6,2.2,1.7,1.9,0
-Lower Saxony,2020-03-06,nowcast,1.8,1.5,2,1.6,1.8,0
-Lower Saxony,2020-03-07,nowcast,1.7,1.5,1.9,1.6,1.8,0
-Lower Saxony,2020-03-08,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Lower Saxony,2020-03-09,nowcast,1.6,1.4,1.8,1.5,1.6,0
-Lower Saxony,2020-03-10,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Lower Saxony,2020-03-11,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Lower Saxony,2020-03-12,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Lower Saxony,2020-03-13,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Lower Saxony,2020-03-14,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Lower Saxony,2020-03-15,nowcast,1.2,1.1,1.3,1.2,1.3,0
-Lower Saxony,2020-03-16,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Lower Saxony,2020-03-17,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Lower Saxony,2020-03-18,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Lower Saxony,2020-03-19,nowcast,1.1,1.1,1.2,1.1,1.2,0
-Lower Saxony,2020-03-20,nowcast,1.1,1,1.2,1.1,1.1,0.02
-Lower Saxony,2020-03-21,nowcast,1,1,1.1,1,1.1,0.17
-Lower Saxony,2020-03-22,nowcast,1,0.9,1.1,1,1,0.53
-Lower Saxony,2020-03-23,nowcast,1,0.9,1,0.9,1,0.82
-Lower Saxony,2020-03-24,nowcast,0.9,0.9,1,0.9,1,0.94
-Lower Saxony,2020-03-25,nowcast,0.9,0.9,1,0.9,1,0.96
-Lower Saxony,2020-03-26,nowcast,0.9,0.9,1,0.9,0.9,0.98
-Lower Saxony,2020-03-27,nowcast,0.9,0.8,1,0.9,0.9,1
-Lower Saxony,2020-03-28,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lower Saxony,2020-03-29,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Lower Saxony,2020-03-30,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Lower Saxony,2020-03-31,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Lower Saxony,2020-04-01,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Lower Saxony,2020-04-02,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Lower Saxony,2020-04-03,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Lower Saxony,2020-04-04,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Lower Saxony,2020-04-05,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Lower Saxony,2020-04-06,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Lower Saxony,2020-04-07,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Lower Saxony,2020-04-08,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Lower Saxony,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Lower Saxony,2020-04-10,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
-Lower Saxony,2020-04-11,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Lower Saxony,2020-04-12,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Lower Saxony,2020-04-13,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Lower Saxony,2020-04-14,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Lower Saxony,2020-04-15,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Lower Saxony,2020-04-16,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Lower Saxony,2020-04-17,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Lower Saxony,2020-04-18,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Lower Saxony,2020-04-19,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Lower Saxony,2020-04-20,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Lower Saxony,2020-04-21,nowcast,0.8,0.6,1,0.7,0.8,0.97
-Lower Saxony,2020-04-22,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-Lower Saxony,2020-04-23,forecast,0.9,0.7,1.1,0.8,0.9,0.84
-Lower Saxony,2020-04-24,forecast,0.9,0.6,1.1,0.8,0.9,0.8
-Lower Saxony,2020-04-25,forecast,0.9,0.6,1.2,0.7,0.9,0.76
-Lower Saxony,2020-04-26,forecast,0.9,0.6,1.2,0.7,0.9,0.74
-Lower Saxony,2020-04-27,forecast,0.9,0.5,1.2,0.7,1,0.72
-Lower Saxony,2020-04-28,forecast,0.9,0.5,1.3,0.7,1,0.71
-Lower Saxony,2020-04-29,forecast,0.9,0.5,1.3,0.7,1,0.69
-Lower Saxony,2020-04-30,forecast,0.9,0.5,1.4,0.6,1,0.67
-Lower Saxony,2020-05-01,forecast,0.9,0.5,1.4,0.7,1,0.68
-Lower Saxony,2020-05-02,forecast,0.9,0.4,1.5,0.6,1,0.65
-Lower Saxony,2020-05-03,forecast,0.9,0.4,1.5,0.6,1,0.65
-Lower Saxony,2020-05-04,forecast,0.9,0.4,1.5,0.6,1,0.65
-Lower Saxony,2020-05-05,forecast,0.9,0.3,1.6,0.6,1,0.64
-Lower Saxony,2020-05-06,forecast,0.9,0.3,1.6,0.6,1,0.63
-Mecklenburg-Vorpommern,2020-03-06,nowcast,1.8,1.4,2.3,1.6,1.9,0
-Mecklenburg-Vorpommern,2020-03-07,nowcast,1.7,1.3,2.2,1.5,1.9,0
-Mecklenburg-Vorpommern,2020-03-08,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Mecklenburg-Vorpommern,2020-03-09,nowcast,1.6,1.2,2,1.4,1.7,0
-Mecklenburg-Vorpommern,2020-03-10,nowcast,1.5,1.2,1.9,1.4,1.7,0
-Mecklenburg-Vorpommern,2020-03-11,nowcast,1.5,1.2,1.8,1.3,1.6,0
-Mecklenburg-Vorpommern,2020-03-12,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
-Mecklenburg-Vorpommern,2020-03-13,nowcast,1.3,1,1.6,1.2,1.4,0.04
-Mecklenburg-Vorpommern,2020-03-14,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
-Mecklenburg-Vorpommern,2020-03-15,nowcast,1.1,0.9,1.3,1,1.2,0.2
-Mecklenburg-Vorpommern,2020-03-16,nowcast,1.1,0.9,1.3,1,1.1,0.27
-Mecklenburg-Vorpommern,2020-03-17,nowcast,1.1,0.9,1.3,1,1.2,0.28
-Mecklenburg-Vorpommern,2020-03-18,nowcast,1.1,0.9,1.3,1,1.1,0.24
-Mecklenburg-Vorpommern,2020-03-19,nowcast,1.1,0.9,1.3,1,1.1,0.23
-Mecklenburg-Vorpommern,2020-03-20,nowcast,1.1,0.9,1.3,1,1.1,0.27
-Mecklenburg-Vorpommern,2020-03-21,nowcast,1,0.8,1.2,1,1.1,0.39
-Mecklenburg-Vorpommern,2020-03-22,nowcast,1,0.8,1.2,0.9,1.1,0.52
-Mecklenburg-Vorpommern,2020-03-23,nowcast,0.9,0.8,1.1,0.9,1,0.68
-Mecklenburg-Vorpommern,2020-03-24,nowcast,0.9,0.7,1.1,0.8,1,0.79
-Mecklenburg-Vorpommern,2020-03-25,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
-Mecklenburg-Vorpommern,2020-03-26,nowcast,0.8,0.7,1,0.8,0.9,0.92
-Mecklenburg-Vorpommern,2020-03-27,nowcast,0.8,0.6,1,0.7,0.9,0.97
-Mecklenburg-Vorpommern,2020-03-28,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Mecklenburg-Vorpommern,2020-03-29,nowcast,0.7,0.5,0.9,0.6,0.8,1
-Mecklenburg-Vorpommern,2020-03-30,nowcast,0.7,0.5,0.8,0.6,0.8,1
-Mecklenburg-Vorpommern,2020-03-31,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Mecklenburg-Vorpommern,2020-04-01,nowcast,0.6,0.5,0.8,0.6,0.7,0.99
-Mecklenburg-Vorpommern,2020-04-02,nowcast,0.6,0.5,0.9,0.6,0.7,0.99
-Mecklenburg-Vorpommern,2020-04-03,nowcast,0.6,0.5,0.9,0.5,0.7,0.99
-Mecklenburg-Vorpommern,2020-04-04,nowcast,0.6,0.4,0.8,0.5,0.7,0.99
-Mecklenburg-Vorpommern,2020-04-05,nowcast,0.6,0.4,0.8,0.5,0.7,0.99
-Mecklenburg-Vorpommern,2020-04-06,nowcast,0.6,0.4,0.8,0.5,0.7,0.99
-Mecklenburg-Vorpommern,2020-04-07,nowcast,0.6,0.4,0.8,0.5,0.7,0.98
-Mecklenburg-Vorpommern,2020-04-08,nowcast,0.6,0.4,0.9,0.5,0.7,0.97
-Mecklenburg-Vorpommern,2020-04-09,nowcast,0.6,0.4,0.9,0.5,0.7,0.96
-Mecklenburg-Vorpommern,2020-04-10,nowcast,0.7,0.4,1,0.5,0.7,0.94
-Mecklenburg-Vorpommern,2020-04-11,nowcast,0.7,0.4,1,0.5,0.8,0.92
-Mecklenburg-Vorpommern,2020-04-12,nowcast,0.7,0.4,1,0.6,0.8,0.92
-Mecklenburg-Vorpommern,2020-04-13,nowcast,0.7,0.3,1,0.5,0.8,0.92
-Mecklenburg-Vorpommern,2020-04-14,nowcast,0.7,0.4,1.1,0.5,0.8,0.89
-Mecklenburg-Vorpommern,2020-04-15,nowcast,0.8,0.4,1.3,0.6,0.9,0.77
-Mecklenburg-Vorpommern,2020-04-16,nowcast,0.9,0.5,1.5,0.7,1,0.6
-Mecklenburg-Vorpommern,2020-04-17,nowcast,1.1,0.5,1.7,0.8,1.2,0.42
-Mecklenburg-Vorpommern,2020-04-18,nowcast,1.1,0.6,1.8,0.8,1.3,0.34
-Mecklenburg-Vorpommern,2020-04-19,nowcast,1.2,0.6,1.9,0.8,1.3,0.31
-Mecklenburg-Vorpommern,2020-04-20,nowcast,1.2,0.7,1.9,1,1.5,0.24
-Mecklenburg-Vorpommern,2020-04-21,nowcast,1.3,0.7,2.1,0.9,1.4,0.22
-Mecklenburg-Vorpommern,2020-04-22,nowcast,1.3,0.6,2.1,0.9,1.5,0.23
-North Rhine-Westphalia,2020-02-26,nowcast,1.9,1.7,2.3,1.8,2,0
-North Rhine-Westphalia,2020-02-27,nowcast,1.9,1.6,2.2,1.7,2,0
-North Rhine-Westphalia,2020-02-28,nowcast,1.8,1.6,2.1,1.7,1.9,0
-North Rhine-Westphalia,2020-02-29,nowcast,1.8,1.6,2.1,1.7,1.9,0
-North Rhine-Westphalia,2020-03-01,nowcast,1.8,1.5,2,1.7,1.8,0
-North Rhine-Westphalia,2020-03-02,nowcast,1.8,1.5,2,1.7,1.8,0
-North Rhine-Westphalia,2020-03-03,nowcast,1.8,1.6,2,1.6,1.8,0
-North Rhine-Westphalia,2020-03-04,nowcast,1.7,1.5,2,1.6,1.8,0
-North Rhine-Westphalia,2020-03-05,nowcast,1.7,1.5,1.9,1.6,1.7,0
-North Rhine-Westphalia,2020-03-06,nowcast,1.6,1.5,1.9,1.5,1.7,0
-North Rhine-Westphalia,2020-03-07,nowcast,1.6,1.4,1.8,1.5,1.6,0
-North Rhine-Westphalia,2020-03-08,nowcast,1.5,1.4,1.7,1.4,1.6,0
-North Rhine-Westphalia,2020-03-09,nowcast,1.4,1.3,1.6,1.4,1.5,0
-North Rhine-Westphalia,2020-03-10,nowcast,1.4,1.3,1.5,1.3,1.4,0
-North Rhine-Westphalia,2020-03-11,nowcast,1.3,1.2,1.5,1.3,1.4,0
-North Rhine-Westphalia,2020-03-12,nowcast,1.3,1.2,1.4,1.2,1.3,0
-North Rhine-Westphalia,2020-03-13,nowcast,1.2,1.1,1.3,1.1,1.2,0
-North Rhine-Westphalia,2020-03-14,nowcast,1.1,1.1,1.2,1.1,1.2,0
-North Rhine-Westphalia,2020-03-15,nowcast,1.1,1,1.2,1.1,1.1,0
-North Rhine-Westphalia,2020-03-16,nowcast,1.1,1,1.1,1,1.1,0.01
-North Rhine-Westphalia,2020-03-17,nowcast,1.1,1,1.1,1,1.1,0.01
-North Rhine-Westphalia,2020-03-18,nowcast,1.1,1,1.1,1.1,1.1,0
-North Rhine-Westphalia,2020-03-19,nowcast,1.1,1,1.1,1,1.1,0.01
-North Rhine-Westphalia,2020-03-20,nowcast,1,1,1.1,1,1.1,0.06
-North Rhine-Westphalia,2020-03-21,nowcast,1,1,1.1,1,1,0.26
-North Rhine-Westphalia,2020-03-22,nowcast,1,0.9,1,1,1,0.62
-North Rhine-Westphalia,2020-03-23,nowcast,1,0.9,1,1,1,0.83
-North Rhine-Westphalia,2020-03-24,nowcast,1,0.9,1,1,1,0.89
-North Rhine-Westphalia,2020-03-25,nowcast,1,0.9,1,0.9,1,0.91
-North Rhine-Westphalia,2020-03-26,nowcast,1,0.9,1,0.9,1,0.97
-North Rhine-Westphalia,2020-03-27,nowcast,0.9,0.9,1,0.9,0.9,1
-North Rhine-Westphalia,2020-03-28,nowcast,0.9,0.8,0.9,0.9,0.9,1
-North Rhine-Westphalia,2020-03-29,nowcast,0.9,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-03-30,nowcast,0.8,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-03-31,nowcast,0.8,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-04-01,nowcast,0.8,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-04-02,nowcast,0.8,0.8,0.9,0.8,0.8,1
-North Rhine-Westphalia,2020-04-03,nowcast,0.8,0.8,0.9,0.8,0.8,1
-North Rhine-Westphalia,2020-04-04,nowcast,0.8,0.7,0.8,0.8,0.8,1
-North Rhine-Westphalia,2020-04-05,nowcast,0.8,0.7,0.8,0.7,0.8,1
-North Rhine-Westphalia,2020-04-06,nowcast,0.8,0.7,0.8,0.8,0.8,1
-North Rhine-Westphalia,2020-04-07,nowcast,0.8,0.7,0.9,0.8,0.8,1
-North Rhine-Westphalia,2020-04-08,nowcast,0.8,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-04-09,nowcast,0.9,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-04-10,nowcast,0.9,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-04-11,nowcast,0.8,0.8,0.9,0.8,0.9,1
-North Rhine-Westphalia,2020-04-12,nowcast,0.8,0.7,0.9,0.8,0.8,1
-North Rhine-Westphalia,2020-04-13,nowcast,0.8,0.7,0.8,0.8,0.8,1
-North Rhine-Westphalia,2020-04-14,nowcast,0.8,0.7,0.8,0.8,0.8,1
-North Rhine-Westphalia,2020-04-15,nowcast,0.8,0.7,0.8,0.7,0.8,1
-North Rhine-Westphalia,2020-04-16,nowcast,0.8,0.7,0.8,0.7,0.8,1
-North Rhine-Westphalia,2020-04-17,nowcast,0.7,0.7,0.8,0.7,0.8,1
-North Rhine-Westphalia,2020-04-18,nowcast,0.7,0.7,0.8,0.7,0.8,1
-North Rhine-Westphalia,2020-04-19,nowcast,0.8,0.7,0.8,0.7,0.8,1
-North Rhine-Westphalia,2020-04-20,nowcast,0.8,0.7,0.9,0.8,0.8,1
-North Rhine-Westphalia,2020-04-21,nowcast,0.9,0.8,1,0.8,0.9,0.95
-North Rhine-Westphalia,2020-04-22,nowcast,1,0.9,1.1,0.9,1,0.61
-North Rhine-Westphalia,2020-04-23,forecast,1,0.9,1.2,1,1.1,0.4
-North Rhine-Westphalia,2020-04-24,forecast,1.1,0.8,1.3,1,1.1,0.29
-North Rhine-Westphalia,2020-04-25,forecast,1.1,0.9,1.4,1,1.2,0.24
-North Rhine-Westphalia,2020-04-26,forecast,1.1,0.8,1.5,1,1.2,0.21
-North Rhine-Westphalia,2020-04-27,forecast,1.2,0.8,1.6,1,1.3,0.2
-North Rhine-Westphalia,2020-04-28,forecast,1.2,0.8,1.7,0.9,1.3,0.2
-North Rhine-Westphalia,2020-04-29,forecast,1.2,0.8,1.8,0.9,1.3,0.19
-North Rhine-Westphalia,2020-04-30,forecast,1.3,0.8,1.9,0.9,1.4,0.2
-North Rhine-Westphalia,2020-05-01,forecast,1.3,0.8,2,0.9,1.4,0.2
-North Rhine-Westphalia,2020-05-02,forecast,1.3,0.7,2.1,0.9,1.5,0.2
-North Rhine-Westphalia,2020-05-03,forecast,1.3,0.7,2.2,0.9,1.5,0.2
-North Rhine-Westphalia,2020-05-04,forecast,1.3,0.6,2.3,0.9,1.5,0.21
-North Rhine-Westphalia,2020-05-05,forecast,1.4,0.6,2.5,0.8,1.5,0.22
-North Rhine-Westphalia,2020-05-06,forecast,1.4,0.6,2.6,0.8,1.5,0.22
-Rhineland-Palatinate,2020-03-04,nowcast,1.9,1.6,2.3,1.8,2.1,0
-Rhineland-Palatinate,2020-03-05,nowcast,1.9,1.6,2.2,1.7,1.9,0
-Rhineland-Palatinate,2020-03-06,nowcast,1.8,1.5,2.1,1.7,1.9,0
-Rhineland-Palatinate,2020-03-07,nowcast,1.7,1.5,2,1.6,1.8,0
-Rhineland-Palatinate,2020-03-08,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Rhineland-Palatinate,2020-03-09,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Rhineland-Palatinate,2020-03-10,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Rhineland-Palatinate,2020-03-11,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Rhineland-Palatinate,2020-03-12,nowcast,1.3,1.2,1.5,1.2,1.4,0
-Rhineland-Palatinate,2020-03-13,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Rhineland-Palatinate,2020-03-14,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Rhineland-Palatinate,2020-03-15,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-Rhineland-Palatinate,2020-03-16,nowcast,1.1,1,1.2,1.1,1.2,0.01
-Rhineland-Palatinate,2020-03-17,nowcast,1.1,1,1.2,1.1,1.2,0.03
-Rhineland-Palatinate,2020-03-18,nowcast,1.1,1,1.2,1,1.1,0.05
-Rhineland-Palatinate,2020-03-19,nowcast,1.1,1,1.2,1,1.1,0.13
-Rhineland-Palatinate,2020-03-20,nowcast,1,0.9,1.1,1,1.1,0.31
-Rhineland-Palatinate,2020-03-21,nowcast,1,0.9,1.1,1,1,0.54
-Rhineland-Palatinate,2020-03-22,nowcast,1,0.9,1,0.9,1,0.78
-Rhineland-Palatinate,2020-03-23,nowcast,0.9,0.9,1,0.9,1,0.92
-Rhineland-Palatinate,2020-03-24,nowcast,0.9,0.8,1,0.9,0.9,0.96
-Rhineland-Palatinate,2020-03-25,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Rhineland-Palatinate,2020-03-26,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Rhineland-Palatinate,2020-03-27,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Rhineland-Palatinate,2020-03-28,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Rhineland-Palatinate,2020-03-29,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Rhineland-Palatinate,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Rhineland-Palatinate,2020-03-31,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Rhineland-Palatinate,2020-04-01,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Rhineland-Palatinate,2020-04-02,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Rhineland-Palatinate,2020-04-03,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Rhineland-Palatinate,2020-04-04,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Rhineland-Palatinate,2020-04-05,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Rhineland-Palatinate,2020-04-06,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Rhineland-Palatinate,2020-04-07,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Rhineland-Palatinate,2020-04-08,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Rhineland-Palatinate,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
-Rhineland-Palatinate,2020-04-10,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Rhineland-Palatinate,2020-04-11,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Rhineland-Palatinate,2020-04-12,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Rhineland-Palatinate,2020-04-13,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Rhineland-Palatinate,2020-04-14,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Rhineland-Palatinate,2020-04-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Rhineland-Palatinate,2020-04-16,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Rhineland-Palatinate,2020-04-17,nowcast,0.8,0.7,1,0.7,0.9,0.97
-Rhineland-Palatinate,2020-04-18,nowcast,0.8,0.7,1,0.8,0.9,0.96
-Rhineland-Palatinate,2020-04-19,nowcast,0.8,0.6,1,0.8,0.9,0.94
-Rhineland-Palatinate,2020-04-20,nowcast,0.8,0.7,1,0.8,0.9,0.9
-Rhineland-Palatinate,2020-04-21,nowcast,0.9,0.7,1.1,0.8,1,0.79
-Rhineland-Palatinate,2020-04-22,nowcast,1,0.7,1.2,0.9,1.1,0.58
-Rhineland-Palatinate,2020-04-23,forecast,1,0.7,1.3,0.8,1,0.55
-Rhineland-Palatinate,2020-04-24,forecast,1,0.7,1.3,0.8,1.1,0.52
-Rhineland-Palatinate,2020-04-25,forecast,1,0.7,1.4,0.8,1.1,0.49
-Rhineland-Palatinate,2020-04-26,forecast,1,0.7,1.5,0.8,1.1,0.49
-Rhineland-Palatinate,2020-04-27,forecast,1,0.6,1.6,0.8,1.1,0.47
-Rhineland-Palatinate,2020-04-28,forecast,1,0.6,1.6,0.8,1.1,0.47
-Rhineland-Palatinate,2020-04-29,forecast,1,0.6,1.7,0.7,1.1,0.47
-Rhineland-Palatinate,2020-04-30,forecast,1,0.5,1.8,0.7,1.1,0.47
-Rhineland-Palatinate,2020-05-01,forecast,1,0.5,1.8,0.7,1.1,0.46
-Rhineland-Palatinate,2020-05-02,forecast,1,0.5,1.9,0.7,1.1,0.46
-Rhineland-Palatinate,2020-05-03,forecast,1,0.4,1.9,0.7,1.2,0.47
-Rhineland-Palatinate,2020-05-04,forecast,1,0.4,2,0.7,1.1,0.47
-Rhineland-Palatinate,2020-05-05,forecast,1,0.4,2.1,0.7,1.1,0.47
-Rhineland-Palatinate,2020-05-06,forecast,1,0.4,2.2,0.7,1.2,0.47
-Saarland,2020-03-04,nowcast,2,1.5,2.5,1.8,2.2,0
-Saarland,2020-03-05,nowcast,1.9,1.5,2.4,1.7,2,0
-Saarland,2020-03-06,nowcast,1.8,1.4,2.3,1.6,2,0
-Saarland,2020-03-07,nowcast,1.8,1.4,2.2,1.6,1.9,0
-Saarland,2020-03-08,nowcast,1.7,1.4,2.1,1.5,1.8,0
-Saarland,2020-03-09,nowcast,1.6,1.3,2,1.5,1.8,0
-Saarland,2020-03-10,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Saarland,2020-03-11,nowcast,1.6,1.3,1.9,1.4,1.7,0
-Saarland,2020-03-12,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Saarland,2020-03-13,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Saarland,2020-03-14,nowcast,1.4,1.2,1.7,1.3,1.5,0
-Saarland,2020-03-15,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Saarland,2020-03-16,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Saarland,2020-03-17,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Saarland,2020-03-18,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Saarland,2020-03-19,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Saarland,2020-03-20,nowcast,1.3,1.2,1.5,1.2,1.4,0
-Saarland,2020-03-21,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Saarland,2020-03-22,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Saarland,2020-03-23,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Saarland,2020-03-24,nowcast,1.2,1,1.3,1.1,1.2,0.01
-Saarland,2020-03-25,nowcast,1.1,1,1.3,1.1,1.2,0.04
-Saarland,2020-03-26,nowcast,1.1,0.9,1.2,1,1.1,0.15
-Saarland,2020-03-27,nowcast,1,0.9,1.1,1,1.1,0.45
-Saarland,2020-03-28,nowcast,0.9,0.8,1.1,0.9,1,0.8
-Saarland,2020-03-29,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Saarland,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Saarland,2020-03-31,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Saarland,2020-04-01,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Saarland,2020-04-02,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Saarland,2020-04-03,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Saarland,2020-04-04,nowcast,0.6,0.5,0.7,0.6,0.7,1
-Saarland,2020-04-05,nowcast,0.6,0.4,0.7,0.5,0.6,1
-Saarland,2020-04-06,nowcast,0.5,0.4,0.6,0.5,0.6,1
-Saarland,2020-04-07,nowcast,0.6,0.4,0.7,0.5,0.6,1
-Saarland,2020-04-08,nowcast,0.6,0.5,0.7,0.5,0.6,1
-Saarland,2020-04-09,nowcast,0.6,0.5,0.8,0.6,0.7,1
-Saarland,2020-04-10,nowcast,0.7,0.5,0.9,0.6,0.7,0.99
-Saarland,2020-04-11,nowcast,0.7,0.6,0.9,0.6,0.8,0.99
-Saarland,2020-04-12,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
-Saarland,2020-04-13,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
-Saarland,2020-04-14,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Saarland,2020-04-15,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
-Saarland,2020-04-16,nowcast,0.9,0.6,1.1,0.7,0.9,0.82
-Saarland,2020-04-17,nowcast,0.9,0.7,1.1,0.8,0.9,0.82
-Saarland,2020-04-18,nowcast,0.8,0.6,1.1,0.7,0.9,0.84
-Saarland,2020-04-19,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
-Saarland,2020-04-20,nowcast,0.9,0.6,1.2,0.8,1,0.74
-Saarland,2020-04-21,nowcast,1,0.6,1.3,0.8,1.1,0.58
-Saarland,2020-04-22,nowcast,1.1,0.7,1.5,0.9,1.2,0.38
-Saxony,2020-03-03,nowcast,2,1.6,2.5,1.8,2.2,0
-Saxony,2020-03-04,nowcast,2,1.6,2.4,1.8,2.1,0
-Saxony,2020-03-05,nowcast,1.9,1.5,2.2,1.7,2,0
-Saxony,2020-03-06,nowcast,1.8,1.5,2.2,1.7,1.9,0
-Saxony,2020-03-07,nowcast,1.8,1.5,2.1,1.6,1.9,0
-Saxony,2020-03-08,nowcast,1.7,1.4,2,1.6,1.8,0
-Saxony,2020-03-09,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Saxony,2020-03-10,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Saxony,2020-03-11,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Saxony,2020-03-12,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Saxony,2020-03-13,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Saxony,2020-03-14,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Saxony,2020-03-15,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Saxony,2020-03-16,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-Saxony,2020-03-17,nowcast,1.2,1,1.3,1.1,1.2,0.01
-Saxony,2020-03-18,nowcast,1.1,1,1.2,1.1,1.2,0.02
-Saxony,2020-03-19,nowcast,1.1,1,1.2,1.1,1.2,0.03
-Saxony,2020-03-20,nowcast,1.1,1,1.2,1,1.1,0.08
-Saxony,2020-03-21,nowcast,1,1,1.1,1,1.1,0.22
-Saxony,2020-03-22,nowcast,1,0.9,1.1,1,1,0.44
-Saxony,2020-03-23,nowcast,1,0.9,1.1,0.9,1,0.66
-Saxony,2020-03-24,nowcast,1,0.9,1,0.9,1,0.79
-Saxony,2020-03-25,nowcast,0.9,0.9,1,0.9,1,0.85
-Saxony,2020-03-26,nowcast,0.9,0.8,1,0.9,1,0.93
-Saxony,2020-03-27,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Saxony,2020-03-28,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Saxony,2020-03-29,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Saxony,2020-03-30,nowcast,0.7,0.7,0.8,0.7,0.8,1
-Saxony,2020-03-31,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Saxony,2020-04-01,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Saxony,2020-04-02,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Saxony,2020-04-03,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Saxony,2020-04-04,nowcast,0.7,0.6,0.8,0.7,0.7,1
-Saxony,2020-04-05,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Saxony,2020-04-06,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Saxony,2020-04-07,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Saxony,2020-04-08,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Saxony,2020-04-09,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Saxony,2020-04-10,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Saxony,2020-04-11,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Saxony,2020-04-12,nowcast,0.7,0.6,0.8,0.6,0.8,1
-Saxony,2020-04-13,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Saxony,2020-04-14,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Saxony,2020-04-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Saxony,2020-04-16,nowcast,0.8,0.6,1,0.7,0.9,0.95
-Saxony,2020-04-17,nowcast,0.8,0.6,1,0.7,0.9,0.93
-Saxony,2020-04-18,nowcast,0.8,0.6,1,0.7,0.9,0.92
-Saxony,2020-04-19,nowcast,0.8,0.6,1,0.7,0.9,0.89
-Saxony,2020-04-20,nowcast,0.9,0.6,1.1,0.8,0.9,0.84
-Saxony,2020-04-21,nowcast,0.9,0.7,1.2,0.8,1,0.72
-Saxony,2020-04-22,nowcast,1,0.7,1.3,0.9,1.1,0.53
-Saxony,2020-04-23,forecast,1,0.7,1.4,0.8,1.1,0.51
-Saxony,2020-04-24,forecast,1,0.6,1.4,0.8,1.1,0.49
-Saxony,2020-04-25,forecast,1,0.6,1.5,0.8,1.1,0.47
-Saxony,2020-04-26,forecast,1,0.6,1.5,0.8,1.2,0.46
-Saxony,2020-04-27,forecast,1,0.6,1.6,0.8,1.1,0.45
-Saxony,2020-04-28,forecast,1,0.6,1.7,0.8,1.2,0.44
-Saxony,2020-04-29,forecast,1,0.5,1.7,0.8,1.2,0.44
-Saxony,2020-04-30,forecast,1.1,0.5,1.8,0.7,1.2,0.44
-Saxony,2020-05-01,forecast,1.1,0.5,1.9,0.7,1.2,0.44
-Saxony,2020-05-02,forecast,1.1,0.4,1.9,0.7,1.2,0.43
-Saxony,2020-05-03,forecast,1.1,0.4,2,0.7,1.2,0.42
-Saxony,2020-05-04,forecast,1.1,0.4,2.1,0.7,1.3,0.42
-Saxony,2020-05-05,forecast,1.1,0.3,2.1,0.7,1.3,0.43
-Saxony,2020-05-06,forecast,1.1,0.3,2.1,0.7,1.2,0.43
-Saxony-Anhalt,2020-03-05,nowcast,2,1.5,2.5,1.7,2.1,0
-Saxony-Anhalt,2020-03-06,nowcast,1.9,1.5,2.3,1.7,2,0
-Saxony-Anhalt,2020-03-07,nowcast,1.8,1.4,2.2,1.6,1.9,0
-Saxony-Anhalt,2020-03-08,nowcast,1.7,1.4,2.1,1.6,1.9,0
-Saxony-Anhalt,2020-03-09,nowcast,1.7,1.3,2,1.5,1.8,0
-Saxony-Anhalt,2020-03-10,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Saxony-Anhalt,2020-03-11,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Saxony-Anhalt,2020-03-12,nowcast,1.5,1.2,1.7,1.4,1.6,0
-Saxony-Anhalt,2020-03-13,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Saxony-Anhalt,2020-03-14,nowcast,1.3,1.1,1.6,1.2,1.4,0
-Saxony-Anhalt,2020-03-15,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Saxony-Anhalt,2020-03-16,nowcast,1.2,1,1.4,1.2,1.3,0.02
-Saxony-Anhalt,2020-03-17,nowcast,1.2,1,1.4,1.1,1.3,0.03
-Saxony-Anhalt,2020-03-18,nowcast,1.2,1,1.3,1.1,1.2,0.05
-Saxony-Anhalt,2020-03-19,nowcast,1.1,1,1.3,1.1,1.2,0.11
-Saxony-Anhalt,2020-03-20,nowcast,1.1,0.9,1.2,1,1.1,0.24
-Saxony-Anhalt,2020-03-21,nowcast,1,0.9,1.2,1,1.1,0.4
-Saxony-Anhalt,2020-03-22,nowcast,1,0.8,1.1,0.9,1,0.63
-Saxony-Anhalt,2020-03-23,nowcast,0.9,0.8,1.1,0.9,1,0.81
-Saxony-Anhalt,2020-03-24,nowcast,0.9,0.8,1,0.9,1,0.9
-Saxony-Anhalt,2020-03-25,nowcast,0.9,0.8,1,0.8,0.9,0.93
-Saxony-Anhalt,2020-03-26,nowcast,0.9,0.8,1,0.8,0.9,0.96
-Saxony-Anhalt,2020-03-27,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Saxony-Anhalt,2020-03-28,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Saxony-Anhalt,2020-03-29,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Saxony-Anhalt,2020-03-30,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Saxony-Anhalt,2020-03-31,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Saxony-Anhalt,2020-04-01,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Saxony-Anhalt,2020-04-02,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Saxony-Anhalt,2020-04-03,nowcast,0.8,0.7,1,0.8,0.9,0.98
-Saxony-Anhalt,2020-04-04,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
-Saxony-Anhalt,2020-04-05,nowcast,0.8,0.7,0.9,0.7,0.9,0.98
-Saxony-Anhalt,2020-04-06,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Saxony-Anhalt,2020-04-07,nowcast,0.8,0.7,1,0.8,0.9,0.93
-Saxony-Anhalt,2020-04-08,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-Saxony-Anhalt,2020-04-09,nowcast,0.9,0.7,1.1,0.8,1,0.81
-Saxony-Anhalt,2020-04-10,nowcast,0.9,0.8,1.1,0.8,1,0.77
-Saxony-Anhalt,2020-04-11,nowcast,0.9,0.8,1.1,0.8,1,0.77
-Saxony-Anhalt,2020-04-12,nowcast,0.9,0.7,1.1,0.8,1,0.83
-Saxony-Anhalt,2020-04-13,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Saxony-Anhalt,2020-04-14,nowcast,0.8,0.6,1,0.8,0.9,0.93
-Saxony-Anhalt,2020-04-15,nowcast,0.8,0.6,1,0.7,0.9,0.95
-Saxony-Anhalt,2020-04-16,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Saxony-Anhalt,2020-04-17,nowcast,0.8,0.6,1,0.7,0.9,0.93
-Saxony-Anhalt,2020-04-18,nowcast,0.8,0.6,1,0.7,0.8,0.93
-Saxony-Anhalt,2020-04-19,nowcast,0.8,0.5,1,0.7,0.9,0.94
-Saxony-Anhalt,2020-04-20,nowcast,0.8,0.5,1,0.7,0.9,0.94
-Saxony-Anhalt,2020-04-21,nowcast,0.8,0.5,1,0.7,0.9,0.91
-Saxony-Anhalt,2020-04-22,nowcast,0.8,0.5,1.2,0.7,0.9,0.82
-Schleswig-Holstein,2020-02-26,nowcast,2.3,1.6,3,2,2.6,0
-Schleswig-Holstein,2020-02-27,nowcast,2.2,1.6,2.9,1.9,2.4,0
-Schleswig-Holstein,2020-02-28,nowcast,2.2,1.6,2.8,1.9,2.3,0
-Schleswig-Holstein,2020-02-29,nowcast,2.1,1.6,2.7,1.9,2.3,0
-Schleswig-Holstein,2020-03-01,nowcast,2.1,1.6,2.6,1.9,2.3,0
-Schleswig-Holstein,2020-03-02,nowcast,2.1,1.6,2.5,1.8,2.2,0
-Schleswig-Holstein,2020-03-03,nowcast,2,1.6,2.5,1.8,2.1,0
-Schleswig-Holstein,2020-03-04,nowcast,2,1.6,2.4,1.8,2.1,0
-Schleswig-Holstein,2020-03-05,nowcast,1.9,1.5,2.3,1.7,2,0
-Schleswig-Holstein,2020-03-06,nowcast,1.8,1.5,2.2,1.7,1.9,0
-Schleswig-Holstein,2020-03-07,nowcast,1.7,1.5,2.1,1.6,1.8,0
-Schleswig-Holstein,2020-03-08,nowcast,1.7,1.4,2,1.5,1.8,0
-Schleswig-Holstein,2020-03-09,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Schleswig-Holstein,2020-03-10,nowcast,1.6,1.3,1.8,1.4,1.6,0
-Schleswig-Holstein,2020-03-11,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Schleswig-Holstein,2020-03-12,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Schleswig-Holstein,2020-03-13,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Schleswig-Holstein,2020-03-14,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Schleswig-Holstein,2020-03-15,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Schleswig-Holstein,2020-03-16,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Schleswig-Holstein,2020-03-17,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Schleswig-Holstein,2020-03-18,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-Schleswig-Holstein,2020-03-19,nowcast,1.1,1,1.3,1.1,1.2,0.03
-Schleswig-Holstein,2020-03-20,nowcast,1.1,1,1.2,1,1.1,0.1
-Schleswig-Holstein,2020-03-21,nowcast,1.1,0.9,1.2,1,1.1,0.23
-Schleswig-Holstein,2020-03-22,nowcast,1,0.9,1.1,1,1.1,0.41
-Schleswig-Holstein,2020-03-23,nowcast,1,0.9,1.1,1,1,0.59
-Schleswig-Holstein,2020-03-24,nowcast,1,0.9,1.1,0.9,1,0.72
-Schleswig-Holstein,2020-03-25,nowcast,0.9,0.8,1.1,0.9,1,0.79
-Schleswig-Holstein,2020-03-26,nowcast,0.9,0.8,1,0.9,1,0.88
-Schleswig-Holstein,2020-03-27,nowcast,0.9,0.8,1,0.9,1,0.94
-Schleswig-Holstein,2020-03-28,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Schleswig-Holstein,2020-03-29,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Schleswig-Holstein,2020-03-30,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Schleswig-Holstein,2020-03-31,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Schleswig-Holstein,2020-04-01,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Schleswig-Holstein,2020-04-02,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Schleswig-Holstein,2020-04-03,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Schleswig-Holstein,2020-04-04,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Schleswig-Holstein,2020-04-05,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Schleswig-Holstein,2020-04-06,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Schleswig-Holstein,2020-04-07,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Schleswig-Holstein,2020-04-08,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Schleswig-Holstein,2020-04-09,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Schleswig-Holstein,2020-04-10,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Schleswig-Holstein,2020-04-11,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Schleswig-Holstein,2020-04-12,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Schleswig-Holstein,2020-04-13,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Schleswig-Holstein,2020-04-14,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Schleswig-Holstein,2020-04-15,nowcast,0.8,0.7,1,0.7,0.9,0.93
-Schleswig-Holstein,2020-04-16,nowcast,0.8,0.7,1,0.8,0.9,0.89
-Schleswig-Holstein,2020-04-17,nowcast,0.8,0.7,1,0.8,0.9,0.9
-Schleswig-Holstein,2020-04-18,nowcast,0.8,0.6,1,0.7,0.9,0.93
-Schleswig-Holstein,2020-04-19,nowcast,0.8,0.6,1,0.7,0.9,0.95
-Schleswig-Holstein,2020-04-20,nowcast,0.8,0.5,1,0.7,0.9,0.94
-Schleswig-Holstein,2020-04-21,nowcast,0.8,0.5,1,0.7,0.9,0.91
-Schleswig-Holstein,2020-04-22,nowcast,0.8,0.6,1.2,0.7,0.9,0.8
-Thuringia,2020-03-05,nowcast,2,1.5,2.5,1.8,2.1,0
-Thuringia,2020-03-06,nowcast,1.9,1.5,2.4,1.7,2.1,0
-Thuringia,2020-03-07,nowcast,1.9,1.5,2.3,1.7,2,0
-Thuringia,2020-03-08,nowcast,1.8,1.5,2.2,1.6,1.9,0
-Thuringia,2020-03-09,nowcast,1.7,1.4,2.1,1.6,1.8,0
-Thuringia,2020-03-10,nowcast,1.7,1.4,2,1.5,1.8,0
-Thuringia,2020-03-11,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Thuringia,2020-03-12,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Thuringia,2020-03-13,nowcast,1.5,1.2,1.7,1.4,1.5,0
-Thuringia,2020-03-14,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Thuringia,2020-03-15,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Thuringia,2020-03-16,nowcast,1.2,1,1.4,1.2,1.3,0.01
-Thuringia,2020-03-17,nowcast,1.2,1,1.3,1.1,1.3,0.03
-Thuringia,2020-03-18,nowcast,1.1,1,1.3,1.1,1.2,0.05
-Thuringia,2020-03-19,nowcast,1.1,1,1.3,1.1,1.2,0.1
-Thuringia,2020-03-20,nowcast,1.1,0.9,1.2,1,1.1,0.21
-Thuringia,2020-03-21,nowcast,1,0.9,1.2,1,1.1,0.36
-Thuringia,2020-03-22,nowcast,1,0.9,1.1,0.9,1,0.54
-Thuringia,2020-03-23,nowcast,1,0.8,1.1,0.9,1,0.68
-Thuringia,2020-03-24,nowcast,1,0.8,1.1,0.9,1,0.74
-Thuringia,2020-03-25,nowcast,1,0.8,1.1,0.9,1,0.72
-Thuringia,2020-03-26,nowcast,1,0.8,1.1,0.9,1,0.7
-Thuringia,2020-03-27,nowcast,1,0.8,1.1,0.9,1,0.76
-Thuringia,2020-03-28,nowcast,0.9,0.8,1.1,0.9,1,0.82
-Thuringia,2020-03-29,nowcast,0.9,0.8,1,0.9,1,0.9
-Thuringia,2020-03-30,nowcast,0.9,0.8,1,0.8,0.9,0.93
-Thuringia,2020-03-31,nowcast,0.9,0.8,1,0.8,0.9,0.94
-Thuringia,2020-04-01,nowcast,0.9,0.8,1,0.8,0.9,0.92
-Thuringia,2020-04-02,nowcast,0.9,0.8,1,0.8,0.9,0.91
-Thuringia,2020-04-03,nowcast,0.9,0.8,1,0.8,0.9,0.91
-Thuringia,2020-04-04,nowcast,0.9,0.8,1,0.8,0.9,0.9
-Thuringia,2020-04-05,nowcast,0.9,0.8,1,0.9,1,0.89
-Thuringia,2020-04-06,nowcast,0.9,0.8,1.1,0.9,1,0.81
-Thuringia,2020-04-07,nowcast,1,0.8,1.1,0.9,1,0.68
-Thuringia,2020-04-08,nowcast,1,0.9,1.2,0.9,1,0.5
-Thuringia,2020-04-09,nowcast,1,0.9,1.2,1,1.1,0.35
-Thuringia,2020-04-10,nowcast,1.1,0.9,1.2,1,1.1,0.27
-Thuringia,2020-04-11,nowcast,1,0.9,1.2,1,1.1,0.28
-Thuringia,2020-04-12,nowcast,1,0.9,1.2,1,1.1,0.35
-Thuringia,2020-04-13,nowcast,1,0.9,1.2,1,1.1,0.38
-Thuringia,2020-04-14,nowcast,1,0.9,1.2,1,1.1,0.41
-Thuringia,2020-04-15,nowcast,1,0.9,1.2,1,1.1,0.4
-Thuringia,2020-04-16,nowcast,1,0.9,1.2,0.9,1.1,0.43
-Thuringia,2020-04-17,nowcast,1,0.8,1.2,0.9,1.1,0.53
-Thuringia,2020-04-18,nowcast,1,0.8,1.1,0.9,1,0.65
-Thuringia,2020-04-19,nowcast,0.9,0.8,1.1,0.9,1,0.71
-Thuringia,2020-04-20,nowcast,1,0.8,1.1,0.9,1,0.68
-Thuringia,2020-04-21,nowcast,1,0.8,1.2,0.9,1,0.56
-Thuringia,2020-04-22,nowcast,1,0.8,1.3,0.9,1.1,0.4
-Thuringia,2020-04-23,forecast,1,0.8,1.3,0.9,1.1,0.41
-Thuringia,2020-04-24,forecast,1,0.8,1.4,0.9,1.1,0.42
-Thuringia,2020-04-25,forecast,1,0.7,1.4,0.9,1.1,0.43
-Thuringia,2020-04-26,forecast,1,0.7,1.4,0.9,1.1,0.42
-Thuringia,2020-04-27,forecast,1,0.7,1.5,0.9,1.1,0.43
-Thuringia,2020-04-28,forecast,1,0.6,1.5,0.8,1.1,0.43
-Thuringia,2020-04-29,forecast,1,0.6,1.5,0.8,1.1,0.44
-Thuringia,2020-04-30,forecast,1,0.6,1.6,0.8,1.1,0.45
-Thuringia,2020-05-01,forecast,1,0.5,1.6,0.8,1.1,0.45
-Thuringia,2020-05-02,forecast,1,0.5,1.6,0.8,1.2,0.47
-Thuringia,2020-05-03,forecast,1,0.5,1.7,0.8,1.2,0.47
-Thuringia,2020-05-04,forecast,1,0.5,1.7,0.7,1.1,0.47
-Thuringia,2020-05-05,forecast,1,0.5,1.8,0.8,1.2,0.47
-Thuringia,2020-05-06,forecast,1,0.4,1.8,0.8,1.2,0.48
+region,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
+Baden-Wurttemberg,nowcast,1.8,1.5,2.1,1.6,1.9,0
+Baden-Wurttemberg,nowcast,1.8,1.5,2.1,1.6,1.9,0
+Baden-Wurttemberg,nowcast,1.7,1.5,2.1,1.6,1.8,0
+Baden-Wurttemberg,nowcast,1.7,1.4,2,1.6,1.8,0
+Baden-Wurttemberg,nowcast,1.7,1.4,2,1.6,1.8,0
+Baden-Wurttemberg,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Baden-Wurttemberg,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Baden-Wurttemberg,nowcast,1.6,1.3,1.8,1.5,1.6,0
+Baden-Wurttemberg,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Baden-Wurttemberg,nowcast,1.5,1.3,1.7,1.4,1.5,0
+Baden-Wurttemberg,nowcast,1.4,1.3,1.6,1.3,1.5,0
+Baden-Wurttemberg,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Baden-Wurttemberg,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Baden-Wurttemberg,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Baden-Wurttemberg,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Baden-Wurttemberg,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Baden-Wurttemberg,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Baden-Wurttemberg,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Baden-Wurttemberg,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Baden-Wurttemberg,nowcast,1.1,1,1.2,1.1,1.2,0.01
+Baden-Wurttemberg,nowcast,1.1,1,1.2,1.1,1.1,0.03
+Baden-Wurttemberg,nowcast,1.1,1,1.1,1,1.1,0.11
+Baden-Wurttemberg,nowcast,1,0.9,1.1,1,1,0.32
+Baden-Wurttemberg,nowcast,1,0.9,1.1,1,1,0.58
+Baden-Wurttemberg,nowcast,1,0.9,1,0.9,1,0.76
+Baden-Wurttemberg,nowcast,1,0.9,1,0.9,1,0.89
+Baden-Wurttemberg,nowcast,0.9,0.9,1,0.9,1,0.97
+Baden-Wurttemberg,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Baden-Wurttemberg,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Baden-Wurttemberg,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Baden-Wurttemberg,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.8,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.8,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.8,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.8,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.8,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.8,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Baden-Wurttemberg,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Baden-Wurttemberg,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Baden-Wurttemberg,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Baden-Wurttemberg,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Baden-Wurttemberg,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Baden-Wurttemberg,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Baden-Wurttemberg,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Baden-Wurttemberg,nowcast,0.8,0.7,1,0.7,0.9,0.96
+Baden-Wurttemberg,nowcast,0.9,0.7,1.1,0.8,1,0.83
+Baden-Wurttemberg,nowcast,1,0.8,1.2,0.9,1.1,0.52
+Baden-Wurttemberg,forecast,1,0.8,1.2,0.9,1.1,0.53
+Baden-Wurttemberg,forecast,1,0.7,1.3,0.9,1.1,0.51
+Baden-Wurttemberg,forecast,1,0.7,1.3,0.9,1.1,0.51
+Baden-Wurttemberg,forecast,1,0.7,1.3,0.9,1.1,0.5
+Baden-Wurttemberg,forecast,1,0.7,1.4,0.8,1.1,0.49
+Baden-Wurttemberg,forecast,1,0.7,1.4,0.8,1.1,0.5
+Baden-Wurttemberg,forecast,1,0.6,1.4,0.8,1.2,0.48
+Baden-Wurttemberg,forecast,1,0.6,1.5,0.8,1.1,0.48
+Baden-Wurttemberg,forecast,1,0.6,1.5,0.8,1.1,0.48
+Baden-Wurttemberg,forecast,1,0.6,1.5,0.8,1.2,0.48
+Baden-Wurttemberg,forecast,1,0.5,1.6,0.8,1.1,0.48
+Baden-Wurttemberg,forecast,1,0.5,1.6,0.8,1.2,0.47
+Baden-Wurttemberg,forecast,1,0.5,1.6,0.7,1.2,0.48
+Baden-Wurttemberg,forecast,1,0.5,1.6,0.7,1.1,0.48
+Bavaria,nowcast,1.8,1.5,2.2,1.7,2,0
+Bavaria,nowcast,1.8,1.5,2.2,1.7,1.9,0
+Bavaria,nowcast,1.8,1.5,2.2,1.7,1.9,0
+Bavaria,nowcast,1.8,1.5,2.1,1.6,1.9,0
+Bavaria,nowcast,1.8,1.5,2,1.6,1.8,0
+Bavaria,nowcast,1.7,1.4,2,1.6,1.8,0
+Bavaria,nowcast,1.7,1.4,2,1.5,1.8,0
+Bavaria,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Bavaria,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Bavaria,nowcast,1.6,1.3,1.8,1.5,1.7,0
+Bavaria,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Bavaria,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Bavaria,nowcast,1.5,1.3,1.7,1.4,1.5,0
+Bavaria,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Bavaria,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Bavaria,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Bavaria,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Bavaria,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Bavaria,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bavaria,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Bavaria,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Bavaria,nowcast,1.1,1,1.2,1.1,1.1,0.01
+Bavaria,nowcast,1.1,1,1.2,1,1.1,0.06
+Bavaria,nowcast,1,1,1.1,1,1.1,0.16
+Bavaria,nowcast,1,1,1.1,1,1,0.33
+Bavaria,nowcast,1,0.9,1.1,1,1,0.52
+Bavaria,nowcast,1,0.9,1,1,1,0.71
+Bavaria,nowcast,0.9,0.9,1,0.9,1,0.9
+Bavaria,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Bavaria,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Bavaria,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Bavaria,nowcast,0.8,0.8,0.9,0.8,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.8,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.7,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Bavaria,nowcast,0.7,0.7,0.8,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Bavaria,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Bavaria,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Bavaria,nowcast,0.9,0.8,1,0.8,0.9,0.87
+Bavaria,nowcast,1,0.8,1.1,0.9,1,0.68
+Bavaria,forecast,1,0.8,1.1,0.9,1,0.67
+Bavaria,forecast,1,0.7,1.1,0.9,1,0.64
+Bavaria,forecast,1,0.8,1.2,0.8,1,0.61
+Bavaria,forecast,1,0.7,1.2,0.9,1.1,0.59
+Bavaria,forecast,1,0.7,1.3,0.8,1,0.57
+Bavaria,forecast,1,0.7,1.3,0.8,1.1,0.55
+Bavaria,forecast,1,0.6,1.3,0.8,1.1,0.55
+Bavaria,forecast,1,0.6,1.3,0.8,1.1,0.53
+Bavaria,forecast,1,0.6,1.4,0.8,1.1,0.54
+Bavaria,forecast,1,0.6,1.4,0.8,1.1,0.53
+Bavaria,forecast,1,0.6,1.4,0.8,1.1,0.54
+Bavaria,forecast,1,0.5,1.5,0.8,1.1,0.52
+Bavaria,forecast,1,0.5,1.5,0.8,1.1,0.51
+Bavaria,forecast,1,0.5,1.5,0.8,1.1,0.52
+Berlin,nowcast,1.8,1.3,2.2,1.6,1.9,0
+Berlin,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Berlin,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Berlin,nowcast,1.6,1.3,2,1.5,1.8,0
+Berlin,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Berlin,nowcast,1.5,1.3,1.9,1.4,1.6,0
+Berlin,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Berlin,nowcast,1.5,1.2,1.7,1.4,1.6,0
+Berlin,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Berlin,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Berlin,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Berlin,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Berlin,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Berlin,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Berlin,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Berlin,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Berlin,nowcast,1.1,1,1.3,1.1,1.2,0.05
+Berlin,nowcast,1.1,1,1.3,1.1,1.2,0.09
+Berlin,nowcast,1.1,1,1.2,1,1.1,0.15
+Berlin,nowcast,1,0.9,1.2,1,1.1,0.29
+Berlin,nowcast,1,0.9,1.1,1,1.1,0.47
+Berlin,nowcast,1,0.9,1.1,0.9,1,0.63
+Berlin,nowcast,1,0.8,1.1,0.9,1,0.75
+Berlin,nowcast,0.9,0.8,1,0.9,1,0.84
+Berlin,nowcast,0.9,0.8,1,0.9,1,0.89
+Berlin,nowcast,0.9,0.8,1,0.9,1,0.94
+Berlin,nowcast,0.9,0.8,1,0.9,0.9,0.97
+Berlin,nowcast,0.9,0.8,1,0.8,0.9,0.99
+Berlin,nowcast,0.9,0.7,0.9,0.8,0.9,1
+Berlin,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Berlin,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Berlin,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Berlin,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Berlin,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Berlin,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Berlin,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Berlin,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Berlin,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Berlin,nowcast,0.8,0.7,1,0.7,0.8,0.96
+Berlin,nowcast,0.8,0.7,1,0.8,0.9,0.95
+Berlin,nowcast,0.8,0.7,1,0.8,0.9,0.95
+Berlin,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Berlin,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Berlin,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Berlin,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Berlin,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Berlin,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Berlin,nowcast,0.9,0.7,1,0.8,0.9,0.91
+Berlin,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Berlin,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Berlin,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Berlin,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Berlin,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
+Berlin,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+Berlin,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+Berlin,nowcast,0.9,0.7,1.1,0.8,1,0.82
+Berlin,nowcast,0.9,0.7,1.1,0.8,1,0.78
+Berlin,nowcast,0.9,0.7,1.2,0.8,1,0.7
+Berlin,nowcast,0.9,0.7,1.2,0.8,1,0.66
+Berlin,nowcast,1,0.7,1.3,0.8,1,0.59
+Berlin,forecast,1,0.7,1.3,0.8,1,0.58
+Berlin,forecast,1,0.6,1.3,0.8,1.1,0.59
+Berlin,forecast,1,0.6,1.4,0.8,1.1,0.58
+Berlin,forecast,1,0.6,1.4,0.8,1.1,0.58
+Berlin,forecast,1,0.5,1.4,0.8,1.1,0.57
+Berlin,forecast,0.9,0.6,1.4,0.8,1.1,0.58
+Berlin,forecast,0.9,0.5,1.4,0.7,1.1,0.57
+Berlin,forecast,0.9,0.5,1.5,0.7,1.1,0.58
+Berlin,forecast,0.9,0.4,1.5,0.7,1.1,0.58
+Berlin,forecast,0.9,0.5,1.5,0.7,1.1,0.58
+Berlin,forecast,0.9,0.4,1.5,0.7,1.2,0.58
+Berlin,forecast,0.9,0.4,1.5,0.7,1.1,0.59
+Berlin,forecast,0.9,0.4,1.5,0.7,1.1,0.58
+Berlin,forecast,0.9,0.3,1.5,0.7,1.1,0.61
+Brandenburg,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
+Brandenburg,nowcast,1.4,1.1,1.8,1.3,1.6,0.01
+Brandenburg,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Brandenburg,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Brandenburg,nowcast,1.3,1,1.5,1.2,1.4,0.03
+Brandenburg,nowcast,1.3,1,1.5,1.2,1.4,0.03
+Brandenburg,nowcast,1.2,1,1.5,1.1,1.3,0.04
+Brandenburg,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Brandenburg,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Brandenburg,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Brandenburg,nowcast,1.2,1,1.4,1.1,1.3,0.04
+Brandenburg,nowcast,1.2,1,1.3,1.1,1.2,0.05
+Brandenburg,nowcast,1.2,1,1.3,1.1,1.2,0.06
+Brandenburg,nowcast,1.1,1,1.3,1.1,1.2,0.09
+Brandenburg,nowcast,1.1,1,1.3,1.1,1.2,0.11
+Brandenburg,nowcast,1.1,0.9,1.3,1,1.2,0.14
+Brandenburg,nowcast,1.1,0.9,1.2,1,1.2,0.17
+Brandenburg,nowcast,1.1,0.9,1.2,1,1.1,0.22
+Brandenburg,nowcast,1,0.9,1.2,1,1.1,0.33
+Brandenburg,nowcast,1,0.8,1.1,1,1.1,0.45
+Brandenburg,nowcast,1,0.8,1.1,0.9,1,0.59
+Brandenburg,nowcast,1,0.8,1.1,0.9,1,0.68
+Brandenburg,nowcast,0.9,0.8,1.1,0.9,1,0.77
+Brandenburg,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Brandenburg,nowcast,0.9,0.8,1.1,0.9,1,0.85
+Brandenburg,nowcast,0.9,0.8,1,0.9,1,0.89
+Brandenburg,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Brandenburg,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Brandenburg,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Brandenburg,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Brandenburg,nowcast,0.9,0.7,1,0.8,0.9,0.91
+Brandenburg,nowcast,0.9,0.7,1,0.8,0.9,0.88
+Brandenburg,nowcast,0.9,0.8,1.1,0.8,0.9,0.81
+Brandenburg,nowcast,0.9,0.8,1.1,0.8,1,0.81
+Brandenburg,nowcast,0.9,0.8,1.1,0.9,1,0.83
+Brandenburg,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+Brandenburg,nowcast,0.9,0.7,1,0.8,1,0.88
+Brandenburg,nowcast,0.9,0.7,1,0.8,1,0.92
+Brandenburg,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Brandenburg,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Brandenburg,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Brandenburg,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Brandenburg,nowcast,0.8,0.6,1,0.8,0.9,0.96
+Brandenburg,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Brandenburg,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Brandenburg,nowcast,0.8,0.6,1,0.7,0.9,0.93
+Brandenburg,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Brandenburg,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
+Brandenburg,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
+Brandenburg,nowcast,0.9,0.6,1.1,0.7,0.9,0.8
+Brandenburg,nowcast,0.9,0.6,1.3,0.7,1,0.7
+Brandenburg,nowcast,1,0.6,1.5,0.7,1,0.58
+Brandenburg,nowcast,1,0.7,1.6,0.8,1.1,0.46
+Bremen,nowcast,1.4,0.9,1.9,1.2,1.6,0.09
+Bremen,nowcast,1.4,0.9,1.8,1.2,1.6,0.09
+Bremen,nowcast,1.3,0.9,1.8,1.2,1.5,0.08
+Bremen,nowcast,1.3,0.9,1.8,1.2,1.5,0.08
+Bremen,nowcast,1.3,0.9,1.7,1.1,1.5,0.1
+Bremen,nowcast,1.3,0.9,1.7,1.1,1.4,0.12
+Bremen,nowcast,1.2,0.8,1.6,1.1,1.3,0.16
+Bremen,nowcast,1.2,0.8,1.5,1,1.3,0.21
+Bremen,nowcast,1.1,0.8,1.5,1,1.3,0.28
+Bremen,nowcast,1.1,0.7,1.4,0.9,1.2,0.36
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.41
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.44
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.49
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.51
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.55
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.58
+Bremen,nowcast,1,0.7,1.3,0.8,1.1,0.59
+Bremen,nowcast,1,0.7,1.3,0.8,1.1,0.59
+Bremen,nowcast,1,0.7,1.3,0.8,1.1,0.59
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.56
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.54
+Bremen,nowcast,1,0.7,1.3,0.8,1.1,0.54
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.54
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.55
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.54
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.52
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.49
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.47
+Bremen,nowcast,1,0.7,1.4,0.9,1.1,0.4
+Bremen,nowcast,1.1,0.7,1.4,0.9,1.1,0.35
+Bremen,nowcast,1.1,0.8,1.4,1,1.2,0.3
+Bremen,nowcast,1.1,0.8,1.5,1,1.2,0.23
+Bremen,nowcast,1.1,0.8,1.5,1,1.2,0.19
+Bremen,nowcast,1.2,0.9,1.5,1,1.3,0.16
+Bremen,nowcast,1.2,0.9,1.5,1,1.3,0.15
+Bremen,nowcast,1.2,0.8,1.5,1,1.3,0.17
+Bremen,nowcast,1.1,0.8,1.5,1,1.2,0.18
+Bremen,nowcast,1.1,0.8,1.4,1,1.2,0.22
+Bremen,nowcast,1.1,0.8,1.4,1,1.2,0.23
+Bremen,nowcast,1.1,0.8,1.4,1,1.2,0.26
+Bremen,nowcast,1.1,0.8,1.4,1,1.2,0.32
+Bremen,nowcast,1.1,0.8,1.3,0.9,1.1,0.37
+Bremen,nowcast,1,0.8,1.3,0.9,1.1,0.42
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.48
+Bremen,nowcast,1,0.7,1.3,0.9,1.1,0.47
+Bremen,nowcast,1,0.8,1.3,0.9,1.1,0.43
+Bremen,nowcast,1,0.8,1.3,0.9,1.1,0.43
+Bremen,nowcast,1,0.8,1.3,0.9,1.1,0.4
+Bremen,nowcast,1.1,0.8,1.3,0.9,1.1,0.37
+Bremen,nowcast,1.1,0.8,1.4,1,1.2,0.34
+Bremen,nowcast,1.1,0.8,1.4,0.9,1.2,0.28
+Bremen,nowcast,1.1,0.8,1.5,1,1.2,0.21
+Bremen,nowcast,1.2,0.9,1.6,1,1.3,0.14
+Bremen,nowcast,1.3,0.9,1.8,1.1,1.4,0.1
+Hamburg,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Hamburg,nowcast,1.6,1.3,2,1.5,1.8,0
+Hamburg,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Hamburg,nowcast,1.5,1.3,1.9,1.4,1.7,0
+Hamburg,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Hamburg,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Hamburg,nowcast,1.4,1.1,1.6,1.3,1.5,0
+Hamburg,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Hamburg,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Hamburg,nowcast,1.2,1,1.4,1.2,1.3,0.02
+Hamburg,nowcast,1.2,1,1.4,1.1,1.2,0.04
+Hamburg,nowcast,1.1,1,1.3,1.1,1.2,0.1
+Hamburg,nowcast,1.1,0.9,1.3,1,1.1,0.17
+Hamburg,nowcast,1.1,0.9,1.2,1,1.1,0.23
+Hamburg,nowcast,1,0.9,1.2,1,1.1,0.33
+Hamburg,nowcast,1,0.9,1.1,1,1.1,0.4
+Hamburg,nowcast,1,0.9,1.1,1,1.1,0.5
+Hamburg,nowcast,1,0.9,1.1,0.9,1,0.61
+Hamburg,nowcast,1,0.8,1.1,0.9,1,0.69
+Hamburg,nowcast,1,0.8,1.1,0.9,1,0.75
+Hamburg,nowcast,1,0.8,1,0.9,1,0.8
+Hamburg,nowcast,0.9,0.8,1.1,0.9,1,0.81
+Hamburg,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Hamburg,nowcast,0.9,0.8,1,0.9,1,0.84
+Hamburg,nowcast,0.9,0.8,1,0.9,1,0.88
+Hamburg,nowcast,0.9,0.8,1,0.9,1,0.93
+Hamburg,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Hamburg,nowcast,0.9,0.7,1,0.8,0.9,0.98
+Hamburg,nowcast,0.8,0.7,1,0.8,0.9,0.99
+Hamburg,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Hamburg,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Hamburg,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Hamburg,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+Hamburg,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+Hamburg,nowcast,0.8,0.6,1,0.7,0.8,0.97
+Hamburg,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
+Hamburg,nowcast,0.7,0.5,0.9,0.7,0.8,0.99
+Hamburg,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Hamburg,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
+Hamburg,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Hamburg,nowcast,0.7,0.5,1,0.6,0.8,0.95
+Hamburg,nowcast,0.7,0.5,1,0.6,0.8,0.92
+Hamburg,nowcast,0.8,0.5,1.1,0.6,0.8,0.88
+Hamburg,nowcast,0.8,0.5,1.2,0.6,0.9,0.78
+Hamburg,nowcast,0.9,0.6,1.4,0.7,1,0.64
+Hamburg,nowcast,1,0.6,1.6,0.7,1.1,0.5
+Hamburg,nowcast,1.1,0.6,1.8,0.8,1.2,0.36
+Hesse,nowcast,1.8,1.4,2.3,1.7,2,0
+Hesse,nowcast,1.8,1.4,2.3,1.6,2,0
+Hesse,nowcast,1.8,1.4,2.3,1.6,1.9,0
+Hesse,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Hesse,nowcast,1.7,1.4,2.1,1.5,1.8,0
+Hesse,nowcast,1.7,1.3,2,1.5,1.8,0
+Hesse,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Hesse,nowcast,1.6,1.3,1.9,1.4,1.6,0
+Hesse,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Hesse,nowcast,1.5,1.2,1.7,1.4,1.6,0
+Hesse,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Hesse,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Hesse,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Hesse,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Hesse,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
+Hesse,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Hesse,nowcast,1.1,1,1.3,1.1,1.2,0.03
+Hesse,nowcast,1.1,1,1.3,1.1,1.2,0.05
+Hesse,nowcast,1.1,1,1.2,1.1,1.2,0.07
+Hesse,nowcast,1.1,1,1.2,1,1.1,0.12
+Hesse,nowcast,1.1,0.9,1.2,1,1.1,0.19
+Hesse,nowcast,1,0.9,1.1,1,1.1,0.29
+Hesse,nowcast,1,0.9,1.1,1,1.1,0.43
+Hesse,nowcast,1,0.9,1.1,1,1,0.52
+Hesse,nowcast,1,0.9,1.1,1,1,0.59
+Hesse,nowcast,1,0.9,1.1,1,1,0.68
+Hesse,nowcast,1,0.9,1,0.9,1,0.77
+Hesse,nowcast,1,0.9,1,0.9,1,0.85
+Hesse,nowcast,0.9,0.8,1,0.9,1,0.91
+Hesse,nowcast,0.9,0.8,1,0.9,1,0.95
+Hesse,nowcast,0.9,0.8,1,0.9,1,0.97
+Hesse,nowcast,0.9,0.8,1,0.9,1,0.97
+Hesse,nowcast,0.9,0.8,1,0.9,0.9,0.97
+Hesse,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Hesse,nowcast,0.9,0.8,1,0.9,0.9,0.98
+Hesse,nowcast,0.9,0.8,1,0.8,0.9,0.99
+Hesse,nowcast,0.9,0.8,1,0.8,0.9,0.99
+Hesse,nowcast,0.9,0.8,1,0.8,0.9,0.99
+Hesse,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Hesse,nowcast,0.9,0.8,1,0.8,0.9,0.96
+Hesse,nowcast,0.9,0.8,1,0.8,0.9,0.95
+Hesse,nowcast,0.9,0.8,1,0.8,0.9,0.96
+Hesse,nowcast,0.9,0.8,1,0.8,0.9,0.97
+Hesse,nowcast,0.9,0.7,0.9,0.8,0.9,0.99
+Hesse,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Hesse,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Hesse,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
+Hesse,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
+Hesse,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Hesse,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
+Hesse,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Hesse,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Hesse,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Hesse,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Hesse,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Hesse,nowcast,0.9,0.8,1,0.8,0.9,0.91
+Hesse,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Hesse,nowcast,0.9,0.8,1.1,0.8,0.9,0.85
+Hesse,nowcast,0.9,0.8,1.1,0.8,1,0.75
+Hesse,nowcast,1,0.8,1.2,0.9,1,0.61
+Hesse,nowcast,1,0.8,1.3,0.9,1.1,0.47
+Hesse,forecast,1,0.8,1.3,0.9,1.1,0.49
+Hesse,forecast,1,0.7,1.3,0.9,1.1,0.51
+Hesse,forecast,1,0.7,1.4,0.8,1.1,0.5
+Hesse,forecast,1,0.7,1.4,0.8,1.1,0.5
+Hesse,forecast,1,0.7,1.4,0.8,1.1,0.52
+Hesse,forecast,1,0.6,1.4,0.8,1.1,0.52
+Hesse,forecast,1,0.6,1.4,0.8,1.1,0.52
+Hesse,forecast,1,0.6,1.4,0.8,1.1,0.52
+Hesse,forecast,1,0.6,1.5,0.8,1.1,0.54
+Hesse,forecast,1,0.5,1.5,0.8,1.1,0.54
+Hesse,forecast,1,0.5,1.5,0.8,1.1,0.53
+Hesse,forecast,1,0.5,1.5,0.8,1.1,0.54
+Hesse,forecast,1,0.5,1.5,0.8,1.1,0.54
+Hesse,forecast,1,0.4,1.5,0.7,1.1,0.55
+Lower Saxony,nowcast,1.8,1.4,2.3,1.6,2,0
+Lower Saxony,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Lower Saxony,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Lower Saxony,nowcast,1.7,1.3,2.1,1.6,1.8,0
+Lower Saxony,nowcast,1.7,1.4,2,1.5,1.8,0
+Lower Saxony,nowcast,1.6,1.3,2,1.5,1.7,0
+Lower Saxony,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Lower Saxony,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Lower Saxony,nowcast,1.5,1.3,1.7,1.4,1.5,0
+Lower Saxony,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Lower Saxony,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Lower Saxony,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Lower Saxony,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Lower Saxony,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Lower Saxony,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Lower Saxony,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Lower Saxony,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Lower Saxony,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Lower Saxony,nowcast,1.1,1,1.3,1.1,1.2,0.03
+Lower Saxony,nowcast,1.1,1,1.2,1.1,1.2,0.07
+Lower Saxony,nowcast,1.1,0.9,1.2,1,1.1,0.17
+Lower Saxony,nowcast,1,0.9,1.1,1,1.1,0.32
+Lower Saxony,nowcast,1,0.9,1.1,1,1,0.48
+Lower Saxony,nowcast,1,0.9,1.1,1,1,0.62
+Lower Saxony,nowcast,1,0.9,1,0.9,1,0.75
+Lower Saxony,nowcast,0.9,0.9,1,0.9,1,0.85
+Lower Saxony,nowcast,0.9,0.8,1,0.9,1,0.93
+Lower Saxony,nowcast,0.9,0.8,1,0.9,1,0.97
+Lower Saxony,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Lower Saxony,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Lower Saxony,nowcast,0.9,0.8,1,0.9,0.9,1
+Lower Saxony,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Lower Saxony,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lower Saxony,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Lower Saxony,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Lower Saxony,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Lower Saxony,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Lower Saxony,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Lower Saxony,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Lower Saxony,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Lower Saxony,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+Lower Saxony,nowcast,0.8,0.7,1,0.7,0.9,0.95
+Lower Saxony,nowcast,0.8,0.7,1,0.8,0.9,0.92
+Lower Saxony,nowcast,0.9,0.7,1,0.8,0.9,0.86
+Lower Saxony,nowcast,0.9,0.7,1.1,0.8,1,0.76
+Lower Saxony,nowcast,1,0.8,1.2,0.9,1,0.64
+Lower Saxony,nowcast,1,0.8,1.2,0.9,1.1,0.46
+Lower Saxony,nowcast,1.1,0.9,1.3,0.9,1.1,0.32
+Lower Saxony,forecast,1.1,0.8,1.3,0.9,1.1,0.35
+Lower Saxony,forecast,1.1,0.8,1.3,0.9,1.1,0.37
+Lower Saxony,forecast,1.1,0.8,1.4,0.9,1.2,0.38
+Lower Saxony,forecast,1.1,0.7,1.4,0.9,1.2,0.38
+Lower Saxony,forecast,1.1,0.7,1.4,0.9,1.2,0.39
+Lower Saxony,forecast,1.1,0.7,1.5,0.9,1.2,0.4
+Lower Saxony,forecast,1.1,0.7,1.5,0.9,1.2,0.42
+Lower Saxony,forecast,1,0.6,1.5,0.8,1.2,0.43
+Lower Saxony,forecast,1.1,0.6,1.5,0.8,1.2,0.42
+Lower Saxony,forecast,1,0.6,1.6,0.9,1.2,0.43
+Lower Saxony,forecast,1,0.6,1.6,0.8,1.2,0.43
+Lower Saxony,forecast,1,0.5,1.6,0.8,1.2,0.44
+Lower Saxony,forecast,1,0.5,1.6,0.8,1.2,0.44
+Lower Saxony,forecast,1,0.5,1.6,0.8,1.2,0.45
+Mecklenburg-Vorpommern,nowcast,1.4,1,1.9,1.2,1.6,0.05
+Mecklenburg-Vorpommern,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
+Mecklenburg-Vorpommern,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
+Mecklenburg-Vorpommern,nowcast,1.2,0.9,1.6,1.1,1.4,0.13
+Mecklenburg-Vorpommern,nowcast,1.2,0.9,1.5,1,1.3,0.18
+Mecklenburg-Vorpommern,nowcast,1.1,0.8,1.5,1,1.3,0.24
+Mecklenburg-Vorpommern,nowcast,1.1,0.8,1.4,1,1.2,0.29
+Mecklenburg-Vorpommern,nowcast,1.1,0.8,1.4,1,1.2,0.3
+Mecklenburg-Vorpommern,nowcast,1.1,0.8,1.4,1,1.2,0.32
+Mecklenburg-Vorpommern,nowcast,1.1,0.8,1.3,1,1.2,0.32
+Mecklenburg-Vorpommern,nowcast,1.1,0.8,1.4,1,1.2,0.34
+Mecklenburg-Vorpommern,nowcast,1,0.8,1.3,0.9,1.1,0.37
+Mecklenburg-Vorpommern,nowcast,1,0.8,1.3,0.9,1.1,0.45
+Mecklenburg-Vorpommern,nowcast,1,0.7,1.2,0.9,1.1,0.54
+Mecklenburg-Vorpommern,nowcast,1,0.7,1.2,0.9,1.1,0.61
+Mecklenburg-Vorpommern,nowcast,0.9,0.7,1.2,0.8,1,0.7
+Mecklenburg-Vorpommern,nowcast,0.9,0.6,1.1,0.8,1,0.76
+Mecklenburg-Vorpommern,nowcast,0.9,0.6,1.1,0.8,1,0.83
+Mecklenburg-Vorpommern,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
+Mecklenburg-Vorpommern,nowcast,0.8,0.5,1,0.7,0.9,0.93
+Mecklenburg-Vorpommern,nowcast,0.8,0.5,1,0.7,0.9,0.95
+Mecklenburg-Vorpommern,nowcast,0.7,0.5,1,0.6,0.8,0.95
+Mecklenburg-Vorpommern,nowcast,0.7,0.5,1,0.6,0.8,0.96
+Mecklenburg-Vorpommern,nowcast,0.7,0.4,1,0.6,0.8,0.96
+Mecklenburg-Vorpommern,nowcast,0.7,0.4,1,0.6,0.8,0.95
+Mecklenburg-Vorpommern,nowcast,0.7,0.4,1,0.6,0.8,0.94
+Mecklenburg-Vorpommern,nowcast,0.7,0.4,1,0.5,0.7,0.95
+Mecklenburg-Vorpommern,nowcast,0.7,0.4,1,0.5,0.8,0.95
+Mecklenburg-Vorpommern,nowcast,0.6,0.3,1,0.5,0.8,0.94
+Mecklenburg-Vorpommern,nowcast,0.7,0.3,1,0.5,0.8,0.93
+Mecklenburg-Vorpommern,nowcast,0.7,0.3,1,0.5,0.8,0.92
+Mecklenburg-Vorpommern,nowcast,0.7,0.3,1.1,0.5,0.8,0.88
+Mecklenburg-Vorpommern,nowcast,0.7,0.3,1.1,0.5,0.8,0.88
+Mecklenburg-Vorpommern,nowcast,0.7,0.3,1.2,0.5,0.8,0.85
+Mecklenburg-Vorpommern,nowcast,0.7,0.3,1.2,0.5,0.9,0.82
+Mecklenburg-Vorpommern,nowcast,0.8,0.3,1.3,0.5,0.9,0.79
+Mecklenburg-Vorpommern,nowcast,0.8,0.4,1.4,0.6,0.9,0.73
+Mecklenburg-Vorpommern,nowcast,0.9,0.4,1.5,0.6,1,0.65
+Mecklenburg-Vorpommern,nowcast,0.9,0.4,1.6,0.7,1.1,0.6
+Mecklenburg-Vorpommern,nowcast,1,0.4,1.7,0.7,1.1,0.54
+Mecklenburg-Vorpommern,nowcast,1,0.5,1.8,0.7,1.2,0.45
+Mecklenburg-Vorpommern,nowcast,1.1,0.5,1.7,0.8,1.2,0.42
+Mecklenburg-Vorpommern,nowcast,1.1,0.5,1.7,0.8,1.2,0.4
+Mecklenburg-Vorpommern,nowcast,1.1,0.5,1.7,0.8,1.3,0.39
+Mecklenburg-Vorpommern,nowcast,1.1,0.5,1.8,0.8,1.2,0.39
+Mecklenburg-Vorpommern,nowcast,1.1,0.5,1.8,0.9,1.3,0.36
+Mecklenburg-Vorpommern,nowcast,1.1,0.5,1.8,0.9,1.3,0.35
+Mecklenburg-Vorpommern,nowcast,1.2,0.5,2,0.9,1.4,0.31
+Mecklenburg-Vorpommern,nowcast,1.2,0.6,2.1,0.8,1.4,0.26
+Mecklenburg-Vorpommern,nowcast,1.3,0.6,2.4,0.9,1.6,0.21
+Mecklenburg-Vorpommern,nowcast,1.5,0.6,2.6,1,1.7,0.15
+Mecklenburg-Vorpommern,nowcast,1.7,0.7,3,1.1,1.9,0.11
+North Rhine-Westphalia,nowcast,1.7,1.4,1.9,1.6,1.8,0
+North Rhine-Westphalia,nowcast,1.6,1.4,1.9,1.5,1.7,0
+North Rhine-Westphalia,nowcast,1.6,1.4,1.9,1.5,1.7,0
+North Rhine-Westphalia,nowcast,1.6,1.4,1.9,1.5,1.7,0
+North Rhine-Westphalia,nowcast,1.6,1.4,1.8,1.5,1.7,0
+North Rhine-Westphalia,nowcast,1.6,1.3,1.8,1.5,1.6,0
+North Rhine-Westphalia,nowcast,1.5,1.3,1.8,1.4,1.6,0
+North Rhine-Westphalia,nowcast,1.5,1.3,1.7,1.4,1.5,0
+North Rhine-Westphalia,nowcast,1.4,1.3,1.7,1.3,1.5,0
+North Rhine-Westphalia,nowcast,1.4,1.2,1.6,1.3,1.5,0
+North Rhine-Westphalia,nowcast,1.3,1.2,1.5,1.3,1.4,0
+North Rhine-Westphalia,nowcast,1.3,1.2,1.5,1.2,1.4,0
+North Rhine-Westphalia,nowcast,1.3,1.1,1.4,1.2,1.3,0
+North Rhine-Westphalia,nowcast,1.2,1.1,1.3,1.2,1.2,0
+North Rhine-Westphalia,nowcast,1.2,1.1,1.3,1.1,1.2,0
+North Rhine-Westphalia,nowcast,1.1,1,1.2,1.1,1.2,0.01
+North Rhine-Westphalia,nowcast,1.1,1,1.2,1.1,1.1,0.02
+North Rhine-Westphalia,nowcast,1.1,1,1.2,1,1.1,0.02
+North Rhine-Westphalia,nowcast,1.1,1,1.2,1.1,1.1,0.03
+North Rhine-Westphalia,nowcast,1.1,1,1.1,1,1.1,0.04
+North Rhine-Westphalia,nowcast,1.1,1,1.1,1,1.1,0.07
+North Rhine-Westphalia,nowcast,1,1,1.1,1,1.1,0.15
+North Rhine-Westphalia,nowcast,1,1,1.1,1,1,0.26
+North Rhine-Westphalia,nowcast,1,0.9,1.1,1,1,0.43
+North Rhine-Westphalia,nowcast,1,0.9,1.1,1,1,0.53
+North Rhine-Westphalia,nowcast,1,0.9,1,1,1,0.67
+North Rhine-Westphalia,nowcast,1,0.9,1,1,1,0.79
+North Rhine-Westphalia,nowcast,1,0.9,1,0.9,1,0.92
+North Rhine-Westphalia,nowcast,0.9,0.9,1,0.9,1,0.99
+North Rhine-Westphalia,nowcast,0.9,0.8,1,0.9,0.9,1
+North Rhine-Westphalia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+North Rhine-Westphalia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+North Rhine-Westphalia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+North Rhine-Westphalia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,nowcast,0.8,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,nowcast,0.8,0.8,0.9,0.8,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.8,0.9,0.8,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.8,0.9,0.8,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,nowcast,0.8,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,nowcast,0.8,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,nowcast,0.8,0.8,0.9,0.8,0.9,1
+North Rhine-Westphalia,nowcast,0.8,0.7,0.9,0.8,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.7,0.9,0.8,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.7,0.9,0.8,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.7,0.9,0.8,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.7,0.9,0.8,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.7,0.8,0.7,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.7,0.9,0.7,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.7,0.9,0.7,0.8,1
+North Rhine-Westphalia,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
+North Rhine-Westphalia,nowcast,0.8,0.7,1,0.8,0.9,0.98
+North Rhine-Westphalia,nowcast,0.9,0.8,1,0.8,0.9,0.94
+North Rhine-Westphalia,nowcast,0.9,0.8,1,0.9,1,0.89
+North Rhine-Westphalia,nowcast,0.9,0.8,1,0.9,1,0.83
+North Rhine-Westphalia,nowcast,1,0.8,1.1,0.9,1,0.73
+North Rhine-Westphalia,nowcast,1,0.9,1.1,0.9,1,0.57
+North Rhine-Westphalia,nowcast,1,0.9,1.2,1,1.1,0.32
+North Rhine-Westphalia,nowcast,1.1,0.9,1.2,1,1.2,0.12
+North Rhine-Westphalia,forecast,1.1,0.9,1.3,1,1.2,0.17
+North Rhine-Westphalia,forecast,1.1,0.9,1.3,1,1.2,0.19
+North Rhine-Westphalia,forecast,1.1,0.9,1.3,1,1.2,0.21
+North Rhine-Westphalia,forecast,1.1,0.9,1.4,1,1.2,0.22
+North Rhine-Westphalia,forecast,1.1,0.9,1.4,1,1.2,0.24
+North Rhine-Westphalia,forecast,1.1,0.8,1.4,1,1.2,0.24
+North Rhine-Westphalia,forecast,1.1,0.8,1.4,1,1.2,0.26
+North Rhine-Westphalia,forecast,1.1,0.8,1.5,1,1.2,0.26
+North Rhine-Westphalia,forecast,1.1,0.8,1.5,1,1.3,0.28
+North Rhine-Westphalia,forecast,1.1,0.7,1.5,0.9,1.2,0.29
+North Rhine-Westphalia,forecast,1.1,0.8,1.6,0.9,1.3,0.29
+North Rhine-Westphalia,forecast,1.1,0.7,1.6,0.9,1.3,0.29
+North Rhine-Westphalia,forecast,1.1,0.7,1.6,0.9,1.3,0.3
+North Rhine-Westphalia,forecast,1.1,0.7,1.7,0.9,1.3,0.31
+Rhineland-Palatinate,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Rhineland-Palatinate,nowcast,1.5,1.2,1.7,1.3,1.6,0
+Rhineland-Palatinate,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Rhineland-Palatinate,nowcast,1.3,1.1,1.6,1.3,1.4,0
+Rhineland-Palatinate,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Rhineland-Palatinate,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Rhineland-Palatinate,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Rhineland-Palatinate,nowcast,1.2,1,1.3,1.1,1.2,0.03
+Rhineland-Palatinate,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Rhineland-Palatinate,nowcast,1.1,1,1.3,1.1,1.2,0.06
+Rhineland-Palatinate,nowcast,1.1,1,1.2,1.1,1.2,0.09
+Rhineland-Palatinate,nowcast,1.1,1,1.2,1,1.1,0.14
+Rhineland-Palatinate,nowcast,1.1,0.9,1.2,1,1.1,0.2
+Rhineland-Palatinate,nowcast,1,0.9,1.1,1,1.1,0.34
+Rhineland-Palatinate,nowcast,1,0.9,1.1,1,1.1,0.46
+Rhineland-Palatinate,nowcast,1,0.9,1.1,0.9,1,0.59
+Rhineland-Palatinate,nowcast,1,0.9,1.1,0.9,1,0.72
+Rhineland-Palatinate,nowcast,1,0.8,1,0.9,1,0.8
+Rhineland-Palatinate,nowcast,0.9,0.8,1,0.9,1,0.87
+Rhineland-Palatinate,nowcast,0.9,0.8,1,0.9,1,0.92
+Rhineland-Palatinate,nowcast,0.9,0.8,1,0.9,1,0.97
+Rhineland-Palatinate,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Rhineland-Palatinate,nowcast,0.9,0.8,1,0.8,0.9,0.99
+Rhineland-Palatinate,nowcast,0.9,0.7,0.9,0.8,0.9,0.99
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Rhineland-Palatinate,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+Rhineland-Palatinate,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Rhineland-Palatinate,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Rhineland-Palatinate,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Rhineland-Palatinate,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Rhineland-Palatinate,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Rhineland-Palatinate,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Rhineland-Palatinate,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+Rhineland-Palatinate,nowcast,0.8,0.6,1,0.7,0.8,0.97
+Rhineland-Palatinate,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Rhineland-Palatinate,nowcast,0.8,0.6,1,0.7,0.8,0.94
+Rhineland-Palatinate,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Rhineland-Palatinate,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Rhineland-Palatinate,nowcast,0.8,0.6,1,0.8,0.9,0.9
+Rhineland-Palatinate,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
+Rhineland-Palatinate,nowcast,0.9,0.6,1.1,0.8,0.9,0.81
+Rhineland-Palatinate,nowcast,0.9,0.7,1.2,0.8,1,0.73
+Rhineland-Palatinate,nowcast,0.9,0.7,1.3,0.8,1,0.61
+Rhineland-Palatinate,nowcast,1,0.7,1.5,0.8,1.1,0.45
+Saarland,nowcast,1.6,1.2,2,1.4,1.7,0.01
+Saarland,nowcast,1.6,1.2,2,1.4,1.7,0.01
+Saarland,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Saarland,nowcast,1.5,1.2,1.8,1.3,1.6,0.01
+Saarland,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
+Saarland,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Saarland,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Saarland,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
+Saarland,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Saarland,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Saarland,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Saarland,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Saarland,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
+Saarland,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Saarland,nowcast,1.2,1,1.4,1.2,1.3,0.02
+Saarland,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Saarland,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Saarland,nowcast,1.1,1,1.3,1.1,1.2,0.08
+Saarland,nowcast,1.1,0.9,1.3,1,1.2,0.16
+Saarland,nowcast,1.1,0.9,1.2,1,1.1,0.27
+Saarland,nowcast,1,0.8,1.2,0.9,1.1,0.48
+Saarland,nowcast,1,0.8,1.1,0.9,1,0.66
+Saarland,nowcast,0.9,0.7,1.1,0.8,1,0.84
+Saarland,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Saarland,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Saarland,nowcast,0.8,0.6,0.9,0.7,0.9,0.99
+Saarland,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Saarland,nowcast,0.7,0.5,0.9,0.7,0.8,1
+Saarland,nowcast,0.7,0.5,0.8,0.6,0.8,1
+Saarland,nowcast,0.6,0.5,0.8,0.6,0.7,1
+Saarland,nowcast,0.6,0.5,0.8,0.6,0.7,1
+Saarland,nowcast,0.6,0.5,0.8,0.6,0.7,1
+Saarland,nowcast,0.6,0.5,0.8,0.6,0.7,1
+Saarland,nowcast,0.7,0.5,0.9,0.6,0.7,0.99
+Saarland,nowcast,0.7,0.5,0.9,0.6,0.7,0.98
+Saarland,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Saarland,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Saarland,nowcast,0.7,0.5,1,0.6,0.8,0.95
+Saarland,nowcast,0.8,0.5,1,0.7,0.8,0.94
+Saarland,nowcast,0.8,0.6,1,0.7,0.8,0.91
+Saarland,nowcast,0.8,0.6,1,0.7,0.8,0.91
+Saarland,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Saarland,nowcast,0.8,0.5,1,0.7,0.9,0.92
+Saarland,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Saarland,nowcast,0.8,0.6,1.1,0.7,0.9,0.9
+Saarland,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
+Saarland,nowcast,0.8,0.6,1.1,0.7,0.9,0.85
+Saarland,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
+Saarland,nowcast,0.8,0.5,1.1,0.7,0.9,0.81
+Saarland,nowcast,0.8,0.5,1.2,0.7,0.9,0.77
+Saarland,nowcast,0.9,0.5,1.2,0.7,1,0.75
+Saarland,nowcast,0.9,0.5,1.5,0.7,1,0.65
+Saarland,nowcast,1,0.5,1.7,0.7,1.1,0.53
+Saarland,nowcast,1.1,0.6,2,0.7,1.2,0.38
+Saxony,nowcast,1.6,1.3,2,1.5,1.8,0
+Saxony,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Saxony,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Saxony,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Saxony,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Saxony,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Saxony,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Saxony,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Saxony,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Saxony,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Saxony,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Saxony,nowcast,1.1,1,1.3,1.1,1.2,0.06
+Saxony,nowcast,1.1,1,1.3,1.1,1.2,0.08
+Saxony,nowcast,1.1,1,1.2,1.1,1.2,0.11
+Saxony,nowcast,1.1,0.9,1.2,1,1.1,0.18
+Saxony,nowcast,1,0.9,1.2,1,1.1,0.29
+Saxony,nowcast,1,0.9,1.1,1,1.1,0.38
+Saxony,nowcast,1,0.9,1.1,1,1.1,0.47
+Saxony,nowcast,1,0.9,1.1,1,1,0.6
+Saxony,nowcast,1,0.8,1.1,0.9,1,0.69
+Saxony,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Saxony,nowcast,0.9,0.8,1,0.9,1,0.92
+Saxony,nowcast,0.9,0.7,1,0.8,0.9,0.98
+Saxony,nowcast,0.8,0.7,1,0.8,0.9,0.99
+Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Saxony,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Saxony,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Saxony,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Saxony,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Saxony,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Saxony,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Saxony,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Saxony,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Saxony,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Saxony,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Saxony,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Saxony,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Saxony,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Saxony,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
+Saxony,nowcast,0.7,0.6,0.9,0.7,0.8,0.97
+Saxony,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Saxony,nowcast,0.8,0.6,1,0.7,0.8,0.93
+Saxony,nowcast,0.8,0.6,1,0.7,0.8,0.94
+Saxony,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Saxony,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Saxony,nowcast,0.8,0.6,1,0.8,0.9,0.88
+Saxony,nowcast,0.9,0.7,1.1,0.8,0.9,0.82
+Saxony,nowcast,0.9,0.7,1.2,0.8,1,0.74
+Saxony,nowcast,0.9,0.7,1.2,0.8,1,0.68
+Saxony,nowcast,1,0.7,1.2,0.8,1,0.6
+Saxony,nowcast,1,0.8,1.3,0.9,1.1,0.51
+Saxony,nowcast,1,0.8,1.3,0.9,1.1,0.4
+Saxony,nowcast,1.1,0.8,1.4,1,1.2,0.28
+Saxony,nowcast,1.2,0.8,1.5,1,1.2,0.19
+Saxony,nowcast,1.2,0.9,1.7,1,1.3,0.13
+Saxony,forecast,1.2,0.8,1.7,1,1.3,0.16
+Saxony,forecast,1.2,0.8,1.7,1,1.4,0.18
+Saxony,forecast,1.2,0.8,1.8,0.9,1.3,0.21
+Saxony,forecast,1.2,0.7,1.8,1,1.4,0.2
+Saxony,forecast,1.2,0.7,1.8,1,1.4,0.21
+Saxony,forecast,1.2,0.7,1.9,1,1.4,0.22
+Saxony,forecast,1.2,0.7,2,0.9,1.4,0.24
+Saxony,forecast,1.2,0.6,2,1,1.5,0.24
+Saxony,forecast,1.3,0.6,2,0.9,1.5,0.26
+Saxony,forecast,1.3,0.6,2.1,0.9,1.5,0.25
+Saxony,forecast,1.3,0.5,2,0.9,1.5,0.26
+Saxony,forecast,1.3,0.5,2.1,0.9,1.5,0.28
+Saxony,forecast,1.3,0.5,2.2,0.9,1.5,0.28
+Saxony,forecast,1.3,0.4,2.2,0.9,1.5,0.29
+Saxony-Anhalt,nowcast,1.5,1.1,2,1.4,1.7,0.01
+Saxony-Anhalt,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
+Saxony-Anhalt,nowcast,1.4,1.1,1.8,1.3,1.6,0.01
+Saxony-Anhalt,nowcast,1.4,1,1.7,1.3,1.5,0.02
+Saxony-Anhalt,nowcast,1.4,1,1.7,1.2,1.4,0.03
+Saxony-Anhalt,nowcast,1.3,1,1.6,1.2,1.4,0.04
+Saxony-Anhalt,nowcast,1.3,1,1.5,1.1,1.4,0.07
+Saxony-Anhalt,nowcast,1.2,1,1.5,1.1,1.3,0.08
+Saxony-Anhalt,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
+Saxony-Anhalt,nowcast,1.1,0.9,1.4,1.1,1.2,0.14
+Saxony-Anhalt,nowcast,1.1,0.9,1.3,1,1.2,0.17
+Saxony-Anhalt,nowcast,1.1,0.9,1.3,1,1.2,0.26
+Saxony-Anhalt,nowcast,1,0.8,1.2,1,1.1,0.35
+Saxony-Anhalt,nowcast,1,0.8,1.2,0.9,1.1,0.47
+Saxony-Anhalt,nowcast,1,0.8,1.2,0.9,1.1,0.57
+Saxony-Anhalt,nowcast,1,0.7,1.1,0.9,1,0.67
+Saxony-Anhalt,nowcast,0.9,0.7,1.1,0.9,1,0.75
+Saxony-Anhalt,nowcast,0.9,0.7,1.1,0.9,1,0.8
+Saxony-Anhalt,nowcast,0.9,0.7,1.1,0.8,1,0.84
+Saxony-Anhalt,nowcast,0.9,0.7,1.1,0.8,1,0.88
+Saxony-Anhalt,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Saxony-Anhalt,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Saxony-Anhalt,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Saxony-Anhalt,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Saxony-Anhalt,nowcast,0.8,0.7,1,0.8,0.9,0.91
+Saxony-Anhalt,nowcast,0.8,0.6,1,0.8,0.9,0.92
+Saxony-Anhalt,nowcast,0.8,0.6,1,0.8,0.9,0.91
+Saxony-Anhalt,nowcast,0.8,0.6,1,0.8,0.9,0.92
+Saxony-Anhalt,nowcast,0.8,0.6,1,0.8,0.9,0.9
+Saxony-Anhalt,nowcast,0.8,0.7,1.1,0.8,0.9,0.88
+Saxony-Anhalt,nowcast,0.9,0.6,1.1,0.8,0.9,0.84
+Saxony-Anhalt,nowcast,0.9,0.7,1.2,0.8,1,0.79
+Saxony-Anhalt,nowcast,0.9,0.7,1.2,0.8,1,0.76
+Saxony-Anhalt,nowcast,0.9,0.6,1.1,0.8,1,0.78
+Saxony-Anhalt,nowcast,0.9,0.7,1.1,0.8,1,0.78
+Saxony-Anhalt,nowcast,0.9,0.6,1.1,0.8,1,0.81
+Saxony-Anhalt,nowcast,0.9,0.6,1.1,0.8,1,0.86
+Saxony-Anhalt,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
+Saxony-Anhalt,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
+Saxony-Anhalt,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
+Saxony-Anhalt,nowcast,0.8,0.5,1,0.7,0.9,0.92
+Saxony-Anhalt,nowcast,0.8,0.5,1,0.7,0.9,0.93
+Saxony-Anhalt,nowcast,0.8,0.5,1,0.7,0.9,0.93
+Saxony-Anhalt,nowcast,0.8,0.5,1,0.7,0.9,0.92
+Saxony-Anhalt,nowcast,0.8,0.5,1.1,0.7,0.9,0.89
+Saxony-Anhalt,nowcast,0.8,0.5,1.1,0.7,0.9,0.84
+Saxony-Anhalt,nowcast,0.8,0.5,1.2,0.7,0.9,0.77
+Saxony-Anhalt,nowcast,0.9,0.5,1.3,0.7,1,0.72
+Saxony-Anhalt,nowcast,0.9,0.6,1.4,0.7,1,0.62
+Saxony-Anhalt,nowcast,1,0.6,1.5,0.8,1.1,0.5
+Saxony-Anhalt,nowcast,1.1,0.6,1.7,0.8,1.2,0.4
+Saxony-Anhalt,nowcast,1.2,0.7,2,0.9,1.3,0.26
+Saxony-Anhalt,nowcast,1.3,0.7,2.2,0.9,1.4,0.19
+Schleswig-Holstein,nowcast,1.8,1.3,2.5,1.5,2,0
+Schleswig-Holstein,nowcast,1.8,1.2,2.4,1.5,2,0
+Schleswig-Holstein,nowcast,1.8,1.3,2.4,1.5,2,0
+Schleswig-Holstein,nowcast,1.8,1.3,2.3,1.5,1.9,0
+Schleswig-Holstein,nowcast,1.7,1.3,2.2,1.5,1.8,0
+Schleswig-Holstein,nowcast,1.7,1.2,2.1,1.4,1.8,0
+Schleswig-Holstein,nowcast,1.6,1.2,2,1.4,1.7,0
+Schleswig-Holstein,nowcast,1.6,1.2,2,1.4,1.7,0
+Schleswig-Holstein,nowcast,1.5,1.2,1.9,1.4,1.6,0.01
+Schleswig-Holstein,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Schleswig-Holstein,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Schleswig-Holstein,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Schleswig-Holstein,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Schleswig-Holstein,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Schleswig-Holstein,nowcast,1.3,1,1.5,1.2,1.4,0.02
+Schleswig-Holstein,nowcast,1.2,1,1.5,1.1,1.3,0.04
+Schleswig-Holstein,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Schleswig-Holstein,nowcast,1.2,1,1.4,1.1,1.2,0.07
+Schleswig-Holstein,nowcast,1.1,1,1.3,1.1,1.2,0.1
+Schleswig-Holstein,nowcast,1.1,0.9,1.3,1,1.2,0.15
+Schleswig-Holstein,nowcast,1.1,0.9,1.2,1,1.2,0.21
+Schleswig-Holstein,nowcast,1.1,0.9,1.2,1,1.1,0.29
+Schleswig-Holstein,nowcast,1,0.9,1.2,1,1.1,0.38
+Schleswig-Holstein,nowcast,1,0.9,1.2,1,1.1,0.45
+Schleswig-Holstein,nowcast,1,0.8,1.1,0.9,1.1,0.57
+Schleswig-Holstein,nowcast,1,0.8,1.1,0.9,1,0.65
+Schleswig-Holstein,nowcast,0.9,0.8,1.1,0.9,1,0.75
+Schleswig-Holstein,nowcast,0.9,0.8,1.1,0.9,1,0.83
+Schleswig-Holstein,nowcast,0.9,0.7,1,0.8,1,0.91
+Schleswig-Holstein,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Schleswig-Holstein,nowcast,0.9,0.7,1,0.8,0.9,0.97
+Schleswig-Holstein,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Schleswig-Holstein,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Schleswig-Holstein,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Schleswig-Holstein,nowcast,0.8,0.7,0.9,0.7,0.9,0.99
+Schleswig-Holstein,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Schleswig-Holstein,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Schleswig-Holstein,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Schleswig-Holstein,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Schleswig-Holstein,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+Schleswig-Holstein,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+Schleswig-Holstein,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Schleswig-Holstein,nowcast,0.8,0.6,1,0.7,0.8,0.95
+Schleswig-Holstein,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Schleswig-Holstein,nowcast,0.8,0.6,1,0.7,0.9,0.93
+Schleswig-Holstein,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Schleswig-Holstein,nowcast,0.8,0.6,1.1,0.8,0.9,0.88
+Schleswig-Holstein,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+Schleswig-Holstein,nowcast,0.9,0.6,1.1,0.8,0.9,0.84
+Schleswig-Holstein,nowcast,0.9,0.7,1.1,0.8,0.9,0.82
+Schleswig-Holstein,nowcast,0.9,0.7,1.1,0.8,1,0.81
+Schleswig-Holstein,nowcast,0.9,0.7,1.1,0.8,1,0.77
+Schleswig-Holstein,nowcast,0.9,0.7,1.2,0.8,1,0.69
+Schleswig-Holstein,nowcast,1,0.7,1.3,0.8,1.1,0.58
+Schleswig-Holstein,nowcast,1,0.8,1.3,0.9,1.1,0.46
+Schleswig-Holstein,nowcast,1,0.8,1.4,0.9,1.1,0.37
+Schleswig-Holstein,nowcast,1.1,0.8,1.4,0.9,1.2,0.28
+Schleswig-Holstein,nowcast,1.1,0.9,1.5,1,1.2,0.21
+Schleswig-Holstein,nowcast,1.1,0.9,1.5,1,1.2,0.18
+Schleswig-Holstein,nowcast,1.2,0.9,1.5,1,1.3,0.15
+Schleswig-Holstein,nowcast,1.2,0.8,1.6,1,1.3,0.17
+Schleswig-Holstein,forecast,1.2,0.8,1.6,1,1.3,0.22
+Schleswig-Holstein,forecast,1.2,0.7,1.7,1,1.3,0.24
+Schleswig-Holstein,forecast,1.2,0.7,1.7,0.9,1.3,0.25
+Schleswig-Holstein,forecast,1.2,0.7,1.8,0.9,1.3,0.28
+Schleswig-Holstein,forecast,1.2,0.6,1.8,0.9,1.3,0.3
+Schleswig-Holstein,forecast,1.2,0.6,1.8,0.9,1.4,0.31
+Schleswig-Holstein,forecast,1.2,0.5,1.8,0.9,1.4,0.32
+Schleswig-Holstein,forecast,1.2,0.5,1.9,0.9,1.4,0.33
+Schleswig-Holstein,forecast,1.2,0.5,1.9,0.8,1.4,0.35
+Schleswig-Holstein,forecast,1.2,0.5,2,0.8,1.4,0.34
+Schleswig-Holstein,forecast,1.2,0.4,2,0.8,1.4,0.36
+Schleswig-Holstein,forecast,1.2,0.4,2,0.8,1.5,0.36
+Schleswig-Holstein,forecast,1.2,0.4,2.1,0.8,1.5,0.36
+Schleswig-Holstein,forecast,1.2,0.3,2.1,0.8,1.5,0.37
+Thuringia,nowcast,1.6,1.2,2,1.4,1.7,0.01
+Thuringia,nowcast,1.6,1.2,2,1.4,1.7,0
+Thuringia,nowcast,1.5,1.2,1.9,1.3,1.6,0
+Thuringia,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
+Thuringia,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Thuringia,nowcast,1.3,1,1.6,1.2,1.4,0.02
+Thuringia,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Thuringia,nowcast,1.2,1,1.5,1.1,1.3,0.06
+Thuringia,nowcast,1.2,0.9,1.4,1.1,1.3,0.1
+Thuringia,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+Thuringia,nowcast,1.1,0.9,1.3,1,1.2,0.17
+Thuringia,nowcast,1.1,0.9,1.3,1,1.2,0.21
+Thuringia,nowcast,1.1,0.9,1.2,1,1.1,0.29
+Thuringia,nowcast,1,0.8,1.2,1,1.1,0.39
+Thuringia,nowcast,1,0.8,1.2,1,1.1,0.48
+Thuringia,nowcast,1,0.8,1.2,0.9,1.1,0.54
+Thuringia,nowcast,1,0.8,1.1,0.9,1,0.6
+Thuringia,nowcast,1,0.8,1.1,0.9,1,0.63
+Thuringia,nowcast,1,0.8,1.1,0.9,1,0.66
+Thuringia,nowcast,1,0.8,1.1,0.9,1,0.71
+Thuringia,nowcast,0.9,0.8,1.1,0.9,1,0.75
+Thuringia,nowcast,0.9,0.8,1.1,0.9,1,0.8
+Thuringia,nowcast,0.9,0.7,1.1,0.9,1,0.82
+Thuringia,nowcast,0.9,0.7,1.1,0.9,1,0.82
+Thuringia,nowcast,0.9,0.8,1.1,0.9,1,0.83
+Thuringia,nowcast,0.9,0.7,1.1,0.9,1,0.82
+Thuringia,nowcast,0.9,0.7,1.1,0.9,1,0.82
+Thuringia,nowcast,0.9,0.8,1.1,0.8,1,0.8
+Thuringia,nowcast,0.9,0.8,1.1,0.9,1,0.76
+Thuringia,nowcast,0.9,0.8,1.1,0.9,1,0.71
+Thuringia,nowcast,1,0.8,1.2,0.9,1,0.63
+Thuringia,nowcast,1,0.8,1.2,0.9,1,0.55
+Thuringia,nowcast,1,0.8,1.2,0.9,1.1,0.51
+Thuringia,nowcast,1,0.8,1.2,0.9,1.1,0.46
+Thuringia,nowcast,1,0.8,1.2,0.9,1.1,0.48
+Thuringia,nowcast,1,0.8,1.2,0.9,1.1,0.49
+Thuringia,nowcast,1,0.8,1.2,0.9,1.1,0.49
+Thuringia,nowcast,1,0.8,1.2,0.9,1,0.55
+Thuringia,nowcast,1,0.8,1.2,0.9,1.1,0.58
+Thuringia,nowcast,1,0.8,1.1,0.9,1,0.63
+Thuringia,nowcast,0.9,0.8,1.1,0.9,1,0.7
+Thuringia,nowcast,0.9,0.7,1.1,0.9,1,0.77
+Thuringia,nowcast,0.9,0.7,1.1,0.9,1,0.8
+Thuringia,nowcast,0.9,0.7,1.1,0.8,1,0.8
+Thuringia,nowcast,0.9,0.7,1.1,0.9,1,0.79
+Thuringia,nowcast,0.9,0.7,1.1,0.8,1,0.78
+Thuringia,nowcast,0.9,0.7,1.1,0.8,1,0.79
+Thuringia,nowcast,0.9,0.7,1.1,0.8,1,0.78
+Thuringia,nowcast,0.9,0.7,1.1,0.8,1,0.76
+Thuringia,nowcast,0.9,0.7,1.2,0.8,1,0.69
+Thuringia,nowcast,1,0.8,1.3,0.8,1,0.57
+Thuringia,nowcast,1,0.8,1.4,0.9,1.1,0.45
+Thuringia,nowcast,1.1,0.8,1.5,0.9,1.2,0.31
+Thuringia,forecast,1.1,0.7,1.5,0.9,1.2,0.35
+Thuringia,forecast,1.1,0.7,1.5,0.9,1.2,0.36
+Thuringia,forecast,1.1,0.6,1.5,0.8,1.2,0.38
+Thuringia,forecast,1.1,0.6,1.6,0.9,1.2,0.39
+Thuringia,forecast,1.1,0.6,1.6,0.8,1.2,0.4
+Thuringia,forecast,1.1,0.5,1.6,0.9,1.3,0.4
+Thuringia,forecast,1.1,0.5,1.6,0.8,1.2,0.42
+Thuringia,forecast,1.1,0.5,1.7,0.8,1.2,0.43
+Thuringia,forecast,1.1,0.5,1.7,0.8,1.3,0.43
+Thuringia,forecast,1.1,0.5,1.7,0.8,1.3,0.43
+Thuringia,forecast,1.1,0.4,1.8,0.7,1.2,0.44
+Thuringia,forecast,1.1,0.4,1.8,0.7,1.3,0.43
+Thuringia,forecast,1.1,0.4,1.8,0.7,1.3,0.45
+Thuringia,forecast,1.1,0.4,1.8,0.7,1.3,0.45
