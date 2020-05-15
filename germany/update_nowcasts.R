@@ -2,17 +2,12 @@
 # Packages -----------------------------------------------------------------
 require(EpiNow, quietly = TRUE)
 require(NCoVUtils, quietly = TRUE)
-require(furrr, quietly = TRUE)
 require(future, quietly = TRUE)
 require(dplyr, quietly = TRUE)
 require(tidyr, quietly = TRUE)
 require(magrittr, quietly = TRUE)
-require(future.apply, quietly = TRUE)
-require(fable, quietly = TRUE)
-require(fabletools, quietly = TRUE)
-require(feasts, quietly = TRUE)
-require(urca, quietly = TRUE)
 require(data.table)
+require(forecastHybrid, quietly = TRUE)
 
 
 # Get cases ---------------------------------------------------------------
@@ -71,11 +66,9 @@ EpiNow::regional_rt_pipeline(
   horizon = 14,
   approx_delay = TRUE,
   report_forecast = TRUE,
-  forecast_model = function(...) {
-    EpiSoon::fable_model(model = fabletools::combination_model(fable::RW(y ~ drift()), fable::ETS(y), 
-                                                               fable::NAIVE(y),
-                                                               cmbn_args = list(weights = "inv_var")), ...)
-  }
+  forecast_model = function(...){EpiSoon::forecastHybrid_model(
+    model_params = list(models = "aeftz", weights = "equal"),
+    forecast_params = list(PI.combination = "mean"), ...)}
 )
 
 

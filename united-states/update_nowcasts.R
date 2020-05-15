@@ -2,16 +2,12 @@
 # Packages -----------------------------------------------------------------
 require(EpiNow, quietly = TRUE)
 require(NCoVUtils, quietly = TRUE)
-require(furrr, quietly = TRUE)
 require(future, quietly = TRUE)
 require(dplyr, quietly = TRUE)
 require(tidyr, quietly = TRUE)
 require(magrittr, quietly = TRUE)
-require(future.apply, quietly = TRUE)
-require(fable, quietly = TRUE)
-require(fabletools, quietly = TRUE)
-require(feasts, quietly = TRUE)
-require(urca, quietly = TRUE)
+require(forecastHybrid, quietly = TRUE)
+
 
 
 # Get cases ---------------------------------------------------------------
@@ -36,8 +32,6 @@ cases <- cases %>%
 
 # Get linelist ------------------------------------------------------------
 
-# linelist <-  NCoVUtils::get_international_linelist() %>% 
-#   tidyr::drop_na(date_onset)
 linelist <- 
   data.table::fread("https://raw.githubusercontent.com/epiforecasts/NCoVUtils/master/data-raw/linelist.csv")
 
@@ -53,7 +47,7 @@ if (!interactive()){
   options(future.fork.enable = TRUE)
 }
 
-future::plan("multiprocess", workers = future::availableCores())
+future::plan("multiprocess", workers = future::availableCores(), gc = TRUE, earlySignal = TRUE)
 
 
 # Fit the reporting delay -------------------------------------------------
@@ -72,11 +66,9 @@ EpiNow::regional_rt_pipeline(
   horizon = 14,
   approx_delay = TRUE,
   report_forecast = TRUE,
-  forecast_model = function(...) {
-    EpiSoon::fable_model(model = fabletools::combination_model(fable::RW(y ~ drift()), fable::ETS(y), 
-                                                               fable::NAIVE(y),
-                                                               cmbn_args = list(weights = "inv_var")), ...)
-  }
+  forecast_model =  function(...){EpiSoon::forecastHybrid_model(
+    model_params = list(models = "aeftz", weights = "equal"),
+    forecast_params = list(PI.combination = "mean"), ...)}
 )
 
 
