@@ -2,16 +2,10 @@
 # Packages -----------------------------------------------------------------
 require(EpiNow, quietly = TRUE)
 require(NCoVUtils, quietly = TRUE)
-require(furrr, quietly = TRUE)
 require(future, quietly = TRUE)
 require(dplyr, quietly = TRUE)
 require(tidyr, quietly = TRUE)
 require(magrittr, quietly = TRUE)
-require(future.apply, quietly = TRUE)
-require(fable, quietly = TRUE)
-require(fabletools, quietly = TRUE)
-require(feasts, quietly = TRUE)
-require(urca, quietly = TRUE)
 require(data.table)
 
 
@@ -30,20 +24,19 @@ region_codes <- cases %>%
 saveRDS(region_codes, "india/data/region_codes.rds")
 
 cases <- cases %>%
+  dplyr::rename(local = cases) %>% 
   dplyr::mutate(imported = 0) %>%
   tidyr::gather(key = "import_status", value = "confirm", local, imported) %>% 
   tidyr::drop_na(region)
 
 # Get linelist ------------------------------------------------------------
 
-# linelist <-  NCoVUtils::get_international_linelist() %>% 
-#   tidyr::drop_na(date_onset)
 linelist <- 
   data.table::fread("https://raw.githubusercontent.com/epiforecasts/NCoVUtils/master/data-raw/linelist.csv")
 
 
 delays <- linelist[!is.na(date_onset_symptoms)][, 
-                                                .(report_delay = as.numeric(lubridate::dmy(date_confirmation) - 
+                   .(report_delay = as.numeric(lubridate::dmy(date_confirmation) - 
                                                                               as.Date(lubridate::dmy(date_onset_symptoms))))]
 
 delays <- delays$report_delay
@@ -53,7 +46,7 @@ if (!interactive()){
   options(future.fork.enable = TRUE)
 }
 
-future::plan("multiprocess", workers = round(future::availableCores() / 3))
+future::plan("multiprocess", workers = round(future::availableCores() / 2))
 
 
 # Fit the reporting delay -------------------------------------------------
@@ -72,7 +65,8 @@ EpiNow::regional_rt_pipeline(
   approx_delay = TRUE,
   report_forecast = TRUE,
   forecast_model = function(...) {EpiSoon::forecastHybrid_model(
-    model_params = list(models = "aeftz", weights = "equal"),
+    model_params = list(models = "aeftz", weights = "equal",
+                        t.args = list(use_parallel = FALSE)),
     forecast_params = list(PI.combination = "mean"), ...)}
 )
 

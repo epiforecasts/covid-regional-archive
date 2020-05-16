@@ -9,4 +9,7 @@ wait
 Rscript united-states/update_nowcasts.R
 
 
+Rscript india/update_nowcasts.R &
+Rscript brazil/update_nowcasts.R &
+wait
 

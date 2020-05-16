@@ -14,7 +14,9 @@ require(forecastHybrid, quietly = TRUE)
 
 NCoVUtils::reset_cache()
 
-cases <- get_germany_regional_cases()
+cases <- get_germany_regional_cases() %>% 
+  dplyr::select(region = state, date, cases) %>% 
+  dplyr::ungroup()
 
 
 region_codes <- cases %>%
@@ -67,7 +69,8 @@ EpiNow::regional_rt_pipeline(
   approx_delay = TRUE,
   report_forecast = TRUE,
   forecast_model = function(...){EpiSoon::forecastHybrid_model(
-    model_params = list(models = "aeftz", weights = "equal"),
+    model_params = list(models = "aeftz", weights = "equal",
+                        t.args = list(use_parallel = FALSE)),
     forecast_params = list(PI.combination = "mean"), ...)}
 )
 
