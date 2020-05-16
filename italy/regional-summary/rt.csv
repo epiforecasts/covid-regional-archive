@@ -1,158 +1,162 @@
 region,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
 Abruzzo,nowcast,1.6,1.2,2,1.4,1.7,0
-Abruzzo,nowcast,1.6,1.2,2,1.4,1.7,0
-Abruzzo,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Abruzzo,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Abruzzo,nowcast,1.5,1.2,1.9,1.4,1.6,0
 Abruzzo,nowcast,1.5,1.2,1.8,1.3,1.6,0
-Abruzzo,nowcast,1.4,1.1,1.7,1.3,1.5,0
-Abruzzo,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
+Abruzzo,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Abruzzo,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
 Abruzzo,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-Abruzzo,nowcast,1.3,1,1.5,1.2,1.4,0.02
-Abruzzo,nowcast,1.2,1,1.4,1.2,1.3,0.03
+Abruzzo,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
+Abruzzo,nowcast,1.2,1,1.5,1.2,1.3,0.04
 Abruzzo,nowcast,1.2,1,1.4,1.1,1.3,0.07
-Abruzzo,nowcast,1.2,0.9,1.3,1.1,1.2,0.11
-Abruzzo,nowcast,1.1,0.9,1.3,1.1,1.2,0.14
+Abruzzo,nowcast,1.1,0.9,1.4,1.1,1.2,0.11
+Abruzzo,nowcast,1.1,0.9,1.3,1,1.2,0.14
 Abruzzo,nowcast,1.1,0.9,1.3,1,1.2,0.18
 Abruzzo,nowcast,1.1,0.9,1.2,1,1.1,0.26
-Abruzzo,nowcast,1,0.9,1.2,1,1.1,0.37
-Abruzzo,nowcast,1,0.8,1.2,0.9,1.1,0.51
-Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.69
+Abruzzo,nowcast,1,0.9,1.2,1,1.1,0.36
+Abruzzo,nowcast,1,0.8,1.2,0.9,1.1,0.53
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.67
 Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.82
 Abruzzo,nowcast,0.9,0.7,1,0.8,1,0.89
-Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.93
-Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.93
-Abruzzo,nowcast,0.9,0.8,1,0.8,0.9,0.9
-Abruzzo,nowcast,0.9,0.8,1.1,0.8,1,0.83
+Abruzzo,nowcast,0.9,0.7,1,0.8,1,0.93
+Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Abruzzo,nowcast,0.9,0.8,1.1,0.8,0.9,0.84
+Abruzzo,nowcast,0.9,0.8,1.1,0.8,1,0.79
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.75
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.71
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.67
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.68
+Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.69
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.74
 Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.78
-Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.73
-Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.7
-Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.67
-Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.67
-Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.7
-Abruzzo,nowcast,1,0.8,1.1,0.9,1,0.72
-Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.76
-Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.83
 Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.84
-Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.84
-Abruzzo,nowcast,0.9,0.8,1.1,0.8,1,0.85
-Abruzzo,nowcast,0.9,0.7,1.1,0.9,1,0.85
-Abruzzo,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.9
-Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Abruzzo,nowcast,0.9,0.8,1.1,0.9,1,0.85
+Abruzzo,nowcast,0.9,0.7,1.1,0.8,1,0.86
+Abruzzo,nowcast,0.9,0.7,1.1,0.8,1,0.85
+Abruzzo,nowcast,0.9,0.7,1,0.8,1,0.88
+Abruzzo,nowcast,0.9,0.7,1,0.8,0.9,0.91
+Abruzzo,nowcast,0.8,0.7,1,0.8,0.9,0.95
 Abruzzo,nowcast,0.8,0.6,1,0.8,0.9,0.97
 Abruzzo,nowcast,0.8,0.6,1,0.7,0.9,0.98
 Abruzzo,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Abruzzo,nowcast,0.7,0.5,0.9,0.7,0.8,1
-Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
-Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
-Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Abruzzo,nowcast,0.7,0.5,0.9,0.7,0.8,0.99
+Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.8,1
+Abruzzo,nowcast,0.7,0.5,0.8,0.6,0.8,0.99
+Abruzzo,nowcast,0.7,0.5,0.8,0.6,0.8,0.99
+Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.7,0.98
 Abruzzo,nowcast,0.7,0.5,0.9,0.6,0.7,0.97
-Abruzzo,nowcast,0.7,0.5,1,0.6,0.8,0.96
-Abruzzo,nowcast,0.7,0.5,1,0.6,0.8,0.92
-Abruzzo,nowcast,0.8,0.5,1,0.7,0.8,0.88
-Abruzzo,nowcast,0.8,0.6,1.1,0.7,0.9,0.85
-Abruzzo,nowcast,0.8,0.6,1.2,0.7,0.9,0.81
-Abruzzo,nowcast,0.9,0.6,1.2,0.7,1,0.75
-Abruzzo,nowcast,0.9,0.6,1.2,0.8,1,0.7
-Abruzzo,nowcast,0.9,0.6,1.3,0.8,1,0.65
-Abruzzo,nowcast,0.9,0.6,1.3,0.8,1,0.63
-Abruzzo,nowcast,1,0.6,1.4,0.8,1.1,0.57
-Abruzzo,nowcast,1,0.5,1.6,0.8,1.1,0.48
-Calabria,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
-Calabria,nowcast,1.5,1.1,2,1.4,1.7,0.02
-Calabria,nowcast,1.5,1.1,1.9,1.3,1.7,0.02
-Calabria,nowcast,1.4,1.1,1.9,1.3,1.6,0.03
-Calabria,nowcast,1.4,1,1.8,1.2,1.5,0.03
-Calabria,nowcast,1.4,1,1.7,1.2,1.5,0.03
-Calabria,nowcast,1.3,1,1.7,1.2,1.5,0.05
-Calabria,nowcast,1.3,1,1.6,1.1,1.4,0.06
-Calabria,nowcast,1.2,1,1.5,1.2,1.4,0.07
-Calabria,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
+Abruzzo,nowcast,0.7,0.5,1,0.6,0.8,0.94
+Abruzzo,nowcast,0.8,0.5,1,0.6,0.8,0.91
+Abruzzo,nowcast,0.8,0.6,1.1,0.7,0.8,0.87
+Abruzzo,nowcast,0.8,0.6,1.1,0.7,0.9,0.86
+Abruzzo,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
+Abruzzo,nowcast,0.9,0.6,1.1,0.7,0.9,0.8
+Abruzzo,nowcast,0.9,0.6,1.1,0.7,0.9,0.8
+Abruzzo,nowcast,0.9,0.6,1.2,0.7,0.9,0.78
+Abruzzo,nowcast,0.9,0.6,1.2,0.7,1,0.78
+Abruzzo,nowcast,0.9,0.5,1.2,0.7,1,0.74
+Abruzzo,nowcast,0.9,0.6,1.3,0.7,1,0.68
+Abruzzo,nowcast,1,0.6,1.5,0.7,1.1,0.56
+Abruzzo,nowcast,1,0.6,1.7,0.8,1.1,0.45
+Calabria,nowcast,1.6,1.1,2.1,1.4,1.8,0.02
+Calabria,nowcast,1.5,1.1,2.1,1.3,1.7,0.01
+Calabria,nowcast,1.5,1.1,2,1.3,1.6,0.02
+Calabria,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+Calabria,nowcast,1.4,1.1,1.8,1.3,1.5,0.03
+Calabria,nowcast,1.4,1,1.7,1.2,1.5,0.04
+Calabria,nowcast,1.3,1,1.6,1.2,1.4,0.05
+Calabria,nowcast,1.3,1,1.6,1.2,1.4,0.07
+Calabria,nowcast,1.2,1,1.5,1.1,1.4,0.08
+Calabria,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
 Calabria,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
-Calabria,nowcast,1.1,0.9,1.4,1,1.2,0.16
-Calabria,nowcast,1.1,0.9,1.4,1,1.2,0.2
-Calabria,nowcast,1.1,0.8,1.3,1,1.2,0.27
+Calabria,nowcast,1.1,0.9,1.4,1.1,1.2,0.15
+Calabria,nowcast,1.1,0.9,1.4,1,1.2,0.22
+Calabria,nowcast,1.1,0.9,1.3,1,1.2,0.27
 Calabria,nowcast,1,0.8,1.3,1,1.1,0.39
 Calabria,nowcast,1,0.8,1.2,0.9,1.1,0.52
-Calabria,nowcast,0.9,0.7,1.1,0.8,1,0.7
-Calabria,nowcast,0.9,0.6,1.1,0.8,1,0.85
-Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.93
-Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Calabria,nowcast,0.9,0.7,1.1,0.8,1,0.72
+Calabria,nowcast,0.9,0.6,1.1,0.8,1,0.84
 Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.94
 Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.91
-Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.9
 Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.9
 Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
 Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.9
+Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.91
 Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.9
-Calabria,nowcast,0.8,0.6,1,0.7,0.9,0.89
-Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.86
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
 Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.85
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.84
+Calabria,nowcast,0.8,0.6,1.2,0.7,0.9,0.82
 Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
-Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
-Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.82
-Calabria,nowcast,0.8,0.5,1.1,0.7,0.9,0.84
+Calabria,nowcast,0.8,0.6,1.1,0.7,0.9,0.85
 Calabria,nowcast,0.8,0.5,1.1,0.7,0.9,0.89
-Calabria,nowcast,0.8,0.5,1,0.7,0.9,0.92
-Calabria,nowcast,0.7,0.4,1,0.6,0.9,0.93
+Calabria,nowcast,0.8,0.5,1.1,0.7,0.9,0.91
+Calabria,nowcast,0.7,0.5,1,0.6,0.9,0.94
+Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.93
+Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.93
 Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.94
-Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.95
-Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.95
-Calabria,nowcast,0.7,0.4,1,0.6,0.8,0.94
-Calabria,nowcast,0.7,0.3,1,0.5,0.8,0.94
-Calabria,nowcast,0.7,0.3,1,0.5,0.8,0.93
-Calabria,nowcast,0.6,0.3,1,0.5,0.7,0.92
-Calabria,nowcast,0.6,0.3,1.1,0.5,0.7,0.89
-Calabria,nowcast,0.7,0.3,1.2,0.5,0.8,0.87
-Calabria,nowcast,0.7,0.3,1.2,0.5,0.8,0.83
-Calabria,nowcast,0.7,0.3,1.3,0.5,0.9,0.81
-Calabria,nowcast,0.8,0.3,1.4,0.5,0.9,0.72
+Calabria,nowcast,0.7,0.3,1,0.5,0.8,0.95
+Calabria,nowcast,0.6,0.3,1,0.5,0.8,0.94
+Calabria,nowcast,0.6,0.3,1,0.5,0.7,0.93
+Calabria,nowcast,0.6,0.3,1,0.5,0.8,0.93
+Calabria,nowcast,0.6,0.3,1.1,0.5,0.8,0.91
+Calabria,nowcast,0.7,0.3,1.1,0.5,0.8,0.89
+Calabria,nowcast,0.7,0.3,1.1,0.5,0.8,0.86
+Calabria,nowcast,0.7,0.2,1.2,0.5,0.8,0.82
+Calabria,nowcast,0.7,0.2,1.3,0.5,0.9,0.77
+Calabria,nowcast,0.8,0.3,1.4,0.5,0.9,0.73
 Calabria,nowcast,0.8,0.3,1.6,0.5,1,0.66
-Calabria,nowcast,0.9,0.4,1.7,0.6,1.1,0.57
-Calabria,nowcast,1,0.4,2,0.6,1.2,0.46
-Calabria,nowcast,1.2,0.4,2.2,0.7,1.4,0.37
-Calabria,nowcast,1.3,0.5,2.6,0.8,1.5,0.27
-Calabria,nowcast,1.5,0.5,2.7,0.9,1.6,0.18
-Calabria,nowcast,1.7,0.6,3.1,1,1.9,0.1
-Campania,nowcast,1.7,1.2,2.2,1.4,1.8,0
-Campania,nowcast,1.6,1.2,2.1,1.4,1.8,0
+Calabria,nowcast,0.9,0.4,1.8,0.6,1.1,0.56
+Calabria,nowcast,1,0.3,1.9,0.6,1.2,0.47
+Calabria,nowcast,1.1,0.4,2,0.7,1.3,0.38
+Calabria,nowcast,1.2,0.5,2.3,0.8,1.4,0.3
+Calabria,nowcast,1.4,0.6,2.6,0.9,1.6,0.21
+Calabria,nowcast,1.5,0.6,2.8,1,1.7,0.15
+Calabria,nowcast,1.7,0.6,3.2,1.1,2,0.1
+Calabria,nowcast,2,0.6,3.5,1.2,2.3,0.07
+Campania,nowcast,1.7,1.2,2.1,1.5,1.8,0
+Campania,nowcast,1.6,1.3,2.1,1.4,1.8,0
 Campania,nowcast,1.6,1.2,2,1.4,1.7,0
 Campania,nowcast,1.6,1.2,2,1.4,1.7,0
-Campania,nowcast,1.6,1.2,2,1.4,1.7,0
+Campania,nowcast,1.6,1.2,1.9,1.4,1.6,0
 Campania,nowcast,1.5,1.2,1.9,1.4,1.7,0
-Campania,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Campania,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Campania,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Campania,nowcast,1.5,1.2,1.8,1.3,1.6,0
 Campania,nowcast,1.5,1.2,1.8,1.4,1.6,0
 Campania,nowcast,1.5,1.2,1.7,1.3,1.5,0
 Campania,nowcast,1.4,1.2,1.7,1.3,1.5,0
 Campania,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Campania,nowcast,1.4,1.1,1.6,1.3,1.4,0
-Campania,nowcast,1.3,1.1,1.6,1.2,1.4,0
 Campania,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Campania,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Campania,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Campania,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Campania,nowcast,1.2,1,1.4,1.2,1.3,0.01
+Campania,nowcast,1.2,1.1,1.4,1.1,1.3,0.02
 Campania,nowcast,1.2,1,1.4,1.1,1.3,0.02
-Campania,nowcast,1.2,1,1.4,1.1,1.2,0.03
 Campania,nowcast,1.2,1,1.3,1.1,1.2,0.02
-Campania,nowcast,1.2,1,1.3,1.1,1.2,0.04
 Campania,nowcast,1.2,1,1.3,1.1,1.2,0.03
-Campania,nowcast,1.1,1,1.3,1.1,1.2,0.04
+Campania,nowcast,1.2,1,1.3,1.1,1.2,0.03
+Campania,nowcast,1.2,1,1.3,1.1,1.2,0.04
 Campania,nowcast,1.1,1,1.3,1.1,1.2,0.07
-Campania,nowcast,1.1,1,1.2,1.1,1.2,0.11
-Campania,nowcast,1.1,0.9,1.2,1,1.1,0.18
-Campania,nowcast,1,0.9,1.2,1,1.1,0.33
-Campania,nowcast,1,0.9,1.1,0.9,1.1,0.54
-Campania,nowcast,1,0.8,1.1,0.9,1,0.7
-Campania,nowcast,0.9,0.8,1,0.9,1,0.86
+Campania,nowcast,1.1,1,1.3,1.1,1.2,0.11
+Campania,nowcast,1.1,0.9,1.2,1,1.1,0.19
+Campania,nowcast,1,0.9,1.2,1,1.1,0.34
+Campania,nowcast,1,0.9,1.1,1,1.1,0.51
+Campania,nowcast,1,0.8,1.1,0.9,1,0.71
+Campania,nowcast,0.9,0.8,1,0.9,1,0.87
 Campania,nowcast,0.9,0.7,1,0.8,0.9,0.96
-Campania,nowcast,0.8,0.7,1,0.8,0.9,0.99
-Campania,nowcast,0.8,0.7,0.9,0.7,0.9,1
+Campania,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Campania,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Campania,nowcast,0.8,0.6,0.9,0.7,0.9,1
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,1
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Campania,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Campania,nowcast,0.8,0.6,0.9,0.7,0.8,1
-Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
@@ -161,32 +165,37 @@ Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Campania,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Campania,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
 Campania,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
 Campania,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 Campania,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
 Campania,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-Campania,nowcast,0.7,0.5,0.9,0.7,0.8,0.97
-Campania,nowcast,0.7,0.5,1,0.7,0.8,0.96
-Campania,nowcast,0.8,0.5,1,0.7,0.8,0.94
-Campania,nowcast,0.8,0.6,1,0.7,0.8,0.91
-Campania,nowcast,0.8,0.5,1,0.7,0.9,0.9
-Campania,nowcast,0.8,0.6,1.1,0.7,0.9,0.86
+Campania,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Campania,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
+Campania,nowcast,0.7,0.5,1,0.7,0.8,0.95
+Campania,nowcast,0.8,0.5,1,0.6,0.8,0.94
+Campania,nowcast,0.8,0.5,1,0.7,0.8,0.91
+Campania,nowcast,0.8,0.5,1.1,0.7,0.9,0.89
+Campania,nowcast,0.8,0.5,1.1,0.7,0.9,0.86
 Campania,nowcast,0.8,0.6,1.1,0.7,0.9,0.82
-Campania,nowcast,0.9,0.6,1.2,0.7,1,0.77
-Campania,nowcast,0.9,0.6,1.3,0.7,1,0.69
-Campania,nowcast,0.9,0.6,1.3,0.8,1,0.61
-Campania,nowcast,1,0.6,1.5,0.8,1.1,0.5
-Campania,nowcast,1.1,0.7,1.7,0.8,1.2,0.39
+Campania,nowcast,0.9,0.6,1.2,0.7,0.9,0.79
+Campania,nowcast,0.9,0.6,1.2,0.8,1,0.74
+Campania,nowcast,0.9,0.6,1.3,0.8,1,0.69
+Campania,nowcast,0.9,0.6,1.3,0.8,1,0.62
+Campania,nowcast,1,0.6,1.4,0.8,1.1,0.53
+Campania,nowcast,1,0.7,1.5,0.8,1.1,0.45
+Campania,nowcast,1.1,0.7,1.7,0.9,1.2,0.34
 Emilia-Romagna,nowcast,1.7,1.4,2,1.5,1.8,0
-Emilia-Romagna,nowcast,1.6,1.3,1.9,1.5,1.8,0
-Emilia-Romagna,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Emilia-Romagna,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Emilia-Romagna,nowcast,1.7,1.4,2,1.5,1.7,0
+Emilia-Romagna,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Emilia-Romagna,nowcast,1.6,1.3,1.8,1.4,1.6,0
 Emilia-Romagna,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Emilia-Romagna,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Emilia-Romagna,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Emilia-Romagna,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Emilia-Romagna,nowcast,1.5,1.3,1.7,1.4,1.5,0
 Emilia-Romagna,nowcast,1.5,1.3,1.6,1.4,1.5,0
@@ -194,329 +203,341 @@ Emilia-Romagna,nowcast,1.4,1.3,1.6,1.4,1.5,0
 Emilia-Romagna,nowcast,1.4,1.3,1.6,1.4,1.5,0
 Emilia-Romagna,nowcast,1.4,1.3,1.6,1.3,1.5,0
 Emilia-Romagna,nowcast,1.4,1.3,1.6,1.3,1.5,0
-Emilia-Romagna,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Emilia-Romagna,nowcast,1.4,1.3,1.6,1.3,1.5,0
+Emilia-Romagna,nowcast,1.4,1.2,1.6,1.3,1.4,0
 Emilia-Romagna,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Emilia-Romagna,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Emilia-Romagna,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Emilia-Romagna,nowcast,1.3,1.2,1.5,1.3,1.4,0
 Emilia-Romagna,nowcast,1.3,1.2,1.5,1.3,1.4,0
 Emilia-Romagna,nowcast,1.3,1.2,1.4,1.2,1.3,0
 Emilia-Romagna,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Emilia-Romagna,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Emilia-Romagna,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Emilia-Romagna,nowcast,1.1,1,1.2,1.1,1.2,0.01
-Emilia-Romagna,nowcast,1.1,1,1.2,1,1.1,0.07
+Emilia-Romagna,nowcast,1.1,1,1.2,1.1,1.2,0.02
+Emilia-Romagna,nowcast,1.1,1,1.2,1,1.1,0.06
 Emilia-Romagna,nowcast,1,1,1.1,1,1.1,0.21
-Emilia-Romagna,nowcast,1,0.9,1.1,1,1,0.48
+Emilia-Romagna,nowcast,1,0.9,1.1,1,1,0.47
 Emilia-Romagna,nowcast,1,0.9,1,0.9,1,0.75
-Emilia-Romagna,nowcast,0.9,0.9,1,0.9,1,0.91
-Emilia-Romagna,nowcast,0.9,0.8,1,0.9,0.9,0.98
+Emilia-Romagna,nowcast,0.9,0.9,1,0.9,1,0.93
+Emilia-Romagna,nowcast,0.9,0.9,1,0.9,0.9,0.97
+Emilia-Romagna,nowcast,0.9,0.8,1,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
 Emilia-Romagna,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-Emilia-Romagna,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Emilia-Romagna,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Emilia-Romagna,nowcast,0.9,0.8,1,0.9,0.9,0.99
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.9,0.9,0.99
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Emilia-Romagna,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.8,0.8,0.9,0.8,0.9,1
+Emilia-Romagna,nowcast,0.8,0.8,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.8,0.8,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
-Emilia-Romagna,nowcast,0.8,0.8,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Emilia-Romagna,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Emilia-Romagna,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Emilia-Romagna,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Emilia-Romagna,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Emilia-Romagna,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Emilia-Romagna,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Emilia-Romagna,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Emilia-Romagna,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Emilia-Romagna,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Emilia-Romagna,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Emilia-Romagna,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 Emilia-Romagna,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Emilia-Romagna,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
-Emilia-Romagna,nowcast,0.8,0.7,1,0.7,0.9,0.94
-Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.94
-Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.92
-Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.92
-Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.91
+Emilia-Romagna,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Emilia-Romagna,nowcast,0.8,0.7,1,0.7,0.9,0.91
 Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.91
 Emilia-Romagna,forecast,0.8,0.6,1,0.7,0.9,0.9
-Emilia-Romagna,forecast,0.8,0.5,1.1,0.7,0.9,0.89
-Emilia-Romagna,forecast,0.8,0.5,1.1,0.6,0.9,0.89
-Emilia-Romagna,forecast,0.8,0.5,1.1,0.7,0.9,0.89
-Emilia-Romagna,forecast,0.8,0.5,1.1,0.7,0.9,0.89
-Emilia-Romagna,forecast,0.8,0.5,1.1,0.6,0.9,0.88
-Emilia-Romagna,forecast,0.8,0.4,1.1,0.7,0.9,0.87
-Emilia-Romagna,forecast,0.8,0.5,1.1,0.6,0.9,0.87
-Emilia-Romagna,forecast,0.8,0.4,1.1,0.6,0.9,0.87
-Friuli Venezia Giulia,nowcast,1.7,1.2,2.3,1.5,1.9,0
-Friuli Venezia Giulia,nowcast,1.7,1.2,2.1,1.5,1.8,0
-Friuli Venezia Giulia,nowcast,1.6,1.2,2,1.5,1.8,0
+Emilia-Romagna,forecast,0.8,0.6,1.1,0.7,0.9,0.88
+Emilia-Romagna,forecast,0.8,0.6,1.1,0.7,0.9,0.87
+Emilia-Romagna,forecast,0.8,0.5,1.1,0.7,0.9,0.85
+Emilia-Romagna,forecast,0.8,0.5,1.1,0.7,0.9,0.85
+Emilia-Romagna,forecast,0.8,0.5,1.1,0.7,0.9,0.82
+Emilia-Romagna,forecast,0.8,0.5,1.2,0.7,0.9,0.84
+Emilia-Romagna,forecast,0.8,0.5,1.2,0.7,0.9,0.82
+Emilia-Romagna,forecast,0.8,0.5,1.2,0.7,0.9,0.81
+Emilia-Romagna,forecast,0.8,0.5,1.2,0.6,0.9,0.8
+Emilia-Romagna,forecast,0.8,0.4,1.2,0.7,1,0.79
+Emilia-Romagna,forecast,0.8,0.4,1.2,0.7,1,0.79
+Emilia-Romagna,forecast,0.8,0.4,1.2,0.6,0.9,0.78
+Friuli Venezia Giulia,nowcast,1.7,1.2,2.2,1.5,1.9,0
+Friuli Venezia Giulia,nowcast,1.6,1.2,2.1,1.4,1.8,0
+Friuli Venezia Giulia,nowcast,1.6,1.2,2,1.4,1.8,0
 Friuli Venezia Giulia,nowcast,1.6,1.2,2,1.4,1.7,0
 Friuli Venezia Giulia,nowcast,1.5,1.2,1.9,1.4,1.7,0
-Friuli Venezia Giulia,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Friuli Venezia Giulia,nowcast,1.4,1.1,1.8,1.3,1.5,0
-Friuli Venezia Giulia,nowcast,1.4,1.1,1.7,1.3,1.5,0
-Friuli Venezia Giulia,nowcast,1.4,1.1,1.6,1.2,1.5,0.01
+Friuli Venezia Giulia,nowcast,1.5,1.2,1.8,1.4,1.6,0.01
+Friuli Venezia Giulia,nowcast,1.5,1.1,1.8,1.3,1.6,0
+Friuli Venezia Giulia,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Friuli Venezia Giulia,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
 Friuli Venezia Giulia,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
 Friuli Venezia Giulia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Friuli Venezia Giulia,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
-Friuli Venezia Giulia,nowcast,1.2,1,1.5,1.2,1.3,0.03
-Friuli Venezia Giulia,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Friuli Venezia Giulia,nowcast,1.2,1,1.4,1.2,1.3,0.02
+Friuli Venezia Giulia,nowcast,1.2,1,1.4,1.1,1.3,0.04
 Friuli Venezia Giulia,nowcast,1.2,1,1.4,1.1,1.3,0.04
 Friuli Venezia Giulia,nowcast,1.2,1,1.3,1.1,1.2,0.07
-Friuli Venezia Giulia,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
-Friuli Venezia Giulia,nowcast,1.1,0.9,1.3,1,1.2,0.21
-Friuli Venezia Giulia,nowcast,1.1,0.9,1.2,1,1.1,0.29
+Friuli Venezia Giulia,nowcast,1.1,0.9,1.3,1.1,1.2,0.14
+Friuli Venezia Giulia,nowcast,1.1,0.9,1.2,1,1.2,0.21
+Friuli Venezia Giulia,nowcast,1.1,0.9,1.2,1,1.1,0.28
 Friuli Venezia Giulia,nowcast,1,0.9,1.2,1,1.1,0.37
-Friuli Venezia Giulia,nowcast,1,0.9,1.2,1,1.1,0.44
+Friuli Venezia Giulia,nowcast,1,0.8,1.1,1,1.1,0.47
 Friuli Venezia Giulia,nowcast,1,0.8,1.1,0.9,1.1,0.55
-Friuli Venezia Giulia,nowcast,1,0.8,1.1,0.9,1,0.64
-Friuli Venezia Giulia,nowcast,1,0.8,1.1,0.9,1,0.72
-Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.78
-Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.8
+Friuli Venezia Giulia,nowcast,1,0.8,1.1,0.9,1,0.66
+Friuli Venezia Giulia,nowcast,1,0.8,1.1,0.9,1,0.73
+Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.79
 Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.81
+Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.82
+Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.82
 Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.84
-Friuli Venezia Giulia,nowcast,0.9,0.8,1.1,0.9,1,0.86
-Friuli Venezia Giulia,nowcast,0.9,0.8,1,0.8,0.9,0.9
-Friuli Venezia Giulia,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Friuli Venezia Giulia,nowcast,0.9,0.8,1,0.9,1,0.91
+Friuli Venezia Giulia,nowcast,0.9,0.7,1,0.8,0.9,0.94
 Friuli Venezia Giulia,nowcast,0.9,0.7,1,0.8,0.9,0.96
-Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.97
 Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.98
 Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.98
 Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Friuli Venezia Giulia,nowcast,0.8,0.7,0.9,0.8,0.9,0.96
 Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.96
-Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.7,0.9,0.95
 Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.95
-Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.8,0.9,0.94
-Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.93
 Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.95
 Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.8,0.9,0.94
-Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.96
+Friuli Venezia Giulia,nowcast,0.8,0.7,1,0.7,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.8,0.9,0.95
 Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.97
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.97
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.8,0.97
 Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.8,0.96
-Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.92
-Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.93
 Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.92
 Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.9,0.93
-Friuli Venezia Giulia,nowcast,0.8,0.5,1,0.7,0.9,0.94
-Friuli Venezia Giulia,nowcast,0.8,0.5,1,0.7,0.9,0.94
-Friuli Venezia Giulia,nowcast,0.8,0.5,1,0.7,0.9,0.94
+Friuli Venezia Giulia,nowcast,0.8,0.6,1,0.7,0.8,0.95
+Friuli Venezia Giulia,nowcast,0.8,0.5,1,0.7,0.8,0.95
+Friuli Venezia Giulia,nowcast,0.7,0.5,1,0.6,0.8,0.96
+Friuli Venezia Giulia,nowcast,0.7,0.5,1,0.6,0.8,0.96
+Friuli Venezia Giulia,nowcast,0.7,0.4,1,0.6,0.8,0.96
 Friuli Venezia Giulia,nowcast,0.7,0.5,1,0.6,0.8,0.95
-Friuli Venezia Giulia,nowcast,0.7,0.5,1,0.6,0.8,0.94
-Friuli Venezia Giulia,nowcast,0.7,0.5,1,0.6,0.8,0.93
-Friuli Venezia Giulia,nowcast,0.8,0.5,1.1,0.6,0.9,0.88
-Friuli Venezia Giulia,nowcast,0.8,0.5,1.2,0.6,0.9,0.82
-Friuli Venezia Giulia,nowcast,0.8,0.5,1.3,0.6,0.9,0.73
-Friuli Venezia Giulia,nowcast,0.9,0.5,1.4,0.7,1,0.64
-Friuli Venezia Giulia,nowcast,1,0.6,1.7,0.7,1.1,0.49
-Friuli Venezia Giulia,nowcast,1.1,0.6,1.9,0.8,1.2,0.37
+Friuli Venezia Giulia,nowcast,0.7,0.5,1,0.6,0.8,0.92
+Friuli Venezia Giulia,nowcast,0.7,0.5,1.1,0.6,0.8,0.89
+Friuli Venezia Giulia,nowcast,0.8,0.5,1.2,0.6,0.9,0.85
+Friuli Venezia Giulia,nowcast,0.8,0.5,1.2,0.7,0.9,0.8
+Friuli Venezia Giulia,nowcast,0.9,0.5,1.3,0.7,1,0.72
+Friuli Venezia Giulia,nowcast,0.9,0.6,1.4,0.7,1,0.6
+Friuli Venezia Giulia,nowcast,1,0.6,1.5,0.8,1.1,0.5
+Friuli Venezia Giulia,nowcast,1.1,0.6,1.8,0.8,1.2,0.37
+Friuli Venezia Giulia,nowcast,1.2,0.7,1.9,0.8,1.3,0.28
 Lazio,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Lazio,nowcast,1.6,1.3,2,1.5,1.8,0
 Lazio,nowcast,1.6,1.3,2,1.4,1.7,0
+Lazio,nowcast,1.6,1.3,2,1.5,1.7,0
+Lazio,nowcast,1.6,1.3,1.9,1.5,1.7,0
 Lazio,nowcast,1.6,1.3,1.9,1.4,1.7,0
-Lazio,nowcast,1.6,1.3,1.9,1.4,1.6,0
 Lazio,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Lazio,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Lazio,nowcast,1.5,1.2,1.7,1.4,1.6,0
 Lazio,nowcast,1.4,1.2,1.7,1.3,1.5,0
 Lazio,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Lazio,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Lazio,nowcast,1.4,1.2,1.6,1.2,1.4,0
 Lazio,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Lazio,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Lazio,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Lazio,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
 Lazio,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Lazio,nowcast,1.2,1,1.4,1.1,1.3,0.02
-Lazio,nowcast,1.2,1,1.3,1.1,1.2,0.04
-Lazio,nowcast,1.1,1,1.3,1.1,1.2,0.08
-Lazio,nowcast,1.1,0.9,1.2,1,1.1,0.14
-Lazio,nowcast,1.1,0.9,1.2,1,1.1,0.21
-Lazio,nowcast,1,0.9,1.2,1,1.1,0.31
-Lazio,nowcast,1,0.9,1.1,1,1.1,0.43
-Lazio,nowcast,1,0.9,1.1,0.9,1,0.57
+Lazio,nowcast,1.2,1,1.3,1.1,1.3,0.02
+Lazio,nowcast,1.2,1,1.3,1.1,1.2,0.06
+Lazio,nowcast,1.1,1,1.3,1.1,1.2,0.09
+Lazio,nowcast,1.1,1,1.2,1,1.1,0.14
+Lazio,nowcast,1.1,0.9,1.2,1,1.1,0.22
+Lazio,nowcast,1,0.9,1.1,1,1.1,0.3
+Lazio,nowcast,1,0.9,1.1,1,1.1,0.42
+Lazio,nowcast,1,0.9,1.1,1,1,0.56
 Lazio,nowcast,1,0.9,1.1,0.9,1,0.7
 Lazio,nowcast,0.9,0.8,1,0.9,1,0.82
-Lazio,nowcast,0.9,0.8,1,0.9,1,0.89
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.9
 Lazio,nowcast,0.9,0.8,1,0.9,1,0.94
-Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Lazio,nowcast,0.9,0.8,1,0.9,1,0.96
-Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.95
-Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.94
 Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.93
-Lazio,nowcast,0.9,0.8,1,0.9,1,0.91
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.92
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.89
 Lazio,nowcast,0.9,0.8,1,0.9,1,0.9
 Lazio,nowcast,0.9,0.8,1,0.9,1,0.89
-Lazio,nowcast,0.9,0.8,1,0.9,1,0.9
-Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.91
-Lazio,nowcast,0.9,0.8,1,0.9,1,0.92
+Lazio,nowcast,0.9,0.8,1,0.9,1,0.91
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.93
 Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.94
-Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Lazio,nowcast,0.9,0.8,1,0.9,0.9,0.95
 Lazio,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Lazio,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.97
 Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.98
 Lazio,nowcast,0.8,0.7,1,0.8,0.9,0.99
 Lazio,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Lazio,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 Lazio,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-Lazio,nowcast,0.8,0.7,0.9,0.8,0.9,0.97
-Lazio,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Lazio,nowcast,0.8,0.7,1,0.8,0.9,0.95
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
 Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.93
-Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.92
-Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.92
 Lazio,nowcast,0.9,0.8,1,0.8,0.9,0.92
-Lazio,nowcast,0.9,0.8,1,0.8,0.9,0.93
-Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.92
 Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.93
-Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
-Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
-Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
 Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.95
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.94
 Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.93
 Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.92
-Lazio,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
-Lazio,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
-Lazio,nowcast,0.9,0.6,1.1,0.7,0.9,0.82
-Lazio,forecast,0.9,0.6,1.1,0.8,0.9,0.81
-Lazio,forecast,0.9,0.6,1.1,0.7,1,0.8
-Lazio,forecast,0.9,0.6,1.2,0.7,1,0.79
-Lazio,forecast,0.9,0.5,1.2,0.7,1,0.79
-Lazio,forecast,0.8,0.5,1.2,0.7,1,0.79
-Lazio,forecast,0.8,0.5,1.2,0.7,1,0.77
-Lazio,forecast,0.8,0.5,1.2,0.7,1,0.77
-Lazio,forecast,0.8,0.4,1.2,0.7,1,0.76
-Lazio,forecast,0.8,0.4,1.2,0.7,1,0.76
-Lazio,forecast,0.8,0.4,1.3,0.6,0.9,0.75
-Lazio,forecast,0.8,0.4,1.3,0.6,1,0.76
-Lazio,forecast,0.8,0.4,1.3,0.6,1,0.75
-Lazio,forecast,0.8,0.4,1.3,0.7,1,0.75
-Lazio,forecast,0.8,0.3,1.3,0.7,1,0.75
-Liguria,nowcast,1.7,1.3,2.3,1.5,1.9,0
+Lazio,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Lazio,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+Lazio,nowcast,0.9,0.7,1.1,0.8,1,0.81
+Lazio,nowcast,0.9,0.7,1.2,0.8,1,0.7
+Lazio,nowcast,1,0.7,1.3,0.8,1,0.51
+Lazio,forecast,1,0.7,1.3,0.8,1.1,0.55
+Lazio,forecast,1,0.7,1.3,0.8,1.1,0.55
+Lazio,forecast,1,0.7,1.4,0.8,1.1,0.54
+Lazio,forecast,1,0.6,1.4,0.8,1.1,0.53
+Lazio,forecast,1,0.6,1.4,0.8,1.1,0.54
+Lazio,forecast,1,0.6,1.4,0.8,1.1,0.53
+Lazio,forecast,1,0.6,1.4,0.8,1.1,0.55
+Lazio,forecast,1,0.5,1.4,0.8,1.1,0.54
+Lazio,forecast,1,0.6,1.5,0.8,1.1,0.53
+Lazio,forecast,1,0.5,1.5,0.8,1.1,0.53
+Lazio,forecast,1,0.5,1.5,0.8,1.1,0.53
+Lazio,forecast,1,0.5,1.6,0.7,1.1,0.52
+Lazio,forecast,1,0.5,1.5,0.8,1.1,0.53
+Lazio,forecast,1,0.5,1.5,0.8,1.2,0.52
+Liguria,nowcast,1.7,1.3,2.3,1.5,1.9,0.01
 Liguria,nowcast,1.7,1.3,2.2,1.5,1.9,0
 Liguria,nowcast,1.7,1.3,2.2,1.5,1.9,0
-Liguria,nowcast,1.7,1.4,2.2,1.5,1.8,0
-Liguria,nowcast,1.7,1.3,2.2,1.5,1.9,0
-Liguria,nowcast,1.7,1.4,2.2,1.5,1.8,0
+Liguria,nowcast,1.7,1.4,2.2,1.6,1.9,0
+Liguria,nowcast,1.7,1.4,2.2,1.5,1.9,0
+Liguria,nowcast,1.7,1.3,2.1,1.6,1.9,0
 Liguria,nowcast,1.7,1.3,2.1,1.5,1.8,0
 Liguria,nowcast,1.7,1.3,2,1.5,1.8,0
-Liguria,nowcast,1.6,1.3,2,1.5,1.7,0
-Liguria,nowcast,1.6,1.3,1.9,1.4,1.7,0
-Liguria,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Liguria,nowcast,1.6,1.3,1.9,1.5,1.8,0
+Liguria,nowcast,1.6,1.3,1.9,1.5,1.7,0
 Liguria,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Liguria,nowcast,1.5,1.2,1.8,1.4,1.6,0
 Liguria,nowcast,1.4,1.2,1.7,1.3,1.5,0
 Liguria,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Liguria,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Liguria,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Liguria,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Liguria,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Liguria,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Liguria,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Liguria,nowcast,1.2,1,1.4,1.1,1.3,0.02
-Liguria,nowcast,1.2,1,1.3,1.1,1.2,0.04
-Liguria,nowcast,1.1,1,1.2,1.1,1.2,0.08
-Liguria,nowcast,1.1,1,1.2,1,1.1,0.18
-Liguria,nowcast,1,0.9,1.2,1,1.1,0.28
-Liguria,nowcast,1,0.9,1.1,1,1.1,0.39
-Liguria,nowcast,1,0.9,1.1,1,1,0.5
-Liguria,nowcast,1,0.9,1.1,1,1,0.57
-Liguria,nowcast,1,0.9,1.1,1,1,0.62
-Liguria,nowcast,1,0.9,1.1,0.9,1,0.65
+Liguria,nowcast,1.2,1,1.4,1.1,1.2,0.02
+Liguria,nowcast,1.2,1,1.3,1.1,1.2,0.03
+Liguria,nowcast,1.1,1,1.3,1.1,1.2,0.08
+Liguria,nowcast,1.1,0.9,1.2,1,1.1,0.16
+Liguria,nowcast,1,0.9,1.2,1,1.1,0.27
+Liguria,nowcast,1,0.9,1.1,1,1.1,0.38
+Liguria,nowcast,1,0.9,1.1,1,1.1,0.48
+Liguria,nowcast,1,0.9,1.1,1,1,0.56
+Liguria,nowcast,1,0.9,1.1,1,1,0.59
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.64
 Liguria,nowcast,1,0.9,1.1,0.9,1,0.67
-Liguria,nowcast,1,0.9,1.1,0.9,1,0.69
-Liguria,nowcast,1,0.9,1.1,0.9,1,0.73
-Liguria,nowcast,1,0.9,1,0.9,1,0.79
-Liguria,nowcast,1,0.9,1,0.9,1,0.83
-Liguria,nowcast,0.9,0.9,1,0.9,1,0.86
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.91
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.93
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.93
-Liguria,nowcast,0.9,0.8,1,0.9,0.9,0.95
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.92
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.89
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.87
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.84
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.81
-Liguria,nowcast,1,0.8,1.1,0.9,1,0.79
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.71
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.74
 Liguria,nowcast,1,0.9,1.1,0.9,1,0.77
+Liguria,nowcast,1,0.9,1,0.9,1,0.84
+Liguria,nowcast,0.9,0.9,1,0.9,1,0.87
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.9
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.92
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.94
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.94
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.92
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.9
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.88
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.85
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.82
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.78
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.78
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.74
 Liguria,nowcast,1,0.9,1.1,0.9,1,0.75
-Liguria,nowcast,1,0.9,1.1,0.9,1,0.73
 Liguria,nowcast,1,0.9,1.1,0.9,1,0.72
 Liguria,nowcast,1,0.9,1.1,0.9,1,0.74
 Liguria,nowcast,1,0.9,1.1,0.9,1,0.76
-Liguria,nowcast,1,0.8,1.1,0.9,1,0.77
-Liguria,nowcast,0.9,0.8,1.1,0.9,1,0.82
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.86
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.87
-Liguria,nowcast,0.9,0.8,1,0.9,1,0.91
+Liguria,nowcast,1,0.9,1.1,0.9,1,0.81
+Liguria,nowcast,0.9,0.8,1.1,0.9,1,0.83
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.85
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.88
+Liguria,nowcast,0.9,0.8,1,0.9,1,0.9
 Liguria,nowcast,0.9,0.8,1,0.9,1,0.94
 Liguria,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Liguria,nowcast,0.9,0.7,1,0.8,0.9,0.98
 Liguria,nowcast,0.8,0.7,1,0.8,0.9,0.99
-Liguria,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Liguria,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Liguria,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Liguria,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Liguria,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,1
 Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Liguria,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-Liguria,nowcast,0.8,0.6,1,0.7,0.8,0.94
-Liguria,nowcast,0.8,0.6,1,0.7,0.8,0.9
-Liguria,forecast,0.8,0.6,1.1,0.7,0.8,0.9
-Liguria,forecast,0.8,0.5,1.1,0.7,0.9,0.88
-Liguria,forecast,0.8,0.5,1.1,0.7,0.9,0.87
-Liguria,forecast,0.8,0.5,1.1,0.7,0.9,0.87
-Liguria,forecast,0.8,0.5,1.1,0.6,0.9,0.86
-Liguria,forecast,0.8,0.4,1.1,0.6,0.9,0.84
-Liguria,forecast,0.8,0.4,1.2,0.6,0.9,0.84
-Liguria,forecast,0.8,0.4,1.2,0.6,0.9,0.83
-Liguria,forecast,0.8,0.4,1.2,0.6,0.9,0.82
-Liguria,forecast,0.8,0.3,1.2,0.6,0.9,0.82
-Liguria,forecast,0.7,0.3,1.2,0.6,0.9,0.83
-Liguria,forecast,0.8,0.3,1.2,0.6,0.9,0.8
-Liguria,forecast,0.8,0.3,1.2,0.6,0.9,0.81
-Liguria,forecast,0.8,0.2,1.2,0.5,0.9,0.81
+Liguria,nowcast,0.8,0.6,1,0.7,0.8,0.96
+Liguria,nowcast,0.8,0.7,1,0.7,0.9,0.93
+Liguria,nowcast,0.8,0.7,1.1,0.7,0.9,0.87
+Liguria,nowcast,0.9,0.7,1.1,0.8,0.9,0.78
+Liguria,nowcast,1,0.7,1.2,0.8,1,0.62
+Liguria,forecast,0.9,0.7,1.2,0.8,1,0.64
+Liguria,forecast,0.9,0.6,1.3,0.8,1,0.64
+Liguria,forecast,0.9,0.6,1.3,0.8,1,0.63
+Liguria,forecast,0.9,0.6,1.3,0.8,1.1,0.62
+Liguria,forecast,0.9,0.5,1.3,0.8,1.1,0.61
+Liguria,forecast,0.9,0.5,1.3,0.8,1.1,0.61
+Liguria,forecast,0.9,0.5,1.4,0.7,1.1,0.61
+Liguria,forecast,0.9,0.5,1.4,0.7,1.1,0.61
+Liguria,forecast,0.9,0.5,1.4,0.7,1.1,0.62
+Liguria,forecast,0.9,0.5,1.5,0.7,1.1,0.61
+Liguria,forecast,0.9,0.4,1.4,0.7,1.1,0.61
+Liguria,forecast,0.9,0.4,1.5,0.7,1.1,0.61
+Liguria,forecast,0.9,0.4,1.5,0.7,1.1,0.61
+Liguria,forecast,0.9,0.4,1.5,0.7,1.1,0.6
 Lombardia,nowcast,1.7,1.4,2,1.6,1.8,0
 Lombardia,nowcast,1.7,1.4,1.9,1.6,1.8,0
 Lombardia,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Lombardia,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Lombardia,nowcast,1.6,1.4,1.8,1.5,1.7,0
-Lombardia,nowcast,1.6,1.3,1.8,1.5,1.6,0
+Lombardia,nowcast,1.6,1.4,1.9,1.5,1.7,0
+Lombardia,nowcast,1.6,1.4,1.8,1.5,1.6,0
+Lombardia,nowcast,1.6,1.3,1.8,1.4,1.6,0
 Lombardia,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Lombardia,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Lombardia,nowcast,1.5,1.3,1.6,1.4,1.5,0
+Lombardia,nowcast,1.5,1.3,1.7,1.4,1.5,0
 Lombardia,nowcast,1.4,1.3,1.6,1.3,1.5,0
-Lombardia,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Lombardia,nowcast,1.4,1.2,1.6,1.3,1.4,0
 Lombardia,nowcast,1.4,1.2,1.5,1.3,1.4,0
-Lombardia,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Lombardia,nowcast,1.3,1.2,1.5,1.3,1.4,0
 Lombardia,nowcast,1.3,1.2,1.4,1.2,1.3,0
 Lombardia,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Lombardia,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Lombardia,nowcast,1.2,1.1,1.3,1.1,1.2,0
 Lombardia,nowcast,1.2,1.1,1.3,1.1,1.2,0
 Lombardia,nowcast,1.1,1.1,1.2,1.1,1.2,0
-Lombardia,nowcast,1.1,1,1.2,1.1,1.1,0
+Lombardia,nowcast,1.1,1,1.2,1.1,1.2,0
 Lombardia,nowcast,1.1,1,1.2,1.1,1.1,0.01
 Lombardia,nowcast,1.1,1,1.1,1,1.1,0.04
 Lombardia,nowcast,1,1,1.1,1,1.1,0.18
-Lombardia,nowcast,1,0.9,1.1,1,1,0.52
-Lombardia,nowcast,1,0.9,1,0.9,1,0.87
-Lombardia,nowcast,0.9,0.9,1,0.9,1,0.98
+Lombardia,nowcast,1,0.9,1.1,1,1,0.51
+Lombardia,nowcast,1,0.9,1,0.9,1,0.86
+Lombardia,nowcast,0.9,0.9,1,0.9,1,0.97
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
 Lombardia,nowcast,0.9,0.9,0.9,0.9,0.9,1
@@ -532,54 +553,57 @@ Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,0.99
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,0.99
-Lombardia,nowcast,0.9,0.9,1,0.9,0.9,0.98
 Lombardia,nowcast,0.9,0.9,1,0.9,1,0.98
+Lombardia,nowcast,0.9,0.9,1,0.9,1,0.97
 Lombardia,nowcast,0.9,0.9,1,0.9,1,0.98
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,nowcast,0.9,0.9,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
 Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,0.9,0.9,0.9,1
 Lombardia,nowcast,0.9,0.9,0.9,0.9,0.9,1
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,nowcast,0.9,0.9,1,0.9,0.9,0.99
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
 Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
-Lombardia,nowcast,0.9,0.9,0.9,0.9,0.9,1
-Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,1
 Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
 Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
 Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
-Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Lombardia,nowcast,0.9,0.8,0.9,0.9,0.9,0.99
 Lombardia,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Lombardia,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Lombardia,nowcast,0.9,0.9,1,0.9,1,0.92
-Lombardia,nowcast,1,0.9,1,0.9,1,0.79
-Lombardia,nowcast,1,0.9,1.1,1,1,0.56
-Lombardia,nowcast,1,0.9,1.1,1,1.1,0.31
-Lombardia,nowcast,1.1,1,1.2,1,1.1,0.15
-Lombardia,nowcast,1.1,1,1.2,1.1,1.2,0.04
-Lombardia,forecast,1.1,1,1.3,1.1,1.2,0.07
-Lombardia,forecast,1.1,1,1.3,1.1,1.2,0.09
-Lombardia,forecast,1.1,1,1.3,1.1,1.2,0.1
-Lombardia,forecast,1.1,0.9,1.4,1.1,1.2,0.12
-Lombardia,forecast,1.1,0.9,1.4,1,1.2,0.13
-Lombardia,forecast,1.2,0.9,1.4,1,1.2,0.14
-Lombardia,forecast,1.2,0.9,1.4,1,1.2,0.15
-Lombardia,forecast,1.2,0.9,1.5,1,1.2,0.16
-Lombardia,forecast,1.2,0.9,1.5,1,1.3,0.16
-Lombardia,forecast,1.2,0.9,1.6,1,1.3,0.18
-Lombardia,forecast,1.2,0.8,1.6,1,1.3,0.18
-Lombardia,forecast,1.2,0.8,1.6,1,1.3,0.19
-Lombardia,forecast,1.2,0.8,1.6,1,1.3,0.2
-Lombardia,forecast,1.2,0.8,1.6,1,1.3,0.21
+Lombardia,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Lombardia,nowcast,0.9,0.9,1,0.9,0.9,0.94
+Lombardia,nowcast,0.9,0.9,1,0.9,1,0.91
+Lombardia,nowcast,1,0.9,1,0.9,1,0.87
+Lombardia,nowcast,1,0.9,1,0.9,1,0.84
+Lombardia,nowcast,1,0.9,1,0.9,1,0.8
+Lombardia,nowcast,1,0.9,1.1,0.9,1,0.69
+Lombardia,nowcast,1,0.9,1.1,1,1,0.47
+Lombardia,forecast,1,0.9,1.1,1,1,0.47
+Lombardia,forecast,1,0.9,1.1,1,1,0.46
+Lombardia,forecast,1,0.9,1.2,0.9,1.1,0.44
+Lombardia,forecast,1,0.9,1.2,1,1.1,0.42
+Lombardia,forecast,1,0.9,1.2,0.9,1.1,0.41
+Lombardia,forecast,1,0.8,1.2,0.9,1.1,0.41
+Lombardia,forecast,1,0.8,1.2,0.9,1.1,0.41
+Lombardia,forecast,1,0.8,1.2,0.9,1.1,0.4
+Lombardia,forecast,1,0.8,1.3,0.9,1.1,0.4
+Lombardia,forecast,1,0.8,1.3,0.9,1.1,0.4
+Lombardia,forecast,1,0.8,1.3,0.9,1.1,0.4
+Lombardia,forecast,1,0.8,1.3,0.9,1.1,0.39
+Lombardia,forecast,1.1,0.8,1.4,0.9,1.1,0.37
+Lombardia,forecast,1,0.7,1.4,0.9,1.2,0.39
 Marche,nowcast,1.6,1.3,2,1.5,1.8,0
-Marche,nowcast,1.6,1.3,1.9,1.5,1.7,0
 Marche,nowcast,1.6,1.3,1.9,1.4,1.7,0
-Marche,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Marche,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Marche,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Marche,nowcast,1.5,1.2,1.8,1.4,1.6,0
 Marche,nowcast,1.4,1.2,1.7,1.3,1.5,0
 Marche,nowcast,1.4,1.2,1.7,1.3,1.5,0
@@ -587,455 +611,459 @@ Marche,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Marche,nowcast,1.3,1.1,1.5,1.3,1.4,0
 Marche,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Marche,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Marche,nowcast,1.2,1,1.4,1.1,1.2,0.02
+Marche,nowcast,1.2,1,1.4,1.1,1.3,0.02
 Marche,nowcast,1.2,1,1.3,1.1,1.2,0.05
-Marche,nowcast,1.1,1,1.3,1.1,1.2,0.08
-Marche,nowcast,1.1,1,1.2,1,1.2,0.13
-Marche,nowcast,1.1,0.9,1.2,1,1.1,0.22
-Marche,nowcast,1,0.9,1.1,1,1.1,0.34
-Marche,nowcast,1,0.9,1.1,1,1.1,0.45
-Marche,nowcast,1,0.9,1.1,0.9,1,0.65
-Marche,nowcast,1,0.8,1.1,0.9,1,0.77
-Marche,nowcast,0.9,0.8,1,0.9,1,0.88
-Marche,nowcast,0.9,0.8,1,0.9,1,0.92
-Marche,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Marche,nowcast,1.1,1,1.3,1,1.2,0.08
+Marche,nowcast,1.1,0.9,1.2,1.1,1.2,0.13
+Marche,nowcast,1.1,0.9,1.2,1,1.1,0.19
+Marche,nowcast,1,0.9,1.1,1,1.1,0.31
+Marche,nowcast,1,0.9,1.1,1,1.1,0.47
+Marche,nowcast,1,0.8,1.1,0.9,1,0.63
+Marche,nowcast,1,0.8,1.1,0.9,1,0.78
+Marche,nowcast,0.9,0.8,1,0.9,1,0.89
+Marche,nowcast,0.9,0.8,1,0.9,1,0.93
+Marche,nowcast,0.9,0.8,1,0.9,1,0.95
 Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Marche,nowcast,0.9,0.8,1,0.9,0.9,0.95
 Marche,nowcast,0.9,0.8,1,0.9,0.9,0.95
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
+Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Marche,nowcast,0.9,0.8,1,0.8,0.9,0.96
-Marche,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Marche,nowcast,0.9,0.8,1,0.8,0.9,0.96
 Marche,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Marche,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Marche,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Marche,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Marche,nowcast,0.9,0.7,1,0.8,0.9,0.99
+Marche,nowcast,0.9,0.7,1,0.8,0.9,0.98
 Marche,nowcast,0.8,0.7,1,0.8,0.9,0.99
 Marche,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 Marche,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Marche,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Marche,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Marche,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Marche,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Marche,nowcast,0.8,0.6,0.9,0.7,0.8,1
 Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 Marche,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
 Marche,nowcast,0.8,0.6,1,0.7,0.8,0.96
-Marche,nowcast,0.8,0.6,1,0.7,0.8,0.96
-Marche,nowcast,0.8,0.7,1,0.7,0.9,0.94
-Marche,nowcast,0.8,0.6,1,0.7,0.9,0.94
+Marche,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Marche,nowcast,0.8,0.6,1,0.7,0.9,0.95
 Marche,nowcast,0.8,0.6,1,0.8,0.9,0.93
-Marche,nowcast,0.8,0.7,1,0.8,0.9,0.93
-Marche,nowcast,0.8,0.7,1,0.8,0.9,0.93
+Marche,nowcast,0.8,0.6,1,0.8,0.9,0.93
+Marche,nowcast,0.8,0.6,1,0.7,0.9,0.93
 Marche,nowcast,0.8,0.7,1,0.8,0.9,0.92
-Marche,nowcast,0.8,0.7,1,0.8,0.9,0.91
+Marche,nowcast,0.8,0.7,1,0.8,0.9,0.92
+Marche,nowcast,0.8,0.6,1,0.8,0.9,0.89
 Marche,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+Marche,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
 Marche,nowcast,0.9,0.7,1.1,0.8,0.9,0.83
-Marche,nowcast,0.9,0.7,1.1,0.8,1,0.79
-Marche,nowcast,0.9,0.7,1.2,0.8,1,0.74
-Marche,nowcast,0.9,0.7,1.2,0.8,1,0.72
-Marche,nowcast,0.9,0.7,1.2,0.8,1,0.67
-Marche,nowcast,1,0.7,1.2,0.8,1,0.61
-Marche,nowcast,1,0.7,1.3,0.9,1.1,0.54
-Marche,nowcast,1,0.7,1.4,0.9,1.1,0.46
-Marche,forecast,1,0.7,1.4,0.8,1.1,0.49
-Marche,forecast,1,0.6,1.4,0.8,1.1,0.49
-Marche,forecast,1,0.6,1.5,0.8,1.1,0.49
-Marche,forecast,1,0.6,1.5,0.8,1.2,0.48
-Marche,forecast,1,0.5,1.5,0.8,1.1,0.49
-Marche,forecast,1,0.5,1.5,0.8,1.1,0.49
-Marche,forecast,1,0.5,1.5,0.8,1.2,0.49
-Marche,forecast,1,0.5,1.6,0.8,1.2,0.51
-Marche,forecast,1,0.5,1.6,0.8,1.2,0.49
-Marche,forecast,1,0.5,1.6,0.8,1.2,0.5
-Marche,forecast,1,0.4,1.6,0.7,1.2,0.51
-Marche,forecast,1,0.4,1.6,0.7,1.2,0.51
-Marche,forecast,1,0.4,1.6,0.7,1.2,0.52
-Marche,forecast,1,0.4,1.7,0.7,1.2,0.51
-Piemonte,nowcast,1.8,1.5,2.2,1.6,1.9,0
-Piemonte,nowcast,1.8,1.4,2.1,1.6,1.9,0
-Piemonte,nowcast,1.8,1.4,2.1,1.6,1.8,0
-Piemonte,nowcast,1.7,1.4,2.1,1.6,1.8,0
+Marche,nowcast,0.9,0.7,1.1,0.8,1,0.8
+Marche,nowcast,0.9,0.7,1.1,0.8,1,0.78
+Marche,nowcast,0.9,0.7,1.2,0.8,1,0.75
+Marche,nowcast,0.9,0.7,1.2,0.8,1,0.73
+Marche,nowcast,0.9,0.7,1.2,0.8,1,0.71
+Marche,nowcast,0.9,0.7,1.3,0.8,1,0.64
+Marche,nowcast,1,0.7,1.3,0.8,1.1,0.58
+Marche,nowcast,1,0.7,1.4,0.8,1.1,0.5
+Piemonte,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Piemonte,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Piemonte,nowcast,1.7,1.4,2.1,1.6,1.9,0
 Piemonte,nowcast,1.7,1.4,2,1.5,1.8,0
-Piemonte,nowcast,1.7,1.4,1.9,1.5,1.8,0
+Piemonte,nowcast,1.7,1.4,2,1.5,1.8,0
+Piemonte,nowcast,1.7,1.4,2,1.5,1.8,0
 Piemonte,nowcast,1.6,1.4,1.9,1.5,1.7,0
 Piemonte,nowcast,1.6,1.4,1.9,1.5,1.7,0
-Piemonte,nowcast,1.6,1.3,1.8,1.5,1.6,0
+Piemonte,nowcast,1.6,1.3,1.8,1.4,1.6,0
 Piemonte,nowcast,1.6,1.3,1.8,1.4,1.6,0
 Piemonte,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Piemonte,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Piemonte,nowcast,1.5,1.3,1.7,1.4,1.5,0
 Piemonte,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Piemonte,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Piemonte,nowcast,1.4,1.2,1.6,1.3,1.4,0
 Piemonte,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Piemonte,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Piemonte,nowcast,1.2,1.1,1.3,1.1,1.3,0
-Piemonte,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Piemonte,nowcast,1.2,1,1.3,1.1,1.2,0
 Piemonte,nowcast,1.1,1,1.2,1.1,1.2,0.01
 Piemonte,nowcast,1.1,1,1.2,1.1,1.1,0.02
 Piemonte,nowcast,1.1,1,1.2,1.1,1.1,0.04
 Piemonte,nowcast,1.1,1,1.2,1,1.1,0.05
-Piemonte,nowcast,1.1,1,1.1,1,1.1,0.06
-Piemonte,nowcast,1.1,1,1.1,1,1.1,0.09
+Piemonte,nowcast,1.1,1,1.1,1,1.1,0.07
 Piemonte,nowcast,1.1,1,1.1,1,1.1,0.1
-Piemonte,nowcast,1,1,1.1,1,1.1,0.1
+Piemonte,nowcast,1.1,1,1.1,1,1.1,0.1
+Piemonte,nowcast,1,1,1.1,1,1.1,0.11
 Piemonte,nowcast,1,1,1.1,1,1.1,0.11
 Piemonte,nowcast,1,1,1.1,1,1.1,0.1
 Piemonte,nowcast,1,1,1.1,1,1.1,0.11
-Piemonte,nowcast,1,1,1.1,1,1.1,0.12
+Piemonte,nowcast,1,1,1.1,1,1.1,0.11
 Piemonte,nowcast,1,1,1.1,1,1.1,0.11
 Piemonte,nowcast,1,1,1.1,1,1.1,0.13
-Piemonte,nowcast,1,1,1.1,1,1.1,0.18
-Piemonte,nowcast,1,1,1.1,1,1,0.21
+Piemonte,nowcast,1,1,1.1,1,1.1,0.16
+Piemonte,nowcast,1,1,1.1,1,1,0.24
 Piemonte,nowcast,1,1,1.1,1,1,0.26
-Piemonte,nowcast,1,1,1.1,1,1,0.26
-Piemonte,nowcast,1,1,1.1,1,1,0.27
+Piemonte,nowcast,1,1,1.1,1,1,0.28
 Piemonte,nowcast,1,1,1.1,1,1,0.29
-Piemonte,nowcast,1,1,1.1,1,1,0.33
-Piemonte,nowcast,1,0.9,1.1,1,1,0.46
-Piemonte,nowcast,1,0.9,1,1,1,0.6
+Piemonte,nowcast,1,1,1.1,1,1,0.3
+Piemonte,nowcast,1,1,1.1,1,1,0.37
+Piemonte,nowcast,1,0.9,1.1,1,1,0.44
+Piemonte,nowcast,1,0.9,1,1,1,0.61
 Piemonte,nowcast,1,0.9,1,1,1,0.74
-Piemonte,nowcast,1,0.9,1,1,1,0.83
-Piemonte,nowcast,1,0.9,1,0.9,1,0.9
+Piemonte,nowcast,1,0.9,1,0.9,1,0.82
+Piemonte,nowcast,1,0.9,1,0.9,1,0.91
 Piemonte,nowcast,0.9,0.9,1,0.9,1,0.95
-Piemonte,nowcast,0.9,0.9,1,0.9,1,0.98
-Piemonte,nowcast,0.9,0.9,1,0.9,0.9,1
+Piemonte,nowcast,0.9,0.9,1,0.9,1,0.99
 Piemonte,nowcast,0.9,0.8,1,0.9,0.9,1
-Piemonte,nowcast,0.9,0.8,0.9,0.9,0.9,1
+Piemonte,nowcast,0.9,0.8,1,0.9,0.9,1
+Piemonte,nowcast,0.9,0.8,1,0.9,0.9,1
 Piemonte,nowcast,0.9,0.8,0.9,0.9,0.9,1
 Piemonte,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Piemonte,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Piemonte,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Piemonte,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Piemonte,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Piemonte,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Piemonte,nowcast,0.8,0.7,0.8,0.7,0.8,1
-Piemonte,nowcast,0.8,0.7,0.8,0.7,0.8,1
+Piemonte,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Piemonte,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Piemonte,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Piemonte,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Piemonte,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Piemonte,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-Piemonte,nowcast,0.8,0.7,1,0.7,0.9,0.97
-Piemonte,forecast,0.8,0.7,1,0.7,0.9,0.96
-Piemonte,forecast,0.8,0.6,1,0.7,0.9,0.95
-Piemonte,forecast,0.8,0.6,1,0.7,0.9,0.94
-Piemonte,forecast,0.8,0.6,1,0.7,0.9,0.93
-Piemonte,forecast,0.8,0.6,1,0.7,0.9,0.92
-Piemonte,forecast,0.8,0.5,1,0.7,0.9,0.91
-Piemonte,forecast,0.8,0.5,1,0.7,0.9,0.91
-Piemonte,forecast,0.8,0.5,1,0.7,0.9,0.9
-Piemonte,forecast,0.8,0.5,1.1,0.7,0.9,0.9
-Piemonte,forecast,0.8,0.5,1.1,0.6,0.9,0.89
-Piemonte,forecast,0.8,0.4,1.1,0.6,0.9,0.89
-Piemonte,forecast,0.8,0.4,1.1,0.6,0.9,0.89
-Piemonte,forecast,0.8,0.4,1.1,0.6,0.9,0.88
-Piemonte,forecast,0.8,0.4,1.1,0.6,0.9,0.88
-Puglia,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Puglia,nowcast,1.6,1.3,2,1.4,1.7,0
+Piemonte,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Piemonte,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Piemonte,nowcast,0.9,0.8,1.1,0.9,1,0.76
+Piemonte,forecast,0.9,0.7,1.1,0.8,1,0.75
+Piemonte,forecast,0.9,0.7,1.1,0.8,1,0.71
+Piemonte,forecast,0.9,0.7,1.2,0.8,1,0.69
+Piemonte,forecast,0.9,0.7,1.2,0.8,1,0.67
+Piemonte,forecast,0.9,0.7,1.2,0.8,1,0.64
+Piemonte,forecast,0.9,0.6,1.3,0.8,1,0.63
+Piemonte,forecast,0.9,0.6,1.3,0.8,1.1,0.63
+Piemonte,forecast,0.9,0.6,1.3,0.8,1,0.6
+Piemonte,forecast,0.9,0.6,1.4,0.8,1.1,0.62
+Piemonte,forecast,0.9,0.6,1.4,0.8,1.1,0.6
+Piemonte,forecast,0.9,0.5,1.4,0.8,1.1,0.59
+Piemonte,forecast,0.9,0.5,1.4,0.7,1,0.6
+Piemonte,forecast,0.9,0.5,1.5,0.7,1.1,0.59
+Piemonte,forecast,0.9,0.5,1.5,0.7,1.1,0.59
+Puglia,nowcast,1.7,1.2,2.1,1.5,1.8,0
 Puglia,nowcast,1.6,1.3,2,1.5,1.8,0
+Puglia,nowcast,1.6,1.2,1.9,1.4,1.7,0
 Puglia,nowcast,1.6,1.2,1.9,1.4,1.7,0
 Puglia,nowcast,1.5,1.2,1.9,1.4,1.6,0
 Puglia,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Puglia,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Puglia,nowcast,1.5,1.2,1.7,1.4,1.6,0
 Puglia,nowcast,1.4,1.2,1.7,1.3,1.5,0
-Puglia,nowcast,1.4,1.1,1.6,1.2,1.4,0
+Puglia,nowcast,1.4,1.1,1.6,1.3,1.5,0
 Puglia,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
 Puglia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Puglia,nowcast,1.2,1,1.4,1.2,1.3,0.02
+Puglia,nowcast,1.2,1,1.5,1.2,1.3,0.02
 Puglia,nowcast,1.2,1,1.4,1.1,1.3,0.04
 Puglia,nowcast,1.2,1,1.3,1.1,1.2,0.06
 Puglia,nowcast,1.1,1,1.3,1.1,1.2,0.09
-Puglia,nowcast,1.1,1,1.3,1,1.2,0.13
-Puglia,nowcast,1.1,0.9,1.2,1,1.1,0.18
-Puglia,nowcast,1.1,0.9,1.2,1,1.1,0.22
-Puglia,nowcast,1,0.9,1.2,1,1.1,0.28
-Puglia,nowcast,1,0.9,1.1,1,1.1,0.37
-Puglia,nowcast,1,0.9,1.1,1,1.1,0.48
+Puglia,nowcast,1.1,0.9,1.3,1,1.2,0.15
+Puglia,nowcast,1.1,0.9,1.2,1,1.2,0.19
+Puglia,nowcast,1.1,0.9,1.2,1,1.1,0.24
+Puglia,nowcast,1,0.9,1.2,1,1.1,0.3
+Puglia,nowcast,1,0.9,1.2,1,1.1,0.39
+Puglia,nowcast,1,0.9,1.1,1,1.1,0.49
 Puglia,nowcast,1,0.8,1.1,0.9,1,0.6
-Puglia,nowcast,1,0.8,1.1,0.9,1,0.71
+Puglia,nowcast,1,0.8,1.1,0.9,1,0.72
 Puglia,nowcast,0.9,0.8,1.1,0.9,1,0.81
-Puglia,nowcast,0.9,0.8,1,0.9,1,0.86
+Puglia,nowcast,0.9,0.8,1,0.9,1,0.88
 Puglia,nowcast,0.9,0.8,1,0.9,1,0.9
+Puglia,nowcast,0.9,0.8,1,0.9,1,0.92
 Puglia,nowcast,0.9,0.8,1,0.9,1,0.92
 Puglia,nowcast,0.9,0.8,1,0.9,1,0.91
 Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.9
 Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.9
-Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.9
-Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.91
-Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.91
+Puglia,nowcast,0.9,0.8,1,0.9,1,0.92
+Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.92
+Puglia,nowcast,0.9,0.8,1,0.9,0.9,0.93
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.93
 Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.91
-Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.92
-Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.92
-Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.92
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.9
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.91
 Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.89
-Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.89
-Puglia,nowcast,0.9,0.7,1,0.8,0.9,0.9
-Puglia,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Puglia,nowcast,0.9,0.7,1,0.8,0.9,0.94
-Puglia,nowcast,0.8,0.7,1,0.8,0.9,0.95
+Puglia,nowcast,0.9,0.8,1,0.8,0.9,0.91
+Puglia,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Puglia,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Puglia,nowcast,0.9,0.7,1,0.8,0.9,0.96
 Puglia,nowcast,0.8,0.7,1,0.8,0.9,0.98
 Puglia,nowcast,0.8,0.6,0.9,0.7,0.9,0.99
-Puglia,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Puglia,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Puglia,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Puglia,nowcast,0.7,0.5,0.9,0.7,0.8,1
+Puglia,nowcast,0.7,0.5,0.9,0.7,0.8,1
 Puglia,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
-Puglia,nowcast,0.7,0.5,0.9,0.6,0.8,1
-Puglia,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
-Puglia,nowcast,0.7,0.6,0.9,0.6,0.8,0.97
-Puglia,nowcast,0.7,0.6,1,0.7,0.8,0.94
-Puglia,nowcast,0.8,0.6,1,0.7,0.8,0.91
+Puglia,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Puglia,nowcast,0.7,0.6,1,0.7,0.8,0.96
+Puglia,nowcast,0.8,0.6,1,0.7,0.8,0.93
+Puglia,nowcast,0.8,0.6,1,0.7,0.8,0.92
+Puglia,nowcast,0.8,0.6,1,0.7,0.9,0.91
 Puglia,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
 Puglia,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
-Puglia,nowcast,0.9,0.6,1.1,0.7,0.9,0.82
-Puglia,nowcast,0.9,0.7,1.2,0.7,0.9,0.75
-Puglia,nowcast,0.9,0.7,1.3,0.8,1,0.64
-Puglia,nowcast,1,0.7,1.4,0.8,1.1,0.52
-Puglia,nowcast,1,0.7,1.5,0.8,1.1,0.46
-Puglia,nowcast,1.1,0.7,1.5,0.8,1.1,0.4
+Puglia,nowcast,0.9,0.6,1.1,0.8,0.9,0.83
+Puglia,nowcast,0.9,0.6,1.2,0.8,1,0.78
+Puglia,nowcast,0.9,0.6,1.2,0.8,1,0.74
+Puglia,nowcast,0.9,0.6,1.2,0.8,1,0.73
+Puglia,nowcast,0.9,0.6,1.2,0.8,1,0.72
+Puglia,nowcast,0.9,0.6,1.3,0.8,1,0.7
+Puglia,nowcast,0.9,0.5,1.4,0.8,1,0.62
 Sardegna,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
-Sardegna,nowcast,1.6,1.1,2,1.4,1.7,0.01
+Sardegna,nowcast,1.5,1.1,2,1.4,1.7,0.01
 Sardegna,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
-Sardegna,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
-Sardegna,nowcast,1.4,1.1,1.8,1.2,1.5,0.01
-Sardegna,nowcast,1.4,1,1.7,1.2,1.5,0.02
-Sardegna,nowcast,1.3,1,1.6,1.2,1.4,0.05
+Sardegna,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Sardegna,nowcast,1.4,1,1.8,1.2,1.5,0.02
+Sardegna,nowcast,1.4,1,1.7,1.2,1.5,0.03
+Sardegna,nowcast,1.3,1,1.6,1.2,1.4,0.06
 Sardegna,nowcast,1.2,0.9,1.5,1.1,1.4,0.09
-Sardegna,nowcast,1.2,0.9,1.4,1.1,1.3,0.14
-Sardegna,nowcast,1.1,0.9,1.4,1,1.2,0.22
-Sardegna,nowcast,1.1,0.8,1.3,1,1.2,0.29
-Sardegna,nowcast,1.1,0.8,1.3,1,1.2,0.33
-Sardegna,nowcast,1,0.8,1.2,1,1.1,0.38
+Sardegna,nowcast,1.2,0.9,1.5,1.1,1.3,0.15
+Sardegna,nowcast,1.1,0.9,1.4,1,1.2,0.21
+Sardegna,nowcast,1.1,0.9,1.4,1,1.2,0.27
+Sardegna,nowcast,1.1,0.8,1.3,1,1.2,0.31
+Sardegna,nowcast,1,0.8,1.3,1,1.1,0.36
 Sardegna,nowcast,1,0.8,1.2,1,1.1,0.39
 Sardegna,nowcast,1,0.8,1.2,0.9,1.1,0.45
-Sardegna,nowcast,1,0.8,1.2,0.9,1.1,0.5
-Sardegna,nowcast,1,0.8,1.2,0.9,1.1,0.59
-Sardegna,nowcast,1,0.7,1.1,0.9,1,0.67
-Sardegna,nowcast,0.9,0.7,1.1,0.9,1,0.74
-Sardegna,nowcast,0.9,0.7,1.1,0.8,1,0.82
-Sardegna,nowcast,0.9,0.7,1.1,0.8,1,0.83
-Sardegna,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+Sardegna,nowcast,1,0.8,1.2,0.9,1.1,0.52
+Sardegna,nowcast,1,0.8,1.2,0.9,1,0.6
+Sardegna,nowcast,0.9,0.7,1.2,0.9,1,0.69
+Sardegna,nowcast,0.9,0.7,1.1,0.9,1,0.76
+Sardegna,nowcast,0.9,0.7,1.1,0.8,1,0.81
+Sardegna,nowcast,0.9,0.7,1.1,0.8,1,0.85
+Sardegna,nowcast,0.9,0.7,1.1,0.8,1,0.86
 Sardegna,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
 Sardegna,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-Sardegna,nowcast,0.8,0.7,1.1,0.8,0.9,0.91
+Sardegna,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
+Sardegna,nowcast,0.8,0.6,1,0.8,0.9,0.9
 Sardegna,nowcast,0.8,0.6,1,0.8,0.9,0.91
-Sardegna,nowcast,0.8,0.6,1.1,0.8,0.9,0.9
-Sardegna,nowcast,0.8,0.6,1,0.8,0.9,0.92
+Sardegna,nowcast,0.8,0.6,1,0.7,0.9,0.91
 Sardegna,nowcast,0.8,0.6,1,0.7,0.9,0.93
 Sardegna,nowcast,0.8,0.6,1,0.7,0.9,0.95
-Sardegna,nowcast,0.8,0.5,1,0.7,0.9,0.97
-Sardegna,nowcast,0.7,0.5,1,0.7,0.8,0.97
+Sardegna,nowcast,0.8,0.5,1,0.7,0.9,0.96
+Sardegna,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
+Sardegna,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
 Sardegna,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
 Sardegna,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
-Sardegna,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
+Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.95
 Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.94
-Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.94
-Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.93
-Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.91
-Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.92
-Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.92
+Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.92
+Sardegna,nowcast,0.7,0.5,1,0.6,0.8,0.92
 Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.91
-Sardegna,nowcast,0.7,0.4,1.1,0.6,0.8,0.9
-Sardegna,nowcast,0.7,0.4,1.1,0.6,0.8,0.88
-Sardegna,nowcast,0.8,0.4,1.1,0.6,0.9,0.86
-Sardegna,nowcast,0.8,0.4,1.2,0.6,0.9,0.85
-Sardegna,nowcast,0.8,0.4,1.2,0.6,0.9,0.81
-Sardegna,nowcast,0.8,0.4,1.3,0.6,0.9,0.78
-Sardegna,nowcast,0.8,0.4,1.3,0.6,0.9,0.76
-Sardegna,nowcast,0.9,0.4,1.4,0.6,1,0.69
-Sardegna,nowcast,0.9,0.4,1.4,0.7,1,0.66
-Sardegna,nowcast,0.9,0.4,1.5,0.7,1.1,0.61
-Sardegna,nowcast,1,0.5,1.7,0.7,1.1,0.55
-Sardegna,nowcast,1,0.4,1.8,0.7,1.2,0.46
-Sardegna,nowcast,1.1,0.5,2.1,0.7,1.3,0.36
-Sardegna,nowcast,1.3,0.5,2.3,0.8,1.5,0.23
-Sardegna,nowcast,1.5,0.7,2.7,1,1.8,0.15
-Sardegna,nowcast,1.8,0.7,3.1,1.1,2,0.09
+Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.92
+Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.92
+Sardegna,nowcast,0.7,0.4,1,0.6,0.8,0.9
+Sardegna,nowcast,0.7,0.4,1.1,0.6,0.8,0.89
+Sardegna,nowcast,0.7,0.4,1.1,0.6,0.8,0.86
+Sardegna,nowcast,0.7,0.4,1.1,0.6,0.9,0.86
+Sardegna,nowcast,0.8,0.4,1.2,0.6,0.9,0.83
+Sardegna,nowcast,0.8,0.4,1.2,0.6,0.9,0.82
+Sardegna,nowcast,0.8,0.4,1.2,0.6,0.9,0.8
+Sardegna,nowcast,0.8,0.4,1.3,0.6,0.9,0.77
+Sardegna,nowcast,0.8,0.4,1.3,0.6,1,0.76
+Sardegna,nowcast,0.8,0.4,1.4,0.6,1,0.73
+Sardegna,nowcast,0.8,0.4,1.4,0.6,1,0.71
+Sardegna,nowcast,0.9,0.4,1.5,0.6,1,0.67
+Sardegna,nowcast,0.9,0.4,1.6,0.7,1.1,0.56
+Sardegna,nowcast,1,0.4,1.8,0.6,1.1,0.5
+Sardegna,nowcast,1.1,0.4,2,0.7,1.2,0.41
+Sardegna,nowcast,1.2,0.5,2.4,0.8,1.4,0.32
+Sardegna,nowcast,1.3,0.4,2.5,0.8,1.5,0.26
+Sardegna,nowcast,1.5,0.6,3,0.8,1.7,0.2
+Sardegna,nowcast,1.6,0.5,3.4,0.9,1.9,0.15
 Sicilia,nowcast,1.7,1.2,2.3,1.5,1.9,0.01
-Sicilia,nowcast,1.7,1.2,2.2,1.5,1.8,0.01
-Sicilia,nowcast,1.7,1.2,2.1,1.4,1.8,0.01
+Sicilia,nowcast,1.7,1.2,2.2,1.5,1.9,0.01
+Sicilia,nowcast,1.7,1.2,2.1,1.4,1.8,0
 Sicilia,nowcast,1.6,1.2,2.1,1.4,1.8,0
-Sicilia,nowcast,1.6,1.2,2,1.4,1.7,0
-Sicilia,nowcast,1.6,1.2,2,1.5,1.8,0
+Sicilia,nowcast,1.6,1.2,2,1.4,1.7,0.01
 Sicilia,nowcast,1.6,1.2,2,1.4,1.7,0
 Sicilia,nowcast,1.6,1.2,1.9,1.4,1.7,0
-Sicilia,nowcast,1.5,1.2,1.8,1.4,1.7,0
+Sicilia,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Sicilia,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Sicilia,nowcast,1.5,1.2,1.8,1.4,1.6,0
 Sicilia,nowcast,1.5,1.2,1.8,1.4,1.6,0
 Sicilia,nowcast,1.5,1.2,1.8,1.3,1.6,0
-Sicilia,nowcast,1.5,1.2,1.8,1.3,1.6,0
 Sicilia,nowcast,1.4,1.2,1.7,1.3,1.5,0
-Sicilia,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Sicilia,nowcast,1.4,1.2,1.7,1.3,1.5,0
 Sicilia,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
 Sicilia,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
 Sicilia,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
 Sicilia,nowcast,1.2,1,1.4,1.1,1.3,0.05
-Sicilia,nowcast,1.1,0.9,1.4,1.1,1.2,0.11
-Sicilia,nowcast,1.1,0.9,1.3,1,1.2,0.23
+Sicilia,nowcast,1.1,0.9,1.3,1.1,1.2,0.1
+Sicilia,nowcast,1.1,0.9,1.2,1,1.2,0.24
 Sicilia,nowcast,1,0.8,1.2,1,1.1,0.4
-Sicilia,nowcast,1,0.8,1.1,0.9,1.1,0.59
-Sicilia,nowcast,0.9,0.8,1.1,0.9,1,0.77
-Sicilia,nowcast,0.9,0.7,1,0.8,1,0.9
+Sicilia,nowcast,1,0.8,1.1,0.9,1,0.61
+Sicilia,nowcast,0.9,0.8,1.1,0.9,1,0.78
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
 Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.96
-Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.99
-Sicilia,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.97
-Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Sicilia,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.98
 Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.96
-Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.94
-Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.92
-Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.92
-Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
-Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
-Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
-Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.93
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.91
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.91
 Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.9
 Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.89
-Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.87
+Sicilia,nowcast,0.9,0.7,1.1,0.8,0.9,0.9
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.91
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Sicilia,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
 Sicilia,nowcast,0.9,0.7,1.1,0.8,1,0.84
-Sicilia,nowcast,0.9,0.8,1.1,0.8,1,0.8
-Sicilia,nowcast,0.9,0.7,1.1,0.8,1,0.79
+Sicilia,nowcast,0.9,0.8,1.1,0.8,1,0.82
+Sicilia,nowcast,0.9,0.8,1.1,0.8,1,0.78
 Sicilia,nowcast,0.9,0.8,1.1,0.9,1,0.77
-Sicilia,nowcast,0.9,0.8,1.1,0.9,1,0.76
-Sicilia,nowcast,0.9,0.8,1.1,0.9,1,0.81
+Sicilia,nowcast,0.9,0.7,1.1,0.8,1,0.76
+Sicilia,nowcast,0.9,0.7,1.1,0.8,1,0.78
 Sicilia,nowcast,0.9,0.7,1.1,0.8,1,0.84
-Sicilia,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Sicilia,nowcast,0.9,0.7,1,0.8,0.9,0.89
+Sicilia,nowcast,0.8,0.7,1,0.8,0.9,0.93
 Sicilia,nowcast,0.8,0.6,1,0.8,0.9,0.96
 Sicilia,nowcast,0.8,0.6,1,0.7,0.9,0.98
-Sicilia,nowcast,0.8,0.6,0.9,0.7,0.9,0.97
-Sicilia,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-Sicilia,nowcast,0.8,0.5,0.9,0.7,0.8,0.97
-Sicilia,nowcast,0.7,0.5,0.9,0.7,0.8,0.97
-Sicilia,nowcast,0.7,0.5,1,0.7,0.8,0.96
-Sicilia,nowcast,0.7,0.5,1,0.7,0.8,0.94
-Sicilia,nowcast,0.8,0.5,1,0.6,0.8,0.93
-Sicilia,nowcast,0.8,0.5,1,0.7,0.8,0.91
-Sicilia,nowcast,0.8,0.5,1.1,0.7,0.9,0.87
+Sicilia,nowcast,0.8,0.6,1,0.7,0.8,0.98
+Sicilia,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+Sicilia,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
+Sicilia,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
+Sicilia,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
+Sicilia,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Sicilia,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
+Sicilia,nowcast,0.7,0.5,1,0.6,0.8,0.95
+Sicilia,nowcast,0.7,0.5,1,0.6,0.8,0.94
+Sicilia,nowcast,0.7,0.5,1,0.6,0.8,0.91
+Sicilia,nowcast,0.8,0.5,1.1,0.6,0.8,0.88
 Sicilia,nowcast,0.8,0.5,1.2,0.7,0.9,0.81
-Sicilia,nowcast,0.9,0.5,1.3,0.7,1,0.71
-Sicilia,nowcast,0.9,0.6,1.5,0.7,1,0.57
-Sicilia,nowcast,1.1,0.6,1.8,0.7,1.2,0.44
-Toscana,nowcast,1.8,1.4,2.3,1.6,1.9,0
+Sicilia,nowcast,0.9,0.5,1.3,0.7,1,0.72
+Sicilia,nowcast,0.9,0.5,1.4,0.7,1,0.61
+Sicilia,nowcast,1,0.6,1.6,0.7,1.1,0.48
+Sicilia,nowcast,1.1,0.6,1.8,0.8,1.2,0.37
 Toscana,nowcast,1.8,1.4,2.2,1.6,1.9,0
-Toscana,nowcast,1.7,1.3,2.1,1.6,1.8,0
+Toscana,nowcast,1.8,1.3,2.2,1.6,1.9,0
+Toscana,nowcast,1.7,1.4,2.1,1.5,1.8,0
 Toscana,nowcast,1.7,1.3,2,1.5,1.8,0
-Toscana,nowcast,1.6,1.3,2,1.5,1.8,0
-Toscana,nowcast,1.6,1.3,1.9,1.4,1.7,0
-Toscana,nowcast,1.6,1.3,1.9,1.4,1.6,0
+Toscana,nowcast,1.6,1.3,2,1.5,1.7,0
+Toscana,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Toscana,nowcast,1.6,1.3,1.8,1.4,1.7,0
 Toscana,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Toscana,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Toscana,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Toscana,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Toscana,nowcast,1.4,1.2,1.7,1.3,1.5,0
 Toscana,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Toscana,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Toscana,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Toscana,nowcast,1.3,1.1,1.5,1.2,1.3,0
-Toscana,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Toscana,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
+Toscana,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Toscana,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Toscana,nowcast,1.3,1.2,1.5,1.2,1.4,0
+Toscana,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Toscana,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Toscana,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 Toscana,nowcast,1.2,1,1.3,1.1,1.2,0.02
 Toscana,nowcast,1.1,1,1.3,1.1,1.2,0.04
 Toscana,nowcast,1.1,1,1.2,1.1,1.2,0.07
-Toscana,nowcast,1.1,1,1.2,1,1.1,0.11
-Toscana,nowcast,1.1,1,1.2,1,1.1,0.14
-Toscana,nowcast,1.1,1,1.2,1,1.1,0.18
-Toscana,nowcast,1,0.9,1.1,1,1.1,0.24
+Toscana,nowcast,1.1,1,1.2,1,1.1,0.1
+Toscana,nowcast,1.1,1,1.2,1,1.1,0.13
+Toscana,nowcast,1.1,1,1.1,1,1.1,0.18
+Toscana,nowcast,1,0.9,1.1,1,1.1,0.26
 Toscana,nowcast,1,0.9,1.1,1,1.1,0.37
-Toscana,nowcast,1,0.9,1.1,1,1,0.51
+Toscana,nowcast,1,0.9,1.1,1,1,0.53
 Toscana,nowcast,1,0.9,1.1,0.9,1,0.68
-Toscana,nowcast,0.9,0.8,1,0.9,1,0.85
-Toscana,nowcast,0.9,0.8,1,0.9,1,0.92
-Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.97
+Toscana,nowcast,0.9,0.9,1,0.9,1,0.83
+Toscana,nowcast,0.9,0.8,1,0.9,1,0.93
+Toscana,nowcast,0.9,0.8,1,0.9,1,0.97
 Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.99
 Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.99
 Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Toscana,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Toscana,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.98
 Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.95
-Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.93
-Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.93
 Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.94
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.93
+Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.93
 Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.97
 Toscana,nowcast,0.9,0.8,1,0.9,0.9,0.98
 Toscana,nowcast,0.9,0.8,1,0.8,0.9,0.99
-Toscana,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Toscana,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Toscana,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Toscana,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Toscana,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Toscana,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Toscana,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Toscana,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,1
 Toscana,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,1
 Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,1
 Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Toscana,nowcast,0.8,0.6,0.9,0.7,0.8,1
+Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,1
 Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,1
 Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,1
 Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Toscana,nowcast,0.7,0.6,0.9,0.6,0.8,0.99
 Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Toscana,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Toscana,nowcast,0.7,0.5,0.9,0.7,0.8,0.99
-Toscana,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-Toscana,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
-Toscana,nowcast,0.7,0.5,1,0.6,0.8,0.92
-Toscana,nowcast,0.8,0.5,1.1,0.6,0.8,0.85
-Toscana,nowcast,0.8,0.5,1.2,0.6,0.9,0.77
-Toscana,forecast,0.8,0.5,1.2,0.6,0.9,0.78
-Toscana,forecast,0.8,0.5,1.3,0.6,0.9,0.78
-Toscana,forecast,0.8,0.4,1.3,0.6,0.9,0.78
-Toscana,forecast,0.8,0.4,1.3,0.6,0.9,0.78
-Toscana,forecast,0.8,0.4,1.3,0.6,0.9,0.77
-Toscana,forecast,0.8,0.4,1.3,0.6,0.9,0.76
-Toscana,forecast,0.8,0.3,1.3,0.6,0.9,0.77
-Toscana,forecast,0.8,0.3,1.3,0.5,0.9,0.76
-Toscana,forecast,0.8,0.3,1.4,0.5,0.9,0.77
-Toscana,forecast,0.8,0.3,1.4,0.5,0.9,0.76
-Toscana,forecast,0.8,0.3,1.4,0.5,0.9,0.76
-Toscana,forecast,0.8,0.2,1.3,0.5,0.9,0.76
-Toscana,forecast,0.8,0.2,1.4,0.5,0.9,0.75
-Toscana,forecast,0.7,0.2,1.4,0.5,0.9,0.76
+Toscana,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Toscana,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Toscana,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Toscana,nowcast,0.7,0.6,1,0.6,0.8,0.93
+Toscana,nowcast,0.8,0.6,1,0.7,0.9,0.89
+Toscana,nowcast,0.8,0.6,1.2,0.7,0.9,0.79
+Toscana,nowcast,0.9,0.6,1.3,0.7,1,0.7
+Toscana,nowcast,1,0.7,1.4,0.7,1,0.56
+Toscana,forecast,0.9,0.6,1.4,0.8,1,0.6
+Toscana,forecast,0.9,0.6,1.5,0.7,1,0.59
+Toscana,forecast,0.9,0.5,1.5,0.7,1,0.58
+Toscana,forecast,1,0.5,1.5,0.7,1,0.57
+Toscana,forecast,0.9,0.5,1.6,0.7,1.1,0.57
+Toscana,forecast,1,0.4,1.6,0.7,1.1,0.55
+Toscana,forecast,1,0.5,1.7,0.7,1.1,0.54
+Toscana,forecast,1,0.4,1.7,0.7,1.1,0.55
+Toscana,forecast,1,0.4,1.8,0.7,1.1,0.54
+Toscana,forecast,1,0.4,1.8,0.7,1.1,0.55
+Toscana,forecast,1,0.3,1.8,0.6,1.1,0.54
+Toscana,forecast,1,0.3,1.9,0.6,1.1,0.55
+Toscana,forecast,1,0.3,1.9,0.6,1.1,0.54
+Toscana,forecast,1,0.2,1.9,0.5,1.1,0.54
 Trentino-Alto Adige,nowcast,1.6,1.3,2,1.5,1.7,0
-Trentino-Alto Adige,nowcast,1.6,1.2,1.8,1.4,1.7,0
-Trentino-Alto Adige,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Trentino-Alto Adige,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Trentino-Alto Adige,nowcast,1.6,1.3,1.9,1.4,1.6,0
+Trentino-Alto Adige,nowcast,1.5,1.2,1.8,1.4,1.6,0
 Trentino-Alto Adige,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Trentino-Alto Adige,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Trentino-Alto Adige,nowcast,1.4,1.1,1.6,1.3,1.4,0
 Trentino-Alto Adige,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Trentino-Alto Adige,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Trentino-Alto Adige,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Trentino-Alto Adige,nowcast,1.2,1,1.4,1.1,1.3,0.02
-Trentino-Alto Adige,nowcast,1.2,1,1.3,1.1,1.2,0.04
-Trentino-Alto Adige,nowcast,1.1,1,1.3,1.1,1.2,0.08
-Trentino-Alto Adige,nowcast,1.1,1,1.2,1,1.1,0.13
+Trentino-Alto Adige,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Trentino-Alto Adige,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
+Trentino-Alto Adige,nowcast,1.2,1,1.4,1.2,1.3,0.01
+Trentino-Alto Adige,nowcast,1.2,1,1.3,1.1,1.2,0.03
+Trentino-Alto Adige,nowcast,1.1,1,1.3,1.1,1.2,0.07
+Trentino-Alto Adige,nowcast,1.1,1,1.2,1,1.1,0.14
 Trentino-Alto Adige,nowcast,1.1,0.9,1.2,1,1.1,0.21
-Trentino-Alto Adige,nowcast,1,0.9,1.2,1,1.1,0.27
-Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1.1,0.31
-Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1.1,0.36
-Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1.1,0.43
-Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1,0.49
-Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1,0.56
-Trentino-Alto Adige,nowcast,1,0.9,1.1,0.9,1,0.65
-Trentino-Alto Adige,nowcast,1,0.9,1.1,0.9,1,0.73
-Trentino-Alto Adige,nowcast,1,0.9,1,0.9,1,0.78
-Trentino-Alto Adige,nowcast,1,0.9,1,0.9,1,0.79
+Trentino-Alto Adige,nowcast,1,0.9,1.2,1,1.1,0.26
+Trentino-Alto Adige,nowcast,1,0.9,1.2,1,1.1,0.29
+Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1.1,0.34
+Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1.1,0.4
+Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1,0.51
+Trentino-Alto Adige,nowcast,1,0.9,1.1,1,1,0.59
+Trentino-Alto Adige,nowcast,1,0.9,1.1,0.9,1,0.68
+Trentino-Alto Adige,nowcast,1,0.9,1.1,0.9,1,0.74
+Trentino-Alto Adige,nowcast,1,0.9,1.1,0.9,1,0.78
+Trentino-Alto Adige,nowcast,1,0.9,1,0.9,1,0.81
 Trentino-Alto Adige,nowcast,1,0.9,1,0.9,1,0.83
-Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.85
-Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.87
-Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.89
+Trentino-Alto Adige,nowcast,0.9,0.9,1,0.9,1,0.85
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.86
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.88
 Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.91
-Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.93
-Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.96
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,1,0.92
+Trentino-Alto Adige,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Trentino-Alto Adige,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Trentino-Alto Adige,nowcast,0.9,0.7,1,0.8,0.9,0.98
-Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Trentino-Alto Adige,nowcast,0.9,0.7,1,0.8,0.9,0.99
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.8,0.8,1
@@ -1045,149 +1073,157 @@ Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
-Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
 Trentino-Alto Adige,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
 Trentino-Alto Adige,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 Trentino-Alto Adige,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-Trentino-Alto Adige,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Trentino-Alto Adige,nowcast,0.7,0.5,0.9,0.7,0.8,0.99
+Trentino-Alto Adige,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+Trentino-Alto Adige,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Trentino-Alto Adige,nowcast,0.7,0.5,0.9,0.6,0.8,1
 Trentino-Alto Adige,nowcast,0.7,0.5,0.8,0.6,0.8,1
-Trentino-Alto Adige,nowcast,0.7,0.5,0.8,0.6,0.7,1
 Trentino-Alto Adige,nowcast,0.6,0.5,0.8,0.6,0.7,1
-Trentino-Alto Adige,nowcast,0.6,0.4,0.8,0.6,0.7,0.99
-Trentino-Alto Adige,nowcast,0.6,0.4,0.8,0.5,0.7,0.98
-Trentino-Alto Adige,nowcast,0.6,0.4,0.8,0.5,0.7,0.98
-Trentino-Alto Adige,nowcast,0.6,0.3,0.9,0.5,0.7,0.95
-Trentino-Alto Adige,nowcast,0.6,0.3,1.1,0.4,0.7,0.88
-Trentino-Alto Adige,nowcast,0.7,0.4,1.4,0.5,0.8,0.75
-Umbria,nowcast,1.7,1.2,2.3,1.5,1.9,0.01
-Umbria,nowcast,1.7,1.2,2.3,1.4,1.9,0.01
+Trentino-Alto Adige,nowcast,0.6,0.4,0.8,0.6,0.7,1
+Trentino-Alto Adige,nowcast,0.6,0.4,0.8,0.5,0.7,1
+Trentino-Alto Adige,nowcast,0.6,0.4,0.7,0.5,0.6,1
+Trentino-Alto Adige,nowcast,0.6,0.4,0.8,0.5,0.6,1
+Trentino-Alto Adige,nowcast,0.6,0.3,0.8,0.5,0.6,0.99
+Trentino-Alto Adige,nowcast,0.6,0.3,0.9,0.5,0.6,0.97
+Trentino-Alto Adige,nowcast,0.6,0.3,1,0.4,0.7,0.91
+Trentino-Alto Adige,nowcast,0.7,0.4,1.3,0.5,0.8,0.81
+Trentino-Alto Adige,nowcast,0.8,0.3,1.5,0.5,0.9,0.66
+Trentino-Alto Adige,nowcast,1,0.4,1.8,0.5,1.1,0.5
+Umbria,nowcast,1.7,1.2,2.4,1.5,1.9,0.01
+Umbria,nowcast,1.7,1.2,2.2,1.5,1.9,0.01
 Umbria,nowcast,1.7,1.2,2.2,1.4,1.8,0
-Umbria,nowcast,1.6,1.2,2.1,1.4,1.8,0
-Umbria,nowcast,1.6,1.2,2.1,1.4,1.7,0
-Umbria,nowcast,1.6,1.2,2,1.4,1.7,0
-Umbria,nowcast,1.5,1.2,1.9,1.4,1.6,0
-Umbria,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
+Umbria,nowcast,1.6,1.2,2.1,1.4,1.8,0.01
+Umbria,nowcast,1.6,1.2,2,1.4,1.8,0.01
+Umbria,nowcast,1.6,1.2,2,1.4,1.7,0.01
+Umbria,nowcast,1.5,1.2,2,1.4,1.7,0.01
+Umbria,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
 Umbria,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
 Umbria,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
-Umbria,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Umbria,nowcast,1.3,1.1,1.6,1.2,1.4,0.03
 Umbria,nowcast,1.3,1,1.6,1.2,1.4,0.04
 Umbria,nowcast,1.2,1,1.5,1.1,1.3,0.07
-Umbria,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
-Umbria,nowcast,1.1,0.9,1.3,1,1.2,0.19
-Umbria,nowcast,1.1,0.8,1.3,1,1.2,0.3
-Umbria,nowcast,1,0.8,1.2,0.9,1.1,0.45
+Umbria,nowcast,1.2,0.9,1.4,1.1,1.3,0.14
+Umbria,nowcast,1.1,0.9,1.3,1,1.2,0.21
+Umbria,nowcast,1.1,0.8,1.3,1,1.1,0.34
+Umbria,nowcast,1,0.8,1.2,1,1.1,0.44
 Umbria,nowcast,1,0.8,1.2,0.9,1.1,0.6
-Umbria,nowcast,0.9,0.7,1.1,0.9,1,0.73
-Umbria,nowcast,0.9,0.7,1.1,0.8,1,0.87
-Umbria,nowcast,0.8,0.6,1,0.8,0.9,0.96
-Umbria,nowcast,0.8,0.6,1,0.7,0.9,0.99
+Umbria,nowcast,0.9,0.7,1.1,0.9,1,0.77
+Umbria,nowcast,0.9,0.7,1.1,0.8,1,0.88
+Umbria,nowcast,0.8,0.6,1,0.8,0.9,0.95
+Umbria,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 Umbria,nowcast,0.7,0.5,0.9,0.7,0.8,1
 Umbria,nowcast,0.7,0.5,0.9,0.6,0.8,1
 Umbria,nowcast,0.7,0.5,0.8,0.6,0.7,1
 Umbria,nowcast,0.7,0.5,0.8,0.6,0.7,1
-Umbria,nowcast,0.6,0.5,0.8,0.6,0.7,0.99
-Umbria,nowcast,0.6,0.4,0.8,0.6,0.7,0.99
+Umbria,nowcast,0.6,0.4,0.8,0.6,0.7,1
+Umbria,nowcast,0.6,0.4,0.8,0.6,0.7,1
 Umbria,nowcast,0.6,0.4,0.8,0.5,0.7,0.99
-Umbria,nowcast,0.6,0.4,0.8,0.5,0.7,0.99
-Umbria,nowcast,0.6,0.3,0.8,0.5,0.7,1
+Umbria,nowcast,0.6,0.4,0.8,0.5,0.7,1
+Umbria,nowcast,0.6,0.3,0.8,0.5,0.6,1
 Umbria,nowcast,0.5,0.3,0.7,0.5,0.6,1
-Umbria,nowcast,0.5,0.3,0.8,0.4,0.6,1
+Umbria,nowcast,0.5,0.3,0.7,0.4,0.6,1
 Umbria,nowcast,0.5,0.3,0.7,0.4,0.6,0.99
-Umbria,nowcast,0.5,0.2,0.8,0.4,0.6,0.99
+Umbria,nowcast,0.5,0.2,0.7,0.4,0.6,0.99
 Umbria,nowcast,0.5,0.2,0.8,0.4,0.6,0.98
-Umbria,nowcast,0.5,0.2,0.8,0.4,0.6,0.97
-Umbria,nowcast,0.5,0.2,0.9,0.4,0.6,0.95
-Umbria,nowcast,0.6,0.3,1,0.4,0.7,0.91
-Umbria,nowcast,0.6,0.3,1.1,0.4,0.8,0.87
-Umbria,nowcast,0.7,0.3,1.2,0.4,0.8,0.82
-Umbria,nowcast,0.7,0.3,1.3,0.5,0.8,0.81
-Umbria,nowcast,0.8,0.3,1.3,0.5,0.8,0.77
-Umbria,nowcast,0.8,0.3,1.3,0.6,0.9,0.74
-Umbria,nowcast,0.8,0.4,1.4,0.6,1,0.72
-Umbria,nowcast,0.8,0.3,1.4,0.6,1,0.7
+Umbria,nowcast,0.5,0.2,0.9,0.4,0.6,0.97
+Umbria,nowcast,0.6,0.3,1,0.4,0.6,0.94
+Umbria,nowcast,0.6,0.3,1.1,0.4,0.7,0.9
+Umbria,nowcast,0.6,0.3,1.1,0.4,0.7,0.88
+Umbria,nowcast,0.7,0.3,1.2,0.5,0.8,0.84
+Umbria,nowcast,0.7,0.3,1.2,0.5,0.9,0.81
+Umbria,nowcast,0.8,0.4,1.3,0.6,0.9,0.78
+Umbria,nowcast,0.8,0.4,1.3,0.6,0.9,0.75
+Umbria,nowcast,0.8,0.3,1.4,0.6,1,0.72
+Umbria,nowcast,0.8,0.3,1.4,0.6,1,0.71
 Umbria,nowcast,0.9,0.4,1.5,0.6,1,0.65
 Umbria,nowcast,0.9,0.4,1.5,0.6,1,0.62
-Umbria,nowcast,0.9,0.4,1.6,0.7,1.1,0.62
+Umbria,nowcast,0.9,0.4,1.6,0.7,1.1,0.59
 Umbria,nowcast,0.9,0.4,1.5,0.7,1.1,0.58
 Umbria,nowcast,1,0.4,1.6,0.7,1.1,0.55
-Umbria,nowcast,1,0.4,1.6,0.7,1.1,0.55
-Umbria,nowcast,1,0.4,1.6,0.7,1.2,0.54
-Umbria,nowcast,1,0.4,1.6,0.7,1.1,0.54
-Umbria,nowcast,0.9,0.4,1.5,0.7,1.1,0.57
-Umbria,nowcast,0.9,0.3,1.6,0.6,1.1,0.56
-Umbria,nowcast,1,0.3,1.7,0.6,1.1,0.55
-Umbria,nowcast,1,0.4,1.9,0.7,1.2,0.47
+Umbria,nowcast,0.9,0.4,1.6,0.7,1.1,0.57
+Umbria,nowcast,0.9,0.4,1.6,0.7,1.1,0.57
+Umbria,nowcast,0.9,0.3,1.5,0.7,1.1,0.6
+Umbria,nowcast,0.9,0.3,1.5,0.6,1.1,0.62
+Umbria,nowcast,0.9,0.3,1.5,0.6,1.1,0.62
+Umbria,nowcast,0.9,0.3,1.6,0.6,1.1,0.6
+Umbria,nowcast,0.9,0.3,1.7,0.7,1.1,0.56
+Umbria,nowcast,1,0.3,1.8,0.6,1.1,0.49
 Umbria,nowcast,1.1,0.4,2,0.7,1.3,0.41
-Umbria,nowcast,1.2,0.5,2.2,0.8,1.4,0.3
-Umbria,nowcast,1.4,0.5,2.5,0.9,1.6,0.21
-Umbria,nowcast,1.5,0.6,2.7,1,1.7,0.15
-Umbria,nowcast,1.7,0.8,3.2,1.1,1.9,0.1
-Valle d'Aosta,nowcast,1.7,1.1,2.3,1.4,1.8,0.01
-Valle d'Aosta,nowcast,1.7,1.2,2.2,1.4,1.8,0.01
+Umbria,nowcast,1.2,0.5,2.2,0.8,1.4,0.34
+Umbria,nowcast,1.3,0.5,2.4,0.9,1.6,0.26
+Umbria,nowcast,1.5,0.5,2.7,0.8,1.6,0.2
+Umbria,nowcast,1.6,0.6,2.9,1,1.8,0.15
+Umbria,nowcast,1.8,0.6,3.3,1.1,2.1,0.11
+Umbria,nowcast,2,0.7,3.7,1.3,2.4,0.07
+Valle d'Aosta,nowcast,1.7,1.2,2.3,1.4,1.9,0.01
 Valle d'Aosta,nowcast,1.6,1.1,2.2,1.4,1.8,0.01
+Valle d'Aosta,nowcast,1.6,1.1,2.1,1.3,1.7,0.01
 Valle d'Aosta,nowcast,1.6,1.1,2,1.3,1.7,0.01
-Valle d'Aosta,nowcast,1.5,1.1,2,1.3,1.6,0.02
 Valle d'Aosta,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
-Valle d'Aosta,nowcast,1.4,1,1.8,1.2,1.5,0.03
-Valle d'Aosta,nowcast,1.3,0.9,1.6,1.2,1.4,0.07
-Valle d'Aosta,nowcast,1.2,0.9,1.5,1.1,1.4,0.13
-Valle d'Aosta,nowcast,1.2,0.8,1.4,1,1.3,0.2
-Valle d'Aosta,nowcast,1.1,0.8,1.4,1,1.2,0.3
-Valle d'Aosta,nowcast,1,0.8,1.3,0.9,1.2,0.41
-Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1.1,0.5
-Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1.1,0.57
-Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1.1,0.59
-Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.6
+Valle d'Aosta,nowcast,1.4,1,1.8,1.3,1.6,0.02
+Valle d'Aosta,nowcast,1.4,1,1.8,1.2,1.5,0.04
+Valle d'Aosta,nowcast,1.3,0.9,1.7,1.2,1.4,0.08
+Valle d'Aosta,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
+Valle d'Aosta,nowcast,1.2,0.9,1.4,1,1.3,0.19
+Valle d'Aosta,nowcast,1.1,0.8,1.4,1,1.2,0.31
+Valle d'Aosta,nowcast,1,0.8,1.3,1,1.2,0.39
+Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1.1,0.51
+Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1.1,0.58
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.61
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1,0.57
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.55
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.5
+Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.5
 Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.54
-Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1,0.51
-Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.52
-Valle d'Aosta,nowcast,1,0.8,1.2,0.9,1.1,0.56
-Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1,0.63
-Valle d'Aosta,nowcast,0.9,0.7,1.2,0.9,1,0.69
-Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.76
-Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.81
+Valle d'Aosta,nowcast,1,0.7,1.2,0.9,1.1,0.61
+Valle d'Aosta,nowcast,0.9,0.7,1.2,0.9,1,0.7
+Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.75
+Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.78
 Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.83
-Valle d'Aosta,nowcast,0.9,0.7,1.1,0.8,1,0.87
+Valle d'Aosta,nowcast,0.9,0.6,1.1,0.8,0.9,0.85
 Valle d'Aosta,nowcast,0.8,0.6,1,0.8,0.9,0.9
-Valle d'Aosta,nowcast,0.8,0.6,1,0.8,0.9,0.92
 Valle d'Aosta,nowcast,0.8,0.6,1,0.7,0.9,0.92
-Valle d'Aosta,nowcast,0.8,0.6,1,0.7,0.9,0.91
+Valle d'Aosta,nowcast,0.8,0.6,1,0.7,0.9,0.92
+Valle d'Aosta,nowcast,0.8,0.6,1.1,0.7,0.9,0.92
 Valle d'Aosta,nowcast,0.8,0.6,1.1,0.7,0.9,0.9
 Valle d'Aosta,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
-Valle d'Aosta,nowcast,0.8,0.6,1.1,0.7,0.9,0.84
-Valle d'Aosta,nowcast,0.9,0.6,1.1,0.7,0.9,0.81
-Valle d'Aosta,nowcast,0.9,0.6,1.1,0.7,0.9,0.79
-Valle d'Aosta,nowcast,0.9,0.6,1.1,0.8,1,0.78
+Valle d'Aosta,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
+Valle d'Aosta,nowcast,0.9,0.6,1.1,0.7,0.9,0.8
 Valle d'Aosta,nowcast,0.9,0.6,1.2,0.8,1,0.77
+Valle d'Aosta,nowcast,0.9,0.6,1.2,0.8,1,0.76
+Valle d'Aosta,nowcast,0.9,0.6,1.2,0.8,1,0.78
 Valle d'Aosta,nowcast,0.9,0.6,1.1,0.8,1,0.8
-Valle d'Aosta,nowcast,0.8,0.5,1.1,0.7,1,0.85
-Valle d'Aosta,nowcast,0.8,0.4,1,0.6,0.9,0.92
-Valle d'Aosta,nowcast,0.7,0.4,1,0.5,0.8,0.97
-Valle d'Aosta,nowcast,0.6,0.3,0.9,0.5,0.8,0.99
+Valle d'Aosta,nowcast,0.8,0.5,1.1,0.7,0.9,0.86
+Valle d'Aosta,nowcast,0.8,0.5,1,0.7,0.9,0.92
+Valle d'Aosta,nowcast,0.7,0.4,1,0.6,0.8,0.97
+Valle d'Aosta,nowcast,0.6,0.3,0.9,0.5,0.7,0.99
+Valle d'Aosta,nowcast,0.5,0.2,0.8,0.4,0.7,1
 Valle d'Aosta,nowcast,0.5,0.2,0.8,0.4,0.6,0.99
-Valle d'Aosta,nowcast,0.5,0.2,0.8,0.4,0.6,0.99
-Valle d'Aosta,nowcast,0.5,0.2,0.8,0.4,0.6,0.97
-Valle d'Aosta,nowcast,0.6,0.2,0.9,0.4,0.7,0.94
+Valle d'Aosta,nowcast,0.5,0.2,0.8,0.4,0.6,0.98
+Valle d'Aosta,nowcast,0.6,0.3,1,0.4,0.6,0.94
 Valle d'Aosta,nowcast,0.6,0.2,1.1,0.4,0.7,0.89
-Valle d'Aosta,nowcast,0.7,0.3,1.2,0.4,0.8,0.83
-Valle d'Aosta,nowcast,0.7,0.3,1.3,0.5,0.8,0.78
-Valle d'Aosta,nowcast,0.8,0.3,1.4,0.5,0.9,0.75
-Valle d'Aosta,nowcast,0.8,0.3,1.4,0.6,0.9,0.72
-Valle d'Aosta,nowcast,0.9,0.4,1.4,0.6,1,0.67
-Valle d'Aosta,nowcast,0.9,0.4,1.5,0.6,1,0.65
-Valle d'Aosta,nowcast,0.9,0.4,1.6,0.7,1.1,0.6
-Valle d'Aosta,nowcast,1,0.4,1.7,0.6,1.1,0.55
-Valle d'Aosta,nowcast,1.1,0.4,2,0.7,1.2,0.45
-Valle d'Aosta,nowcast,1.1,0.4,2.2,0.7,1.3,0.37
-Valle d'Aosta,nowcast,1.3,0.4,2.5,0.8,1.5,0.26
-Valle d'Aosta,nowcast,1.6,0.5,3,0.9,1.8,0.17
-Valle d'Aosta,nowcast,1.8,0.6,3.5,1,2.1,0.11
-Veneto,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Veneto,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Valle d'Aosta,nowcast,0.7,0.3,1.1,0.4,0.7,0.85
+Valle d'Aosta,nowcast,0.7,0.3,1.3,0.4,0.8,0.81
+Valle d'Aosta,nowcast,0.8,0.3,1.3,0.5,0.8,0.78
+Valle d'Aosta,nowcast,0.8,0.4,1.4,0.6,0.9,0.76
+Valle d'Aosta,nowcast,0.8,0.4,1.4,0.6,0.9,0.75
+Valle d'Aosta,nowcast,0.8,0.3,1.3,0.6,1,0.72
+Valle d'Aosta,nowcast,0.8,0.3,1.4,0.6,1,0.7
+Valle d'Aosta,nowcast,0.8,0.3,1.4,0.6,1,0.69
+Valle d'Aosta,nowcast,0.9,0.3,1.5,0.6,1,0.64
+Valle d'Aosta,nowcast,0.9,0.3,1.7,0.6,1.1,0.57
+Valle d'Aosta,nowcast,1,0.4,1.9,0.6,1.2,0.48
+Valle d'Aosta,nowcast,1.1,0.4,2,0.7,1.3,0.41
+Valle d'Aosta,nowcast,1.2,0.5,2.2,0.8,1.4,0.31
+Valle d'Aosta,nowcast,1.4,0.6,2.4,0.9,1.6,0.23
+Valle d'Aosta,nowcast,1.5,0.7,2.8,1,1.7,0.14
+Valle d'Aosta,nowcast,1.7,0.7,3,1.2,2,0.09
+Veneto,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Veneto,nowcast,1.6,1.3,1.9,1.4,1.7,0
 Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
@@ -1197,33 +1233,34 @@ Veneto,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Veneto,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Veneto,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Veneto,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Veneto,nowcast,1.4,1.2,1.6,1.4,1.5,0
+Veneto,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Veneto,nowcast,1.4,1.3,1.6,1.4,1.5,0
 Veneto,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Veneto,nowcast,1.4,1.2,1.5,1.3,1.4,0
 Veneto,nowcast,1.3,1.2,1.5,1.2,1.4,0
-Veneto,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Veneto,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Veneto,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Veneto,nowcast,1.2,1.1,1.4,1.2,1.3,0
 Veneto,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Veneto,nowcast,1.2,1.1,1.3,1.1,1.2,0
 Veneto,nowcast,1.2,1,1.3,1.1,1.2,0.01
 Veneto,nowcast,1.1,1,1.2,1.1,1.2,0.02
-Veneto,nowcast,1.1,1,1.2,1.1,1.1,0.07
-Veneto,nowcast,1.1,1,1.2,1,1.1,0.14
+Veneto,nowcast,1.1,1,1.2,1,1.1,0.08
+Veneto,nowcast,1.1,1,1.1,1,1.1,0.17
 Veneto,nowcast,1,0.9,1.1,1,1.1,0.29
-Veneto,nowcast,1,0.9,1.1,1,1,0.41
-Veneto,nowcast,1,0.9,1.1,1,1,0.53
-Veneto,nowcast,1,0.9,1.1,1,1,0.63
+Veneto,nowcast,1,0.9,1.1,1,1,0.4
+Veneto,nowcast,1,0.9,1.1,1,1,0.52
+Veneto,nowcast,1,0.9,1.1,1,1,0.65
 Veneto,nowcast,1,0.9,1,0.9,1,0.76
 Veneto,nowcast,1,0.9,1,0.9,1,0.85
-Veneto,nowcast,1,0.9,1,0.9,1,0.89
+Veneto,nowcast,1,0.9,1,0.9,1,0.91
 Veneto,nowcast,0.9,0.9,1,0.9,1,0.93
 Veneto,nowcast,0.9,0.9,1,0.9,1,0.94
-Veneto,nowcast,0.9,0.9,1,0.9,1,0.95
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.94
 Veneto,nowcast,0.9,0.9,1,0.9,1,0.95
 Veneto,nowcast,0.9,0.9,1,0.9,1,0.96
-Veneto,nowcast,0.9,0.9,1,0.9,1,0.97
-Veneto,nowcast,0.9,0.9,1,0.9,1,0.97
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.96
+Veneto,nowcast,0.9,0.9,1,0.9,1,0.96
 Veneto,nowcast,0.9,0.9,1,0.9,0.9,0.97
 Veneto,nowcast,0.9,0.8,1,0.9,0.9,0.98
 Veneto,nowcast,0.9,0.8,1,0.9,0.9,0.99
@@ -1233,10 +1270,10 @@ Veneto,nowcast,0.8,0.8,0.9,0.8,0.9,1
 Veneto,nowcast,0.8,0.8,0.9,0.8,0.9,1
 Veneto,nowcast,0.8,0.8,0.9,0.8,0.9,1
 Veneto,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-Veneto,nowcast,0.9,0.8,1,0.8,0.9,0.98
-Veneto,nowcast,0.9,0.8,1,0.8,0.9,0.97
-Veneto,nowcast,0.9,0.8,1,0.8,0.9,0.99
 Veneto,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Veneto,nowcast,0.9,0.8,1,0.8,0.9,0.98
+Veneto,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Veneto,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Veneto,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Veneto,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Veneto,nowcast,0.8,0.7,0.9,0.8,0.8,1
@@ -1246,27 +1283,30 @@ Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.7,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.7,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.7,1
+Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Veneto,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Veneto,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Veneto,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Veneto,nowcast,0.7,0.6,0.9,0.7,0.8,1
-Veneto,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
+Veneto,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+Veneto,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
 Veneto,nowcast,0.8,0.6,1,0.7,0.8,0.94
-Veneto,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
-Veneto,forecast,0.8,0.6,1,0.7,0.9,0.89
-Veneto,forecast,0.8,0.6,1.1,0.7,0.9,0.88
-Veneto,forecast,0.8,0.6,1.1,0.7,0.9,0.86
-Veneto,forecast,0.8,0.5,1.1,0.7,0.9,0.87
-Veneto,forecast,0.8,0.5,1.1,0.7,0.9,0.86
-Veneto,forecast,0.8,0.5,1.1,0.6,0.9,0.85
-Veneto,forecast,0.8,0.5,1.1,0.6,0.9,0.84
-Veneto,forecast,0.8,0.5,1.1,0.6,0.9,0.83
-Veneto,forecast,0.8,0.4,1.1,0.6,0.9,0.84
-Veneto,forecast,0.8,0.4,1.2,0.6,0.9,0.83
-Veneto,forecast,0.8,0.4,1.2,0.6,0.9,0.83
-Veneto,forecast,0.8,0.4,1.2,0.6,0.9,0.82
-Veneto,forecast,0.8,0.4,1.2,0.6,0.9,0.81
-Veneto,forecast,0.8,0.3,1.2,0.6,0.9,0.81
+Veneto,nowcast,0.8,0.6,1,0.7,0.9,0.9
+Veneto,nowcast,0.8,0.6,1.1,0.7,0.9,0.82
+Veneto,forecast,0.8,0.6,1.1,0.7,0.9,0.84
+Veneto,forecast,0.8,0.6,1.1,0.7,0.9,0.82
+Veneto,forecast,0.8,0.6,1.1,0.7,0.9,0.81
+Veneto,forecast,0.8,0.5,1.2,0.7,1,0.78
+Veneto,forecast,0.8,0.5,1.2,0.7,0.9,0.78
+Veneto,forecast,0.8,0.5,1.2,0.7,1,0.77
+Veneto,forecast,0.8,0.5,1.2,0.7,1,0.75
+Veneto,forecast,0.8,0.5,1.2,0.7,1,0.76
+Veneto,forecast,0.8,0.5,1.3,0.7,1,0.74
+Veneto,forecast,0.8,0.4,1.3,0.7,1,0.75
+Veneto,forecast,0.8,0.4,1.3,0.7,1,0.73
+Veneto,forecast,0.8,0.4,1.3,0.6,1,0.74
+Veneto,forecast,0.8,0.4,1.3,0.6,1,0.73
+Veneto,forecast,0.8,0.4,1.4,0.6,1,0.72

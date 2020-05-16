@@ -1,10 +1,7 @@
 region,median,lower_90,upper_90,lower_50,upper_50,confidence
 Baden-Wurttemberg,1,1,1,1,1,1
-Baden-Wurttemberg,1,1,1,1,1,1
-Baden-Wurttemberg,0.5,0,1,0,1,1
-Baden-Wurttemberg,0,0,0,0,0,1
 Baden-Wurttemberg,1,0,1,1,1,1
-Baden-Wurttemberg,0.5,0,1,0,1,1
+Baden-Wurttemberg,1,0,1,1,1,1
 Baden-Wurttemberg,0,0,1,0,0,1
 Baden-Wurttemberg,0,0,1,0,0,1
 Baden-Wurttemberg,0,0,1,0,0,1
@@ -20,98 +17,108 @@ Baden-Wurttemberg,0,0,1,0,0,1
 Baden-Wurttemberg,0,0,2,0,0,1
 Baden-Wurttemberg,1,0,2,0,1,1
 Baden-Wurttemberg,1,0,2,0,1,1
-Baden-Wurttemberg,1,0,3,0,1,1
+Baden-Wurttemberg,1,0,2,0,1,1
 Baden-Wurttemberg,1,0,3,0,1,1
 Baden-Wurttemberg,1,0,3,0,1,1
 Baden-Wurttemberg,1,0,4,0,1,1
-Baden-Wurttemberg,2,0,5,0,2,1
+Baden-Wurttemberg,1,0,5,0,1,1
 Baden-Wurttemberg,2,0,6,0,2,1
-Baden-Wurttemberg,3,0,7,1,3,1
-Baden-Wurttemberg,3,0,9,0,3,1
-Baden-Wurttemberg,4,0,11,0,4,1
-Baden-Wurttemberg,6,0,14,1,6,1
-Baden-Wurttemberg,8,1,17,2,8,1
-Baden-Wurttemberg,10,1,21,3,10,1
-Baden-Wurttemberg,13,2,25,6,14,1
-Baden-Wurttemberg,16,3,32,7,17,1
-Baden-Wurttemberg,20,5,39,12,24,1
-Baden-Wurttemberg,26,7,46,14,29,1
-Baden-Wurttemberg,33,11,57,19,36,1
-Baden-Wurttemberg,40,15,67,23,44,1
-Baden-Wurttemberg,49,23,83,30,54,1
-Baden-Wurttemberg,61,28,97,43,69,1
-Baden-Wurttemberg,74,40,119,52,83,1
-Baden-Wurttemberg,92,46,139,66,101,1
-Baden-Wurttemberg,109,60,157,90,129,1
-Baden-Wurttemberg,130,78,187,101,146,1
-Baden-Wurttemberg,154,94,219,116,168,1
-Baden-Wurttemberg,182.5,119,252,155,208,1
-Baden-Wurttemberg,214,141,293,185,244,1
-Baden-Wurttemberg,250.5,175,338,223,289,1
-Baden-Wurttemberg,293,203,376,247,317,1
-Baden-Wurttemberg,341,249,427,293,367,1
-Baden-Wurttemberg,389,297,481,353,428,1
-Baden-Wurttemberg,441.5,336,528,402,476,1
-Baden-Wurttemberg,495,400,587,455,527,1
-Baden-Wurttemberg,547,461,648,499,573,1
-Baden-Wurttemberg,601,507,695,567,639,1
-Baden-Wurttemberg,653,560,742,611,682,1
-Baden-Wurttemberg,706,622,791,671,738,1
-Baden-Wurttemberg,752,665,827,730,792,1
-Baden-Wurttemberg,791,714,875,746,809,1
-Baden-Wurttemberg,829,749,898,808,866,1
-Baden-Wurttemberg,861,787,931,836,895,1
-Baden-Wurttemberg,890,826,961,857,911,1
-Baden-Wurttemberg,916,855,984,891,942,1
-Baden-Wurttemberg,943,871,1003,916,968,1
-Baden-Wurttemberg,964,908,1034,942,993,1
-Baden-Wurttemberg,968.5,904,1029,937,989,1
-Baden-Wurttemberg,962,900,1026,940,992,1
-Baden-Wurttemberg,947,884,1004,917,966,1
-Baden-Wurttemberg,923,860,983,903,952,1
-Baden-Wurttemberg,901,839,961,878,922,1
-Baden-Wurttemberg,880.5,808,939,857,911,1
-Baden-Wurttemberg,856,785,915,827,881,1
-Baden-Wurttemberg,824,755,887,794,849,1
-Baden-Wurttemberg,781,707,844,755,811,1
-Baden-Wurttemberg,730,668,797,703,755,1
-Baden-Wurttemberg,683,620,736,656,703,1
-Baden-Wurttemberg,641,588,694,625,665,1
-Baden-Wurttemberg,608,552,658,590,633,1
-Baden-Wurttemberg,582,524,633,559,600,1
-Baden-Wurttemberg,556,496,603,530,574,1
-Baden-Wurttemberg,522,473,571,503,545,1
-Baden-Wurttemberg,487.5,442,534,474,511,1
-Baden-Wurttemberg,451,406,487,432,466,1
-Baden-Wurttemberg,421,382,458,399,431,1
-Baden-Wurttemberg,400,364,437,383,413,1
-Baden-Wurttemberg,387,347,423,370,400,1
-Baden-Wurttemberg,372,335,408,352,383,1
-Baden-Wurttemberg,360,317,393,340,371,1
-Baden-Wurttemberg,339,296,370,321,350,1
-Baden-Wurttemberg,318,285,356,302,329,1
-Baden-Wurttemberg,297,265,328,280,305,0.99
-Baden-Wurttemberg,279,246,310,268,293,0.99
-Baden-Wurttemberg,265,235,298,253,278,0.99
-Baden-Wurttemberg,248,215,276,234,259,0.99
-Baden-Wurttemberg,230,195,255,216,240,0.98
-Baden-Wurttemberg,208,178,231,196,217,0.98
-Baden-Wurttemberg,187,159,207,174,193,0.97
-Baden-Wurttemberg,170,147,190,157,176,0.97
-Baden-Wurttemberg,158,135,176,147,164,0.96
-Baden-Wurttemberg,150,128,168,139,155,0.94
-Baden-Wurttemberg,143,122,163,133,149,0.93
-Baden-Wurttemberg,138,116,157,130,146,0.91
-Baden-Wurttemberg,131,112,152,119,136,0.88
-Baden-Wurttemberg,129,108,153,120,138,0.85
-Baden-Wurttemberg,130,104,155,121,140,0.81
-Baden-Wurttemberg,139,108,168,122,145,0.76
-Baden-Wurttemberg,152,119,187,137,165,0.69
-Bavaria,1,1,2,1,1,1
-Bavaria,0,0,1,0,0,1
-Bavaria,0,0,1,0,0,1
-Bavaria,0,0,1,0,0,1
+Baden-Wurttemberg,2,0,7,0,2,1
+Baden-Wurttemberg,3,0,8,0,3,1
+Baden-Wurttemberg,4,0,11,1,4,1
+Baden-Wurttemberg,5,0,13,2,6,1
+Baden-Wurttemberg,6,0,16,2,7,1
+Baden-Wurttemberg,8,1,18,3,9,1
+Baden-Wurttemberg,11,1,23,3,11,1
+Baden-Wurttemberg,14,2,28,7,16,1
+Baden-Wurttemberg,17,4,33,7,18,1
+Baden-Wurttemberg,22,5,41,11,24,1
+Baden-Wurttemberg,27,7,50,12,28,1
+Baden-Wurttemberg,33,13,59,19,37,1
+Baden-Wurttemberg,42,17,71,27,48,1
+Baden-Wurttemberg,52,24,87,31,56,1
+Baden-Wurttemberg,63,31,103,42,70,1
+Baden-Wurttemberg,78,43,123,51,84,1
+Baden-Wurttemberg,92,53,145,66,102,1
+Baden-Wurttemberg,112,66,168,82,122,1
+Baden-Wurttemberg,132,78,194,97,144,1
+Baden-Wurttemberg,157.5,100,226,123,172,1
+Baden-Wurttemberg,184,114,254,145,204,1
+Baden-Wurttemberg,217,145,293,179,241,1
+Baden-Wurttemberg,252,184,346,207,273,1
+Baden-Wurttemberg,295,210,382,262,335,1
+Baden-Wurttemberg,339,253,433,301,378,1
+Baden-Wurttemberg,389,300,480,332,408,1
+Baden-Wurttemberg,439,337,524,401,479,1
+Baden-Wurttemberg,493,396,589,445,520,1
+Baden-Wurttemberg,544,450,633,491,570,1
+Baden-Wurttemberg,597.5,500,684,544,620,1
+Baden-Wurttemberg,648.5,558,735,606,683,1
+Baden-Wurttemberg,701.5,620,789,664,735,1
+Baden-Wurttemberg,746,663,825,698,767,1
+Baden-Wurttemberg,790,710,862,759,823,1
+Baden-Wurttemberg,823,743,891,793,850,1
+Baden-Wurttemberg,853,775,921,820,881,1
+Baden-Wurttemberg,883,814,956,850,909,1
+Baden-Wurttemberg,908,836,976,874,931,1
+Baden-Wurttemberg,936,863,998,915,968,1
+Baden-Wurttemberg,957,889,1016,929,978,1
+Baden-Wurttemberg,966,901,1024,944,993,1
+Baden-Wurttemberg,959,901,1023,934,980,1
+Baden-Wurttemberg,943,886,1009,910,961,1
+Baden-Wurttemberg,922,859,980,892,941,1
+Baden-Wurttemberg,897,830,957,871,920,1
+Baden-Wurttemberg,876,808,934,848,899,1
+Baden-Wurttemberg,852,789,928,818,870,1
+Baden-Wurttemberg,827,756,897,803,856,1
+Baden-Wurttemberg,782,710,849,749,805,1
+Baden-Wurttemberg,735,669,801,704,758,1
+Baden-Wurttemberg,683,627,745,652,702,1
+Baden-Wurttemberg,640,590,697,621,662,1
+Baden-Wurttemberg,609,553,657,587,627,1
+Baden-Wurttemberg,582,531,636,559,602,1
+Baden-Wurttemberg,555,505,611,530,571,1
+Baden-Wurttemberg,527,479,582,504,546,1
+Baden-Wurttemberg,488,440,537,464,502,1
+Baden-Wurttemberg,451,409,494,434,467,1
+Baden-Wurttemberg,422,384,461,408,438,1
+Baden-Wurttemberg,401,357,433,386,416,1
+Baden-Wurttemberg,387,348,426,369,398,1
+Baden-Wurttemberg,373,335,409,356,384,1
+Baden-Wurttemberg,358.5,321,400,346,378,1
+Baden-Wurttemberg,340,297,373,325,356,1
+Baden-Wurttemberg,317,280,353,301,330,1
+Baden-Wurttemberg,297,264,334,283,312,1
+Baden-Wurttemberg,280,243,311,266,293,1
+Baden-Wurttemberg,264,230,295,250,276,1
+Baden-Wurttemberg,247,214,281,233,258,0.99
+Baden-Wurttemberg,229,199,261,209,235,0.99
+Baden-Wurttemberg,207,178,236,190,215,0.99
+Baden-Wurttemberg,187,158,210,174,195,0.99
+Baden-Wurttemberg,170,147,191,162,180,0.99
+Baden-Wurttemberg,158,137,178,147,163,0.98
+Baden-Wurttemberg,148,127,166,136,152,0.98
+Baden-Wurttemberg,142,121,160,133,149,0.97
+Baden-Wurttemberg,134,115,153,122,138,0.96
+Baden-Wurttemberg,126,107,144,117,132,0.95
+Baden-Wurttemberg,121,100,138,108,125,0.94
+Baden-Wurttemberg,118,97,138,105,122,0.93
+Baden-Wurttemberg,119,100,139,108,124,0.91
+Baden-Wurttemberg,121,100,140,112,127,0.88
+Baden-Wurttemberg,124,104,144,114,130,0.85
+Baden-Wurttemberg,127,105,148,116,133,0.81
+Baden-Wurttemberg,127,101,149,113,131,0.75
+Baden-Wurttemberg,128,102,157,113,135,0.69
+Bavaria,1,1,1,1,1,1
 Bavaria,0,0,0,0,0,1
+Bavaria,0,0,0,0,0,1
+Bavaria,0.5,0,1,0,1,1
+Bavaria,0,0,0,0,0,1
+Bavaria,0,0,0,0,0,1
+Bavaria,0.5,0,1,0,1,1
+Bavaria,0,0,1,0,0,1
+Bavaria,0,0,1,0,0,1
+Bavaria,0.5,0,1,0,1,1
 Bavaria,0,0,1,0,0,1
 Bavaria,0,0,1,0,0,1
 Bavaria,0,0,1,0,0,1
@@ -123,104 +130,111 @@ Bavaria,0,0,1,0,0,1
 Bavaria,0,0,1,0,0,1
 Bavaria,0,0,1,0,0,1
 Bavaria,0,0,1,0,0,1
-Bavaria,0,0,1,0,0,1
-Bavaria,0,0,1,0,0,1
+Bavaria,0,0,2,0,0,1
 Bavaria,1,0,2,0,1,1
 Bavaria,1,0,2,0,1,1
 Bavaria,1,0,2,0,1,1
-Bavaria,1,0,3,0,1,1
 Bavaria,1,0,3,0,1,1
 Bavaria,1,0,3,0,1,1
 Bavaria,1,0,4,0,1,1
-Bavaria,2,0,5,0,2,1
+Bavaria,1,0,5,0,1,1
 Bavaria,2,0,6,0,2,1
-Bavaria,3,0,8,1,3,1
-Bavaria,3,0,10,0,3,1
-Bavaria,4,0,12,0,4,1
-Bavaria,6,0,16,1,6,1
-Bavaria,8,1,19,2,8,1
-Bavaria,10,1,23,4,11,1
-Bavaria,13,3,28,5,14,1
-Bavaria,16,2,33,6,17,1
-Bavaria,22,4,41,12,25,1
-Bavaria,27,8,51,13,29,1
-Bavaria,34,13,63,22,40,1
-Bavaria,43,14,74,24,47,1
-Bavaria,53,20,89,31,57,1
-Bavaria,65,28,106,44,74,1
-Bavaria,80,39,129,59,93,1
-Bavaria,97,47,154,67,107,1
-Bavaria,117.5,67,188,84,129,1
-Bavaria,144,77,210,110,160,1
-Bavaria,170,99,254,129,186,1
-Bavaria,205,126,293,168,235,1
-Bavaria,242,150,335,194,264,1
-Bavaria,285.5,188,392,236,317,1
-Bavaria,332,222,437,276,364,1
-Bavaria,387,278,510,333,424,1
-Bavaria,452,315,559,384,480,1
-Bavaria,516,379,636,458,563,1
-Bavaria,584,452,717,522,628,1
-Bavaria,661,523,792,601,716,1
-Bavaria,738,609,874,678,787,1
-Bavaria,823,684,947,771,880,1
-Bavaria,904,769,1030,857,960,1
-Bavaria,984,855,1095,930,1031,1
-Bavaria,1052,927,1161,1007,1099,1
-Bavaria,1117,997,1214,1073,1163,1
-Bavaria,1172.5,1062,1273,1128,1214,1
-Bavaria,1231,1119,1323,1186,1266,1
-Bavaria,1275.5,1188,1364,1254,1324,1
-Bavaria,1319,1237,1410,1282,1349,1
-Bavaria,1349,1260,1428,1321,1389,1
-Bavaria,1363,1274,1435,1340,1404,1
-Bavaria,1360,1281,1431,1326,1386,1
-Bavaria,1341,1266,1420,1309,1370,1
-Bavaria,1327,1243,1405,1294,1358,1
-Bavaria,1307,1214,1384,1264,1336,1
-Bavaria,1285,1185,1375,1235,1312,1
-Bavaria,1250,1147,1351,1217,1299,1
-Bavaria,1197,1092,1297,1143,1224,1
-Bavaria,1119,1023,1217,1081,1156,1
-Bavaria,1040,935,1121,1005,1077,1
-Bavaria,966,881,1044,927,993,1
-Bavaria,903,819,980,874,933,1
-Bavaria,847.5,770,927,816,876,1
-Bavaria,794,717,866,760,822,1
-Bavaria,734,662,804,705,760,1
-Bavaria,671,613,729,647,694,1
-Bavaria,623,568,674,603,643,1
-Bavaria,587,541,636,560,600,1
-Bavaria,565,513,607,548,587,1
-Bavaria,548,497,601,521,562,1
-Bavaria,524,471,576,509,546,1
-Bavaria,500.5,450,546,474,514,1
-Bavaria,465,420,515,438,478,1
-Bavaria,431,388,474,412,446,1
-Bavaria,402,357,439,380,413,0.99
-Bavaria,377,339,417,354,387,0.99
-Bavaria,359,317,396,343,375,0.99
-Bavaria,341,306,377,323,353,0.99
-Bavaria,317,282,355,303,331,0.98
-Bavaria,292,258,324,280,306,0.98
-Bavaria,266,238,296,256,280,0.97
-Bavaria,246,216,273,234,256,0.97
-Bavaria,231,204,257,216,238,0.96
-Bavaria,221,194,242,208,228,0.94
-Bavaria,210,184,232,197,217,0.93
-Bavaria,200,175,227,191,210,0.91
-Bavaria,193,166,217,185,205,0.88
-Bavaria,190,159,216,179,201,0.85
-Bavaria,193,161,219,176,200,0.81
-Bavaria,199,165,230,184,210,0.76
-Bavaria,208.5,168,245,188,219,0.69
+Bavaria,3,0,7,1,3,1
+Bavaria,3,0,9,0,3,1
+Bavaria,4,0,11,0,4,1
+Bavaria,5,0,14,0,5,1
+Bavaria,7,0,16,1,7,1
+Bavaria,9,0,20,3,10,1
+Bavaria,11,1,25,4,12,1
+Bavaria,15,3,31,6,16,1
+Bavaria,18,3,38,7,19,1
+Bavaria,24,5,45,10,25,1
+Bavaria,29,6,53,13,30,1
+Bavaria,36,10,66,20,40,1
+Bavaria,45,15,80,29,52,1
+Bavaria,56,20,96,34,61,1
+Bavaria,68,27,113,43,75,1
+Bavaria,83,43,139,51,89,1
+Bavaria,101,51,159,67,109,1
+Bavaria,122,59,184,88,137,1
+Bavaria,146,82,222,104,159,1
+Bavaria,175,109,267,130,191,1
+Bavaria,209,123,298,153,223,1
+Bavaria,247,151,341,199,276,1
+Bavaria,289,186,393,239,324,1
+Bavaria,339.5,228,452,284,375,1
+Bavaria,391,278,509,321,421,1
+Bavaria,452.5,324,576,381,482,1
+Bavaria,518.5,397,650,459,568,1
+Bavaria,588,453,717,513,625,1
+Bavaria,663,517,793,583,694,1
+Bavaria,741,613,879,680,793,1
+Bavaria,823,688,952,754,865,1
+Bavaria,903,767,1027,836,943,1
+Bavaria,979.5,862,1109,929,1025,1
+Bavaria,1053,933,1166,1012,1110,1
+Bavaria,1113,987,1214,1071,1156,1
+Bavaria,1171,1058,1265,1137,1218,1
+Bavaria,1223,1120,1314,1199,1277,1
+Bavaria,1266,1172,1359,1237,1313,1
+Bavaria,1308,1218,1391,1274,1343,1
+Bavaria,1338.5,1255,1416,1296,1363,1
+Bavaria,1344,1265,1422,1311,1375,1
+Bavaria,1347,1270,1425,1318,1378,1
+Bavaria,1329,1256,1412,1288,1355,1
+Bavaria,1313,1231,1401,1271,1338,1
+Bavaria,1295,1202,1373,1259,1327,1
+Bavaria,1272,1174,1371,1237,1311,1
+Bavaria,1237,1127,1335,1196,1276,1
+Bavaria,1184,1079,1284,1145,1230,1
+Bavaria,1109.5,1003,1198,1073,1146,1
+Bavaria,1033,930,1106,992,1063,1
+Bavaria,958,864,1031,925,989,1
+Bavaria,892,819,975,858,921,1
+Bavaria,840,764,919,806,868,1
+Bavaria,789.5,701,855,751,811,1
+Bavaria,727.5,660,794,702,758,1
+Bavaria,667,604,721,634,684,1
+Bavaria,616,567,669,594,636,1
+Bavaria,581,537,632,555,593,1
+Bavaria,560,503,605,545,582,1
+Bavaria,542,494,591,517,557,1
+Bavaria,520,469,564,493,533,1
+Bavaria,496,441,544,467,508,1
+Bavaria,460,417,510,439,477,1
+Bavaria,429,384,472,413,447,1
+Bavaria,397,360,438,376,409,1
+Bavaria,373,331,407,355,386,1
+Bavaria,354,318,391,336,366,1
+Bavaria,336,296,371,318,349,0.99
+Bavaria,312,278,347,298,326,0.99
+Bavaria,284,248,318,268,296,0.99
+Bavaria,263,230,292,246,272,0.99
+Bavaria,241,212,268,229,251,0.99
+Bavaria,226,199,251,212,234,0.98
+Bavaria,214,189,237,201,221,0.98
+Bavaria,203,176,225,193,211,0.97
+Bavaria,193,170,217,180,200,0.96
+Bavaria,184,161,208,170,189,0.95
+Bavaria,180,154,203,168,188,0.94
+Bavaria,178,152,200,167,187,0.93
+Bavaria,179,155,204,166,185,0.91
+Bavaria,184,157,208,170,190,0.88
+Bavaria,185.5,158,210,178,198,0.85
+Bavaria,187,160,218,169,193,0.81
+Bavaria,189,157,219,170,196,0.75
+Bavaria,196,158,238,172,203,0.69
 Berlin,1,1,1,1,1,1
 Berlin,0,0,0,0,0,1
-Berlin,1,0,1,1,1,1
-Berlin,1,0,1,1,1,1
-Berlin,0,0,1,0,0,1
-Berlin,0,0,2,0,0,1
+Berlin,0,0,0,0,0,1
+Berlin,0,0,0,0,0,1
 Berlin,0.5,0,1,0,1,1
+Berlin,0,0,0,0,0,1
+Berlin,0,0,1,0,0,1
+Berlin,0,0,1,0,0,1
+Berlin,0,0,1,0,0,1
+Berlin,0,0,1,0,0,1
+Berlin,0,0,1,0,0,1
 Berlin,0,0,1,0,0,1
 Berlin,0,0,1,0,0,1
 Berlin,0,0,1,0,0,1
@@ -235,94 +249,97 @@ Berlin,0,0,1,0,0,1
 Berlin,0,0,1,0,0,1
 Berlin,0,0,1,0,0,1
 Berlin,0,0,2,0,0,1
-Berlin,1,0,2,0,1,1
+Berlin,0,0,2,0,0,1
 Berlin,1,0,2,0,1,1
 Berlin,1,0,2,0,1,1
 Berlin,1,0,3,0,1,1
 Berlin,1,0,3,0,1,1
 Berlin,1,0,4,0,1,1
-Berlin,2,0,4,0,2,1
+Berlin,1,0,4,0,1,1
+Berlin,2,0,5,0,2,1
 Berlin,2,0,6,0,2,1
 Berlin,3,0,7,1,3,1
-Berlin,4,0,8,1,4,1
-Berlin,5,1,10,3,6,1
-Berlin,6,1,12,4,8,1
-Berlin,8,1,14,3,8,1
-Berlin,10,3,17,5,11,1
-Berlin,12,4,21,9,15,1
-Berlin,15,6,26,10,17,1
-Berlin,18,6,28,12,20,1
-Berlin,21,10,34,13,23,1
-Berlin,26,12,39,17,28,1
-Berlin,31,16,45,24,35,1
-Berlin,36,20,51,29,41,1
-Berlin,43,26,60,33,47,1
-Berlin,50,32,69,38,53,1
-Berlin,58,40,80,50,65,1
-Berlin,67,49,87,55,71,1
-Berlin,75,53,96,64,81,1
-Berlin,85,59,104,72,89,1
-Berlin,95,72,116,84,102,1
-Berlin,103.5,81,127,94,111,1
-Berlin,115,91,138,106,124,1
-Berlin,126,103,150,113,132,1
-Berlin,136,117,161,126,144,1
-Berlin,148,126,169,136,153,1
-Berlin,157,136,180,149,166,1
-Berlin,166,146,186,154,171,1
-Berlin,171,148,190,160,177,1
-Berlin,175,150,193,167,183,1
-Berlin,178,158,200,167,185,1
-Berlin,182,160,204,169,187,1
-Berlin,183,160,204,173,191,1
-Berlin,183,160,206,173,190,1
-Berlin,180,157,201,170,188,1
-Berlin,176,154,199,164,183,1
-Berlin,170,147,191,158,176,1
-Berlin,164,142,185,152,170,1
-Berlin,160,139,181,149,167,1
-Berlin,156,130,174,144,162,1
-Berlin,149,129,175,141,158,1
-Berlin,144,121,165,134,152,1
-Berlin,137,115,157,123,141,1
-Berlin,129,111,152,117,134,1
-Berlin,121,97,138,111,127,1
-Berlin,114,96,134,105,120,1
-Berlin,108,87,125,98,113,1
-Berlin,102,84,120,91,106,1
-Berlin,95,78,111,87,100,1
-Berlin,87,70,102,81,93,1
-Berlin,82,67,96,75,86,1
-Berlin,78,64,92,69,80,1
-Berlin,75,62,90,67,78,1
-Berlin,74,60,87,65,76,1
-Berlin,73,60,87,65,76,1
-Berlin,71,57,85,63,74,1
-Berlin,69,54,82,59,71,1
-Berlin,65,51,77,56,67,1
-Berlin,62.5,49,74,57,67,0.99
-Berlin,61,46,71,53,63,0.99
-Berlin,59,46,70,55,64,0.99
-Berlin,58,45,69,51,61,0.99
-Berlin,56,45,67,49,58,0.98
-Berlin,54,42,64,48,57,0.98
-Berlin,52,41,63,46,55,0.97
-Berlin,49,38,59,42,51,0.97
-Berlin,49,37,59,45,53,0.96
-Berlin,48,35,58,41,50,0.95
-Berlin,47,35,58,40,49,0.93
-Berlin,45,34,57,38,47,0.92
-Berlin,44,31,55,35,45,0.89
-Berlin,44,31,57,37,47,0.86
-Berlin,43,28,57,35,46,0.82
-Berlin,43,28,61,34,46,0.78
-Berlin,44,26,65,33,46,0.71
-Berlin,44,25,73,33,48,0.63
+Berlin,4,0,9,1,4,1
+Berlin,5,1,10,1,5,1
+Berlin,6,0,12,3,7,1
+Berlin,8,2,15,3,8,1
+Berlin,10,2,17,4,10,1
+Berlin,12,3,21,8,14,1
+Berlin,15,6,25,10,17,1
+Berlin,18,8,30,10,19,1
+Berlin,22,10,34,15,24,1
+Berlin,26,14,40,17,28,1
+Berlin,31,17,45,21,33,1
+Berlin,37.5,20,51,27,40,1
+Berlin,44,25,60,33,47,1
+Berlin,50,31,67,38,53,1
+Berlin,57,38,76,48,63,1
+Berlin,66,45,85,55,70,1
+Berlin,74,54,95,63,79,1
+Berlin,84,62,105,73,90,1
+Berlin,93,71,114,82,99,1
+Berlin,104,82,127,95,113,1
+Berlin,114,91,137,104,122,1
+Berlin,125,99,145,111,130,1
+Berlin,136,112,158,123,142,1
+Berlin,147,124,167,134,153,1
+Berlin,156,132,175,145,163,1
+Berlin,165,140,183,154,171,1
+Berlin,170,150,192,161,178,1
+Berlin,174,152,193,162,179,1
+Berlin,178,158,200,166,183,1
+Berlin,180,158,201,168,185,1
+Berlin,183,160,204,170,188,1
+Berlin,183,158,206,172,191,1
+Berlin,180,158,208,173,192,1
+Berlin,177,153,200,167,185,1
+Berlin,170,148,191,159,177,1
+Berlin,166,140,185,155,173,1
+Berlin,160,136,181,147,165,1
+Berlin,155,135,177,143,161,1
+Berlin,150,126,172,139,158,1
+Berlin,145,123,167,138,156,1
+Berlin,138,115,160,130,148,1
+Berlin,129,108,149,117,135,1
+Berlin,121,99,141,111,128,1
+Berlin,114,92,132,103,119,1
+Berlin,107,90,127,96,111,1
+Berlin,101,83,119,91,105,1
+Berlin,95,76,111,86,100,1
+Berlin,88,71,103,81,93,1
+Berlin,82,67,97,77,88,1
+Berlin,77.5,62,91,72,83,1
+Berlin,75,59,88,68,79,1
+Berlin,74,60,87,66,77,1
+Berlin,73,60,87,64,76,1
+Berlin,71,56,83,64,75,1
+Berlin,69,55,83,64,74,1
+Berlin,65,51,77,58,69,1
+Berlin,63,49,75,55,66,1
+Berlin,59,47,71,52,62,1
+Berlin,58,46,69,52,61,1
+Berlin,57,45,69,49,59,1
+Berlin,55,44,66,47,57,0.99
+Berlin,53,42,64,46,55,0.99
+Berlin,51,39,62,45,54,0.99
+Berlin,48,38,59,41,50,0.99
+Berlin,46,35,56,43,51,0.98
+Berlin,45,33,55,38,47,0.98
+Berlin,43,32,53,36,45,0.98
+Berlin,42,30,51,34,43,0.97
+Berlin,40,29,49,34,41,0.96
+Berlin,38,27,47,31,39,0.95
+Berlin,36,26,45,30,38,0.94
+Berlin,36,25,44,30,37,0.92
+Berlin,35,26,45,29,37,0.9
+Berlin,34,24,43,28,36,0.88
+Berlin,33,21,42,28,35,0.84
+Berlin,32,21,43,26,34,0.8
+Berlin,31,18,44,25,34,0.74
+Berlin,34,20,52,25,36,0.67
 Brandenburg,1,1,1,1,1,1
 Brandenburg,0,0,0,0,0,1
-Brandenburg,0.5,0,1,0,1,1
-Brandenburg,0.5,0,1,0,1,1
-Brandenburg,0,0,1,0,0,1
+Brandenburg,1,0,1,1,1,1
 Brandenburg,0,0,1,0,0,1
 Brandenburg,0.5,0,1,0,1,1
 Brandenburg,0,0,1,0,0,1
@@ -340,101 +357,95 @@ Brandenburg,0,0,1,0,0,1
 Brandenburg,0,0,1,0,0,1
 Brandenburg,0,0,1,0,0,1
 Brandenburg,0,0,1,0,0,1
-Brandenburg,0,0,2,0,0,1
+Brandenburg,0,0,1,0,0,1
 Brandenburg,1,0,2,0,1,1
 Brandenburg,1,0,2,0,1,1
 Brandenburg,1,0,2,0,1,1
 Brandenburg,1,0,3,0,1,1
 Brandenburg,1,0,3,0,1,1
 Brandenburg,1,0,4,0,1,1
+Brandenburg,2,0,4,1,2,1
 Brandenburg,2,0,5,0,2,1
-Brandenburg,2,0,6,0,2,1
 Brandenburg,3,0,6,1,3,1
+Brandenburg,3,0,7,1,3,1
 Brandenburg,4,0,8,1,4,1
-Brandenburg,5,1,9,2,5,1
+Brandenburg,5,0,9,1,5,1
 Brandenburg,6,1,11,2,6,1
-Brandenburg,7,2,13,4,8,1
-Brandenburg,9,2,14,5,10,1
-Brandenburg,11,4,17,7,12,1
-Brandenburg,13,5,20,8,14,1
-Brandenburg,16,8,24,11,17,1
-Brandenburg,18,9,27,13,20,1
-Brandenburg,22,13,31,17,24,1
-Brandenburg,26,15,35,19,27,1
-Brandenburg,29,19,39,23,31,1
-Brandenburg,33,23,44,28,36,1
-Brandenburg,37,27,48,33,41,1
-Brandenburg,41,30,52,34,43,1
-Brandenburg,44,33,56,36,46,1
-Brandenburg,48,35,59,43,52,1
-Brandenburg,51,40,63,43,53,1
-Brandenburg,54,40,66,48,58,1
+Brandenburg,8,2,13,4,8,1
+Brandenburg,9,3,15,5,10,1
+Brandenburg,11,4,18,9,14,1
+Brandenburg,13,6,20,10,15,1
+Brandenburg,16,7,24,11,17,1
+Brandenburg,19,10,29,14,21,1
+Brandenburg,22,12,31,17,24,1
+Brandenburg,25,16,35,19,27,1
+Brandenburg,29,19,40,23,31,1
+Brandenburg,33,21,43,27,35,1
+Brandenburg,37,25,47,30,39,1
+Brandenburg,41,28,51,36,44,1
+Brandenburg,45,33,56,38,47,1
+Brandenburg,47,37,60,42,51,1
+Brandenburg,52,39,63,45,55,1
+Brandenburg,54,43,66,47,56,1
 Brandenburg,57,43,68,51,60,1
-Brandenburg,59,44,70,52,62,1
-Brandenburg,61,49,74,53,63,1
-Brandenburg,63,50,75,58,68,1
-Brandenburg,65,52,78,56,67,1
-Brandenburg,69,56,83,63,73,1
-Brandenburg,71,59,85,62,73,1
-Brandenburg,75,60,87,69,79,1
-Brandenburg,77,62,89,68,79,1
-Brandenburg,78,64,91,70,81,1
-Brandenburg,80,65,93,72,83,1
-Brandenburg,80,65,94,75,86,1
-Brandenburg,81,66,96,74,86,1
-Brandenburg,82,67,97,73,85,1
-Brandenburg,81,66,95,72,84,1
-Brandenburg,79,64,94,71,83,1
-Brandenburg,76,60,89,67,79,1
-Brandenburg,73,58,86,65,76,1
-Brandenburg,71,57,83,62,73,1
-Brandenburg,69,56,82,60,71,1
-Brandenburg,68,53,80,59,70,1
-Brandenburg,66,51,78,57,68,1
-Brandenburg,63,50,75,55,65,1
-Brandenburg,59,45,71,54,64,1
-Brandenburg,56,44,67,47,57,1
-Brandenburg,54,42,65,48,57,1
-Brandenburg,54,41,64,51,60,1
-Brandenburg,53,40,63,47,56,1
-Brandenburg,54,43,65,49,57,1
-Brandenburg,53,42,65,47,56,1
-Brandenburg,51,39,62,44,53,1
-Brandenburg,49,38,61,42,51,0.99
-Brandenburg,47,34,57,42,50,0.99
-Brandenburg,44,34,55,36,45,0.99
-Brandenburg,42,32,52,38,46,0.99
-Brandenburg,40,29,50,34,42,0.98
-Brandenburg,38,28,48,32,40,0.98
-Brandenburg,35,25,44,31,38,0.98
-Brandenburg,33,24,42,27,35,0.97
-Brandenburg,32,21,39,27,34,0.96
-Brandenburg,30,20,38,26,32,0.95
-Brandenburg,29,19,37,23,30,0.94
-Brandenburg,28,19,36,23,30,0.92
-Brandenburg,26,17,34,22,28,0.9
-Brandenburg,26,16,35,19,27,0.87
-Brandenburg,25,15,35,20,27,0.83
-Brandenburg,25,12,36,20,28,0.79
-Brandenburg,26,13,41,18,28,0.73
-Brandenburg,27,13,49,18,30,0.65
-Brandenburg,30,10,56,16,32,0.55
+Brandenburg,59,47,71,51,61,1
+Brandenburg,61,50,74,54,64,1
+Brandenburg,63,49,75,59,69,1
+Brandenburg,66,51,77,61,71,1
+Brandenburg,69,55,82,61,72,1
+Brandenburg,72,57,84,65,75,1
+Brandenburg,75,61,88,68,79,1
+Brandenburg,76,62,90,69,80,1
+Brandenburg,78,62,91,70,81,1
+Brandenburg,79,64,92,72,83,1
+Brandenburg,80,66,94,75,86,1
+Brandenburg,81,67,96,76,87,1
+Brandenburg,82,66,95,74,86,1
+Brandenburg,81,65,94,72,84,1
+Brandenburg,80,65,93,72,84,1
+Brandenburg,77,62,92,69,81,1
+Brandenburg,74,57,86,67,78,1
+Brandenburg,72,58,85,64,75,1
+Brandenburg,69,55,81,63,73,1
+Brandenburg,67,55,82,60,71,1
+Brandenburg,66,51,79,58,69,1
+Brandenburg,63,49,75,56,66,1
+Brandenburg,60,46,71,54,64,1
+Brandenburg,56,43,67,48,58,1
+Brandenburg,54,40,64,49,57,1
+Brandenburg,53,40,62,48,57,1
+Brandenburg,54,41,64,48,57,1
+Brandenburg,53,41,65,46,55,1
+Brandenburg,53,40,63,48,57,1
+Brandenburg,52,39,62,45,54,1
+Brandenburg,50,38,61,44,53,1
+Brandenburg,46,35,57,40,49,1
+Brandenburg,44,32,54,38,47,1
+Brandenburg,42,30,52,35,44,1
+Brandenburg,39,28,49,33,41,0.99
+Brandenburg,37,26,47,31,39,0.99
+Brandenburg,35,23,43,28,36,0.99
+Brandenburg,33,23,41,29,36,0.99
+Brandenburg,29,20,38,24,31,0.99
+Brandenburg,28,19,36,25,31,0.98
+Brandenburg,26,18,34,22,28,0.98
+Brandenburg,25,17,33,20,26,0.97
+Brandenburg,23,16,31,19,25,0.96
+Brandenburg,22,13,28,17,23,0.95
+Brandenburg,20,13,26,16,21,0.94
+Brandenburg,18,11,25,15,20,0.93
+Brandenburg,17,11,25,12,18,0.91
+Brandenburg,17,8,23,11,17,0.88
+Brandenburg,15,7,22,10,16,0.85
+Brandenburg,14,7,22,11,16,0.81
+Brandenburg,13,5,22,8,14,0.76
+Brandenburg,13,3,24,6,13,0.69
+Brandenburg,13,2,30,6,14,0.61
 Bremen,1,1,1,1,1,1
-Bremen,0,0,0,0,0,1
-Bremen,0,0,0,0,0,1
-Bremen,0,0,0,0,0,1
-Bremen,0,0,0,0,0,1
-Bremen,0,0,0,0,0,1
-Bremen,0,0,0,0,0,1
-Bremen,0,0,0,0,0,1
-Bremen,0,0,0,0,0,1
-Bremen,0,0,0,0,0,1
-Bremen,0,0,0,0,0,1
-Bremen,0.5,0,1,0,1,1
+Bremen,1,0,1,1,1,1
 Bremen,0,0,1,0,0,1
 Bremen,0,0,1,0,0,1
 Bremen,0,0,1,0,0,1
-Bremen,0,0,0,0,0,1
 Bremen,0,0,1,0,0,1
 Bremen,0,0,1,0,0,1
 Bremen,0,0,1,0,0,1
@@ -459,82 +470,86 @@ Bremen,0,0,2,0,0,1
 Bremen,1,0,2,0,1,1
 Bremen,1,0,2,0,1,1
 Bremen,1,0,2,0,1,1
-Bremen,1,0,3,0,1,1
+Bremen,1,0,2,0,1,1
 Bremen,1,0,3,0,1,1
 Bremen,1,0,3,0,1,1
 Bremen,2,0,4,1,2,1
+Bremen,2,0,4,1,2,1
 Bremen,2,0,5,0,2,1
 Bremen,3,0,5,1,3,1
-Bremen,3,0,6,1,3,1
+Bremen,3,0,6,2,4,1
 Bremen,4,1,7,2,4,1
 Bremen,5,1,8,2,5,1
-Bremen,5,2,9,2,5,1
-Bremen,6,2,10,3,6,1
-Bremen,7,2,11,5,8,1
-Bremen,8,3,12,6,9,1
-Bremen,9,5,14,5,9,1
-Bremen,10,4,14,7,11,1
-Bremen,11,6,16,7,11,1
-Bremen,12,5,16,9,13,1
+Bremen,5,1,9,3,6,1
+Bremen,6,2,10,4,7,1
+Bremen,7,3,11,5,8,1
+Bremen,8,3,12,4,8,1
+Bremen,9,4,14,5,9,1
+Bremen,10,4,14,6,10,1
+Bremen,10,4,15,7,11,1
+Bremen,11,5,16,8,12,1
 Bremen,12,6,17,9,13,1
-Bremen,13,6,18,9,14,1
-Bremen,14,7,19,10,15,1
-Bremen,15,8,20,11,16,1
+Bremen,13,7,18,10,14,1
+Bremen,14,7,19,11,15,1
+Bremen,15,8,20,10,15,1
 Bremen,16,10,22,12,17,1
-Bremen,17,10,23,13,18,1
+Bremen,17,11,23,12,17,1
 Bremen,17,10,23,13,18,1
 Bremen,17,10,23,13,18,1
 Bremen,17,11,23,12,17,1
-Bremen,16,10,22,13,18,1
-Bremen,16,10,22,11,16,1
-Bremen,16,9,21,12,17,1
-Bremen,16,9,21,11,16,1
-Bremen,16,10,21,13,17,1
-Bremen,15,10,22,11,16,1
-Bremen,15,8,20,10,15,1
-Bremen,15,9,20,12,16,1
-Bremen,15,8,19,12,16,1
-Bremen,14,9,21,12,16,1
-Bremen,15,8,20,10,15,1
-Bremen,15,8,20,10,15,1
-Bremen,14,8,20,12,16,1
-Bremen,14,8,20,10,15,1
-Bremen,15,9,20,10,15,1
-Bremen,14,8,19,11,15,1
-Bremen,14,8,20,9,14,1
-Bremen,14,8,20,12,16,1
-Bremen,15,9,21,10,15,1
-Bremen,15,9,21,11,16,1
-Bremen,16,8,21,12,17,1
+Bremen,16,10,22,12,17,1
 Bremen,16,9,22,12,17,1
-Bremen,17,11,24,14,19,1
-Bremen,19,12,25,15,20,1
-Bremen,20,11,25,16,21,1
-Bremen,20.5,13,27,15,21,1
-Bremen,21,12,27,18,23,1
-Bremen,21,14,28,17,23,1
-Bremen,22,14,28,20,25,0.99
-Bremen,22,14,28,18,24,0.99
-Bremen,22.5,14,29,20,25,0.99
-Bremen,22,14,29,17,23,0.99
-Bremen,22,14,28,20,25,0.98
-Bremen,22,15,29,17,23,0.98
-Bremen,21,14,28,16,22,0.97
-Bremen,21,13,28,17,23,0.97
-Bremen,22,14,28,17,23,0.96
-Bremen,22,14,29,17,23,0.95
-Bremen,22,14,30,16,23,0.93
-Bremen,23,13,30,19,25,0.92
-Bremen,23,14,31,17,24,0.89
-Bremen,24,14,34,17,25,0.86
-Bremen,26,14,36,20,28,0.83
-Bremen,29,17,43,21,31,0.78
-Bremen,31,15,48,20,32,0.72
-Bremen,35,18,58,25,38,0.64
+Bremen,16,9,21,14,18,1
+Bremen,16,8,21,12,17,1
+Bremen,15.5,9,21,12,17,1
+Bremen,15,9,20,11,16,1
+Bremen,15,8,20,10,15,1
+Bremen,15,8,20,12,16,1
+Bremen,15,8,20,10,15,1
+Bremen,14,8,20,11,15,1
+Bremen,15,8,20,11,16,1
+Bremen,15,8,20,12,16,1
+Bremen,15,8,20,13,17,1
+Bremen,14.5,8,20,10,15,1
+Bremen,14,9,20,11,15,1
+Bremen,14,7,19,12,16,1
+Bremen,14,9,20,10,15,1
+Bremen,15,9,20,12,16,1
+Bremen,15,8,20,13,17,1
+Bremen,15,9,21,11,16,1
+Bremen,16,9,21,12,17,1
+Bremen,16,10,22,12,17,1
+Bremen,17,12,24,13,18,1
+Bremen,19,10,24,16,21,1
+Bremen,19,12,26,14,20,1
+Bremen,21,13,27,16,22,1
+Bremen,21,14,28,16,22,1
+Bremen,21,13,28,16,22,1
+Bremen,22,15,29,19,24,1
+Bremen,22,14,29,17,23,1
+Bremen,22,16,30,18,23,1
+Bremen,22,14,29,18,24,1
+Bremen,22,14,29,19,24,0.99
+Bremen,21,13,28,16,22,0.99
+Bremen,21,13,27,18,23,0.99
+Bremen,21,13,27,17,22,0.99
+Bremen,21,13,27,16,22,0.98
+Bremen,21,14,28,18,23,0.98
+Bremen,21,13,27,17,22,0.97
+Bremen,21,13,27,15,21,0.97
+Bremen,21,13,27,18,23,0.96
+Bremen,21,14,28,15,21,0.95
+Bremen,21,13,28,16,22,0.93
+Bremen,22,13,29,17,23,0.92
+Bremen,23,13,30,19,25,0.9
+Bremen,23,14,31,17,24,0.87
+Bremen,23,15,33,18,25,0.83
+Bremen,23,14,33,18,25,0.79
+Bremen,23,13,38,16,24,0.73
+Bremen,24,11,42,15,25,0.66
 Hamburg,1,1,1,1,1,1
 Hamburg,1,0,1,1,1,1
-Hamburg,0,0,1,0,0,1
-Hamburg,0.5,0,1,0,1,1
+Hamburg,1,0,1,1,1,1
 Hamburg,0,0,1,0,0,1
 Hamburg,0,0,1,0,0,1
 Hamburg,0,0,1,0,0,1
@@ -558,89 +573,97 @@ Hamburg,1,0,3,0,1,1
 Hamburg,1,0,3,0,1,1
 Hamburg,1,0,4,0,1,1
 Hamburg,2,0,4,1,2,1
-Hamburg,2,0,6,0,2,1
-Hamburg,3,0,7,1,3,1
-Hamburg,3,0,8,0,3,1
-Hamburg,4,0,9,2,5,1
-Hamburg,6,0,11,2,6,1
-Hamburg,7,2,14,2,7,1
-Hamburg,9,2,16,3,9,1
-Hamburg,11,2,19,6,12,1
-Hamburg,14,5,24,8,15,1
-Hamburg,17,6,27,10,18,1
-Hamburg,21,8,32,15,24,1
-Hamburg,25,12,39,16,26,1
-Hamburg,30,16,44,22,33,1
-Hamburg,36,18,51,29,41,1
-Hamburg,42,24,58,33,46,1
-Hamburg,49,30,66,36,51,1
-Hamburg,58,37,76,47,62,1
-Hamburg,66,48,86,60,75,1
-Hamburg,76,56,94,65,81,1
-Hamburg,85,65,104,77,92,1
-Hamburg,94,73,112,81,97,1
-Hamburg,104,83,122,94,109,1
-Hamburg,112,93,130,101,116,1
-Hamburg,121,100,139,111,127,1
-Hamburg,127,108,144,120,134,1
-Hamburg,132,115,151,122,137,1
-Hamburg,137,118,153,130,144,1
-Hamburg,138,120,156,130,144,1
-Hamburg,139,120,157,129,143,1
-Hamburg,137,118,156,128,144,1
-Hamburg,136,116,154,125,140,1
-Hamburg,134,114,151,125,139,1
-Hamburg,133,113,150,123,138,1
-Hamburg,131,111,147,120,135,1
-Hamburg,129,110,147,119,134,1
-Hamburg,126,106,142,116,131,1
-Hamburg,123,103,140,116,130,1
-Hamburg,121,102,138,111,126,1
-Hamburg,120,101,135,113,126,1
-Hamburg,118,99,134,109,124,1
-Hamburg,115,96,134,104,119,1
-Hamburg,113,91,130,103,119,1
-Hamburg,108,85,124,99,114,1
-Hamburg,102,82,119,91,106,1
-Hamburg,96,81,118,85,100,1
-Hamburg,90,74,108,82,95,1
-Hamburg,85,67,101,76,89,1
-Hamburg,79,62,95,72,85,1
-Hamburg,72,57,88,63,75,1
-Hamburg,66,52,81,57,69,1
-Hamburg,60,49,75,54,64,1
-Hamburg,57,43,68,49,59,1
-Hamburg,53,41,66,46,56,1
-Hamburg,51,38,62,45,54,1
-Hamburg,49,37,59,43,52,1
-Hamburg,46,34,57,41,50,1
-Hamburg,43,32,54,38,46,1
-Hamburg,40,28,49,37,45,1
-Hamburg,37,26,46,31,39,0.99
-Hamburg,34,25,43,28,36,0.99
-Hamburg,33,23,41,29,36,0.99
+Hamburg,2,0,5,0,2,1
+Hamburg,3,0,6,1,3,1
+Hamburg,3,0,7,0,3,1
+Hamburg,4,0,9,1,4,1
+Hamburg,5,1,11,1,5,1
+Hamburg,7,0,12,2,7,1
+Hamburg,8,2,15,4,9,1
+Hamburg,10,2,17,7,12,1
+Hamburg,13,4,21,6,13,1
+Hamburg,15,5,25,8,16,1
+Hamburg,18,7,29,12,20,1
+Hamburg,22,11,35,15,25,1
+Hamburg,27,13,40,19,30,1
+Hamburg,32,17,46,22,34,1
+Hamburg,38,22,53,28,41,1
+Hamburg,44,28,61,36,49,1
+Hamburg,51,34,70,39,54,1
+Hamburg,60,41,78,46,62,1
+Hamburg,68,50,88,59,74,1
+Hamburg,77,58,96,66,82,1
+Hamburg,88,69,108,79,94,1
+Hamburg,98,77,117,90,106,1
+Hamburg,108,87,127,99,115,1
+Hamburg,115,94,134,106,122,1
+Hamburg,124,103,142,115,130,1
+Hamburg,132,112,150,123,138,1
+Hamburg,137,118,155,128,143,1
+Hamburg,141,122,159,130,145,1
+Hamburg,143,122,160,135,150,1
+Hamburg,143,125,163,133,148,1
+Hamburg,143,125,163,133,148,1
+Hamburg,143,123,160,135,149,1
+Hamburg,141,122,159,132,147,1
+Hamburg,139,118,157,132,147,1
+Hamburg,137,115,154,125,141,1
+Hamburg,135,113,152,123,139,1
+Hamburg,130,111,149,122,137,1
+Hamburg,128,109,145,119,133,1
+Hamburg,124,108,143,114,128,1
+Hamburg,122,104,141,113,128,1
+Hamburg,120,102,139,111,127,1
+Hamburg,118,99,136,110,124,1
+Hamburg,115,95,134,110,125,1
+Hamburg,110,92,129,103,118,1
+Hamburg,104.5,87,123,93,108,1
+Hamburg,100,79,117,89,104,1
+Hamburg,93.5,76,110,85,99,1
+Hamburg,88,70,104,77,91,1
+Hamburg,81,64,97,75,88,1
+Hamburg,75,57,89,67,79,1
+Hamburg,68,54,83,62,73,1
+Hamburg,64,49,76,56,67,1
+Hamburg,59,46,72,53,63,1
+Hamburg,56,44,67,50,59,1
+Hamburg,54,43,67,48,58,1
+Hamburg,51,38,61,44,53,1
+Hamburg,48,36,59,44,53,1
+Hamburg,45,34,56,39,48,1
+Hamburg,41,29,51,34,43,1
+Hamburg,38,27,47,33,41,1
+Hamburg,36,24,44,30,38,1
+Hamburg,33,22,42,30,37,1
 Hamburg,31,21,39,26,33,0.99
-Hamburg,29,19,37,24,31,0.98
-Hamburg,27,18,35,22,29,0.98
-Hamburg,24,15,31,20,26,0.97
-Hamburg,22,14,29,17,23,0.96
-Hamburg,20,12,26,17,22,0.95
-Hamburg,19,11,25,13,19,0.94
-Hamburg,18,10,24,13,19,0.93
-Hamburg,17,9,23,13,18,0.9
-Hamburg,16,9,23,13,18,0.88
-Hamburg,16,9,24,11,17,0.85
-Hamburg,17,7,25,11,18,0.8
-Hamburg,18,7,30,11,19,0.75
-Hamburg,20,7,36,11,21,0.68
-Hamburg,23,8,46,12,24,0.59
+Hamburg,29,18,37,24,31,0.99
+Hamburg,27,17,35,22,29,0.99
+Hamburg,24,16,32,18,25,0.99
+Hamburg,21,13,28,17,23,0.99
+Hamburg,20,11,25,17,22,0.98
+Hamburg,18,10,24,12,18,0.98
+Hamburg,16,10,22,12,17,0.97
+Hamburg,15,9,20,13,17,0.96
+Hamburg,14,8,20,10,15,0.95
+Hamburg,13,6,18,10,14,0.94
+Hamburg,13,7,18,10,14,0.92
+Hamburg,13,6,18,10,14,0.9
+Hamburg,13,6,19,9,14,0.88
+Hamburg,13,7,20,9,14,0.85
+Hamburg,13,6,20,9,14,0.8
+Hamburg,13,5,22,8,14,0.75
+Hamburg,13,5,25,9,15,0.68
+Hamburg,15,4,31,7,15,0.6
 Hesse,1,1,1,1,1,1
-Hesse,1,0,1,1,1,1
 Hesse,0.5,0,1,0,1,1
+Hesse,0,0,1,0,0,1
+Hesse,0,0,0,0,0,1
+Hesse,0,0,1,0,0,1
 Hesse,0,0,0,0,0,1
 Hesse,0,0,1,0,0,1
 Hesse,0,0,1,0,0,1
 Hesse,0,0,1,0,0,1
+Hesse,1,0,1,1,1,1
 Hesse,0,0,1,0,0,1
 Hesse,0,0,1,0,0,1
 Hesse,0,0,1,0,0,1
@@ -660,92 +683,98 @@ Hesse,1,0,2,0,1,1
 Hesse,1,0,3,0,1,1
 Hesse,1,0,3,0,1,1
 Hesse,1,0,4,0,1,1
-Hesse,1,0,4,0,1,1
 Hesse,2,0,5,0,2,1
-Hesse,3,0,6,1,3,1
-Hesse,3,0,8,0,3,1
-Hesse,4,0,9,2,5,1
-Hesse,5,0,11,2,6,1
-Hesse,7,1,14,2,7,1
-Hesse,9,1,16,3,9,1
-Hesse,11,3,19,6,12,1
-Hesse,14,3,23,6,14,1
-Hesse,17,6,28,8,17,1
-Hesse,20,8,33,13,23,1
-Hesse,25,9,38,17,28,1
-Hesse,30,14,46,19,32,1
-Hesse,36,18,54,26,40,1
-Hesse,43,25,65,31,47,1
-Hesse,52,28,72,40,57,1
-Hesse,62,40,85,48,67,1
-Hesse,73,49,98,61,81,1
-Hesse,86,61,111,76,96,1
-Hesse,99,70,122,84,106,1
-Hesse,113,81,135,97,118,1
-Hesse,126,98,152,116,138,1
-Hesse,141,111,166,126,148,1
-Hesse,154,128,181,141,161,1
-Hesse,168,138,191,153,174,1
-Hesse,181,153,204,171,191,1
-Hesse,191,167,215,177,197,1
-Hesse,200,175,223,189,208,1
-Hesse,207,183,232,195,214,1
-Hesse,212,186,234,202,221,1
-Hesse,216,192,239,201,221,1
-Hesse,220,192,240,211,229,1
-Hesse,225,199,246,214,233,1
-Hesse,228,203,250,216,235,1
-Hesse,230,204,253,216,236,1
-Hesse,228,201,251,218,237,1
-Hesse,226,199,248,213,233,1
-Hesse,222,197,246,211,231,1
-Hesse,218,197,243,205,225,1
-Hesse,215,189,236,201,220,1
-Hesse,213,189,237,200,220,1
-Hesse,210,181,232,199,219,1
-Hesse,206,181,230,194,214,1
-Hesse,198,174,223,185,204,1
-Hesse,192,169,216,182,200,1
-Hesse,185,161,208,176,195,1
-Hesse,180,159,203,167,185,1
-Hesse,176.5,154,198,168,185,1
-Hesse,172,148,194,165,182,1
-Hesse,165,142,189,155,174,1
-Hesse,157,133,178,143,162,1
-Hesse,148,127,168,137,154,1
-Hesse,143,124,161,133,149,1
-Hesse,138,121,159,126,141,1
-Hesse,137.5,118,157,128,143,1
-Hesse,135,113,153,125,141,1
-Hesse,130,109,149,120,136,1
-Hesse,124,103,143,113,129,1
-Hesse,118,98,137,108,124,1
-Hesse,110,93,128,103,116,0.99
-Hesse,106,91,124,98,112,0.99
-Hesse,102,84,118,91,105,0.99
-Hesse,97,81,113,88,101,0.99
-Hesse,93,76,108,88,100,0.99
-Hesse,89,74,104,81,93,0.98
-Hesse,85,70,99,76,88,0.98
-Hesse,81,66,95,72,84,0.97
-Hesse,79,65,93,74,85,0.96
-Hesse,78,62,91,69,80,0.95
-Hesse,76,63,91,68,80,0.94
-Hesse,75,61,89,67,78,0.92
-Hesse,72,57,86,63,75,0.9
-Hesse,71,55,86,63,75,0.88
-Hesse,71,55,87,63,75,0.84
-Hesse,72,54,94,61,75,0.8
-Hesse,77,54,101,65,80,0.74
-Hesse,79,52,110,65,82,0.67
+Hesse,2,0,6,0,2,1
+Hesse,3,0,7,1,3,1
+Hesse,4,0,8,1,4,1
+Hesse,5,0,9,2,5,1
+Hesse,6,0,12,2,6,1
+Hesse,7,1,14,3,8,1
+Hesse,9,3,17,4,10,1
+Hesse,11,4,20,6,12,1
+Hesse,14,4,24,9,16,1
+Hesse,17,6,29,9,18,1
+Hesse,21,8,34,12,22,1
+Hesse,25,12,40,17,28,1
+Hesse,30,15,46,21,34,1
+Hesse,36,19,54,29,43,1
+Hesse,43,25,64,31,47,1
+Hesse,53,34,77,39,57,1
+Hesse,62,38,84,49,69,1
+Hesse,72,49,97,64,84,1
+Hesse,85,60,109,70,91,1
+Hesse,98,69,122,83,104,1
+Hesse,111,82,136,101,122,1
+Hesse,126,97,150,112,134,1
+Hesse,139,114,165,126,148,1
+Hesse,153,125,177,137,160,1
+Hesse,167,140,191,158,179,1
+Hesse,180,153,203,166,187,1
+Hesse,190,162,212,177,198,1
+Hesse,198,175,222,186,205,1
+Hesse,206,181,226,201,219,1
+Hesse,210,183,231,197,216,1
+Hesse,215,190,235,203,223,1
+Hesse,219.5,195,243,207,227,1
+Hesse,223,200,247,216,235,1
+Hesse,226,206,253,215,234,1
+Hesse,230,202,251,216,237,1
+Hesse,228,203,253,219,239,1
+Hesse,225,201,251,208,228,1
+Hesse,222,199,245,210,229,1
+Hesse,218,192,239,205,224,1
+Hesse,215,188,237,205,224,1
+Hesse,213,188,237,201,221,1
+Hesse,210,185,235,197,218,1
+Hesse,206,180,228,196,215,1
+Hesse,198,175,223,183,203,1
+Hesse,191,169,215,182,200,1
+Hesse,186,162,206,172,190,1
+Hesse,181,160,203,174,190,1
+Hesse,175,155,199,163,181,1
+Hesse,170,146,192,161,179,1
+Hesse,164,140,185,154,171,1
+Hesse,156,132,176,144,162,1
+Hesse,148,125,168,139,156,1
+Hesse,143,121,162,130,147,1
+Hesse,138,120,158,127,143,1
+Hesse,137,115,153,127,143,1
+Hesse,133,114,154,119,136,1
+Hesse,129,112,151,119,135,1
+Hesse,123,105,143,111,127,1
+Hesse,116,98,135,103,119,1
+Hesse,110,91,127,100,114,1
+Hesse,105,86,120,96,109,1
+Hesse,101,82,115,91,105,1
+Hesse,96,79,111,90,103,1
+Hesse,91,75,106,84,97,0.99
+Hesse,87,72,103,80,92,0.99
+Hesse,83,66,96,76,87,0.99
+Hesse,79,62,91,70,82,0.99
+Hesse,77,62,90,70,81,0.98
+Hesse,75,59,87,67,78,0.98
+Hesse,73,59,86,65,76,0.98
+Hesse,70,56,84,61,72,0.97
+Hesse,68,54,80,63,73,0.96
+Hesse,65,50,76,59,69,0.95
+Hesse,63,49,75,57,67,0.94
+Hesse,63,49,75,59,69,0.92
+Hesse,64,50,77,57,68,0.9
+Hesse,65,51,79,57,68,0.88
+Hesse,64,49,78,57,68,0.84
+Hesse,63,45,77,54,66,0.8
+Hesse,63,46,80,50,64,0.75
+Hesse,62,45,84,52,65,0.68
 Lower Saxony,1,1,1,1,1,1
 Lower Saxony,0,0,0,0,0,1
+Lower Saxony,0,0,0,0,0,1
+Lower Saxony,0,0,0,0,0,1
+Lower Saxony,0,0,0,0,0,1
+Lower Saxony,0,0,0,0,0,1
 Lower Saxony,1,0,1,1,1,1
+Lower Saxony,0,0,0,0,0,1
 Lower Saxony,0,0,1,0,0,1
-Lower Saxony,1,0,1,1,1,1
-Lower Saxony,0,0,1,0,0,1
-Lower Saxony,0,0,1,0,0,1
-Lower Saxony,0,0,1,0,0,1
+Lower Saxony,0.5,0,1,0,1,1
 Lower Saxony,0,0,1,0,0,1
 Lower Saxony,0,0,1,0,0,1
 Lower Saxony,0,0,1,0,0,1
@@ -756,93 +785,106 @@ Lower Saxony,0,0,1,0,0,1
 Lower Saxony,0,0,1,0,0,1
 Lower Saxony,0,0,1,0,0,1
 Lower Saxony,0,0,1,0,0,1
-Lower Saxony,0,0,2,0,0,1
+Lower Saxony,0,0,1,0,0,1
+Lower Saxony,0,0,1,0,0,1
+Lower Saxony,0,0,1,0,0,1
+Lower Saxony,0,0,1,0,0,1
+Lower Saxony,0,0,1,0,0,1
 Lower Saxony,1,0,2,0,1,1
 Lower Saxony,1,0,2,0,1,1
 Lower Saxony,1,0,2,0,1,1
 Lower Saxony,1,0,3,0,1,1
 Lower Saxony,1,0,3,0,1,1
 Lower Saxony,1,0,4,0,1,1
+Lower Saxony,1,0,5,0,1,1
 Lower Saxony,2,0,5,0,2,1
-Lower Saxony,2,0,5,0,2,1
-Lower Saxony,3,0,7,1,3,1
-Lower Saxony,3,0,8,0,3,1
-Lower Saxony,4,0,9,2,5,1
-Lower Saxony,6,1,12,2,6,1
-Lower Saxony,7,1,14,2,7,1
-Lower Saxony,9,1,17,3,9,1
-Lower Saxony,12,3,21,5,12,1
-Lower Saxony,14,4,26,8,16,1
-Lower Saxony,17,6,30,9,19,1
-Lower Saxony,21,8,36,14,25,1
-Lower Saxony,26,10,42,17,29,1
-Lower Saxony,32,15,50,23,37,1
-Lower Saxony,39,20,60,28,44,1
-Lower Saxony,47,27,70,36,53,1
-Lower Saxony,56,32,80,41,60,1
-Lower Saxony,67,39,92,51,72,1
-Lower Saxony,79,50,110,63,87,1
-Lower Saxony,92,64,123,76,100,1
-Lower Saxony,107,76,139,90,115,1
-Lower Saxony,124,91,156,108,134,1
-Lower Saxony,140,102,172,123,150,1
-Lower Saxony,157,123,190,139,165,1
-Lower Saxony,175,138,207,158,186,1
-Lower Saxony,190,155,223,175,203,1
-Lower Saxony,207,168,238,190,217,1
-Lower Saxony,225,190,254,212,237,1
-Lower Saxony,236,207,270,220,245,1
-Lower Saxony,250,215,278,235,260,1
-Lower Saxony,256,224,287,241,267,1
-Lower Saxony,266,236,298,249,274,1
-Lower Saxony,272,242,302,254,280,1
-Lower Saxony,282,250,310,267,291,1
-Lower Saxony,287,254,315,275,300,1
-Lower Saxony,295,265,324,284,307,1
-Lower Saxony,297,270,330,282,306,1
-Lower Saxony,297,269,327,282,305,1
-Lower Saxony,290,260,317,279,302,1
-Lower Saxony,284,252,309,269,292,1
-Lower Saxony,277,253,308,260,283,1
-Lower Saxony,270,240,295,259,283,1
-Lower Saxony,263.5,231,291,245,269,1
-Lower Saxony,255,226,282,241,263,1
-Lower Saxony,246,218,273,228,251,1
-Lower Saxony,236,210,263,224,246,1
-Lower Saxony,226,199,252,216,237,1
-Lower Saxony,217,192,242,208,228,1
-Lower Saxony,209,180,234,196,217,1
-Lower Saxony,200,171,226,187,208,1
-Lower Saxony,190,165,213,177,197,1
-Lower Saxony,177,154,202,164,183,1
-Lower Saxony,165,142,186,155,173,1
-Lower Saxony,154,133,177,142,160,1
-Lower Saxony,147,129,170,138,154,1
-Lower Saxony,143.5,123,163,136,152,1
-Lower Saxony,140,120,159,130,145,1
-Lower Saxony,137,115,155,129,144,1
-Lower Saxony,131,110,150,120,136,1
-Lower Saxony,122.5,100,141,112,128,1
-Lower Saxony,114,94,131,103,119,1
-Lower Saxony,107,90,127,96,111,0.99
-Lower Saxony,100,83,116,90,103,0.99
-Lower Saxony,95,77,110,87,100,0.99
-Lower Saxony,88.5,71,102,81,94,0.99
-Lower Saxony,82,68,98,74,86,0.98
-Lower Saxony,76,60,89,68,80,0.98
-Lower Saxony,71,58,84,64,75,0.97
-Lower Saxony,68,53,80,61,72,0.97
-Lower Saxony,65,51,78,58,69,0.96
-Lower Saxony,64,51,78,59,69,0.94
-Lower Saxony,64,48,77,57,68,0.93
-Lower Saxony,64,50,76,56,67,0.91
-Lower Saxony,64,49,77,54,66,0.88
-Lower Saxony,66,48,79,57,70,0.85
-Lower Saxony,68,51,86,63,75,0.81
-Lower Saxony,73,53,90,65,79,0.75
-Lower Saxony,77,57,96,66,82,0.69
+Lower Saxony,2,0,6,0,2,1
+Lower Saxony,3,0,7,0,3,1
+Lower Saxony,4,0,9,1,4,1
+Lower Saxony,5,0,11,1,5,1
+Lower Saxony,6,1,13,1,6,1
+Lower Saxony,7,1,16,3,8,1
+Lower Saxony,9,2,18,4,10,1
+Lower Saxony,12,3,22,5,13,1
+Lower Saxony,14,4,26,6,15,1
+Lower Saxony,18,5,30,10,20,1
+Lower Saxony,22,9,38,14,25,1
+Lower Saxony,27,11,44,16,29,1
+Lower Saxony,33,14,52,21,36,1
+Lower Saxony,39,19,61,26,43,1
+Lower Saxony,47,25,70,35,53,1
+Lower Saxony,57,32,82,42,63,1
+Lower Saxony,69,39,95,53,75,1
+Lower Saxony,80,51,108,65,88,1
+Lower Saxony,93,64,127,80,104,1
+Lower Saxony,108,77,141,88,115,1
+Lower Saxony,124,93,159,106,133,1
+Lower Saxony,141,107,174,126,154,1
+Lower Saxony,158,125,195,142,170,1
+Lower Saxony,174,140,208,158,185,1
+Lower Saxony,190,156,224,172,200,1
+Lower Saxony,207,173,241,189,216,1
+Lower Saxony,222,188,253,205,232,1
+Lower Saxony,236,202,268,219,244,1
+Lower Saxony,247,215,277,236,259,1
+Lower Saxony,256,226,285,242,267,1
+Lower Saxony,263,234,296,252,278,1
+Lower Saxony,270,238,300,252,278,1
+Lower Saxony,277,245,308,263,288,1
+Lower Saxony,286,256,316,270,296,1
+Lower Saxony,292,258,319,276,300,1
+Lower Saxony,295,264,323,280,305,1
+Lower Saxony,294,266,326,278,304,1
+Lower Saxony,291,263,319,277,300,1
+Lower Saxony,282,256,312,265,288,1
+Lower Saxony,275,247,305,261,283,1
+Lower Saxony,269,237,294,258,280,1
+Lower Saxony,263,232,288,250,273,1
+Lower Saxony,254,227,286,240,263,1
+Lower Saxony,245,216,273,234,257,1
+Lower Saxony,235,209,262,222,243,1
+Lower Saxony,225,196,248,215,236,1
+Lower Saxony,216,184,238,203,225,1
+Lower Saxony,207,179,230,199,219,1
+Lower Saxony,199,169,221,186,208,1
+Lower Saxony,191,164,213,183,204,1
+Lower Saxony,178,153,204,165,185,1
+Lower Saxony,165,143,189,153,171,1
+Lower Saxony,154,132,174,143,160,1
+Lower Saxony,146,125,166,137,154,1
+Lower Saxony,141,119,160,132,149,1
+Lower Saxony,139,116,157,128,144,1
+Lower Saxony,136,117,157,124,140,1
+Lower Saxony,129,110,151,117,133,1
+Lower Saxony,122,102,142,112,128,1
+Lower Saxony,114,95,132,102,117,1
+Lower Saxony,105,85,122,97,111,1
+Lower Saxony,99,82,116,92,106,1
+Lower Saxony,93,77,110,84,97,1
+Lower Saxony,88,72,104,80,93,0.99
+Lower Saxony,81,66,96,73,85,0.99
+Lower Saxony,75,60,89,66,77,0.99
+Lower Saxony,69,56,84,61,72,0.99
+Lower Saxony,66,51,77,59,69,0.99
+Lower Saxony,64,51,76,56,66,0.98
+Lower Saxony,62,48,74,55,65,0.98
+Lower Saxony,60,47,72,56,66,0.97
+Lower Saxony,59,45,71,52,62,0.96
+Lower Saxony,58,44,70,53,63,0.95
+Lower Saxony,58,44,70,51,61,0.94
+Lower Saxony,59,44,71,53,63,0.93
+Lower Saxony,60,46,73,52,63,0.91
+Lower Saxony,61,45,73,53,64,0.88
+Lower Saxony,61,45,74,53,64,0.85
+Lower Saxony,59,44,74,52,63,0.81
+Lower Saxony,59,44,76,50,63,0.75
+Lower Saxony,60,42,81,51,66,0.69
 Mecklenburg-Vorpommern,1,1,1,1,1,1
+Mecklenburg-Vorpommern,0.5,0,1,0,1,1
+Mecklenburg-Vorpommern,0,0,1,0,0,1
+Mecklenburg-Vorpommern,0,0,1,0,0,1
 Mecklenburg-Vorpommern,1,0,1,1,1,1
+Mecklenburg-Vorpommern,0,0,0,0,0,1
 Mecklenburg-Vorpommern,0,0,1,0,0,1
 Mecklenburg-Vorpommern,0,0,1,0,0,1
 Mecklenburg-Vorpommern,0,0,1,0,0,1
@@ -862,7 +904,7 @@ Mecklenburg-Vorpommern,0,0,1,0,0,1
 Mecklenburg-Vorpommern,0,0,1,0,0,1
 Mecklenburg-Vorpommern,0,0,1,0,0,1
 Mecklenburg-Vorpommern,0,0,1,0,0,1
-Mecklenburg-Vorpommern,0,0,2,0,0,1
+Mecklenburg-Vorpommern,0,0,1,0,0,1
 Mecklenburg-Vorpommern,0,0,2,0,0,1
 Mecklenburg-Vorpommern,1,0,2,0,1,1
 Mecklenburg-Vorpommern,1,0,2,0,1,1
@@ -870,202 +912,211 @@ Mecklenburg-Vorpommern,1,0,2,0,1,1
 Mecklenburg-Vorpommern,1,0,3,0,1,1
 Mecklenburg-Vorpommern,1,0,3,0,1,1
 Mecklenburg-Vorpommern,1,0,4,0,1,1
-Mecklenburg-Vorpommern,2,0,4,0,2,1
+Mecklenburg-Vorpommern,2,0,4,1,2,1
 Mecklenburg-Vorpommern,2,0,5,0,2,1
 Mecklenburg-Vorpommern,3,0,6,1,3,1
 Mecklenburg-Vorpommern,3,0,6,2,4,1
 Mecklenburg-Vorpommern,4,0,7,3,5,1
-Mecklenburg-Vorpommern,5,1,9,2,5,1
+Mecklenburg-Vorpommern,5,0,8,2,5,1
 Mecklenburg-Vorpommern,6,2,10,3,6,1
 Mecklenburg-Vorpommern,7,2,11,5,8,1
-Mecklenburg-Vorpommern,8,3,12,4,8,1
+Mecklenburg-Vorpommern,8,3,13,5,9,1
 Mecklenburg-Vorpommern,9,4,14,6,10,1
-Mecklenburg-Vorpommern,10,4,15,7,11,1
-Mecklenburg-Vorpommern,12,6,17,9,13,1
-Mecklenburg-Vorpommern,14,8,20,9,14,1
-Mecklenburg-Vorpommern,15,9,21,11,16,1
+Mecklenburg-Vorpommern,11,5,16,7,11,1
+Mecklenburg-Vorpommern,12,6,17,8,13,1
+Mecklenburg-Vorpommern,13,7,19,9,14,1
+Mecklenburg-Vorpommern,15,8,21,11,16,1
 Mecklenburg-Vorpommern,17,10,23,13,18,1
-Mecklenburg-Vorpommern,18,12,25,15,20,1
-Mecklenburg-Vorpommern,19,11,26,14,20,1
+Mecklenburg-Vorpommern,18,11,24,14,19,1
+Mecklenburg-Vorpommern,19,12,26,16,21,1
 Mecklenburg-Vorpommern,21,12,27,16,22,1
-Mecklenburg-Vorpommern,22,14,29,17,23,1
-Mecklenburg-Vorpommern,22,15,29,17,23,1
-Mecklenburg-Vorpommern,22,14,28,18,24,1
+Mecklenburg-Vorpommern,22,14,28,17,23,1
+Mecklenburg-Vorpommern,22,15,29,19,24,1
 Mecklenburg-Vorpommern,22,14,28,19,24,1
-Mecklenburg-Vorpommern,21,13,28,16,22,1
-Mecklenburg-Vorpommern,21,14,28,18,23,1
+Mecklenburg-Vorpommern,22,15,29,16,22,1
+Mecklenburg-Vorpommern,21,15,29,16,22,1
 Mecklenburg-Vorpommern,22,15,29,17,23,1
-Mecklenburg-Vorpommern,22,15,30,18,24,1
-Mecklenburg-Vorpommern,23,15,29,20,25,1
-Mecklenburg-Vorpommern,23,15,30,19,25,1
-Mecklenburg-Vorpommern,23,14,29,18,24,1
-Mecklenburg-Vorpommern,22,13,28,17,23,1
-Mecklenburg-Vorpommern,20,14,28,15,21,1
-Mecklenburg-Vorpommern,20,11,25,18,23,1
-Mecklenburg-Vorpommern,18,10,24,15,20,1
-Mecklenburg-Vorpommern,17,11,24,13,18,1
+Mecklenburg-Vorpommern,22,13,28,20,25,1
+Mecklenburg-Vorpommern,23,16,30,18,24,1
+Mecklenburg-Vorpommern,23,15,30,18,24,1
+Mecklenburg-Vorpommern,23,14,30,18,24,1
+Mecklenburg-Vorpommern,22,15,29,17,23,1
+Mecklenburg-Vorpommern,21,15,29,18,23,1
+Mecklenburg-Vorpommern,20.5,12,27,16,22,1
+Mecklenburg-Vorpommern,19,12,26,14,20,1
+Mecklenburg-Vorpommern,18,11,25,15,20,1
+Mecklenburg-Vorpommern,17,9,23,14,19,1
 Mecklenburg-Vorpommern,16,9,22,12,17,1
-Mecklenburg-Vorpommern,14,8,20,11,15,1
+Mecklenburg-Vorpommern,14,7,20,10,15,1
 Mecklenburg-Vorpommern,13,7,18,10,14,1
-Mecklenburg-Vorpommern,11,7,17,8,12,1
+Mecklenburg-Vorpommern,11,6,16,8,12,1
 Mecklenburg-Vorpommern,10,5,15,7,11,1
-Mecklenburg-Vorpommern,9,5,14,7,10,1
-Mecklenburg-Vorpommern,9,4,13,7,10,1
-Mecklenburg-Vorpommern,8,3,12,6,9,1
-Mecklenburg-Vorpommern,7,3,11,5,8,1
-Mecklenburg-Vorpommern,6,2,10,3,6,1
-Mecklenburg-Vorpommern,5,2,9,3,6,1
-Mecklenburg-Vorpommern,5,1,8,4,6,1
+Mecklenburg-Vorpommern,10,5,14,6,10,1
+Mecklenburg-Vorpommern,9,5,14,5,9,1
+Mecklenburg-Vorpommern,8,4,12,6,9,1
+Mecklenburg-Vorpommern,7,3,10,4,7,1
+Mecklenburg-Vorpommern,6,1,9,3,6,1
+Mecklenburg-Vorpommern,6,2,9,3,6,1
+Mecklenburg-Vorpommern,5,1,8,2,5,1
 Mecklenburg-Vorpommern,5,2,8,3,5,1
 Mecklenburg-Vorpommern,4,1,7,3,5,1
+Mecklenburg-Vorpommern,4,1,7,3,5,1
 Mecklenburg-Vorpommern,4,1,7,2,4,1
-Mecklenburg-Vorpommern,4,0,6,2,4,1
+Mecklenburg-Vorpommern,3,0,6,2,4,1
+Mecklenburg-Vorpommern,4,1,6,2,4,1
+Mecklenburg-Vorpommern,3,1,6,2,4,1
+Mecklenburg-Vorpommern,3,1,6,2,4,0.99
 Mecklenburg-Vorpommern,4,1,6,2,4,0.99
-Mecklenburg-Vorpommern,4,1,6,2,4,0.99
-Mecklenburg-Vorpommern,4,1,6,2,4,0.99
-Mecklenburg-Vorpommern,4,0,6,2,4,0.99
-Mecklenburg-Vorpommern,4,1,7,2,4,0.98
+Mecklenburg-Vorpommern,4,1,7,2,4,0.99
+Mecklenburg-Vorpommern,4,1,7,2,4,0.99
+Mecklenburg-Vorpommern,4,1,7,2,4,0.99
+Mecklenburg-Vorpommern,4,0,6,2,4,0.98
 Mecklenburg-Vorpommern,4,1,7,2,4,0.98
 Mecklenburg-Vorpommern,4,1,7,2,4,0.97
-Mecklenburg-Vorpommern,5,1,7,3,5,0.96
-Mecklenburg-Vorpommern,4,2,8,3,5,0.96
-Mecklenburg-Vorpommern,5,1,8,2,5,0.94
-Mecklenburg-Vorpommern,5,1,8,3,5,0.93
-Mecklenburg-Vorpommern,5,1,8,2,5,0.91
-Mecklenburg-Vorpommern,5,1,9,2,5,0.88
-Mecklenburg-Vorpommern,5,1,10,3,6,0.85
-Mecklenburg-Vorpommern,6,1,12,2,6,0.81
-Mecklenburg-Vorpommern,6,1,15,3,7,0.76
-Mecklenburg-Vorpommern,8,0,20,3,8,0.69
-Mecklenburg-Vorpommern,9,1,27,3,10,0.61
-Mecklenburg-Vorpommern,12,1,41,2,12,0.51
+Mecklenburg-Vorpommern,4,1,7,3,5,0.96
+Mecklenburg-Vorpommern,4,1,7,2,4,0.96
+Mecklenburg-Vorpommern,4,1,7,2,4,0.94
+Mecklenburg-Vorpommern,4,1,7,2,4,0.93
+Mecklenburg-Vorpommern,4,1,7,3,5,0.91
+Mecklenburg-Vorpommern,5,1,8,2,5,0.89
+Mecklenburg-Vorpommern,5,1,9,2,5,0.86
+Mecklenburg-Vorpommern,5,1,10,3,6,0.82
+Mecklenburg-Vorpommern,6,1,12,2,6,0.77
+Mecklenburg-Vorpommern,7,1,15,3,7,0.71
+Mecklenburg-Vorpommern,8,1,20,3,9,0.63
+Mecklenburg-Vorpommern,11,0,27,2,11,0.53
 North Rhine-Westphalia,1,1,1,1,1,1
+North Rhine-Westphalia,0,0,0,0,0,1
+North Rhine-Westphalia,0.5,0,1,0,1,1
+North Rhine-Westphalia,0,0,0,0,0,1
 North Rhine-Westphalia,0,0,0,0,0,1
 North Rhine-Westphalia,0,0,0,0,0,1
 North Rhine-Westphalia,1,0,1,1,1,1
-North Rhine-Westphalia,0,0,0,0,0,1
-North Rhine-Westphalia,0,0,0,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
+North Rhine-Westphalia,0,0,1,0,0,1
 North Rhine-Westphalia,0,0,1,0,0,1
 North Rhine-Westphalia,0,0,1,0,0,1
 North Rhine-Westphalia,0,0,1,0,0,1
 North Rhine-Westphalia,0,0,2,0,0,1
-North Rhine-Westphalia,0,0,1,0,0,1
-North Rhine-Westphalia,0,0,1,0,0,1
-North Rhine-Westphalia,1,0,1,1,1,1
-North Rhine-Westphalia,0,0,1,0,0,1
-North Rhine-Westphalia,0,0,1,0,0,1
-North Rhine-Westphalia,0,0,1,0,0,1
-North Rhine-Westphalia,0,0,1,0,0,1
-North Rhine-Westphalia,0,0,1,0,0,1
-North Rhine-Westphalia,0,0,1,0,0,1
-North Rhine-Westphalia,0,0,1,0,0,1
-North Rhine-Westphalia,0,0,1,0,0,1
 North Rhine-Westphalia,1,0,2,0,1,1
 North Rhine-Westphalia,1,0,2,0,1,1
-North Rhine-Westphalia,1,0,2,0,1,1
-North Rhine-Westphalia,1,0,2,0,1,1
+North Rhine-Westphalia,1,0,3,0,1,1
 North Rhine-Westphalia,1,0,3,0,1,1
 North Rhine-Westphalia,1,0,3,0,1,1
 North Rhine-Westphalia,1,0,4,0,1,1
 North Rhine-Westphalia,1,0,5,0,1,1
-North Rhine-Westphalia,2,0,5,0,2,1
-North Rhine-Westphalia,2,0,7,0,2,1
+North Rhine-Westphalia,2,0,6,0,2,1
+North Rhine-Westphalia,3,0,7,1,3,1
 North Rhine-Westphalia,3,0,8,0,3,1
-North Rhine-Westphalia,4,0,10,1,4,1
-North Rhine-Westphalia,5,0,12,1,5,1
-North Rhine-Westphalia,6,1,15,1,6,1
-North Rhine-Westphalia,8,1,18,3,9,1
-North Rhine-Westphalia,11,1,22,5,12,1
-North Rhine-Westphalia,13,3,27,7,16,1
-North Rhine-Westphalia,17,4,34,8,19,1
-North Rhine-Westphalia,22,5,40,12,24,1
-North Rhine-Westphalia,27,9,49,14,29,1
-North Rhine-Westphalia,34,12,58,21,39,1
-North Rhine-Westphalia,42,20,73,27,47,1
-North Rhine-Westphalia,52,28,88,34,57,1
-North Rhine-Westphalia,65,35,103,46,72,1
-North Rhine-Westphalia,77,40,116,56,85,1
-North Rhine-Westphalia,94,53,136,76,108,1
-North Rhine-Westphalia,111,68,161,83,120,1
-North Rhine-Westphalia,133,82,184,104,143,1
-North Rhine-Westphalia,155,104,217,125,168,1
-North Rhine-Westphalia,179,123,247,145,193,1
-North Rhine-Westphalia,205,137,274,172,226,1
-North Rhine-Westphalia,235,159,306,198,257,1
-North Rhine-Westphalia,272,196,354,233,298,1
-North Rhine-Westphalia,311,225,395,271,339,1
-North Rhine-Westphalia,355.5,264,443,304,377,1
-North Rhine-Westphalia,405,317,495,366,438,1
-North Rhine-Westphalia,461,375,554,415,491,1
-North Rhine-Westphalia,512,423,600,469,541,1
-North Rhine-Westphalia,568,482,657,526,597,1
-North Rhine-Westphalia,617,535,703,591,659,1
-North Rhine-Westphalia,664.5,589,744,632,694,1
-North Rhine-Westphalia,711,633,781,682,740,1
-North Rhine-Westphalia,750,685,815,717,770,1
-North Rhine-Westphalia,782,713,839,749,801,1
-North Rhine-Westphalia,800,742,862,771,820,1
-North Rhine-Westphalia,812,749,864,787,833,1
-North Rhine-Westphalia,816,757,872,789,835,1
-North Rhine-Westphalia,821,755,876,792,839,1
-North Rhine-Westphalia,827,766,886,802,849,1
-North Rhine-Westphalia,840,776,891,820,864,1
-North Rhine-Westphalia,852,795,910,826,870,1
-North Rhine-Westphalia,855,797,905,830,874,1
-North Rhine-Westphalia,859,805,910,835,876,1
-North Rhine-Westphalia,848,794,897,815,859,1
-North Rhine-Westphalia,839,786,890,812,856,1
-North Rhine-Westphalia,828,776,884,802,844,1
-North Rhine-Westphalia,820,758,870,800,846,1
-North Rhine-Westphalia,807,747,859,784,829,1
-North Rhine-Westphalia,791.5,732,846,762,807,1
-North Rhine-Westphalia,764,709,827,738,783,1
-North Rhine-Westphalia,732,673,789,705,752,1
-North Rhine-Westphalia,696,642,748,666,710,1
-North Rhine-Westphalia,666,608,716,647,692,1
-North Rhine-Westphalia,640,587,693,613,655,1
-North Rhine-Westphalia,615,559,662,583,627,1
-North Rhine-Westphalia,587,539,645,566,609,1
-North Rhine-Westphalia,554,506,604,525,566,1
-North Rhine-Westphalia,516,469,560,492,529,1
-North Rhine-Westphalia,486,443,526,470,505,1
-North Rhine-Westphalia,467,422,501,457,487,1
-North Rhine-Westphalia,455,413,490,436,468,1
-North Rhine-Westphalia,445,404,484,424,457,1
-North Rhine-Westphalia,436,392,477,417,451,1
-North Rhine-Westphalia,419,377,461,403,438,1
-North Rhine-Westphalia,396,358,435,382,413,1
-North Rhine-Westphalia,369,328,405,353,384,1
-North Rhine-Westphalia,342,304,381,329,358,0.99
-North Rhine-Westphalia,318,283,350,299,326,0.99
-North Rhine-Westphalia,298,265,329,283,308,0.99
-North Rhine-Westphalia,280,249,308,269,292,0.99
-North Rhine-Westphalia,262,236,291,250,272,0.98
-North Rhine-Westphalia,246,218,271,231,253,0.98
-North Rhine-Westphalia,235,211,262,219,241,0.97
-North Rhine-Westphalia,229,201,252,218,239,0.97
-North Rhine-Westphalia,228,199,253,218,239,0.96
-North Rhine-Westphalia,229,200,255,219,240,0.94
-North Rhine-Westphalia,230,202,256,217,239,0.93
-North Rhine-Westphalia,230,201,261,213,237,0.91
-North Rhine-Westphalia,231.5,202,262,215,240,0.88
-North Rhine-Westphalia,235,202,272,216,244,0.85
-North Rhine-Westphalia,245,207,282,228,258,0.81
-North Rhine-Westphalia,259,216,302,237,271,0.76
-North Rhine-Westphalia,278,229,331,255,293,0.69
+North Rhine-Westphalia,4,0,11,0,4,1
+North Rhine-Westphalia,5,0,13,2,6,1
+North Rhine-Westphalia,7,0,16,2,7,1
+North Rhine-Westphalia,9,0,19,2,9,1
+North Rhine-Westphalia,11,0,23,4,12,1
+North Rhine-Westphalia,14,2,28,5,14,1
+North Rhine-Westphalia,18,4,34,9,20,1
+North Rhine-Westphalia,23,8,43,10,24,1
+North Rhine-Westphalia,28,10,51,15,30,1
+North Rhine-Westphalia,35,14,61,20,38,1
+North Rhine-Westphalia,44,17,72,25,46,1
+North Rhine-Westphalia,53,27,88,35,58,1
+North Rhine-Westphalia,65,32,103,45,72,1
+North Rhine-Westphalia,79,45,122,61,92,1
+North Rhine-Westphalia,95,54,138,68,102,1
+North Rhine-Westphalia,113,67,160,89,127,1
+North Rhine-Westphalia,134,85,187,100,142,1
+North Rhine-Westphalia,154,100,215,124,167,1
+North Rhine-Westphalia,179.5,117,243,142,192,1
+North Rhine-Westphalia,205,144,276,159,215,1
+North Rhine-Westphalia,236,163,312,198,258,1
+North Rhine-Westphalia,270,186,344,228,296,1
+North Rhine-Westphalia,311,229,393,274,344,1
+North Rhine-Westphalia,358.5,262,439,307,379,1
+North Rhine-Westphalia,405,313,493,363,437,1
+North Rhine-Westphalia,456,369,550,405,479,1
+North Rhine-Westphalia,511,424,598,479,550,1
+North Rhine-Westphalia,563,473,651,520,587,1
+North Rhine-Westphalia,611,527,695,571,639,1
+North Rhine-Westphalia,662.5,588,741,630,692,1
+North Rhine-Westphalia,708,635,776,675,735,1
+North Rhine-Westphalia,745,677,812,705,762,1
+North Rhine-Westphalia,776,710,836,759,808,1
+North Rhine-Westphalia,798,740,854,776,821,1
+North Rhine-Westphalia,808,753,872,780,827,1
+North Rhine-Westphalia,812,755,870,782,827,1
+North Rhine-Westphalia,816,757,870,783,832,1
+North Rhine-Westphalia,824,769,889,802,850,1
+North Rhine-Westphalia,835,775,889,815,858,1
+North Rhine-Westphalia,847,789,903,820,867,1
+North Rhine-Westphalia,853,791,905,826,874,1
+North Rhine-Westphalia,853,797,905,828,873,1
+North Rhine-Westphalia,843,784,895,818,862,1
+North Rhine-Westphalia,831,773,881,797,842,1
+North Rhine-Westphalia,820,765,874,804,848,1
+North Rhine-Westphalia,816,754,867,787,832,1
+North Rhine-Westphalia,806,743,858,779,827,1
+North Rhine-Westphalia,789,724,840,768,812,1
+North Rhine-Westphalia,760,699,813,731,780,1
+North Rhine-Westphalia,726,670,782,703,749,1
+North Rhine-Westphalia,693,640,745,674,721,1
+North Rhine-Westphalia,664,607,717,646,689,1
+North Rhine-Westphalia,637,590,697,618,660,1
+North Rhine-Westphalia,611,561,663,588,630,1
+North Rhine-Westphalia,585.5,526,628,561,602,1
+North Rhine-Westphalia,548,504,597,530,569,1
+North Rhine-Westphalia,516,469,555,497,530,1
+North Rhine-Westphalia,485,446,526,465,497,1
+North Rhine-Westphalia,463,419,501,444,475,1
+North Rhine-Westphalia,451,409,485,433,465,1
+North Rhine-Westphalia,440.5,400,482,423,455,1
+North Rhine-Westphalia,430,386,474,408,446,1
+North Rhine-Westphalia,414,371,453,396,433,1
+North Rhine-Westphalia,391,350,429,375,408,1
+North Rhine-Westphalia,364,321,400,351,383,1
+North Rhine-Westphalia,338,299,367,318,346,1
+North Rhine-Westphalia,316,287,352,297,323,1
+North Rhine-Westphalia,295,259,324,275,302,1
+North Rhine-Westphalia,276,245,304,261,284,0.99
+North Rhine-Westphalia,258,230,285,242,264,0.99
+North Rhine-Westphalia,241,213,267,228,249,0.99
+North Rhine-Westphalia,231,203,252,217,238,0.99
+North Rhine-Westphalia,223,198,249,210,231,0.99
+North Rhine-Westphalia,221,196,244,213,232,0.98
+North Rhine-Westphalia,220,196,247,209,229,0.98
+North Rhine-Westphalia,219,193,245,206,227,0.97
+North Rhine-Westphalia,216,189,243,205,227,0.96
+North Rhine-Westphalia,214,186,238,202,223,0.95
+North Rhine-Westphalia,211,183,235,200,220,0.94
+North Rhine-Westphalia,212,182,239,196,219,0.93
+North Rhine-Westphalia,217.5,191,249,201,223,0.91
+North Rhine-Westphalia,222,193,254,212,236,0.88
+North Rhine-Westphalia,227,193,254,217,242,0.85
+North Rhine-Westphalia,232,196,262,216,243,0.81
+North Rhine-Westphalia,233,197,272,214,244,0.75
+North Rhine-Westphalia,241,191,281,222,259,0.69
 Rhineland-Palatinate,1,1,1,1,1,1
 Rhineland-Palatinate,0,0,0,0,0,1
 Rhineland-Palatinate,0.5,0,1,0,1,1
+Rhineland-Palatinate,0,0,0,0,0,1
+Rhineland-Palatinate,0,0,0,0,0,1
 Rhineland-Palatinate,0,0,1,0,0,1
 Rhineland-Palatinate,0,0,0,0,0,1
 Rhineland-Palatinate,0,0,1,0,0,1
+Rhineland-Palatinate,0,0,0,0,0,1
+Rhineland-Palatinate,0,0,0,0,0,1
 Rhineland-Palatinate,0,0,1,0,0,1
 Rhineland-Palatinate,0,0,1,0,0,1
-Rhineland-Palatinate,0,0,1,0,0,1
-Rhineland-Palatinate,0,0,1,0,0,1
-Rhineland-Palatinate,0,0,1,0,0,1
-Rhineland-Palatinate,0,0,1,0,0,1
-Rhineland-Palatinate,0,0,1,0,0,1
+Rhineland-Palatinate,1,0,1,1,1,1
 Rhineland-Palatinate,0,0,1,0,0,1
 Rhineland-Palatinate,0,0,1,0,0,1
 Rhineland-Palatinate,0,0,1,0,0,1
@@ -1078,96 +1129,98 @@ Rhineland-Palatinate,0,0,1,0,0,1
 Rhineland-Palatinate,0,0,1,0,0,1
 Rhineland-Palatinate,0,0,1,0,0,1
 Rhineland-Palatinate,0,0,2,0,0,1
-Rhineland-Palatinate,0.5,0,2,0,1,1
+Rhineland-Palatinate,1,0,2,0,1,1
 Rhineland-Palatinate,1,0,2,0,1,1
 Rhineland-Palatinate,1,0,2,0,1,1
 Rhineland-Palatinate,1,0,3,0,1,1
 Rhineland-Palatinate,1,0,3,0,1,1
 Rhineland-Palatinate,1,0,4,0,1,1
+Rhineland-Palatinate,1,0,4,0,1,1
 Rhineland-Palatinate,2,0,5,0,2,1
-Rhineland-Palatinate,2,0,5,0,2,1
+Rhineland-Palatinate,2,0,6,0,2,1
 Rhineland-Palatinate,3,0,7,1,3,1
-Rhineland-Palatinate,3,0,8,0,3,1
-Rhineland-Palatinate,4,0,9,2,5,1
-Rhineland-Palatinate,6,0,11,2,6,1
-Rhineland-Palatinate,7,0,13,3,8,1
-Rhineland-Palatinate,9,1,17,4,10,1
-Rhineland-Palatinate,11,2,20,5,12,1
-Rhineland-Palatinate,15,4,24,7,15,1
-Rhineland-Palatinate,18,7,31,11,20,1
-Rhineland-Palatinate,22,9,35,15,25,1
-Rhineland-Palatinate,27,12,41,21,32,1
-Rhineland-Palatinate,32,18,50,25,38,1
-Rhineland-Palatinate,40,19,56,28,43,1
-Rhineland-Palatinate,47,25,65,37,53,1
-Rhineland-Palatinate,56,35,77,45,62,1
-Rhineland-Palatinate,66,47,90,55,72,1
-Rhineland-Palatinate,77,52,98,65,83,1
-Rhineland-Palatinate,89,66,112,73,93,1
-Rhineland-Palatinate,101,78,123,92,110,1
-Rhineland-Palatinate,112,91,137,102,120,1
-Rhineland-Palatinate,124,102,148,115,132,1
-Rhineland-Palatinate,134,112,156,127,144,1
-Rhineland-Palatinate,145,120,162,135,151,1
-Rhineland-Palatinate,153,133,172,140,157,1
-Rhineland-Palatinate,160,141,183,150,167,1
-Rhineland-Palatinate,166,143,186,154,172,1
-Rhineland-Palatinate,171,152,192,160,178,1
-Rhineland-Palatinate,172,152,192,164,180,1
-Rhineland-Palatinate,176,157,196,166,182,1
-Rhineland-Palatinate,179,157,198,168,184,1
-Rhineland-Palatinate,182,159,201,173,190,1
-Rhineland-Palatinate,183,160,202,171,189,1
-Rhineland-Palatinate,182,157,199,174,191,1
-Rhineland-Palatinate,180,159,201,169,186,1
-Rhineland-Palatinate,175,153,197,162,181,1
-Rhineland-Palatinate,172,150,192,162,179,1
-Rhineland-Palatinate,168,147,190,155,173,1
-Rhineland-Palatinate,164,144,186,153,169,1
-Rhineland-Palatinate,159,137,182,146,164,1
-Rhineland-Palatinate,153.5,130,175,143,160,1
-Rhineland-Palatinate,148.5,126,170,138,156,1
-Rhineland-Palatinate,141,117,161,130,148,1
-Rhineland-Palatinate,133,114,155,123,139,1
-Rhineland-Palatinate,125,103,145,114,131,1
-Rhineland-Palatinate,119,97,135,111,125,1
-Rhineland-Palatinate,112,94,131,101,116,1
-Rhineland-Palatinate,107,87,125,97,112,1
-Rhineland-Palatinate,101,82,118,92,106,1
-Rhineland-Palatinate,94,76,110,83,97,1
-Rhineland-Palatinate,88,72,103,83,95,1
-Rhineland-Palatinate,83,69,99,75,87,1
-Rhineland-Palatinate,79,62,91,73,84,1
-Rhineland-Palatinate,75,61,90,65,77,1
+Rhineland-Palatinate,4,0,8,1,4,1
+Rhineland-Palatinate,5,0,10,2,5,1
+Rhineland-Palatinate,6,1,13,3,7,1
+Rhineland-Palatinate,8,0,14,3,8,1
+Rhineland-Palatinate,10,1,18,5,11,1
+Rhineland-Palatinate,12,3,21,6,13,1
+Rhineland-Palatinate,15,5,25,8,16,1
+Rhineland-Palatinate,18,7,30,11,20,1
+Rhineland-Palatinate,22,8,35,13,24,1
+Rhineland-Palatinate,27,12,41,16,28,1
+Rhineland-Palatinate,33.5,17,50,22,36,1
+Rhineland-Palatinate,40,22,58,30,44,1
+Rhineland-Palatinate,47,29,68,34,50,1
+Rhineland-Palatinate,56,34,75,46,62,1
+Rhineland-Palatinate,65,44,87,54,72,1
+Rhineland-Palatinate,76,53,97,62,80,1
+Rhineland-Palatinate,89,64,110,78,97,1
+Rhineland-Palatinate,100,76,121,91,109,1
+Rhineland-Palatinate,112,86,133,99,118,1
+Rhineland-Palatinate,123,98,143,112,131,1
+Rhineland-Palatinate,134,113,156,121,138,1
+Rhineland-Palatinate,144,122,165,132,150,1
+Rhineland-Palatinate,153,131,173,141,158,1
+Rhineland-Palatinate,160,141,181,147,164,1
+Rhineland-Palatinate,166,144,185,159,175,1
+Rhineland-Palatinate,171,148,191,160,177,1
+Rhineland-Palatinate,173,154,193,164,180,1
+Rhineland-Palatinate,177,157,197,168,184,1
+Rhineland-Palatinate,178,156,199,170,186,1
+Rhineland-Palatinate,182,159,202,175,192,1
+Rhineland-Palatinate,181,157,200,169,187,1
+Rhineland-Palatinate,182,159,205,169,188,1
+Rhineland-Palatinate,179,153,198,171,187,1
+Rhineland-Palatinate,175,153,198,165,182,1
+Rhineland-Palatinate,171,150,194,160,177,1
+Rhineland-Palatinate,167.5,147,190,157,175,1
+Rhineland-Palatinate,163.5,139,182,154,171,1
+Rhineland-Palatinate,159,133,177,151,167,1
+Rhineland-Palatinate,153,131,175,144,162,1
+Rhineland-Palatinate,147,125,169,135,153,1
+Rhineland-Palatinate,140,115,160,129,146,1
+Rhineland-Palatinate,133,110,153,121,138,1
+Rhineland-Palatinate,125,107,147,113,129,1
+Rhineland-Palatinate,119,99,138,110,126,1
+Rhineland-Palatinate,112,95,131,102,117,1
+Rhineland-Palatinate,107,87,126,97,112,1
+Rhineland-Palatinate,100,82,117,93,107,1
+Rhineland-Palatinate,94,75,109,87,101,1
+Rhineland-Palatinate,88,72,104,79,92,1
+Rhineland-Palatinate,82,65,96,74,86,1
+Rhineland-Palatinate,78,63,93,71,83,1
+Rhineland-Palatinate,76,60,91,67,79,1
 Rhineland-Palatinate,73,57,86,64,76,1
-Rhineland-Palatinate,68,55,85,61,73,1
-Rhineland-Palatinate,64,49,78,54,66,1
-Rhineland-Palatinate,58,44,71,50,61,1
-Rhineland-Palatinate,53,40,64,45,55,0.99
-Rhineland-Palatinate,49,37,60,43,52,0.99
-Rhineland-Palatinate,46,35,56,39,48,0.99
-Rhineland-Palatinate,44,33,54,38,46,0.99
-Rhineland-Palatinate,42,31,52,36,44,0.98
-Rhineland-Palatinate,40,30,50,34,42,0.98
-Rhineland-Palatinate,38,28,48,32,40,0.97
-Rhineland-Palatinate,36,26,46,30,38,0.97
-Rhineland-Palatinate,35,24,43,31,38,0.96
-Rhineland-Palatinate,33.5,23,42,30,37,0.95
-Rhineland-Palatinate,33,23,42,26,34,0.93
-Rhineland-Palatinate,31,22,40,27,34,0.92
-Rhineland-Palatinate,30,20,39,23,31,0.89
-Rhineland-Palatinate,29,18,39,23,31,0.87
-Rhineland-Palatinate,29,18,41,23,31,0.83
-Rhineland-Palatinate,30,17,43,22,32,0.78
-Rhineland-Palatinate,32,17,49,23,34,0.72
-Rhineland-Palatinate,35,19,59,23,37,0.64
+Rhineland-Palatinate,68,53,81,61,72,1
+Rhineland-Palatinate,63,49,78,55,66,1
+Rhineland-Palatinate,58,44,70,51,61,1
+Rhineland-Palatinate,53,41,66,46,56,1
+Rhineland-Palatinate,49,37,60,42,51,1
+Rhineland-Palatinate,46,35,57,41,49,1
+Rhineland-Palatinate,44,33,54,38,47,1
+Rhineland-Palatinate,42,30,52,37,45,0.99
+Rhineland-Palatinate,40,29,50,34,42,0.99
+Rhineland-Palatinate,37,28,46,32,40,0.99
+Rhineland-Palatinate,35,24,43,30,37,0.99
+Rhineland-Palatinate,34,26,44,27,35,0.98
+Rhineland-Palatinate,32,23,41,27,34,0.98
+Rhineland-Palatinate,31,21,39,26,33,0.97
+Rhineland-Palatinate,30,21,38,26,32,0.97
+Rhineland-Palatinate,29,18,35,23,30,0.96
+Rhineland-Palatinate,27,18,34,24,30,0.95
+Rhineland-Palatinate,26,17,33,23,29,0.94
+Rhineland-Palatinate,27,17,34,22,28,0.92
+Rhineland-Palatinate,27,18,35,21,28,0.9
+Rhineland-Palatinate,27,16,35,22,29,0.87
+Rhineland-Palatinate,28,17,37,21,29,0.84
+Rhineland-Palatinate,28,19,40,22,30,0.79
+Rhineland-Palatinate,29,17,42,22,31,0.74
+Rhineland-Palatinate,30,16,46,23,33,0.67
 Saarland,1,1,1,1,1,1
 Saarland,0,0,0,0,0,1
-Saarland,0,0,0,0,0,1
-Saarland,1,0,1,1,1,1
-Saarland,0,0,1,0,0,1
-Saarland,0,0,1,0,0,1
-Saarland,1,0,1,1,1,1
+Saarland,0.5,0,1,0,1,1
+Saarland,0.5,0,1,0,1,1
 Saarland,0,0,1,0,0,1
 Saarland,0,0,1,0,0,1
 Saarland,0,0,1,0,0,1
@@ -1183,88 +1236,95 @@ Saarland,0,0,1,0,0,1
 Saarland,0,0,1,0,0,1
 Saarland,0,0,1,0,0,1
 Saarland,0,0,1,0,0,1
-Saarland,1,0,2,0,1,1
+Saarland,0,0,1,0,0,1
+Saarland,0,0,1,0,0,1
+Saarland,0,0,1,0,0,1
+Saarland,0,0,2,0,0,1
 Saarland,1,0,2,0,1,1
 Saarland,1,0,2,0,1,1
 Saarland,1,0,2,0,1,1
 Saarland,1,0,3,0,1,1
 Saarland,1,0,3,0,1,1
-Saarland,1,0,4,0,1,1
+Saarland,1,0,3,0,1,1
+Saarland,2,0,4,0,2,1
 Saarland,2,0,5,0,2,1
 Saarland,3,0,6,1,3,1
-Saarland,3,1,7,2,4,1
-Saarland,4,1,8,1,4,1
-Saarland,5,0,9,2,5,1
-Saarland,6,1,11,2,6,1
-Saarland,8,2,13,5,9,1
-Saarland,9,4,16,5,10,1
-Saarland,11,4,18,7,12,1
-Saarland,14,6,21,8,14,1
-Saarland,16,8,24,11,17,1
-Saarland,19,9,27,13,20,1
-Saarland,22,13,31,18,25,1
-Saarland,25,15,35,20,27,1
-Saarland,28,18,39,23,31,1
-Saarland,32,19,42,26,34,1
-Saarland,36,23,46,28,37,1
-Saarland,39,29,53,34,43,1
-Saarland,44,29,54,37,47,1
-Saarland,48,33,59,39,50,1
+Saarland,3,0,7,0,3,1
+Saarland,4,0,8,1,4,1
+Saarland,5,1,10,2,5,1
+Saarland,7,1,11,3,7,1
+Saarland,8,2,13,3,8,1
+Saarland,10,3,16,5,10,1
+Saarland,11.5,4,18,6,12,1
+Saarland,14,7,21,8,14,1
+Saarland,17,8,24,12,18,1
+Saarland,19,9,27,16,22,1
+Saarland,23,13,31,16,24,1
+Saarland,26,15,35,22,29,1
+Saarland,29,18,39,22,31,1
+Saarland,32,22,43,26,35,1
+Saarland,36,26,48,30,39,1
+Saarland,40,28,52,33,43,1
+Saarland,44,31,56,37,47,1
+Saarland,47,35,60,39,49,1
 Saarland,52,38,64,46,56,1
-Saarland,56,41,68,48,59,1
-Saarland,60,45,74,52,63,1
-Saarland,64,50,77,57,68,1
-Saarland,69,53,83,61,73,1
-Saarland,72,58,87,63,75,1
-Saarland,77,61,91,69,81,1
-Saarland,81.5,65,95,74,86,1
-Saarland,86,71,101,80,92,1
-Saarland,90,74,104,85,96,1
-Saarland,94,77,108,86,98,1
-Saarland,96,77,110,85,99,1
-Saarland,98,80,111,89,101,1
-Saarland,98,79,114,88,102,1
-Saarland,97,80,115,88,102,1
-Saarland,93,75,110,83,98,1
-Saarland,88,70,104,80,94,1
-Saarland,83,64,100,76,90,1
-Saarland,77,60,92,67,81,1
-Saarland,70,52,86,62,75,1
-Saarland,64,46,77,57,69,1
-Saarland,57,41,70,49,60,1
-Saarland,51,38,65,45,56,1
-Saarland,44,31,57,38,48,1
-Saarland,38,26,48,30,39,1
-Saarland,33,24,42,29,36,1
-Saarland,30,21,38,24,31,1
-Saarland,28,18,36,23,30,1
+Saarland,56,42,69,48,59,1
+Saarland,60,48,74,51,62,1
+Saarland,64,51,79,58,69,1
+Saarland,68,53,81,60,72,1
+Saarland,72,55,84,65,76,1
+Saarland,77,63,92,68,80,1
+Saarland,81,63,94,72,84,1
+Saarland,86,70,99,78,90,1
+Saarland,89,73,105,83,94,1
+Saarland,93,78,109,82,96,1
+Saarland,95,80,111,88,100,1
+Saarland,97,81,113,87,100,1
+Saarland,97,79,114,89,103,1
+Saarland,96,77,112,90,104,1
+Saarland,92,71,108,81,96,1
+Saarland,88,70,105,80,93,1
+Saarland,82,64,99,72,86,1
+Saarland,75,57,91,64,78,1
+Saarland,69,55,86,62,74,1
+Saarland,63,46,77,56,68,1
+Saarland,57,43,71,51,62,1
+Saarland,52,36,63,44,55,1
+Saarland,44,31,58,36,46,1
+Saarland,38,27,50,33,41,1
+Saarland,33,23,42,27,35,1
+Saarland,30,20,37,24,31,1
+Saarland,28,20,37,22,29,1
 Saarland,27,18,35,21,28,1
-Saarland,26,17,33,22,28,1
-Saarland,24,16,31,20,26,1
-Saarland,23,13,29,18,24,0.99
-Saarland,21,13,28,17,23,0.99
-Saarland,21,14,27,18,23,0.99
-Saarland,20,13,27,15,21,0.99
-Saarland,20,10,25,15,21,0.98
-Saarland,18,12,25,14,19,0.98
-Saarland,17,10,23,13,18,0.97
-Saarland,16,9,22,12,17,0.97
-Saarland,15,8,21,11,16,0.96
-Saarland,15,8,20,10,15,0.95
-Saarland,15,8,20,10,15,0.93
-Saarland,14,7,20,10,15,0.92
-Saarland,13,8,20,9,14,0.89
-Saarland,13,6,19,9,14,0.86
-Saarland,12,5,20,7,13,0.83
-Saarland,12,5,21,9,14,0.78
-Saarland,13,5,26,8,15,0.72
-Saarland,15,3,31,6,15,0.64
-Saarland,17,4,44,6,18,0.54
+Saarland,26,17,32,22,28,1
+Saarland,24,15,31,20,26,1
+Saarland,23,14,29,19,25,1
+Saarland,21,14,28,16,22,1
+Saarland,21,12,27,16,22,1
+Saarland,20,12,26,16,21,1
+Saarland,19,11,25,15,20,0.99
+Saarland,18,11,24,14,19,0.99
+Saarland,16,10,22,12,17,0.99
+Saarland,15,9,21,11,16,0.99
+Saarland,14,8,20,10,15,0.98
+Saarland,13,7,19,9,14,0.98
+Saarland,13,7,18,10,14,0.98
+Saarland,12,6,17,9,13,0.97
+Saarland,11,6,17,9,13,0.96
+Saarland,10,5,15,7,11,0.95
+Saarland,9,3,13,5,9,0.94
+Saarland,8,4,13,6,9,0.92
+Saarland,8,3,12,4,8,0.9
+Saarland,7,3,12,4,8,0.87
+Saarland,8,2,12,4,8,0.84
+Saarland,8,3,14,4,8,0.8
+Saarland,8,3,16,3,8,0.74
+Saarland,9,1,19,3,9,0.67
+Saarland,11,2,27,5,12,0.58
 Saxony,1,1,1,1,1,1
-Saxony,1,1,1,1,1,1
+Saxony,0,0,0,0,0,1
+Saxony,0,0,0,0,0,1
 Saxony,0.5,0,1,0,1,1
-Saxony,0,0,1,0,0,1
-Saxony,0,0,1,0,0,1
 Saxony,0,0,1,0,0,1
 Saxony,1,0,1,1,1,1
 Saxony,0,0,1,0,0,1
@@ -1277,94 +1337,103 @@ Saxony,0,0,1,0,0,1
 Saxony,0,0,1,0,0,1
 Saxony,0,0,1,0,0,1
 Saxony,0,0,1,0,0,1
+Saxony,0,0,1,0,0,1
+Saxony,0,0,1,0,0,1
+Saxony,0,0,1,0,0,1
+Saxony,0,0,1,0,0,1
 Saxony,0,0,2,0,0,1
 Saxony,0,0,2,0,0,1
 Saxony,1,0,2,0,1,1
 Saxony,1,0,2,0,1,1
 Saxony,1,0,2,0,1,1
-Saxony,1,0,3,0,1,1
 Saxony,1,0,3,0,1,1
 Saxony,1,0,4,0,1,1
-Saxony,2,0,4,0,2,1
+Saxony,1,0,4,0,1,1
 Saxony,2,0,5,0,2,1
-Saxony,3,0,6,1,3,1
-Saxony,3,0,8,0,3,1
-Saxony,5,0,10,1,5,1
+Saxony,2,0,6,0,2,1
+Saxony,3,0,7,1,3,1
+Saxony,4,0,8,1,4,1
+Saxony,5,1,10,1,5,1
 Saxony,6,1,12,2,6,1
-Saxony,7,2,14,3,8,1
-Saxony,9,3,16,5,10,1
-Saxony,11,3,20,6,12,1
-Saxony,14,5,24,8,15,1
-Saxony,18,7,28,10,19,1
-Saxony,21,10,33,13,22,1
-Saxony,26,13,39,19,29,1
-Saxony,31,17,45,23,34,1
-Saxony,36,22,53,25,38,1
-Saxony,44,27,59,35,48,1
-Saxony,51,32,67,40,54,1
-Saxony,59,38,76,49,64,1
-Saxony,67,49,88,55,70,1
-Saxony,77,58,95,64,80,1
-Saxony,86,66,105,80,95,1
-Saxony,96,76,114,83,99,1
-Saxony,105,85,124,98,113,1
-Saxony,114,93,132,104,119,1
-Saxony,122,101,139,112,127,1
-Saxony,129,111,150,116,132,1
-Saxony,135,112,152,126,141,1
-Saxony,139,119,157,130,145,1
-Saxony,143,125,161,133,147,1
-Saxony,145,125,162,133,148,1
-Saxony,147.5,127,164,138,153,1
-Saxony,149,130,170,139,155,1
-Saxony,152,131,170,141,157,1
-Saxony,152,131,172,143,159,1
-Saxony,149.5,127,167,139,155,1
-Saxony,148,127,167,137,153,1
-Saxony,145,123,166,136,152,1
-Saxony,143,119,160,135,151,1
-Saxony,139,117,159,130,146,1
-Saxony,135,114,156,123,140,1
-Saxony,128,108,151,120,137,1
-Saxony,120,97,140,110,126,1
-Saxony,111,90,131,99,116,1
-Saxony,102,82,119,91,106,1
-Saxony,94,75,110,84,99,1
-Saxony,88,68,104,81,95,1
-Saxony,82,63,97,74,87,1
-Saxony,77,59,92,68,81,1
-Saxony,70,58,89,61,73,1
-Saxony,65,50,79,58,69,1
-Saxony,58,45,71,52,62,1
-Saxony,53,41,65,46,56,1
-Saxony,49,38,61,43,52,1
-Saxony,46,34,57,41,50,1
-Saxony,43,31,53,37,45,1
-Saxony,41,28,50,33,42,1
-Saxony,38,27,48,32,40,1
-Saxony,35,25,44,30,37,0.99
-Saxony,33,24,42,29,36,0.99
-Saxony,32.5,22,40,28,35,0.99
-Saxony,31,22,40,26,33,0.99
-Saxony,30,20,38,25,32,0.98
-Saxony,29,20,37,24,31,0.98
-Saxony,28,20,36,25,31,0.97
-Saxony,27,19,35,23,29,0.97
-Saxony,27,19,35,22,29,0.96
-Saxony,27,17,35,24,30,0.95
-Saxony,28,19,36,22,29,0.93
-Saxony,29,21,39,24,31,0.91
-Saxony,29,19,39,22,30,0.89
-Saxony,30,19,41,23,32,0.86
-Saxony,32,19,44,26,35,0.82
-Saxony,34,20,48,27,37,0.77
-Saxony,38,20,55,29,42,0.7
-Saxony,42,23,67,29,45,0.62
+Saxony,7,1,14,3,8,1
+Saxony,9,2,17,4,10,1
+Saxony,11,4,21,5,12,1
+Saxony,14,5,24,8,16,1
+Saxony,17,6,28,10,19,1
+Saxony,22,10,34,13,23,1
+Saxony,26,13,39,20,30,1
+Saxony,31.5,17,46,23,35,1
+Saxony,37,20,51,30,42,1
+Saxony,44,26,60,32,46,1
+Saxony,52,32,68,41,56,1
+Saxony,59,38,77,49,64,1
+Saxony,68,51,88,57,73,1
+Saxony,76,55,95,64,80,1
+Saxony,86,63,104,74,90,1
+Saxony,95,75,115,85,100,1
+Saxony,105,84,124,96,111,1
+Saxony,114,92,131,105,120,1
+Saxony,122,103,142,114,129,1
+Saxony,129,107,146,120,135,1
+Saxony,136,117,155,126,141,1
+Saxony,140,121,159,130,145,1
+Saxony,142,123,161,131,146,1
+Saxony,144,126,163,135,150,1
+Saxony,147,125,163,136,151,1
+Saxony,150,130,168,140,156,1
+Saxony,151,130,169,142,157,1
+Saxony,152,130,171,142,159,1
+Saxony,150,129,170,140,156,1
+Saxony,148,124,165,138,154,1
+Saxony,144,123,164,136,152,1
+Saxony,142,121,161,130,147,1
+Saxony,139,115,159,129,146,1
+Saxony,134,113,157,123,141,1
+Saxony,129,108,151,116,134,1
+Saxony,120,100,142,106,125,1
+Saxony,111,89,131,100,117,1
+Saxony,102,82,121,92,107,1
+Saxony,95,79,114,85,100,1
+Saxony,89,70,105,79,93,1
+Saxony,82,67,98,72,85,1
+Saxony,78,61,93,67,81,1
+Saxony,71,55,86,63,76,1
+Saxony,65,51,80,58,69,1
+Saxony,59,44,71,52,63,1
+Saxony,55,41,66,47,57,1
+Saxony,50,38,62,45,54,1
+Saxony,47,35,58,38,48,1
+Saxony,44,32,54,38,47,1
+Saxony,41,30,51,35,43,1
+Saxony,38,26,47,32,40,1
+Saxony,36,25,44,29,37,1
+Saxony,34,26,45,29,36,1
+Saxony,33,23,42,27,34,1
+Saxony,32,22,40,26,33,1
+Saxony,31,22,39,25,32,0.99
+Saxony,30,19,37,24,31,0.99
+Saxony,28,19,36,24,30,0.99
+Saxony,28,19,36,24,30,0.99
+Saxony,28,20,36,24,30,0.98
+Saxony,28,19,36,22,29,0.98
+Saxony,28,19,35,24,30,0.97
+Saxony,28,20,36,22,29,0.97
+Saxony,28,19,36,23,30,0.96
+Saxony,28,20,37,22,29,0.95
+Saxony,29,20,37,23,30,0.94
+Saxony,30,20,38,25,32,0.92
+Saxony,30.5,20,39,24,32,0.9
+Saxony,31,20,40,24,32,0.87
+Saxony,31,20,40,24,32,0.84
+Saxony,31,19,41,25,33,0.79
+Saxony,30,19,44,23,32,0.73
+Saxony,31,14,47,21,32,0.66
 Saxony-Anhalt,1,1,1,1,1,1
+Saxony-Anhalt,0,0,0,0,0,1
 Saxony-Anhalt,1,0,1,1,1,1
-Saxony-Anhalt,0,0,1,0,0,1
-Saxony-Anhalt,0,0,1,0,0,1
-Saxony-Anhalt,0,0,1,0,0,1
+Saxony-Anhalt,0,0,0,0,0,1
+Saxony-Anhalt,0.5,0,1,0,1,1
+Saxony-Anhalt,1,0,1,1,1,1
 Saxony-Anhalt,0,0,1,0,0,1
 Saxony-Anhalt,0,0,1,0,0,1
 Saxony-Anhalt,0,0,1,0,0,1
@@ -1389,82 +1458,86 @@ Saxony-Anhalt,1,0,4,0,1,1
 Saxony-Anhalt,2,0,4,0,2,1
 Saxony-Anhalt,2,0,5,0,2,1
 Saxony-Anhalt,3,0,6,1,3,1
-Saxony-Anhalt,3,0,7,0,3,1
-Saxony-Anhalt,5,0,8,2,5,1
+Saxony-Anhalt,4,0,7,2,4,1
+Saxony-Anhalt,5,1,9,2,5,1
 Saxony-Anhalt,5,1,10,3,6,1
-Saxony-Anhalt,7,1,11,3,7,1
-Saxony-Anhalt,8,2,13,6,10,1
-Saxony-Anhalt,10,4,16,7,11,1
-Saxony-Anhalt,12,5,18,8,13,1
-Saxony-Anhalt,14,7,21,10,15,1
-Saxony-Anhalt,17,9,24,12,18,1
-Saxony-Anhalt,20,11,27,15,21,1
-Saxony-Anhalt,22,14,31,16,23,1
-Saxony-Anhalt,25,14,33,22,29,1
-Saxony-Anhalt,28,18,37,22,30,1
-Saxony-Anhalt,31,21,40,24,32,1
-Saxony-Anhalt,34,24,43,29,36,1
-Saxony-Anhalt,36,25,46,31,39,1
-Saxony-Anhalt,39,29,49,33,41,1
-Saxony-Anhalt,41,32,52,36,44,1
-Saxony-Anhalt,43,33,53,38,46,1
-Saxony-Anhalt,44,34,56,39,47,1
-Saxony-Anhalt,46,36,58,40,48,1
-Saxony-Anhalt,47,36,57,39,48,1
-Saxony-Anhalt,47,36,58,40,49,1
-Saxony-Anhalt,48,35,57,41,50,1
-Saxony-Anhalt,48,36,58,42,51,1
-Saxony-Anhalt,47,36,58,40,49,1
-Saxony-Anhalt,45,34,56,40,48,1
+Saxony-Anhalt,7,2,12,3,7,1
+Saxony-Anhalt,8,3,14,5,9,1
+Saxony-Anhalt,10,5,17,5,10,1
+Saxony-Anhalt,12,7,19,7,12,1
+Saxony-Anhalt,14,8,22,9,15,1
+Saxony-Anhalt,17,8,24,12,18,1
+Saxony-Anhalt,19,10,27,15,21,1
+Saxony-Anhalt,22,14,30,18,24,1
+Saxony-Anhalt,25,15,33,19,26,1
+Saxony-Anhalt,28,19,37,23,30,1
+Saxony-Anhalt,31,20,39,25,33,1
+Saxony-Anhalt,33,25,44,27,35,1
+Saxony-Anhalt,37,26,46,31,39,1
+Saxony-Anhalt,39,30,50,34,42,1
+Saxony-Anhalt,42,30,51,37,45,1
+Saxony-Anhalt,43,33,54,37,45,1
 Saxony-Anhalt,44,33,54,38,46,1
-Saxony-Anhalt,42,32,52,37,45,1
-Saxony-Anhalt,40,30,50,35,42,1
-Saxony-Anhalt,39,27,47,32,40,1
-Saxony-Anhalt,38,27,47,32,40,1
-Saxony-Anhalt,36,27,46,31,39,1
-Saxony-Anhalt,34,24,42,31,38,1
-Saxony-Anhalt,33,24,41,28,35,1
-Saxony-Anhalt,32,23,40,26,33,1
-Saxony-Anhalt,30,22,39,25,32,1
-Saxony-Anhalt,29.5,19,37,24,31,1
-Saxony-Anhalt,27,19,35,24,30,1
-Saxony-Anhalt,26,18,34,21,27,1
-Saxony-Anhalt,25,18,33,20,26,1
-Saxony-Anhalt,24,15,31,19,25,1
+Saxony-Anhalt,46,34,55,38,47,1
+Saxony-Anhalt,47,35,56,43,51,1
+Saxony-Anhalt,48,37,59,41,50,1
+Saxony-Anhalt,48,38,59,42,51,1
+Saxony-Anhalt,48,36,58,41,50,1
+Saxony-Anhalt,46,36,57,39,48,1
+Saxony-Anhalt,45,34,55,38,47,1
+Saxony-Anhalt,43.5,32,53,37,45,1
+Saxony-Anhalt,42,30,51,38,46,1
+Saxony-Anhalt,40,29,49,34,42,1
+Saxony-Anhalt,39,29,48,32,40,1
+Saxony-Anhalt,38,26,46,32,40,1
+Saxony-Anhalt,36,25,44,30,38,1
+Saxony-Anhalt,34,25,43,30,37,1
+Saxony-Anhalt,33,24,42,29,36,1
+Saxony-Anhalt,32,22,40,27,34,1
+Saxony-Anhalt,31,22,39,25,32,1
+Saxony-Anhalt,29,20,37,26,32,1
+Saxony-Anhalt,28,19,35,22,29,1
+Saxony-Anhalt,26,18,34,24,30,1
+Saxony-Anhalt,25,18,33,21,27,1
+Saxony-Anhalt,24,15,30,19,25,1
 Saxony-Anhalt,23,15,30,18,24,1
+Saxony-Anhalt,22,15,30,18,24,1
 Saxony-Anhalt,23,16,30,18,24,1
-Saxony-Anhalt,23,14,29,18,24,1
-Saxony-Anhalt,23,14,30,18,24,1
-Saxony-Anhalt,22,15,30,19,25,1
-Saxony-Anhalt,21,13,28,17,23,1
-Saxony-Anhalt,20,13,27,15,21,0.99
-Saxony-Anhalt,19,12,26,16,21,0.99
-Saxony-Anhalt,17,11,24,14,19,0.99
-Saxony-Anhalt,16,9,22,12,17,0.99
-Saxony-Anhalt,15,9,21,11,16,0.98
-Saxony-Anhalt,15,8,20,10,15,0.98
-Saxony-Anhalt,13,8,19,11,15,0.98
-Saxony-Anhalt,12,6,17,9,13,0.97
-Saxony-Anhalt,11,5,16,8,12,0.96
-Saxony-Anhalt,11,4,15,8,12,0.95
-Saxony-Anhalt,11,4,15,7,11,0.94
-Saxony-Anhalt,11,6,16,7,11,0.92
-Saxony-Anhalt,11,5,16,8,12,0.9
-Saxony-Anhalt,11,5,17,8,12,0.87
-Saxony-Anhalt,12,5,19,7,12,0.83
-Saxony-Anhalt,12,5,21,7,13,0.79
-Saxony-Anhalt,14,4,25,7,14,0.73
-Saxony-Anhalt,16,7,34,9,17,0.65
-Saxony-Anhalt,18,5,42,9,20,0.56
+Saxony-Anhalt,23,14,29,17,23,1
+Saxony-Anhalt,22,15,29,17,23,1
+Saxony-Anhalt,21,13,28,16,22,1
+Saxony-Anhalt,20,13,27,15,21,1
+Saxony-Anhalt,19,11,25,16,21,1
+Saxony-Anhalt,17,10,23,14,19,1
+Saxony-Anhalt,16,10,22,12,17,1
+Saxony-Anhalt,15,8,20,11,16,0.99
+Saxony-Anhalt,14,9,20,10,15,0.99
+Saxony-Anhalt,13,7,18,10,14,0.99
+Saxony-Anhalt,12,6,17,9,13,0.99
+Saxony-Anhalt,11,5,15,8,12,0.98
+Saxony-Anhalt,10,4,14,7,11,0.98
+Saxony-Anhalt,10,4,14,6,10,0.98
+Saxony-Anhalt,9,4,14,6,10,0.97
+Saxony-Anhalt,9,5,14,6,10,0.96
+Saxony-Anhalt,9,4,13,7,10,0.95
+Saxony-Anhalt,9,4,13,6,9,0.94
+Saxony-Anhalt,9,4,13,5,9,0.92
+Saxony-Anhalt,9,2,13,5,9,0.9
+Saxony-Anhalt,9,4,14,7,10,0.88
+Saxony-Anhalt,9,3,15,6,10,0.84
+Saxony-Anhalt,9,3,16,6,10,0.8
+Saxony-Anhalt,10,3,18,5,10,0.75
+Saxony-Anhalt,10,3,22,6,12,0.68
+Saxony-Anhalt,12,2,29,4,12,0.6
 Schleswig-Holstein,1,1,1,1,1,1
 Schleswig-Holstein,0,0,0,0,0,1
-Schleswig-Holstein,0,0,0,0,0,1
-Schleswig-Holstein,0,0,0,0,0,1
-Schleswig-Holstein,0.5,0,1,0,1,1
-Schleswig-Holstein,0.5,0,1,0,1,1
+Schleswig-Holstein,1,1,1,1,1,1
+Schleswig-Holstein,1,1,1,1,1,1
+Schleswig-Holstein,1,0,1,1,1,1
+Schleswig-Holstein,0,0,1,0,0,1
+Schleswig-Holstein,0,0,1,0,0,1
 Schleswig-Holstein,0,0,0,0,0,1
 Schleswig-Holstein,0,0,1,0,0,1
-Schleswig-Holstein,0.5,0,1,0,1,1
 Schleswig-Holstein,0,0,1,0,0,1
 Schleswig-Holstein,0,0,1,0,0,1
 Schleswig-Holstein,0,0,1,0,0,1
@@ -1482,94 +1555,95 @@ Schleswig-Holstein,0,0,1,0,0,1
 Schleswig-Holstein,0,0,1,0,0,1
 Schleswig-Holstein,0,0,1,0,0,1
 Schleswig-Holstein,0,0,2,0,0,1
-Schleswig-Holstein,0,0,2,0,0,1
-Schleswig-Holstein,1,0,2,0,1,1
 Schleswig-Holstein,1,0,2,0,1,1
 Schleswig-Holstein,1,0,2,0,1,1
 Schleswig-Holstein,1,0,3,0,1,1
 Schleswig-Holstein,1,0,3,0,1,1
-Schleswig-Holstein,1,0,4,0,1,1
-Schleswig-Holstein,2,0,4,0,2,1
+Schleswig-Holstein,1,0,3,0,1,1
+Schleswig-Holstein,2,0,4,1,2,1
+Schleswig-Holstein,2,0,5,0,2,1
 Schleswig-Holstein,2,0,6,0,2,1
 Schleswig-Holstein,3,0,6,1,3,1
 Schleswig-Holstein,4,0,8,1,4,1
-Schleswig-Holstein,5,1,9,2,5,1
-Schleswig-Holstein,6,1,11,2,6,1
-Schleswig-Holstein,7,2,13,4,8,1
-Schleswig-Holstein,8,2,14,6,10,1
-Schleswig-Holstein,10,3,16,6,11,1
-Schleswig-Holstein,12,4,19,7,13,1
-Schleswig-Holstein,14,6,22,11,17,1
-Schleswig-Holstein,17,9,27,12,19,1
-Schleswig-Holstein,21,9,29,14,22,1
-Schleswig-Holstein,24,15,35,19,27,1
-Schleswig-Holstein,29,18,40,21,30,1
-Schleswig-Holstein,33,21,43,26,35,1
-Schleswig-Holstein,37,24,48,33,42,1
-Schleswig-Holstein,42,30,54,36,45,1
-Schleswig-Holstein,46,33,58,40,50,1
-Schleswig-Holstein,51,36,62,44,54,1
-Schleswig-Holstein,56,41,68,48,59,1
-Schleswig-Holstein,60,48,74,51,62,1
-Schleswig-Holstein,64,48,77,56,67,1
-Schleswig-Holstein,69,54,82,62,73,1
-Schleswig-Holstein,73,59,86,67,77,1
-Schleswig-Holstein,76,62,89,68,79,1
-Schleswig-Holstein,79,66,92,70,81,1
-Schleswig-Holstein,81,66,94,74,85,1
-Schleswig-Holstein,83,67,96,76,87,1
-Schleswig-Holstein,85,70,99,77,89,1
-Schleswig-Holstein,85,68,97,76,88,1
-Schleswig-Holstein,85,71,99,79,90,1
-Schleswig-Holstein,84,66,97,77,89,1
-Schleswig-Holstein,83,67,97,76,88,1
-Schleswig-Holstein,81,66,95,72,84,1
-Schleswig-Holstein,80,65,93,73,84,1
-Schleswig-Holstein,77,62,90,71,82,1
-Schleswig-Holstein,76,60,89,69,79,1
-Schleswig-Holstein,72,57,86,63,75,1
-Schleswig-Holstein,69,55,84,61,72,1
-Schleswig-Holstein,65,49,78,56,67,1
-Schleswig-Holstein,60,46,73,53,64,1
-Schleswig-Holstein,57,45,70,49,60,1
-Schleswig-Holstein,55,40,65,49,59,1
-Schleswig-Holstein,51,37,62,46,55,1
-Schleswig-Holstein,47,35,59,39,49,1
-Schleswig-Holstein,44,31,53,37,46,1
-Schleswig-Holstein,40,29,49,34,42,1
-Schleswig-Holstein,37,26,46,31,39,1
-Schleswig-Holstein,35,26,44,30,37,1
-Schleswig-Holstein,34,24,42,29,36,1
-Schleswig-Holstein,32,23,40,27,34,1
-Schleswig-Holstein,30,21,38,24,31,1
-Schleswig-Holstein,28,20,37,23,30,1
-Schleswig-Holstein,28,19,36,22,29,1
-Schleswig-Holstein,26.5,18,34,22,28,0.99
-Schleswig-Holstein,26,17,33,21,27,0.99
-Schleswig-Holstein,25,17,32,21,27,0.99
-Schleswig-Holstein,25,17,32,21,27,0.99
-Schleswig-Holstein,24,16,31,21,27,0.98
-Schleswig-Holstein,23,15,30,18,24,0.98
-Schleswig-Holstein,23,14,29,18,24,0.98
-Schleswig-Holstein,22,13,28,18,24,0.97
-Schleswig-Holstein,22,14,29,17,23,0.96
-Schleswig-Holstein,23,14,30,19,25,0.95
-Schleswig-Holstein,24,17,33,21,27,0.94
-Schleswig-Holstein,26,16,34,20,27,0.92
-Schleswig-Holstein,27,18,36,22,29,0.89
-Schleswig-Holstein,28,18,38,23,30,0.87
-Schleswig-Holstein,30,19,40,23,31,0.83
-Schleswig-Holstein,31,19,44,24,33,0.78
-Schleswig-Holstein,33,18,49,23,34,0.72
-Schleswig-Holstein,34,17,55,22,35,0.64
+Schleswig-Holstein,5,0,9,2,5,1
+Schleswig-Holstein,6,1,10,3,6,1
+Schleswig-Holstein,7,2,13,3,7,1
+Schleswig-Holstein,9,2,14,4,9,1
+Schleswig-Holstein,10,3,17,6,11,1
+Schleswig-Holstein,12,5,20,7,13,1
+Schleswig-Holstein,15,7,23,10,16,1
+Schleswig-Holstein,18,9,27,12,19,1
+Schleswig-Holstein,21,12,31,16,23,1
+Schleswig-Holstein,24,14,35,18,26,1
+Schleswig-Holstein,28,17,38,23,31,1
+Schleswig-Holstein,33,22,45,26,35,1
+Schleswig-Holstein,37,25,49,32,41,1
+Schleswig-Holstein,42,30,54,34,44,1
+Schleswig-Holstein,46,34,59,39,49,1
+Schleswig-Holstein,51,37,63,46,56,1
+Schleswig-Holstein,56,43,69,48,59,1
+Schleswig-Holstein,61,46,73,55,66,1
+Schleswig-Holstein,65,50,77,59,69,1
+Schleswig-Holstein,69,55,82,61,72,1
+Schleswig-Holstein,73,58,86,65,76,1
+Schleswig-Holstein,75,58,87,68,79,1
+Schleswig-Holstein,78,63,91,70,81,1
+Schleswig-Holstein,81,65,94,74,85,1
+Schleswig-Holstein,83,69,97,76,87,1
+Schleswig-Holstein,84,68,97,78,90,1
+Schleswig-Holstein,84,67,97,81,92,1
+Schleswig-Holstein,84,66,96,74,86,1
+Schleswig-Holstein,83,67,96,75,87,1
+Schleswig-Holstein,82,66,95,76,87,1
+Schleswig-Holstein,81,64,92,73,85,1
+Schleswig-Holstein,79,66,92,71,82,1
+Schleswig-Holstein,77,64,91,67,79,1
+Schleswig-Holstein,76,58,89,68,80,1
+Schleswig-Holstein,73,59,88,69,80,1
+Schleswig-Holstein,69,55,84,61,73,1
+Schleswig-Holstein,65,50,77,61,71,1
+Schleswig-Holstein,61,48,74,52,63,1
+Schleswig-Holstein,58,43,68,51,61,1
+Schleswig-Holstein,55,40,65,48,58,1
+Schleswig-Holstein,51,39,63,46,55,1
+Schleswig-Holstein,47,35,59,41,50,1
+Schleswig-Holstein,43,34,55,38,46,1
+Schleswig-Holstein,40,28,49,35,43,1
+Schleswig-Holstein,37,27,46,30,38,1
+Schleswig-Holstein,35,25,44,28,36,1
+Schleswig-Holstein,34,24,42,28,35,1
+Schleswig-Holstein,32,23,41,27,34,1
+Schleswig-Holstein,30,20,38,25,32,1
+Schleswig-Holstein,29,19,36,25,31,1
+Schleswig-Holstein,27,19,35,24,30,1
+Schleswig-Holstein,26,18,34,22,28,1
+Schleswig-Holstein,26,18,33,21,27,1
+Schleswig-Holstein,25,16,32,20,26,1
+Schleswig-Holstein,24,16,31,19,25,0.99
+Schleswig-Holstein,23,16,31,19,25,0.99
+Schleswig-Holstein,22,15,29,19,24,0.99
+Schleswig-Holstein,21,13,28,19,24,0.99
+Schleswig-Holstein,22,14,28,16,22,0.99
+Schleswig-Holstein,21,12,27,16,22,0.98
+Schleswig-Holstein,21,15,29,17,23,0.98
+Schleswig-Holstein,22,15,30,17,23,0.97
+Schleswig-Holstein,23,16,31,19,25,0.96
+Schleswig-Holstein,24,15,30,19,25,0.95
+Schleswig-Holstein,24,17,32,20,26,0.94
+Schleswig-Holstein,24,16,32,19,25,0.93
+Schleswig-Holstein,25,16,32,21,27,0.91
+Schleswig-Holstein,24,17,34,21,27,0.88
+Schleswig-Holstein,23,14,31,17,24,0.85
+Schleswig-Holstein,22,13,31,17,24,0.81
+Schleswig-Holstein,22,12,33,17,24,0.76
+Schleswig-Holstein,22,9,34,14,23,0.69
+Schleswig-Holstein,22,8,40,14,24,0.61
 Thuringia,1,1,1,1,1,1
 Thuringia,1,0,1,1,1,1
+Thuringia,0,0,0,0,0,1
 Thuringia,0,0,1,0,0,1
-Thuringia,0,0,1,0,0,1
-Thuringia,0,0,1,0,0,1
-Thuringia,0,0,1,0,0,1
-Thuringia,0,0,1,0,0,1
-Thuringia,0,0,1,0,0,1
+Thuringia,0.5,0,1,0,1,1
+Thuringia,0.5,0,1,0,1,1
 Thuringia,0,0,1,0,0,1
 Thuringia,0,0,1,0,0,1
 Thuringia,0,0,1,0,0,1
@@ -1588,76 +1662,82 @@ Thuringia,0,0,1,0,0,1
 Thuringia,0,0,2,0,0,1
 Thuringia,1,0,2,0,1,1
 Thuringia,1,0,2,0,1,1
+Thuringia,1,0,2,0,1,1
+Thuringia,1,0,2,0,1,1
 Thuringia,1,0,3,0,1,1
 Thuringia,1,0,3,0,1,1
-Thuringia,1,0,4,0,1,1
+Thuringia,2,0,4,0,2,1
 Thuringia,2,0,5,0,2,1
-Thuringia,2,0,5,0,2,1
-Thuringia,3,0,6,1,3,1
-Thuringia,4,0,7,1,4,1
-Thuringia,5,0,9,2,5,1
+Thuringia,2,0,6,0,2,1
+Thuringia,3,0,7,1,3,1
+Thuringia,4,1,8,1,4,1
+Thuringia,5,1,9,2,5,1
 Thuringia,6,1,11,2,6,1
 Thuringia,7,1,12,4,8,1
-Thuringia,9,2,14,5,10,1
-Thuringia,11,4,18,5,11,1
-Thuringia,13,6,20,10,15,1
-Thuringia,15,8,24,11,17,1
-Thuringia,18,8,26,13,20,1
-Thuringia,22,11,30,17,24,1
-Thuringia,25,13,33,18,26,1
-Thuringia,29,18,38,23,31,1
-Thuringia,32,20,42,26,35,1
-Thuringia,36,24,46,31,39,1
-Thuringia,40,26,49,34,43,1
-Thuringia,44,33,55,37,46,1
-Thuringia,48,35,58,42,51,1
-Thuringia,51,39,62,43,53,1
-Thuringia,54,41,65,46,56,1
-Thuringia,56,45,68,49,59,1
-Thuringia,58,45,68,53,62,1
-Thuringia,58,46,69,52,61,1
+Thuringia,9,3,15,6,10,1
+Thuringia,11,4,17,7,12,1
+Thuringia,13,6,20,9,14,1
+Thuringia,15,7,23,10,16,1
+Thuringia,18,8,25,12,19,1
+Thuringia,22,12,31,18,25,1
+Thuringia,25,16,34,20,27,1
+Thuringia,28,18,37,22,30,1
+Thuringia,32,22,42,27,35,1
+Thuringia,36,24,46,33,41,1
+Thuringia,40,28,50,36,44,1
+Thuringia,44,32,55,39,48,1
+Thuringia,48,36,59,40,49,1
+Thuringia,51,37,60,46,55,1
+Thuringia,53,40,64,47,56,1
+Thuringia,55,43,67,48,58,1
+Thuringia,57,46,69,52,61,1
+Thuringia,58,46,70,52,61,1
+Thuringia,59,45,69,52,62,1
+Thuringia,59,47,71,55,64,1
+Thuringia,59,47,71,51,61,1
 Thuringia,59,45,70,52,62,1
-Thuringia,59,45,70,53,62,1
-Thuringia,59,45,70,52,62,1
-Thuringia,59,47,70,54,63,1
-Thuringia,58,46,69,50,60,1
-Thuringia,56,44,67,48,58,1
-Thuringia,55,42,66,48,57,1
-Thuringia,54.5,44,66,47,56,1
-Thuringia,54,42,64,49,58,1
-Thuringia,53,41,65,47,56,1
-Thuringia,52,39,63,49,58,1
-Thuringia,51,39,62,44,53,1
-Thuringia,49,37,60,43,52,1
-Thuringia,47,37,57,44,52,1
-Thuringia,46,35,56,40,48,1
-Thuringia,45,34,55,37,46,1
-Thuringia,44,32,53,38,46,1
-Thuringia,43,33,53,38,46,1
-Thuringia,42,32,52,36,44,1
-Thuringia,42,31,51,36,44,1
-Thuringia,42,31,52,36,44,1
+Thuringia,57,45,69,50,60,1
+Thuringia,56,44,67,50,59,1
+Thuringia,55,44,68,51,60,1
+Thuringia,55,43,66,49,58,1
+Thuringia,54,43,65,48,57,1
+Thuringia,53,43,65,48,57,1
+Thuringia,53,40,63,47,56,1
+Thuringia,51,40,61,47,55,1
+Thuringia,49,36,59,44,52,1
+Thuringia,47,35,56,42,50,1
+Thuringia,46,35,56,39,48,1
+Thuringia,46,34,55,39,47,1
+Thuringia,44,34,54,37,46,1
+Thuringia,44,33,53,39,47,1
+Thuringia,43,32,52,36,44,1
+Thuringia,42,32,51,36,44,1
 Thuringia,42,30,51,36,44,1
-Thuringia,44,33,54,39,47,1
-Thuringia,44,34,55,40,48,1
-Thuringia,44,34,54,39,47,1
-Thuringia,45,34,55,39,47,1
-Thuringia,44,34,54,38,46,1
-Thuringia,43,35,55,38,46,0.99
-Thuringia,43,32,52,39,47,0.99
-Thuringia,43,32,52,37,45,0.99
-Thuringia,42,31,52,37,45,0.99
-Thuringia,41,30,49,38,45,0.99
-Thuringia,39,28,48,34,42,0.98
-Thuringia,37,27,47,31,39,0.98
-Thuringia,37,26,45,32,39,0.97
-Thuringia,35,27,46,31,38,0.96
-Thuringia,35,25,44,30,38,0.95
-Thuringia,35,25,45,31,38,0.94
-Thuringia,34,23,42,27,35,0.92
-Thuringia,33,23,43,27,34,0.9
-Thuringia,33,22,43,28,36,0.87
-Thuringia,33,22,46,28,36,0.84
-Thuringia,35,23,50,27,37,0.79
-Thuringia,37,21,54,30,41,0.73
-Thuringia,40,23,64,30,43,0.66
+Thuringia,42,32,52,37,45,1
+Thuringia,44,34,54,37,45,1
+Thuringia,44,35,54,39,47,1
+Thuringia,45,34,54,39,47,1
+Thuringia,45,33,54,40,48,1
+Thuringia,44,33,53,39,47,1
+Thuringia,43,35,55,37,45,1
+Thuringia,43,33,53,37,45,1
+Thuringia,42,31,52,36,44,1
+Thuringia,42,29,50,37,45,0.99
+Thuringia,40,29,50,35,43,0.99
+Thuringia,39,30,48,34,41,0.99
+Thuringia,37,27,46,32,39,0.99
+Thuringia,35,26,45,31,38,0.99
+Thuringia,35,27,45,31,38,0.98
+Thuringia,34,24,42,29,36,0.98
+Thuringia,33,23,41,27,34,0.97
+Thuringia,32,21,40,27,34,0.97
+Thuringia,31,21,38,26,33,0.96
+Thuringia,30,20,37,24,31,0.95
+Thuringia,29,21,39,25,32,0.93
+Thuringia,30,20,38,25,32,0.91
+Thuringia,31,21,39,26,33,0.89
+Thuringia,32,22,42,26,34,0.86
+Thuringia,31,22,43,27,35,0.82
+Thuringia,31,18,43,24,33,0.77
+Thuringia,31,16,45,22,33,0.71
+Thuringia,32,14,52,21,34,0.63

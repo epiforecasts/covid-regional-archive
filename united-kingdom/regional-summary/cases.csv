@@ -1,15 +1,7 @@
 region,median,lower_90,upper_90,lower_50,upper_50,confidence
 East Midlands,1,1,1,1,1,1
-East Midlands,0,0,0,0,0,1
-East Midlands,0,0,0,0,0,1
-East Midlands,0,0,0,0,0,1
-East Midlands,0,0,0,0,0,1
 East Midlands,1,0,1,1,1,1
 East Midlands,0,0,0,0,0,1
-East Midlands,1,0,1,1,1,1
-East Midlands,0,0,1,0,0,1
-East Midlands,0,0,1,0,0,1
-East Midlands,0,0,1,0,0,1
 East Midlands,0,0,0,0,0,1
 East Midlands,1,0,1,1,1,1
 East Midlands,0,0,1,0,0,1
@@ -39,123 +31,113 @@ East Midlands,1,0,3,0,1,1
 East Midlands,1,0,3,0,1,1
 East Midlands,2,0,4,1,2,1
 East Midlands,2,0,5,0,2,1
-East Midlands,2,0,6,0,2,1
-East Midlands,3,0,6,2,4,1
+East Midlands,2,0,5,0,2,1
+East Midlands,3,0,6,1,3,1
 East Midlands,4,0,7,1,4,1
-East Midlands,5,1,9,2,5,1
-East Midlands,6,1,10,3,6,1
+East Midlands,5,0,8,2,5,1
+East Midlands,5,2,10,3,6,1
 East Midlands,7,2,12,3,7,1
-East Midlands,8,2,14,4,9,1
-East Midlands,10,4,17,5,10,1
-East Midlands,12,4,18,6,12,1
-East Midlands,14,4,21,9,15,1
-East Midlands,16,6,24,10,17,1
-East Midlands,19,8,28,14,21,1
-East Midlands,22,10,33,15,24,1
-East Midlands,26,15,39,21,30,1
-East Midlands,30,18,44,21,32,1
-East Midlands,35,20,49,29,40,1
-East Midlands,40,25,55,31,43,1
-East Midlands,46,28,62,34,48,1
-East Midlands,52,35,72,42,56,1
-East Midlands,59,38,77,49,63,1
-East Midlands,66,47,88,56,72,1
-East Midlands,75,55,97,62,79,1
-East Midlands,85,62,107,71,89,1
-East Midlands,94,70,116,81,100,1
-East Midlands,105,81,128,94,113,1
-East Midlands,116,91,138,102,122,1
-East Midlands,127,103,151,118,137,1
-East Midlands,137,114,161,128,146,1
-East Midlands,149,119,170,136,156,1
-East Midlands,158,135,183,150,169,1
-East Midlands,168,141,188,155,174,1
-East Midlands,177,151,197,163,182,1
-East Midlands,184,165,208,168,187,1
-East Midlands,192,166,212,181,199,1
-East Midlands,198,174,218,184,203,1
-East Midlands,203,180,225,189,207,1
-East Midlands,206,183,228,197,216,1
-East Midlands,207,183,230,195,215,1
-East Midlands,204,181,227,192,211,1
-East Midlands,200,174,222,190,209,1
-East Midlands,194,172,216,179,198,1
-East Midlands,189,165,211,176,195,1
-East Midlands,184,158,204,175,192,1
-East Midlands,179,155,199,168,185,1
-East Midlands,176,156,199,164,181,1
-East Midlands,173,148,192,165,182,1
-East Midlands,168,149,192,155,172,1
-East Midlands,166,144,186,155,172,1
-East Midlands,162,139,181,151,168,1
-East Midlands,158,138,177,149,165,1
-East Midlands,157,136,176,145,162,1
-East Midlands,154,136,175,147,162,1
-East Midlands,151,128,171,139,156,1
-East Midlands,148,129,171,137,154,1
-East Midlands,145,125,163,136,151,1
-East Midlands,140,123,159,130,145,1
-East Midlands,136,115,153,129,144,1
-East Midlands,133,112,151,123,138,1
-East Midlands,129,111,149,120,134,0.99
-East Midlands,126,106,142,116,131,0.99
-East Midlands,120,100,139,112,127,0.99
-East Midlands,116,97,133,108,122,0.99
-East Midlands,111,91,127,101,115,0.99
-East Midlands,106,89,123,94,108,0.98
-East Midlands,101,84,118,93,106,0.98
-East Midlands,95,79,111,87,100,0.97
-East Midlands,90,74,105,80,93,0.96
-East Midlands,85,70,99,77,89,0.96
-East Midlands,81,65,95,72,84,0.94
-East Midlands,78,62,92,71,83,0.93
-East Midlands,78,61,93,68,81,0.91
-East Midlands,77,61,93,68,81,0.88
-East Midlands,77,59,94,66,80,0.85
-East Midlands,75,56,93,63,78,0.81
-East Midlands,73,53,96,61,76,0.76
-East Midlands,70,46,98,56,73,0.69
-East Midlands,67,40,99,52,72,0.61
+East Midlands,8,3,13,5,9,1
+East Midlands,9,3,16,5,10,1
+East Midlands,12,5,19,6,12,1
+East Midlands,14,6,22,10,16,1
+East Midlands,16,7,25,10,17,1
+East Midlands,19,9,28,12,20,1
+East Midlands,22,12,33,16,24,1
+East Midlands,26,15,39,19,28,1
+East Midlands,30,17,43,22,32,1
+East Midlands,34,22,49,27,38,1
+East Midlands,39,24,54,32,43,1
+East Midlands,46,32,64,38,51,1
+East Midlands,52,34,68,42,56,1
+East Midlands,59,41,79,48,63,1
+East Midlands,66,47,86,55,70,1
+East Midlands,75,54,94,65,81,1
+East Midlands,84,65,109,72,90,1
+East Midlands,94,72,115,86,103,1
+East Midlands,105,84,127,92,110,1
+East Midlands,115,93,138,104,122,1
+East Midlands,126,99,149,115,133,1
+East Midlands,137,111,159,128,146,1
+East Midlands,147,120,168,135,153,1
+East Midlands,158,133,180,147,166,1
+East Midlands,166,146,191,153,173,1
+East Midlands,176,152,198,165,183,1
+East Midlands,184,161,206,173,192,1
+East Midlands,192,168,212,180,198,1
+East Midlands,198,174,220,182,202,1
+East Midlands,202,176,223,188,207,1
+East Midlands,206,182,229,192,211,1
+East Midlands,207,183,231,195,215,1
+East Midlands,204,181,227,193,211,1
+East Midlands,200,175,223,188,206,1
+East Midlands,194,172,219,182,201,1
+East Midlands,189,164,209,176,195,1
+East Midlands,184,163,206,174,190,1
+East Midlands,181,158,201,171,188,1
+East Midlands,176,155,199,164,182,1
+East Midlands,173,152,194,164,181,1
+East Midlands,170,146,189,159,177,1
+East Midlands,165,141,185,155,172,1
+East Midlands,162.5,142,183,154,169,1
+East Midlands,159,138,179,149,164,1
+East Midlands,157,137,177,148,164,1
+East Midlands,155,133,173,144,160,1
+East Midlands,152,132,174,145,161,1
+East Midlands,148,129,170,136,152,1
+East Midlands,145,123,163,140,156,1
+East Midlands,140,122,161,130,145,1
+East Midlands,136,115,154,125,141,1
+East Midlands,133,112,150,124,139,1
+East Midlands,128,108,146,116,131,1
+East Midlands,125,107,144,118,132,1
+East Midlands,121,104,141,110,125,1
+East Midlands,117,97,133,106,121,0.99
+East Midlands,112,96,131,105,118,0.99
+East Midlands,108,89,125,97,112,0.99
+East Midlands,102,86,120,93,107,0.99
+East Midlands,97,79,113,92,105,0.98
+East Midlands,93,74,108,84,97,0.98
+East Midlands,88,71,102,82,94,0.97
+East Midlands,85,72,100,75,87,0.97
+East Midlands,83,69,98,78,89,0.96
+East Midlands,83,67,97,74,86,0.94
+East Midlands,83,69,99,76,88,0.93
+East Midlands,85,70,100,76,88,0.91
+East Midlands,85,69,101,75,88,0.88
+East Midlands,84,65,101,76,89,0.85
+East Midlands,82,64,101,75,89,0.81
+East Midlands,80,60,102,69,84,0.76
+East Midlands,80,54,103,67,84,0.69
+East Midlands,80,49,106,66,87,0.6
 East of England,1,1,1,1,1,1
-East of England,0,0,0,0,0,1
-East of England,1,1,1,1,1,1
-East of England,1,1,1,1,1,1
-East of England,0,0,0,0,0,1
-East of England,0,0,0,0,0,1
-East of England,0,0,0,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,0,0,0,1
 East of England,0.5,0,1,0,1,1
+East of England,0.5,0,1,0,1,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
+East of England,0,0,1,0,0,1
 East of England,0,0,0,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,0,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
-East of England,0,0,1,0,0,1
 East of England,0,0,0,0,0,1
 East of England,0,0,1,0,0,1
 East of England,0,0,1,0,0,1
@@ -168,98 +150,90 @@ East of England,0,0,1,0,0,1
 East of England,0,0,2,0,0,1
 East of England,0,0,2,0,0,1
 East of England,1,0,2,0,1,1
-East of England,1,0,2,0,1,1
 East of England,1,0,3,0,1,1
 East of England,1,0,3,0,1,1
-East of England,2,0,4,0,2,1
+East of England,1,0,4,0,1,1
 East of England,2,0,5,0,2,1
-East of England,2,0,6,0,2,1
-East of England,3,0,7,1,3,1
+East of England,2,0,5,0,2,1
+East of England,3,0,6,1,3,1
 East of England,4,0,8,1,4,1
 East of England,5,0,9,2,5,1
 East of England,6,1,11,2,6,1
-East of England,7,1,13,3,8,1
-East of England,9,2,15,4,9,1
-East of England,10,3,18,5,11,1
-East of England,12,4,21,6,13,1
-East of England,15,6,25,10,17,1
-East of England,18,7,29,9,18,1
-East of England,21,8,33,12,22,1
-East of England,25,10,37,18,28,1
-East of England,29,13,44,19,31,1
-East of England,34,17,50,25,38,1
-East of England,41,24,60,30,45,1
-East of England,47,26,66,35,51,1
-East of England,55,35,77,43,60,1
-East of England,64,39,87,53,71,1
-East of England,73,46,97,58,79,1
-East of England,84,53,109,68,90,1
-East of England,96,65,125,81,105,1
-East of England,109,76,139,95,120,1
-East of England,123,88,155,103,130,1
-East of England,138,103,171,124,150,1
-East of England,155,117,186,136,165,1
-East of England,171,138,209,150,178,1
-East of England,188,150,219,175,202,1
-East of England,205,171,241,188,216,1
-East of England,220,185,252,205,233,1
-East of England,234.5,202,266,222,248,1
-East of England,248,215,280,233,258,1
-East of England,259,227,294,246,272,1
-East of England,270,238,302,256,280,1
-East of England,281,248,311,271,296,1
-East of England,289,256,319,271,296,1
-East of England,296,259,322,279,305,1
-East of England,302,271,330,289,314,1
-East of England,303,274,333,289,313,1
-East of England,305,271,332,294,319,1
-East of England,301,271,329,286,310,1
-East of England,297.5,270,329,281,304,1
-East of England,292,258,319,276,299,1
-East of England,291,259,319,277,300,1
-East of England,285,255,313,268,291,1
-East of England,278,248,305,266,288,1
-East of England,271,244,299,257,281,1
-East of England,263,232,289,251,274,1
-East of England,257,226,282,245,266,1
-East of England,254,227,281,240,261,1
-East of England,250,224,275,236,255,1
-East of England,249,221,273,238,258,1
-East of England,245,216,271,231,253,1
-East of England,242,214,266,225,247,1
-East of England,241,215,266,231,252,1
-East of England,236,211,260,221,241,1
-East of England,233,208,257,218,238,1
-East of England,230,201,254,216,237,1
-East of England,226,197,249,211,232,0.99
-East of England,218.5,195,243,207,227,0.99
-East of England,212,186,237,197,218,0.99
-East of England,202,175,226,186,206,0.99
-East of England,192,163,215,181,200,0.99
-East of England,185.5,160,207,174,193,0.98
-East of England,177,153,201,168,186,0.98
-East of England,169.5,144,190,155,174,0.97
-East of England,163,138,183,152,170,0.96
-East of England,151,128,172,140,158,0.96
-East of England,140,121,161,128,145,0.94
-East of England,130,110,151,119,135,0.93
-East of England,120,101,139,112,128,0.91
-East of England,111,93,130,100,116,0.88
-East of England,101,79,118,91,106,0.85
-East of England,91,71,106,82,96,0.81
-East of England,80,62,97,70,84,0.76
-East of England,69,51,86,59,73,0.69
+East of England,7,2,13,4,8,1
+East of England,8.5,2,15,4,9,1
+East of England,10,3,17,4,10,1
+East of England,12,4,20,7,13,1
+East of England,15,5,23,9,16,1
+East of England,17,7,28,11,19,1
+East of England,21,10,31,13,22,1
+East of England,24,10,36,15,25,1
+East of England,29,14,43,20,31,1
+East of England,34,18,50,28,40,1
+East of England,40,24,59,29,43,1
+East of England,47,29,66,35,50,1
+East of England,54,33,75,41,58,1
+East of England,63,42,86,51,69,1
+East of England,73,47,97,61,80,1
+East of England,83,56,109,72,93,1
+East of England,96,67,122,82,105,1
+East of England,108,79,140,93,117,1
+East of England,122,89,151,104,130,1
+East of England,137,105,167,116,142,1
+East of England,155,118,186,135,162,1
+East of England,170,138,206,148,176,1
+East of England,185,149,220,171,199,1
+East of England,203,170,237,187,215,1
+East of England,218,183,253,203,230,1
+East of England,234,202,267,215,243,1
+East of England,247,217,280,235,260,1
+East of England,258,227,289,245,270,1
+East of England,269,235,297,257,282,1
+East of England,279,246,309,263,290,1
+East of England,289,262,323,281,306,1
+East of England,296,266,328,281,305,1
+East of England,301,267,330,288,312,1
+East of England,303,274,333,288,313,1
+East of England,303,272,333,284,309,1
+East of England,300,272,332,286,310,1
+East of England,297.5,266,326,283,309,1
+East of England,294,263,322,278,303,1
+East of England,290,260,317,280,303,1
+East of England,284,254,313,271,294,1
+East of England,279,248,306,263,288,1
+East of England,270,242,299,256,279,1
+East of England,262,236,290,249,270,1
+East of England,256,227,280,245,266,1
+East of England,251,223,277,240,260,1
+East of England,250,224,276,236,258,1
+East of England,248,219,273,236,256,1
+East of England,245,218,271,230,252,1
+East of England,242,215,267,231,251,1
+East of England,240,213,264,224,246,1
+East of England,238.5,214,266,227,248,1
+East of England,233,207,261,217,239,1
+East of England,230.5,201,254,217,239,1
+East of England,227,201,252,214,235,1
+East of England,220,197,247,206,227,1
+East of England,214,188,237,201,221,1
+East of England,205,179,229,191,211,0.99
+East of England,196,172,221,183,203,0.99
+East of England,188,166,214,175,195,0.99
+East of England,181,160,205,168,187,0.99
+East of England,176,150,196,162,181,0.98
+East of England,167,142,188,157,175,0.98
+East of England,159,137,182,147,165,0.97
+East of England,150,130,171,142,159,0.97
+East of England,140,119,160,127,144,0.96
+East of England,130,113,151,119,135,0.94
+East of England,122,101,139,113,129,0.93
+East of England,113,94,132,103,119,0.91
+East of England,104,85,122,93,108,0.89
+East of England,93.5,75,110,84,98,0.85
+East of England,85,65,99,75,88,0.81
+East of England,76,56,90,67,81,0.76
+East of England,68,52,86,60,73,0.69
 London,1,1,1,1,1,1
-London,0,0,0,0,0,1
-London,0,0,0,0,0,1
 London,0.5,0,1,0,1,1
-London,0,0,0,0,0,1
-London,0,0,0,0,0,1
-London,0,0,0,0,0,1
-London,0.5,0,1,0,1,1
-London,1,0,1,1,1,1
-London,0,0,1,0,0,1
-London,0,0,1,0,0,1
 London,0,0,1,0,0,1
 London,0,0,1,0,0,1
 London,0,0,1,0,0,1
@@ -287,105 +261,102 @@ London,1,0,2,0,1,1
 London,1,0,2,0,1,1
 London,1,0,3,0,1,1
 London,1,0,3,0,1,1
+London,1,0,3,0,1,1
 London,1,0,4,0,1,1
-London,2,0,4,1,2,1
 London,2,0,5,0,2,1
 London,2,0,6,0,2,1
 London,3,0,7,1,3,1
-London,4,0,9,1,4,1
-London,4,0,10,0,4,1
-London,6,0,12,2,6,1
-London,7,0,14,3,8,1
-London,9,1,18,3,9,1
-London,11,1,21,5,12,1
-London,14,4,27,6,15,1
-London,17,4,31,9,19,1
-London,22,6,38,13,25,1
-London,27,8,44,15,29,1
-London,32,13,54,20,36,1
-London,39,17,65,29,48,1
-London,48,21,76,35,55,1
-London,58,29,89,41,65,1
-London,70,33,101,55,82,1
-London,83,44,121,64,94,1
-London,99,60,145,76,108,1
-London,116,71,164,99,135,1
-London,136,88,189,111,148,1
-London,161,104,211,134,176,1
-London,186,130,242,159,202,1
-London,213,155,272,182,230,1
-London,241,172,298,204,255,1
-London,270,206,336,240,293,1
-London,301,236,371,280,336,1
-London,334,266,407,292,352,1
-London,366,292,440,335,396,1
-London,403,331,481,378,438,1
-London,441,368,519,403,464,1
-London,481,403,553,442,504,1
-London,520,439,594,483,543,1
-London,554,486,630,519,578,1
-London,590,518,657,553,610,1
-London,626,554,689,593,647,1
-London,657,592,717,629,680,1
-London,682,624,740,656,704,1
-London,706,658,766,682,726,1
-London,722,658,770,705,749,1
-London,732,679,784,703,747,1
-London,737,684,787,714,756,1
-London,740,691,796,712,754,1
-London,744,689,795,720,765,1
-London,742,689,803,718,763,1
-London,732.5,677,792,710,752,1
-London,719,660,779,685,731,1
-London,695,642,759,664,714,1
-London,667,618,735,641,686,1
-London,637,584,696,611,657,1
-London,606,545,656,581,624,1
-London,578,523,634,548,592,1
-London,546,483,597,519,564,1
-London,515.5,453,567,489,531,1
-London,482,423,531,463,503,1
-London,446,400,495,430,468,1
-London,417,373,461,395,433,1
-London,392,346,433,367,403,1
-London,369.5,329,410,348,382,1
-London,348,311,388,326,360,1
-London,325,282,362,304,334,1
-London,300,264,337,285,313,1
-London,276,242,310,261,288,1
-London,254,222,285,236,261,1
-London,236,208,266,225,248,1
-London,221,190,245,206,228,1
-London,208,181,236,197,219,0.99
-London,194,165,217,183,204,0.99
-London,181,154,204,174,193,0.99
-London,168,145,192,157,176,0.99
-London,158,137,179,150,167,0.99
-London,150,129,170,141,156,0.98
-London,145,123,165,136,153,0.98
-London,141,119,161,130,146,0.97
-London,133,110,150,126,142,0.96
-London,124,100,143,114,130,0.96
-London,113,92,130,103,118,0.94
-London,102,82,118,94,108,0.93
-London,92,74,109,82,96,0.91
-London,83,67,99,75,88,0.88
-London,76,61,92,67,80,0.85
-London,68,52,83,60,72,0.81
-London,59,44,75,51,63,0.76
-London,49,35,65,39,52,0.69
+London,4,0,8,1,4,1
+London,4.5,0,10,2,5,1
+London,5,0,12,2,6,1
+London,7,1,14,2,7,1
+London,9,1,18,4,10,1
+London,11,3,21,5,12,1
+London,14,4,26,7,15,1
+London,17,5,31,10,20,1
+London,22,6,38,12,24,1
+London,27,10,45,16,29,1
+London,32,14,54,18,34,1
+London,39.5,18,62,25,43,1
+London,47,23,74,36,55,1
+London,59,33,89,44,67,1
+London,69,40,105,54,78,1
+London,83,50,120,62,91,1
+London,98,61,140,80,110,1
+London,116,77,165,99,133,1
+London,136,91,187,114,152,1
+London,158,112,210,126,167,1
+London,185,140,247,159,200,1
+London,211,156,272,187,231,1
+London,241,189,305,213,260,1
+London,271,211,337,244,292,1
+London,300,238,364,267,319,1
+London,331,262,392,296,349,1
+London,364,297,436,332,388,1
+London,401,325,469,373,429,1
+London,440,370,514,409,466,1
+London,480,412,553,445,505,1
+London,515,452,589,485,539,1
+London,552,476,619,516,571,1
+London,589,526,659,557,611,1
+London,624,560,690,602,653,1
+London,654,593,720,624,676,1
+London,682,616,732,655,703,1
+London,705,640,757,674,720,1
+London,721,662,773,701,745,1
+London,729.5,672,781,712,756,1
+London,735,680,790,714,757,1
+London,739,680,783,720,763,1
+London,740,691,796,713,754,1
+London,739.5,680,789,711,755,1
+London,732,670,784,698,747,1
+London,716,666,777,692,736,1
+London,694,644,754,669,713,1
+London,665,609,723,633,682,1
+London,634,572,681,607,649,1
+London,604,550,654,584,627,1
+London,574,518,623,554,595,1
+London,547,485,595,522,566,1
+London,513,461,564,493,533,1
+London,480,426,526,459,496,1
+London,444,393,484,428,461,1
+London,415,372,454,393,427,1
+London,390,352,430,377,406,1
+London,367,327,406,351,383,1
+London,347,310,386,329,360,1
+London,323,280,357,305,335,1
+London,298,263,333,280,309,1
+London,274,238,305,260,286,1
+London,252,223,282,238,261,1
+London,235,204,262,221,245,1
+London,220,192,245,207,229,1
+London,206,178,231,193,213,1
+London,193,167,217,180,200,1
+London,180,157,204,164,184,1
+London,169,146,190,154,173,0.99
+London,159,137,179,150,166,0.99
+London,152,131,174,140,157,0.99
+London,146,126,169,133,151,0.99
+London,140,119,161,128,145,0.98
+London,134,113,156,123,141,0.98
+London,126,104,145,117,133,0.97
+London,115,94,133,104,120,0.97
+London,105,87,122,96,110,0.96
+London,96,79,113,89,102,0.94
+London,87.5,72,104,80,92,0.93
+London,81,64,96,72,85,0.91
+London,74,56,88,67,79,0.88
+London,67,53,82,57,69,0.85
+London,59,45,72,50,61,0.81
+London,53,39,66,44,55,0.76
+London,47,33,62,39,50,0.69
 North East,1,1,1,1,1,1
-North East,0,0,0,0,0,1
-North East,0,0,0,0,0,1
-North East,0,0,0,0,0,1
-North East,0.5,0,1,0,1,1
-North East,0,0,0,0,0,1
-North East,0,0,0,0,0,1
-North East,0,0,1,0,0,1
 North East,0.5,0,1,0,1,1
 North East,0,0,1,0,0,1
-North East,0,0,0,0,0,1
-North East,0.5,0,1,0,1,1
+North East,0,0,1,0,0,1
+North East,0,0,1,0,0,1
+North East,0,0,1,0,0,1
+North East,0,0,1,0,0,1
 North East,0,0,1,0,0,1
 North East,0,0,1,0,0,1
 North East,0,0,1,0,0,1
@@ -404,94 +375,92 @@ North East,0,0,1,0,0,1
 North East,0,0,1,0,0,1
 North East,0,0,1,0,0,1
 North East,0,0,2,0,0,1
-North East,0,0,2,0,0,1
-North East,1,0,2,0,1,1
+North East,0.5,0,2,0,1,1
 North East,1,0,2,0,1,1
 North East,1,0,3,0,1,1
 North East,1,0,3,0,1,1
 North East,1,0,3,0,1,1
 North East,1,0,4,0,1,1
-North East,2,0,5,1,2,1
+North East,2,0,5,0,2,1
 North East,2,0,6,0,2,1
-North East,3,0,7,1,3,1
-North East,4,0,8,1,4,1
-North East,5,0,9,2,5,1
-North East,6,1,11,2,6,1
-North East,7,1,13,3,7,1
+North East,3,0,6,1,3,1
+North East,4,1,8,1,4,1
+North East,5,1,9,2,5,1
+North East,6,0,10,2,6,1
+North East,7,1,12,4,8,1
 North East,8,2,15,4,9,1
-North East,10,3,18,4,10,1
-North East,12,4,21,6,13,1
-North East,15,5,24,10,17,1
-North East,17.5,8,29,11,19,1
-North East,21,8,34,13,22,1
-North East,25,12,39,18,29,1
-North East,30,14,46,20,32,1
-North East,36,17,52,25,39,1
-North East,42,25,63,32,46,1
-North East,49,28,69,39,55,1
-North East,58,35,80,47,64,1
-North East,67,43,93,54,72,1
-North East,78,50,105,61,83,1
-North East,89,62,117,70,93,1
-North East,103,70,129,89,113,1
-North East,117,86,148,97,123,1
-North East,131,102,166,115,140,1
-North East,147,112,174,130,154,1
-North East,163,134,193,147,170,1
-North East,179,146,208,162,186,1
-North East,194,167,226,181,203,1
-North East,209,176,234,196,219,1
-North East,225,197,250,216,237,1
-North East,238,209,264,224,246,1
-North East,249,221,275,232,254,1
-North East,256,230,281,247,267,1
-North East,262,234,285,255,275,1
-North East,265,237,291,257,278,1
-North East,264,240,291,253,273,1
-North East,265,236,293,250,273,1
-North East,261,231,287,247,269,1
-North East,253,225,281,239,263,1
-North East,248,218,274,231,255,1
-North East,238,210,264,226,249,1
-North East,230,202,255,215,237,1
-North East,221,194,244,206,227,1
-North East,214,187,237,206,224,1
-North East,209,184,231,196,215,1
-North East,206,181,229,192,211,1
-North East,202,178,222,187,206,1
-North East,197,171,219,188,207,1
-North East,193.5,168,213,186,204,1
-North East,190,163,210,184,202,1
-North East,186,161,207,177,195,1
-North East,182,158,202,168,186,1
-North East,178,156,199,167,185,0.99
-North East,172,150,193,160,177,0.99
-North East,168,144,188,156,174,0.99
-North East,162,139,181,153,169,0.99
-North East,156,136,177,144,161,0.99
-North East,153,132,172,139,156,0.98
-North East,150,126,168,139,156,0.98
-North East,146,127,167,133,150,0.97
-North East,139,115,158,128,145,0.97
-North East,133,112,154,122,138,0.96
-North East,124,104,145,118,134,0.94
-North East,117,95,134,107,122,0.93
-North East,108,89,126,97,112,0.91
-North East,104,87,123,98,112,0.89
-North East,100,79,117,93,107,0.86
-North East,95,74,114,85,100,0.82
-North East,90,69,109,79,95,0.76
-North East,84,58,107,72,91,0.7
-North East,83,53,109,70,93,0.61
+North East,10,3,18,7,12,1
+North East,12,4,21,5,12,1
+North East,14,5,24,8,15,1
+North East,18,7,28,11,19,1
+North East,21,9,33,12,22,1
+North East,25,12,39,19,29,1
+North East,30,15,44,21,33,1
+North East,36,20,52,29,41,1
+North East,42,25,60,32,46,1
+North East,49,29,69,34,51,1
+North East,58,35,79,44,61,1
+North East,67,45,92,50,69,1
+North East,78,53,103,64,84,1
+North East,90,61,115,75,97,1
+North East,103,76,132,89,112,1
+North East,117,87,144,99,123,1
+North East,131,104,161,112,136,1
+North East,147,116,176,136,159,1
+North East,162,131,192,148,172,1
+North East,179,149,207,166,190,1
+North East,194,161,221,182,205,1
+North East,209.5,182,235,195,217,1
+North East,224,195,250,214,236,1
+North East,236,207,261,225,246,1
+North East,249,218,271,234,255,1
+North East,257,232,281,244,264,1
+North East,263,236,287,251,271,1
+North East,265,237,291,251,273,1
+North East,265.5,237,290,250,272,1
+North East,264,235,287,254,275,1
+North East,260,231,284,248,270,1
+North East,255,226,280,243,265,1
+North East,247,218,271,236,258,1
+North East,239,210,265,227,248,1
+North East,230,203,254,219,239,1
+North East,222,199,245,208,228,1
+North East,215,188,236,207,226,1
+North East,209,184,231,197,217,1
+North East,206,179,226,199,218,1
+North East,201,175,221,192,210,1
+North East,198,175,220,187,205,1
+North East,194,170,214,182,200,1
+North East,190,168,212,177,195,1
+North East,187,163,209,175,194,1
+North East,182,159,204,172,190,1
+North East,177,157,200,163,181,1
+North East,172,149,195,163,181,1
+North East,168,145,189,154,172,0.99
+North East,161,142,182,151,167,0.99
+North East,156,137,178,145,161,0.99
+North East,153,131,172,144,161,0.99
+North East,149,130,171,137,154,0.99
+North East,145,127,168,135,152,0.98
+North East,142,118,160,133,149,0.98
+North East,134,110,153,123,140,0.97
+North East,126,106,145,118,133,0.96
+North East,118,99,137,111,126,0.95
+North East,112,92,128,99,114,0.94
+North East,106,87,123,96,110,0.92
+North East,101.5,85,120,93,107,0.9
+North East,97,78,116,84,100,0.87
+North East,92,74,113,85,100,0.84
+North East,87,69,110,76,92,0.79
+North East,81,59,108,65,84,0.73
+North East,78,57,115,60,80,0.66
 North West,1,1,1,1,1,1
+North West,0,0,0,0,0,1
+North West,0,0,0,0,0,1
+North West,1,0,1,1,1,1
 North West,0,0,1,0,0,1
 North West,0,0,1,0,0,1
-North West,0,0,1,0,0,1
-North West,0,0,1,0,0,1
-North West,0,0,1,0,0,1
-North West,0,0,1,0,0,1
-North West,0,0,1,0,0,1
-North West,0,0,1,0,0,1
+North West,0.5,0,1,0,1,1
 North West,0,0,1,0,0,1
 North West,0,0,1,0,0,1
 North West,0,0,1,0,0,1
@@ -516,92 +485,89 @@ North West,1,0,4,0,1,1
 North West,2,0,5,0,2,1
 North West,2,0,5,0,2,1
 North West,3,0,7,1,3,1
-North West,4,0,7,1,4,1
-North West,5,0,9,2,5,1
+North West,4,0,8,1,4,1
+North West,5,1,9,2,5,1
 North West,6,1,11,2,6,1
-North West,7,1,13,4,8,1
-North West,9,2,15,4,9,1
-North West,10,3,18,5,11,1
-North West,12,4,22,6,13,1
-North West,15,5,26,8,16,1
-North West,18,6,30,10,19,1
-North West,21,9,36,12,22,1
-North West,24,9,40,17,28,1
-North West,29,12,46,19,31,1
-North West,35,14,53,22,37,1
-North West,41,19,64,32,49,1
-North West,49,24,74,33,53,1
-North West,58,32,87,42,63,1
-North West,68,37,97,55,78,1
-North West,81,45,112,61,88,1
-North West,92,60,132,72,101,1
-North West,108,66,147,79,114,1
-North West,123,81,169,96,132,1
-North West,143,95,191,109,150,1
-North West,165,113,214,137,178,1
-North West,188,130,241,164,207,1
-North West,213,159,271,183,232,1
-North West,241,175,302,208,256,1
-North West,271,211,340,242,292,1
-North West,304,234,366,274,326,1
-North West,338,274,405,311,365,1
-North West,375,304,440,342,395,1
-North West,409,343,475,383,435,1
-North West,443,371,504,417,469,1
-North West,475,420,547,454,505,1
-North West,509,437,564,489,540,1
-North West,540,467,588,505,555,1
-North West,566,514,626,549,596,1
-North West,595,535,643,576,617,1
-North West,613,564,665,592,630,1
-North West,628,579,678,604,643,1
-North West,636,593,686,616,654,1
-North West,638,596,688,620,659,1
-North West,638,591,683,619,658,1
-North West,631,579,674,617,653,1
-North West,620,575,670,595,633,1
-North West,604,558,653,582,621,1
-North West,583,542,630,562,598,1
-North West,560,514,604,544,579,1
-North West,536,489,575,520,554,1
-North West,515,472,553,493,527,1
-North West,500,457,537,482,513,1
-North West,485,444,525,469,503,1
-North West,471,425,508,452,484,1
-North West,458,416,494,443,475,1
-North West,440,405,481,422,453,1
-North West,424,384,462,403,436,1
-North West,405,375,448,388,415,1
-North West,395,355,429,381,408,1
-North West,380,342,415,359,390,1
-North West,368,330,401,350,380,0.99
-North West,353,316,386,339,367,0.99
-North West,336,300,370,316,345,0.99
-North West,319,290,356,301,326,0.99
-North West,303.5,272,334,290,316,0.99
-North West,289.5,258,321,274,298,0.98
-North West,279,250,312,263,289,0.98
-North West,267,240,301,248,272,0.97
-North West,254,222,282,236,261,0.96
-North West,239,214,267,229,251,0.96
-North West,222,195,247,207,229,0.94
-North West,206,179,233,193,216,0.93
-North West,193,168,216,182,201,0.91
-North West,183,157,206,174,194,0.88
-North West,172,147,194,164,183,0.85
-North West,160,135,181,151,170,0.81
-North West,146,119,165,131,150,0.76
-North West,131,103,152,123,142,0.69
+North West,7,2,13,4,8,1
+North West,9,3,15,4,9,1
+North West,10,3,18,6,11,1
+North West,13,3,20,9,15,1
+North West,15,7,25,9,16,1
+North West,18,8,29,11,19,1
+North West,21,8,33,12,22,1
+North West,25,8,37,17,28,1
+North West,30,13,46,18,31,1
+North West,35,17,53,24,38,1
+North West,42,25,65,31,47,1
+North West,49,28,72,39,57,1
+North West,59,32,82,41,62,1
+North West,68,40,94,51,74,1
+North West,80,50,113,61,86,1
+North West,93,60,128,70,97,1
+North West,108,70,143,90,121,1
+North West,124,84,166,102,135,1
+North West,142,102,189,122,159,1
+North West,164,116,210,140,180,1
+North West,187.5,133,235,158,202,1
+North West,215,156,267,179,226,1
+North West,242,184,297,220,267,1
+North West,272,213,331,239,290,1
+North West,305,242,363,276,328,1
+North West,338,269,397,313,364,1
+North West,373.5,308,433,353,405,1
+North West,408,348,473,374,427,1
+North West,442,369,497,413,464,1
+North West,476.5,409,529,449,500,1
+North West,508,446,566,486,537,1
+North West,537,473,588,511,559,1
+North West,567,510,620,547,591,1
+North West,590.5,534,642,563,606,1
+North West,612,562,663,587,627,1
+North West,626,578,672,602,643,1
+North West,635,590,684,611,648,1
+North West,636,588,679,619,655,1
+North West,637,589,684,618,656,1
+North West,630,582,676,613,650,1
+North West,620,573,666,601,638,1
+North West,603,562,653,576,614,1
+North West,583,538,628,566,601,1
+North West,558,519,604,538,574,1
+North West,534.5,494,577,514,548,1
+North West,514,471,553,493,526,1
+North West,498,461,541,482,515,1
+North West,484,440,517,469,501,1
+North West,470,427,504,456,486,1
+North West,457,423,497,442,471,1
+North West,440,397,474,423,453,1
+North West,423,377,456,407,437,1
+North West,408,372,445,396,425,1
+North West,395,358,426,375,404,1
+North West,380,340,411,368,396,1
+North West,368,331,399,350,377,1
+North West,352,319,385,335,362,1
+North West,334,302,369,317,344,1
+North West,317,283,346,303,328,0.99
+North West,302,273,334,286,311,0.99
+North West,290,260,318,278,302,0.99
+North West,280.5,247,305,266,290,0.99
+North West,269,246,301,257,279,0.98
+North West,256,226,283,241,265,0.98
+North West,242,217,268,231,253,0.97
+North West,226,202,253,214,234,0.97
+North West,212,184,235,203,222,0.96
+North West,201,175,223,190,209,0.94
+North West,193,168,216,183,203,0.93
+North West,185,157,206,173,192,0.91
+North West,176,152,199,166,184,0.88
+North West,168,144,190,157,175,0.85
+North West,157,133,179,144,163,0.81
+North West,149,126,176,136,156,0.76
+North West,142,116,167,127,147,0.69
 Northern Ireland,1,1,1,1,1,1
 Northern Ireland,0,0,0,0,0,1
-Northern Ireland,0,0,0,0,0,1
-Northern Ireland,0,0,0,0,0,1
 Northern Ireland,0.5,0,1,0,1,1
-Northern Ireland,1,0,1,1,1,1
 Northern Ireland,0,0,0,0,0,1
-Northern Ireland,0,0,1,0,0,1
-Northern Ireland,0,0,1,0,0,1
-Northern Ireland,0,0,1,0,0,1
+Northern Ireland,1,0,1,1,1,1
 Northern Ireland,0,0,1,0,0,1
 Northern Ireland,0,0,1,0,0,1
 Northern Ireland,0,0,1,0,0,1
@@ -624,90 +590,100 @@ Northern Ireland,0,0,1,0,0,1
 Northern Ireland,0,0,1,0,0,1
 Northern Ireland,0,0,1,0,0,1
 Northern Ireland,0,0,2,0,0,1
-Northern Ireland,0.5,0,2,0,1,1
 Northern Ireland,1,0,2,0,1,1
 Northern Ireland,1,0,2,0,1,1
 Northern Ireland,1,0,2,0,1,1
 Northern Ireland,1,0,3,0,1,1
 Northern Ireland,1,0,3,0,1,1
-Northern Ireland,1,0,3,0,1,1
-Northern Ireland,2,0,4,0,2,1
+Northern Ireland,2,0,4,1,2,1
+Northern Ireland,2,0,4,1,2,1
 Northern Ireland,2,0,5,0,2,1
+Northern Ireland,3,1,6,1,3,1
 Northern Ireland,3,0,6,1,3,1
-Northern Ireland,4,0,7,2,4,1
-Northern Ireland,4,1,8,1,4,1
-Northern Ireland,5,1,9,2,5,1
-Northern Ireland,6,2,11,2,6,1
-Northern Ireland,7,2,12,3,7,1
-Northern Ireland,8,2,13,4,8,1
+Northern Ireland,4,0,7,1,4,1
+Northern Ireland,5,1,8,2,5,1
+Northern Ireland,6,1,10,3,6,1
+Northern Ireland,7,2,11,5,8,1
+Northern Ireland,8,3,13,4,8,1
 Northern Ireland,9,3,15,6,10,1
-Northern Ireland,11,4,17,6,11,1
-Northern Ireland,12,5,19,8,13,1
-Northern Ireland,14,6,21,8,14,1
-Northern Ireland,16,8,24,12,18,1
-Northern Ireland,18,9,26,14,20,1
-Northern Ireland,20,11,30,16,23,1
-Northern Ireland,24,14,34,17,25,1
-Northern Ireland,27,15,37,20,29,1
-Northern Ireland,31,19,43,22,32,1
-Northern Ireland,35,21,47,28,38,1
-Northern Ireland,40,26,53,35,45,1
-Northern Ireland,45,31,58,36,47,1
-Northern Ireland,51,37,65,45,55,1
-Northern Ireland,56,42,71,48,60,1
-Northern Ireland,62,46,76,53,65,1
-Northern Ireland,68,51,81,59,72,1
-Northern Ireland,74,59,89,65,77,1
-Northern Ireland,78,62,92,70,82,1
-Northern Ireland,82,67,97,74,86,1
-Northern Ireland,86,70,101,80,92,1
-Northern Ireland,88,72,102,80,92,1
-Northern Ireland,91,76,105,82,94,1
-Northern Ireland,93,76,107,87,99,1
-Northern Ireland,95,79,110,88,100,1
+Northern Ireland,11,5,17,8,12,1
+Northern Ireland,12,6,19,8,13,1
+Northern Ireland,14,7,21,9,15,1
+Northern Ireland,16,7,23,12,18,1
+Northern Ireland,18,10,26,13,20,1
+Northern Ireland,21,12,30,15,22,1
+Northern Ireland,24,13,34,17,25,1
+Northern Ireland,27,16,37,22,30,1
+Northern Ireland,31,20,42,24,33,1
+Northern Ireland,35,21,46,28,38,1
+Northern Ireland,40,25,51,32,42,1
+Northern Ireland,45,32,58,40,50,1
+Northern Ireland,50,35,63,42,53,1
+Northern Ireland,56,42,69,48,59,1
+Northern Ireland,62,45,75,54,65,1
+Northern Ireland,68,54,82,61,73,1
+Northern Ireland,73,57,87,66,78,1
+Northern Ireland,78,62,91,69,81,1
+Northern Ireland,83,69,98,74,86,1
+Northern Ireland,86,69,98,77,89,1
+Northern Ireland,88,74,104,81,92,1
+Northern Ireland,90,74,105,83,95,1
+Northern Ireland,93,75,106,87,99,1
+Northern Ireland,94,78,108,88,99,1
 Northern Ireland,96,80,111,89,101,1
-Northern Ireland,96,80,111,88,101,1
-Northern Ireland,98,84,113,90,102,1
-Northern Ireland,98,82,113,90,102,1
-Northern Ireland,99,82,114,90,103,1
-Northern Ireland,99,84,115,90,102,1
-Northern Ireland,101,84,115,93,105,1
-Northern Ireland,102,87,117,91,104,1
-Northern Ireland,102,85,117,94,106,1
-Northern Ireland,103,86,119,94,107,1
-Northern Ireland,104,87,118,93,106,1
-Northern Ireland,104,89,121,98,111,1
-Northern Ireland,104,88,120,96,109,1
-Northern Ireland,105,88,120,95,108,1
-Northern Ireland,103,85,119,93,107,1
-Northern Ireland,100,84,117,94,107,1
-Northern Ireland,97,80,113,87,101,1
-Northern Ireland,93,78,110,85,98,1
-Northern Ireland,89,73,105,79,92,1
-Northern Ireland,84.5,71,100,76,88,1
-Northern Ireland,81,64,95,72,85,1
-Northern Ireland,79,63,93,74,85,0.99
-Northern Ireland,75,59,87,67,78,0.99
-Northern Ireland,71,55,84,64,75,0.99
+Northern Ireland,96,82,113,88,100,1
+Northern Ireland,97,83,113,88,100,1
+Northern Ireland,97,81,112,89,101,1
+Northern Ireland,98,81,113,88,101,1
+Northern Ireland,99,82,114,91,103,1
+Northern Ireland,101,86,118,95,107,1
+Northern Ireland,101,83,116,93,106,1
+Northern Ireland,102,86,117,93,106,1
+Northern Ireland,103,84,116,97,109,1
+Northern Ireland,103,87,119,96,108,1
+Northern Ireland,103,86,117,96,108,1
+Northern Ireland,104,87,121,95,108,1
+Northern Ireland,104,86,119,95,108,1
+Northern Ireland,103,87,120,96,109,1
+Northern Ireland,101,83,116,95,108,1
+Northern Ireland,97,79,112,86,100,1
+Northern Ireland,93,73,106,84,97,1
+Northern Ireland,89,72,102,81,93,1
+Northern Ireland,85,69,100,77,89,1
+Northern Ireland,81,67,96,74,86,1
+Northern Ireland,79,63,92,70,82,1
+Northern Ireland,74,58,86,67,78,0.99
+Northern Ireland,71,56,84,64,75,0.99
 Northern Ireland,68,54,80,61,71,0.99
-Northern Ireland,66,51,76,59,69,0.98
-Northern Ireland,64,52,78,57,67,0.98
-Northern Ireland,63,51,76,57,67,0.97
-Northern Ireland,61,48,74,54,64,0.97
-Northern Ireland,59,45,71,50,61,0.96
-Northern Ireland,56,42,67,51,60,0.95
-Northern Ireland,53,40,64,48,57,0.93
-Northern Ireland,50,38,62,45,54,0.91
-Northern Ireland,49,36,61,42,52,0.89
-Northern Ireland,48,33,61,41,51,0.86
-Northern Ireland,48,35,64,41,52,0.82
-Northern Ireland,49,32,64,40,52,0.77
-Northern Ireland,50,30,70,40,55,0.71
-Northern Ireland,52,28,77,35,55,0.63
+Northern Ireland,66,52,77,58,68,0.99
+Northern Ireland,64,49,76,57,67,0.99
+Northern Ireland,63,50,74,56,66,0.98
+Northern Ireland,61,46,72,58,67,0.98
+Northern Ireland,59,44,69,51,61,0.97
+Northern Ireland,56,42,67,48,58,0.96
+Northern Ireland,53,41,65,44,54,0.95
+Northern Ireland,50,39,62,45,54,0.94
+Northern Ireland,48,35,59,43,52,0.93
+Northern Ireland,48,35,59,40,50,0.91
+Northern Ireland,47,33,58,41,51,0.88
+Northern Ireland,48,33,61,39,50,0.85
+Northern Ireland,48,33,64,37,49,0.81
+Northern Ireland,48,30,66,37,50,0.75
+Northern Ireland,50,31,77,39,54,0.68
+Northern Ireland,51,29,91,39,57,0.59
 Scotland,1,1,1,1,1,1
+Scotland,0,0,0,0,0,1
+Scotland,0,0,0,0,0,1
+Scotland,0,0,0,0,0,1
+Scotland,0,0,0,0,0,1
+Scotland,0,0,0,0,0,1
+Scotland,0,0,0,0,0,1
+Scotland,0.5,0,1,0,1,1
+Scotland,0.5,0,1,0,1,1
 Scotland,0,0,1,0,0,1
 Scotland,0,0,1,0,0,1
 Scotland,1,0,1,1,1,1
+Scotland,0.5,0,1,0,1,1
 Scotland,0,0,1,0,0,1
 Scotland,0,0,1,0,0,1
 Scotland,0,0,1,0,0,1
@@ -721,7 +697,6 @@ Scotland,0,0,1,0,0,1
 Scotland,0,0,1,0,0,1
 Scotland,0,0,1,0,0,1
 Scotland,0,0,1,0,0,1
-Scotland,0,0,2,0,0,1
 Scotland,1,0,2,0,1,1
 Scotland,1,0,2,0,1,1
 Scotland,1,0,2,0,1,1
@@ -732,86 +707,91 @@ Scotland,2,0,4,1,2,1
 Scotland,2,0,5,0,2,1
 Scotland,2,0,6,0,2,1
 Scotland,3,0,7,0,3,1
-Scotland,4,0,9,1,4,1
-Scotland,5,1,11,1,5,1
-Scotland,7,2,13,4,8,1
-Scotland,8,1,15,4,9,1
-Scotland,10,3,19,5,11,1
-Scotland,13,3,21,6,13,1
-Scotland,16,6,25,9,17,1
-Scotland,19,7,29,11,20,1
-Scotland,22,10,35,16,25,1
-Scotland,27,13,40,21,31,1
-Scotland,32,17,47,23,34,1
-Scotland,37,22,55,26,39,1
-Scotland,43,27,60,33,46,1
-Scotland,49,28,68,38,53,1
-Scotland,56,36,76,47,63,1
-Scotland,62.5,42,87,49,67,1
-Scotland,70,43,95,55,75,1
-Scotland,79,57,111,64,85,1
-Scotland,90,65,125,73,97,1
-Scotland,102,69,132,87,112,1
-Scotland,115,81,149,99,125,1
-Scotland,130,93,164,112,139,1
-Scotland,148,111,183,128,157,1
-Scotland,165,127,201,141,173,1
-Scotland,184,143,218,168,197,1
-Scotland,203,163,236,184,213,1
-Scotland,219,183,253,199,227,1
-Scotland,238,203,273,222,251,1
-Scotland,251,218,288,235,264,1
-Scotland,265,228,300,251,279,1
-Scotland,278.5,242,308,264,289,1
-Scotland,292,258,320,284,308,1
-Scotland,300,268,328,285,310,1
-Scotland,305.5,271,333,292,317,1
-Scotland,307,279,336,290,314,1
-Scotland,307,276,333,298,321,1
-Scotland,303,272,330,292,315,1
-Scotland,302,270,330,289,312,1
-Scotland,301,268,329,288,312,1
-Scotland,300,270,329,286,308,1
-Scotland,300,271,329,288,312,1
-Scotland,300,269,327,285,309,1
-Scotland,298,265,327,283,307,1
-Scotland,297,268,326,282,305,1
-Scotland,298,266,324,284,308,1
-Scotland,297,265,324,282,306,1
-Scotland,300,271,329,287,310,1
-Scotland,299,270,330,285,309,1
-Scotland,300,269,327,286,309,1
-Scotland,297,268,326,281,306,1
-Scotland,290,259,315,279,301,1
-Scotland,284,252,313,271,295,1
-Scotland,277,248,303,262,284,1
-Scotland,270,238,295,258,281,1
-Scotland,266,238,293,251,274,0.99
-Scotland,260,235,287,248,269,0.99
-Scotland,254,227,278,240,262,0.99
-Scotland,245,219,269,232,252,0.99
-Scotland,236,210,262,223,243,0.99
-Scotland,232,208,257,220,240,0.98
-Scotland,226,200,250,212,232,0.98
-Scotland,222,195,243,209,228,0.97
-Scotland,216,190,240,202,222,0.96
-Scotland,211,184,232,198,218,0.95
-Scotland,204,178,228,194,214,0.94
-Scotland,197,173,220,190,209,0.93
-Scotland,194,164,215,181,202,0.91
-Scotland,191,164,217,180,202,0.88
-Scotland,193,166,217,179,200,0.85
-Scotland,194,165,220,179,201,0.81
-Scotland,195,163,225,178,203,0.76
-Scotland,199,161,235,173,203,0.69
+Scotland,4,0,8,1,4,1
+Scotland,5,0,10,1,5,1
+Scotland,7,1,12,3,7,1
+Scotland,8,2,14,3,8,1
+Scotland,10,3,18,4,10,1
+Scotland,12,5,21,8,14,1
+Scotland,15,5,24,10,17,1
+Scotland,19,7,29,13,21,1
+Scotland,23,10,33,18,27,1
+Scotland,27,16,41,18,29,1
+Scotland,32,19,47,23,34,1
+Scotland,37.5,23,53,28,41,1
+Scotland,43,24,58,33,46,1
+Scotland,49,30,66,40,54,1
+Scotland,55,33,73,45,61,1
+Scotland,63,43,86,52,69,1
+Scotland,71,46,94,56,75,1
+Scotland,79,53,103,67,87,1
+Scotland,91,61,118,77,99,1
+Scotland,102,73,132,86,110,1
+Scotland,116,84,147,97,123,1
+Scotland,132,97,164,115,141,1
+Scotland,148,113,181,127,155,1
+Scotland,164,130,202,147,176,1
+Scotland,183,146,218,165,194,1
+Scotland,203,169,239,181,211,1
+Scotland,220,185,254,201,229,1
+Scotland,236,197,266,224,251,1
+Scotland,252,216,286,236,264,1
+Scotland,266,232,301,246,275,1
+Scotland,280,245,315,259,288,1
+Scotland,290,258,323,273,300,1
+Scotland,299,267,328,282,308,1
+Scotland,303,275,333,292,316,1
+Scotland,306,276,336,290,314,1
+Scotland,306,272,333,291,314,1
+Scotland,304,273,333,290,313,1
+Scotland,302,272,332,287,312,1
+Scotland,301,270,328,289,312,1
+Scotland,300,270,327,283,307,1
+Scotland,299,265,324,282,307,1
+Scotland,299,267,325,283,307,1
+Scotland,298,268,329,279,304,1
+Scotland,297,263,325,287,310,1
+Scotland,296,260,322,286,309,1
+Scotland,298,270,327,283,307,1
+Scotland,297,266,326,280,304,1
+Scotland,298,265,326,282,307,1
+Scotland,298,266,328,282,307,1
+Scotland,295,265,324,282,305,1
+Scotland,290,258,316,277,301,1
+Scotland,283,254,310,273,296,1
+Scotland,275,249,303,261,283,1
+Scotland,269,237,294,257,279,1
+Scotland,263,233,289,247,270,1
+Scotland,259,231,284,246,267,1
+Scotland,250.5,225,279,235,257,1
+Scotland,243,217,269,235,255,0.99
+Scotland,236,209,260,225,244,0.99
+Scotland,229,205,256,216,237,0.99
+Scotland,225,198,248,212,233,0.99
+Scotland,219,192,241,205,225,0.98
+Scotland,215,187,236,204,224,0.98
+Scotland,208,181,230,199,217,0.97
+Scotland,199,175,224,183,203,0.97
+Scotland,193,168,214,180,199,0.96
+Scotland,187,163,210,176,195,0.94
+Scotland,185,159,206,172,191,0.93
+Scotland,183,158,207,171,191,0.91
+Scotland,181,155,205,171,190,0.88
+Scotland,180,152,204,169,189,0.85
+Scotland,181,149,208,168,191,0.81
+Scotland,182,148,213,163,191,0.76
+Scotland,191,153,232,170,200,0.69
 South East,1,1,1,1,1,1
-South East,0,0,0,0,0,1
 South East,0,0,0,0,0,1
 South East,0.5,0,1,0,1,1
 South East,0,0,0,0,0,1
 South East,0,0,1,0,0,1
 South East,0,0,1,0,0,1
+South East,0,0,0,0,0,1
+South East,1,0,1,1,1,1
 South East,0,0,1,0,0,1
+South East,0,0,1,0,0,1
+South East,1,0,1,1,1,1
 South East,0,0,1,0,0,1
 South East,0,0,1,0,0,1
 South East,0,0,1,0,0,1
@@ -838,9 +818,6 @@ South East,0,0,1,0,0,1
 South East,0,0,1,0,0,1
 South East,0,0,1,0,0,1
 South East,0,0,2,0,0,1
-South East,0,0,1,0,0,1
-South East,0,0,1,0,0,1
-South East,0,0,1,0,0,1
 South East,0,0,1,0,0,1
 South East,0,0,1,0,0,1
 South East,0,0,1,0,0,1
@@ -858,87 +835,94 @@ South East,1,0,4,0,1,1
 South East,2,0,4,0,2,1
 South East,2,0,5,0,2,1
 South East,3,0,6,1,3,1
-South East,4,0,8,1,4,1
-South East,4,1,9,1,4,1
-South East,6,0,11,2,6,1
-South East,7,1,13,5,9,1
-South East,8,2,15,4,9,1
-South East,10,2,18,5,11,1
-South East,12,4,21,6,13,1
-South East,15,5,25,10,17,1
-South East,18,7,30,11,20,1
-South East,22,10,35,14,24,1
-South East,26,12,41,18,29,1
-South East,31,15,47,24,36,1
-South East,37,20,56,26,40,1
-South East,43,23,62,31,47,1
-South East,51,30,73,43,60,1
-South East,60,37,83,46,65,1
-South East,70,42,92,54,75,1
-South East,79,50,104,64,85,1
-South East,90,58,116,74,97,1
-South East,103,70,133,84,109,1
-South East,116,84,153,99,126,1
-South East,127.5,89,160,108,137,1
-South East,143,105,180,122,155,1
-South East,161,114,200,140,173,1
-South East,179,134,222,155,191,1
-South East,200,156,248,180,216,1
-South East,223,180,273,201,239,1
-South East,245,197,293,221,260,1
-South East,267,220,317,247,285,1
-South East,294,239,337,275,316,1
-South East,316.5,266,364,291,331,1
-South East,339,291,387,318,358,1
-South East,360,314,406,341,377,1
-South East,383,334,432,359,398,1
-South East,402,353,446,383,421,1
-South East,419,377,469,402,438,1
-South East,439,394,481,421,457,1
-South East,454,407,495,434,470,1
-South East,469,426,511,448,482,1
-South East,479,439,521,458,492,1
-South East,488,448,531,465,498,1
-South East,491,446,526,475,506,1
-South East,493,453,529,479,509,1
-South East,495,453,532,481,512,1
-South East,496,452,532,478,509,1
-South East,494,453,534,477,511,1
-South East,489,454,532,466,499,1
-South East,482,440,517,463,494,1
-South East,473,438,510,457,486,1
-South East,463,428,503,442,472,1
-South East,455,415,491,436,467,1
-South East,448,411,490,426,458,1
-South East,442,398,483,428,463,1
-South East,432,387,470,410,443,1
-South East,416,371,454,397,430,1
-South East,397,357,434,378,410,1
-South East,376.5,339,417,358,389,1
-South East,355,313,389,337,367,1
-South East,333,300,370,320,346,1
-South East,316,282,349,307,333,1
-South East,302,272,335,285,312,0.99
-South East,286,256,319,270,296,0.99
-South East,270,236,299,257,283,0.99
-South East,253,223,280,240,263,0.99
-South East,238,209,264,222,244,0.99
-South East,225,199,250,210,230,0.98
-South East,215,185,239,199,222,0.98
-South East,204,180,232,195,215,0.97
-South East,194,167,218,187,208,0.96
-South East,181,156,205,168,188,0.95
-South East,168,145,191,158,176,0.94
-South East,154.5,131,177,148,166,0.93
-South East,144,122,165,131,148,0.91
-South East,135,111,153,127,144,0.88
-South East,125,105,145,114,130,0.85
-South East,116,94,134,109,124,0.81
-South East,106,84,125,94,110,0.76
-South East,94,74,116,85,102,0.69
+South East,4,0,7,1,4,1
+South East,4,0,9,2,5,1
+South East,5,0,10,1,5,1
+South East,7,1,12,3,7,1
+South East,8,2,14,3,8,1
+South East,10,2,17,5,11,1
+South East,12,4,21,7,13,1
+South East,15,6,24,10,17,1
+South East,18,7,29,12,20,1
+South East,22,10,34,16,25,1
+South East,26,12,39,20,30,1
+South East,31,15,46,21,33,1
+South East,36,19,52,28,41,1
+South East,43,24,61,31,46,1
+South East,51,29,70,38,54,1
+South East,59,36,79,44,63,1
+South East,68,44,92,53,73,1
+South East,78,49,105,62,83,1
+South East,89,62,119,74,97,1
+South East,101,73,131,83,108,1
+South East,114,84,147,99,125,1
+South East,128,92,162,109,139,1
+South East,142,100,178,122,152,1
+South East,160,120,201,139,173,1
+South East,179,136,218,154,189,1
+South East,199,150,238,175,211,1
+South East,220.5,172,263,198,235,1
+South East,244,198,289,221,260,1
+South East,267,215,311,246,285,1
+South East,290.5,242,341,267,305,1
+South East,314,264,360,285,326,1
+South East,337,288,389,312,352,1
+South East,359.5,310,405,340,377,1
+South East,383,332,427,366,404,1
+South East,400,352,442,375,412,1
+South East,418,372,462,393,431,1
+South East,437,388,475,421,456,1
+South East,451,399,491,430,465,1
+South East,466,421,506,449,484,1
+South East,477,429,516,457,492,1
+South East,487,447,530,467,501,1
+South East,491,446,528,467,502,1
+South East,494,451,534,472,507,1
+South East,494,453,536,479,512,1
+South East,494,448,530,473,507,1
+South East,492,456,532,471,503,1
+South East,489,451,531,469,500,1
+South East,482.5,441,520,467,498,1
+South East,473,430,511,452,486,1
+South East,463,423,496,448,476,1
+South East,457,414,494,435,467,1
+South East,448.5,409,488,432,462,1
+South East,442,404,478,426,456,1
+South East,430,391,470,417,448,1
+South East,417,370,452,398,432,1
+South East,397,357,436,380,412,1
+South East,376.5,337,410,354,384,1
+South East,354,315,389,336,365,1
+South East,335,298,366,320,347,1
+South East,317,283,350,299,326,1
+South East,303,271,335,290,315,1
+South East,287,252,316,271,297,1
+South East,271,239,300,253,278,1
+South East,253,224,282,243,266,0.99
+South East,238,209,264,223,245,0.99
+South East,227,195,249,218,239,0.99
+South East,215,190,242,202,223,0.99
+South East,206,179,229,195,215,0.98
+South East,196,169,218,183,202,0.98
+South East,183,158,205,171,190,0.97
+South East,170,147,194,156,175,0.97
+South East,160,140,185,148,166,0.96
+South East,152,129,170,140,157,0.94
+South East,143,119,163,133,150,0.93
+South East,137,115,157,129,145,0.91
+South East,129,105,147,120,137,0.88
+South East,121,103,141,111,127,0.85
+South East,113,92,132,105,120,0.81
+South East,106,86,126,99,114,0.76
+South East,100,78,119,87,104,0.69
 South West,1,1,1,1,1,1
+South West,0.5,0,1,0,1,1
+South West,0,0,0,0,0,1
+South West,0,0,0,0,0,1
 South West,1,0,1,1,1,1
 South West,1,0,1,1,1,1
+South West,0,0,0,0,0,1
+South West,0,0,0,0,0,1
 South West,0,0,1,0,0,1
 South West,0,0,1,0,0,1
 South West,0,0,1,0,0,1
@@ -965,8 +949,7 @@ South West,0,0,1,0,0,1
 South West,0,0,1,0,0,1
 South West,0,0,1,0,0,1
 South West,0,0,1,0,0,1
-South West,0,0,1,0,0,1
-South West,0,0,1,0,0,1
+South West,0,0,0,0,0,1
 South West,0,0,0,0,0,1
 South West,0,0,0,0,0,1
 South West,0,0,0,0,0,1
@@ -978,115 +961,97 @@ South West,0,0,1,0,0,1
 South West,0,0,1,0,0,1
 South West,0,0,2,0,0,1
 South West,0,0,2,0,0,1
-South West,1,0,2,0,1,1
 South West,1,0,2,0,1,1
 South West,1,0,3,0,1,1
 South West,1,0,3,0,1,1
 South West,2,0,4,1,2,1
-South West,2,0,5,0,2,1
-South West,3,0,6,1,3,1
+South West,2,0,4,0,2,1
+South West,3,0,5,1,3,1
 South West,3,0,6,1,3,1
 South West,4,0,7,1,4,1
-South West,5,1,9,2,5,1
+South West,5,0,8,2,5,1
 South West,6,1,10,3,6,1
 South West,7,2,11,3,7,1
 South West,8,3,13,4,8,1
-South West,9,3,14,6,10,1
-South West,11,4,16,8,12,1
-South West,12,6,19,8,13,1
-South West,14,6,20,8,14,1
-South West,15,7,23,11,17,1
-South West,17,7,25,11,18,1
-South West,19,9,28,14,21,1
-South West,23,12,32,16,24,1
-South West,25,15,36,19,27,1
-South West,28.5,17,40,23,32,1
-South West,32,20,44,27,36,1
-South West,36,23,50,27,38,1
-South West,41,25,54,34,45,1
-South West,45,29,61,36,48,1
-South West,50,32,66,38,52,1
-South West,56,41,76,48,62,1
-South West,63,44,81,52,67,1
-South West,71,52,92,58,74,1
-South West,79,61,102,65,82,1
-South West,89,63,107,78,95,1
-South West,97.5,73,119,87,104,1
-South West,107,85,129,97,114,1
-South West,117,95,139,103,121,1
-South West,127,103,147,116,133,1
-South West,136,111,155,126,143,1
-South West,146,122,166,132,151,1
-South West,153,133,175,143,161,1
-South West,160,135,180,149,166,1
-South West,167,145,190,155,173,1
-South West,173,150,191,162,179,1
-South West,180,157,202,170,187,1
-South West,185,163,206,172,190,1
-South West,188,165,209,176,194,1
-South West,191,170,212,184,202,1
-South West,194,169,215,179,198,1
-South West,196,173,216,190,207,1
-South West,196,170,217,182,201,1
-South West,196,174,219,188,206,1
-South West,195,173,218,186,204,1
-South West,193,169,217,183,201,1
-South West,189,165,212,175,194,1
-South West,183,157,204,173,191,1
-South West,179,154,201,167,185,1
-South West,175,151,195,164,181,1
-South West,170,145,190,157,176,1
-South West,165,143,188,151,169,1
-South West,158.5,136,182,151,169,1
-South West,150,129,173,140,157,1
-South West,143,123,166,134,151,1
-South West,136,112,155,127,144,1
-South West,128,107,146,115,132,1
-South West,120,99,140,108,124,0.99
-South West,114,93,131,104,119,0.99
-South West,107,89,123,101,114,0.99
-South West,100,83,117,94,106,0.99
-South West,95,80,112,88,101,0.99
-South West,91,75,106,82,94,0.98
-South West,87,70,101,80,93,0.98
-South West,84,67,98,76,88,0.97
-South West,80,63,94,73,85,0.96
-South West,76,60,89,67,79,0.95
-South West,72,56,85,62,74,0.94
-South West,67,52,80,57,68,0.92
-South West,62,49,76,54,65,0.9
-South West,60,46,73,51,62,0.88
-South West,57,43,71,49,60,0.84
-South West,55.5,39,70,46,58,0.8
-South West,54,37,73,42,55,0.75
-South West,53,33,77,43,57,0.68
-South West,55,31,89,42,58,0.59
+South West,9,4,14,6,10,1
+South West,11,4,16,6,11,1
+South West,12,5,18,8,13,1
+South West,13,7,21,10,15,1
+South West,15,8,22,9,15,1
+South West,17,10,25,12,18,1
+South West,19,10,28,13,20,1
+South West,22,12,31,18,25,1
+South West,25,15,35,18,26,1
+South West,28,17,39,20,29,1
+South West,32,19,43,23,33,1
+South West,36,22,48,28,38,1
+South West,40,27,53,32,43,1
+South West,45,31,60,36,48,1
+South West,50,34,66,40,53,1
+South West,56,38,73,49,62,1
+South West,63,44,80,51,66,1
+South West,71,51,88,59,74,1
+South West,79,59,99,72,88,1
+South West,88,67,107,76,93,1
+South West,97,77,120,84,101,1
+South West,107,84,127,96,113,1
+South West,117,95,137,106,122,1
+South West,126,104,148,116,133,1
+South West,135,112,155,122,139,1
+South West,144,119,163,133,150,1
+South West,153,129,173,141,158,1
+South West,159,139,181,146,164,1
+South West,167,144,187,153,171,1
+South West,172.5,150,192,167,183,1
+South West,179,158,201,165,183,1
+South West,183,162,204,170,188,1
+South West,188,167,210,180,198,1
+South West,192,170,213,181,198,1
+South West,193,168,212,186,202,1
+South West,194,171,214,181,199,1
+South West,195,172,219,183,202,1
+South West,196,173,220,187,205,1
+South West,195,172,219,183,202,1
+South West,192,167,214,181,200,1
+South West,189,164,209,182,200,1
+South West,183,160,206,171,189,1
+South West,179,157,201,167,185,1
+South West,174,152,196,163,181,1
+South West,170,147,193,157,176,1
+South West,164,144,189,157,175,1
+South West,158,135,179,146,164,1
+South West,151,129,173,140,158,1
+South West,143,122,164,133,150,1
+South West,135,115,155,126,143,1
+South West,128,107,146,119,134,1
+South West,121,102,139,111,126,1
+South West,114,93,132,103,119,1
+South West,108,89,125,100,115,0.99
+South West,101,84,118,90,105,0.99
+South West,96,80,113,84,98,0.99
+South West,90,74,105,80,93,0.99
+South West,87,71,102,78,91,0.99
+South West,84,69,99,77,89,0.98
+South West,80,65,94,71,83,0.98
+South West,76,60,89,67,79,0.97
+South West,70,57,85,61,73,0.96
+South West,66,50,78,59,70,0.95
+South West,62,47,73,53,64,0.94
+South West,58,46,70,52,62,0.92
+South West,55,43,68,48,58,0.9
+South West,52,39,64,45,55,0.87
+South West,50,35,64,41,53,0.84
+South West,47,31,63,39,50,0.8
+South West,47,30,64,38,50,0.74
+South West,46,29,71,35,50,0.66
+South West,46,27,79,28,47,0.57
 Wales,1,1,1,1,1,1
+Wales,1,0,1,1,1,1
 Wales,0,0,0,0,0,1
 Wales,0,0,0,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,0,0,0,1
+Wales,0,0,1,0,0,1
+Wales,0,0,1,0,0,1
 Wales,0.5,0,1,0,1,1
-Wales,0,0,0,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,1,0,0,1
-Wales,0,0,1,0,0,1
 Wales,0,0,1,0,0,1
 Wales,0,0,1,0,0,1
 Wales,0,0,1,0,0,1
@@ -1119,10 +1084,14 @@ Wales,0,0,1,0,0,1
 Wales,0,0,1,0,0,1
 Wales,0,0,1,0,0,1
 Wales,0,0,0,0,0,1
-Wales,0,0,0,0,0,1
-Wales,0,0,0,0,0,1
 Wales,0,0,1,0,0,1
 Wales,0,0,1,0,0,1
+Wales,0,0,0,0,0,1
+Wales,0,0,0,0,0,1
+Wales,0,0,0,0,0,1
+Wales,0,0,0,0,0,1
+Wales,0,0,0,0,0,1
+Wales,0,0,0,0,0,1
 Wales,0,0,1,0,0,1
 Wales,0,0,1,0,0,1
 Wales,0,0,1,0,0,1
@@ -1133,89 +1102,88 @@ Wales,0,0,1,0,0,1
 Wales,0,0,2,0,0,1
 Wales,0,0,2,0,0,1
 Wales,1,0,2,0,1,1
-Wales,1,0,3,0,1,1
+Wales,1,0,2,0,1,1
 Wales,1,0,3,0,1,1
 Wales,1,0,3,0,1,1
 Wales,1,0,4,0,1,1
 Wales,2,0,5,0,2,1
 Wales,2,0,6,0,2,1
 Wales,3,0,7,1,3,1
-Wales,3,0,8,0,3,1
-Wales,4,0,10,0,4,1
-Wales,6,0,12,2,6,1
+Wales,4,0,8,1,4,1
+Wales,4,0,10,1,4,1
+Wales,6,1,12,2,6,1
 Wales,7,0,14,3,8,1
-Wales,9,2,18,4,10,1
-Wales,11,2,21,5,12,1
-Wales,14,3,25,8,16,1
-Wales,18,5,30,10,20,1
-Wales,22,6,36,13,24,1
-Wales,27,11,43,17,30,1
-Wales,33,13,50,25,39,1
-Wales,41,20,61,29,45,1
-Wales,49,29,73,34,52,1
-Wales,58,35,82,46,64,1
-Wales,68.5,45,95,56,75,1
-Wales,80,55,108,67,88,1
-Wales,92,66,120,77,98,1
-Wales,105,74,130,96,117,1
-Wales,116,88,146,104,128,1
-Wales,130,95,157,115,139,1
-Wales,142,109,175,123,150,1
-Wales,155,120,186,135,163,1
-Wales,169,131,202,152,181,1
-Wales,184,150,218,169,195,1
-Wales,200,169,234,186,212,1
-Wales,216,185,254,197,225,1
-Wales,230,195,262,220,246,1
-Wales,245,214,278,227,252,1
-Wales,257,224,291,244,272,1
-Wales,269,233,300,255,281,1
-Wales,280,249,310,262,287,1
-Wales,290,256,318,276,302,1
-Wales,296,268,328,277,302,1
-Wales,301,270,332,283,308,1
-Wales,301,271,333,286,311,1
-Wales,301,270,328,288,312,1
-Wales,300,270,329,286,309,1
-Wales,299,273,330,281,305,1
-Wales,298,266,326,279,304,1
-Wales,293,264,324,276,301,1
-Wales,289,257,317,279,302,1
-Wales,278,245,305,264,287,1
-Wales,271,244,301,257,279,1
-Wales,263,233,287,249,271,1
-Wales,258,227,284,244,267,1
-Wales,252,222,278,242,265,1
-Wales,246,213,272,235,257,1
-Wales,239,209,264,228,250,1
-Wales,229,199,254,214,236,1
-Wales,216,191,246,206,226,1
-Wales,204,178,229,195,215,1
-Wales,192,166,216,179,199,1
-Wales,184,160,204,176,193,1
-Wales,174,151,196,160,179,0.99
-Wales,167,143,187,156,173,0.99
-Wales,158,137,178,150,166,0.99
-Wales,151,130,170,141,157,0.99
-Wales,146,122,164,133,150,0.99
-Wales,142,123,162,131,147,0.98
-Wales,141,121,162,132,148,0.98
-Wales,138,118,157,129,144,0.97
-Wales,135,117,155,125,140,0.96
-Wales,133,111,149,122,137,0.95
-Wales,128,108,147,120,136,0.94
-Wales,122,101,140,111,127,0.93
-Wales,117,97,134,106,121,0.91
-Wales,111,93,129,103,117,0.88
-Wales,105,86,123,94,109,0.85
-Wales,97,78,115,89,103,0.81
-Wales,88,67,105,79,94,0.76
-Wales,77,56,94,68,83,0.69
+Wales,9,1,17,4,10,1
+Wales,11,2,21,6,13,1
+Wales,14,4,25,7,15,1
+Wales,18,5,29,12,21,1
+Wales,22,9,36,15,25,1
+Wales,27,11,42,17,29,1
+Wales,33,17,50,22,35,1
+Wales,40,21,58,28,43,1
+Wales,48,27,70,37,54,1
+Wales,58,32,79,46,64,1
+Wales,68,46,94,52,72,1
+Wales,80,52,104,65,85,1
+Wales,92,66,118,75,96,1
+Wales,104,79,133,89,111,1
+Wales,116,86,142,101,125,1
+Wales,128,98,159,117,140,1
+Wales,140,106,170,121,147,1
+Wales,154,120,186,133,160,1
+Wales,168,136,204,153,180,1
+Wales,184,152,222,164,193,1
+Wales,199,164,230,180,207,1
+Wales,215,180,249,195,224,1
+Wales,228,194,263,217,244,1
+Wales,243,207,275,224,250,1
+Wales,255,220,285,243,269,1
+Wales,267,237,301,251,277,1
+Wales,278,250,312,262,289,1
+Wales,288,255,316,275,300,1
+Wales,295,261,320,280,304,1
+Wales,299,268,327,282,308,1
+Wales,300,270,329,282,307,1
+Wales,302,268,328,288,311,1
+Wales,301,266,327,294,317,1
+Wales,298,272,333,284,307,1
+Wales,296.5,265,325,284,308,1
+Wales,295,262,321,281,305,1
+Wales,288,257,317,276,300,1
+Wales,281,247,307,267,291,1
+Wales,272,245,303,263,287,1
+Wales,264,234,291,250,272,1
+Wales,257,231,286,241,265,1
+Wales,252,226,280,239,261,1
+Wales,247.5,216,273,233,256,1
+Wales,239,211,267,225,247,1
+Wales,229,202,256,216,237,1
+Wales,216,187,239,203,224,1
+Wales,204,178,228,192,213,1
+Wales,194,168,216,181,202,1
+Wales,182,160,205,170,188,1
+Wales,175,153,197,161,179,1
+Wales,167,142,187,156,174,1
+Wales,159,139,180,147,163,1
+Wales,151,129,171,141,158,0.99
+Wales,147,122,164,135,152,0.99
+Wales,143,123,162,133,150,0.99
+Wales,141,123,162,132,147,0.99
+Wales,140,118,157,127,143,0.98
+Wales,137,116,155,130,145,0.98
+Wales,134,117,154,127,142,0.97
+Wales,130,110,148,120,135,0.97
+Wales,125,106,144,114,130,0.96
+Wales,122,103,139,111,126,0.94
+Wales,116.5,98,135,107,121,0.93
+Wales,113,93,130,103,118,0.91
+Wales,107,88,124,97,111,0.89
+Wales,101,79,116,90,105,0.85
+Wales,93,75,109,84,99,0.81
+Wales,84,64,100,74,88,0.76
+Wales,75,57,93,64,79,0.69
 West Midlands,1,1,1,1,1,1
 West Midlands,0,0,0,0,0,1
-West Midlands,1,1,1,1,1,1
-West Midlands,0,0,0,0,0,1
-West Midlands,0,0,0,0,0,1
 West Midlands,0,0,0,0,0,1
 West Midlands,0,0,0,0,0,1
 West Midlands,0,0,0,0,0,1
@@ -1226,7 +1194,6 @@ West Midlands,0,0,1,0,0,1
 West Midlands,0,0,1,0,0,1
 West Midlands,0,0,1,0,0,1
 West Midlands,0,0,1,0,0,1
-West Midlands,0.5,0,1,0,1,1
 West Midlands,0,0,1,0,0,1
 West Midlands,0,0,1,0,0,1
 West Midlands,0,0,1,0,0,1
@@ -1252,109 +1219,96 @@ West Midlands,0,0,2,0,0,1
 West Midlands,0,0,2,0,0,1
 West Midlands,0,0,2,0,0,1
 West Midlands,1,0,2,0,1,1
-West Midlands,1,0,2,0,1,1
+West Midlands,1,0,3,0,1,1
 West Midlands,1,0,3,0,1,1
 West Midlands,1,0,4,0,1,1
 West Midlands,2,0,4,0,2,1
 West Midlands,2,0,5,0,2,1
-West Midlands,3,0,6,1,3,1
-West Midlands,3,0,8,0,3,1
+West Midlands,3,0,7,1,3,1
+West Midlands,3,0,7,0,3,1
 West Midlands,4,0,9,1,4,1
-West Midlands,5,1,11,2,6,1
-West Midlands,7,1,13,2,7,1
-West Midlands,8,1,16,4,9,1
-West Midlands,10,3,19,4,11,1
-West Midlands,13,4,23,7,14,1
-West Midlands,15.5,5,26,9,17,1
-West Midlands,19,8,32,11,21,1
-West Midlands,22.5,8,36,13,24,1
-West Midlands,27,13,44,18,30,1
-West Midlands,33,16,51,21,35,1
-West Midlands,39,20,57,28,44,1
-West Midlands,47,26,69,33,50,1
-West Midlands,55,32,79,41,60,1
-West Midlands,64,39,90,49,70,1
-West Midlands,74,49,102,57,79,1
-West Midlands,86,54,112,69,92,1
-West Midlands,98,66,127,81,106,1
-West Midlands,110.5,76,143,97,123,1
-West Midlands,125,93,165,102,132,1
-West Midlands,141,104,176,122,150,1
-West Midlands,157,116,193,141,172,1
-West Midlands,177,138,215,155,188,1
-West Midlands,196,157,235,178,210,1
-West Midlands,215,171,253,197,228,1
-West Midlands,233,190,270,215,249,1
-West Midlands,253,212,290,237,269,1
-West Midlands,273,233,310,252,283,1
-West Midlands,291,248,327,274,305,1
-West Midlands,308,270,342,295,324,1
-West Midlands,322,287,362,304,332,1
-West Midlands,332,296,365,319,346,1
-West Midlands,341,307,375,324,351,1
-West Midlands,347,309,375,331,356,1
-West Midlands,351,317,381,338,363,1
-West Midlands,350,316,383,335,361,1
-West Midlands,348,316,379,330,356,1
-West Midlands,341.5,308,373,333,358,1
-West Midlands,335,302,364,324,348,1
-West Midlands,329,298,358,319,342,1
-West Midlands,323,291,353,307,331,1
-West Midlands,321,290,352,307,331,1
-West Midlands,321,291,349,305,329,1
-West Midlands,317,285,344,306,329,1
-West Midlands,317,286,348,301,325,1
-West Midlands,314,281,340,300,323,1
-West Midlands,310,280,341,297,321,1
-West Midlands,308,280,339,292,315,1
-West Midlands,309,273,336,291,316,1
-West Midlands,309,281,341,294,319,1
-West Midlands,311,276,336,299,324,1
-West Midlands,306,278,339,294,317,1
-West Midlands,301,272,331,284,309,1
-West Midlands,294,262,321,280,304,1
-West Midlands,284,253,312,267,291,1
-West Midlands,276.5,247,307,260,284,1
-West Midlands,266,241,297,254,277,1
-West Midlands,258,229,286,243,267,0.99
-West Midlands,247,221,276,230,254,0.99
-West Midlands,236,206,260,222,244,0.99
-West Midlands,222,196,247,208,229,0.99
-West Midlands,212,190,238,196,217,0.99
-West Midlands,201,177,226,190,209,0.98
-West Midlands,194,170,216,181,201,0.98
-West Midlands,185,160,208,173,192,0.97
-West Midlands,176,154,197,164,182,0.96
-West Midlands,167,147,191,158,175,0.96
-West Midlands,158,135,178,147,164,0.94
-West Midlands,150,127,170,139,155,0.93
-West Midlands,142,118,161,132,148,0.91
-West Midlands,135,112,154,123,140,0.88
-West Midlands,127,105,146,117,133,0.85
-West Midlands,119,95,136,108,125,0.81
-West Midlands,107.5,88,128,101,116,0.76
-West Midlands,96,77,118,85,100,0.69
-Yorkshire and The Humber,1,1,1,1,1,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
+West Midlands,5,1,11,1,5,1
+West Midlands,7,1,13,4,8,1
+West Midlands,8,2,15,3,8,1
+West Midlands,10,3,19,5,11,1
+West Midlands,13,4,22,7,14,1
+West Midlands,16,5,27,9,17,1
+West Midlands,19,7,30,12,21,1
+West Midlands,23,12,38,17,27,1
+West Midlands,27,12,42,21,32,1
+West Midlands,33,17,50,23,36,1
+West Midlands,39,21,57,28,43,1
+West Midlands,46,28,68,33,49,1
+West Midlands,55,36,80,43,60,1
+West Midlands,65,40,87,50,69,1
+West Midlands,75,47,98,61,81,1
+West Midlands,86,61,113,70,92,1
+West Midlands,98,72,130,85,109,1
+West Midlands,111,78,140,97,122,1
+West Midlands,125,91,158,104,133,1
+West Midlands,141,103,173,124,153,1
+West Midlands,159,122,194,138,169,1
+West Midlands,176,140,213,157,186,1
+West Midlands,194,156,232,178,208,1
+West Midlands,216,173,250,193,224,1
+West Midlands,235,193,271,215,248,1
+West Midlands,252.5,216,292,236,268,1
+West Midlands,272,236,313,250,281,1
+West Midlands,289,251,328,269,301,1
+West Midlands,307,264,337,286,317,1
+West Midlands,320,284,356,307,335,1
+West Midlands,331,292,360,317,344,1
+West Midlands,340,303,370,327,354,1
+West Midlands,346,307,374,329,355,1
+West Midlands,350,319,383,335,360,1
+West Midlands,349,316,383,332,360,1
+West Midlands,348,313,376,334,359,1
+West Midlands,341,310,372,324,349,1
+West Midlands,336,305,367,318,343,1
+West Midlands,329,297,357,317,340,1
+West Midlands,324,289,351,308,332,1
+West Midlands,321,288,348,306,330,1
+West Midlands,321,288,349,310,335,1
+West Midlands,318.5,282,345,301,326,1
+West Midlands,317,283,344,304,327,1
+West Midlands,313,281,343,295,321,1
+West Midlands,311,278,338,301,325,1
+West Midlands,308,276,335,294,318,1
+West Midlands,307,276,335,293,316,1
+West Midlands,308,274,337,294,319,1
+West Midlands,309,277,341,290,317,1
+West Midlands,306,273,334,289,315,1
+West Midlands,301,269,330,285,310,1
+West Midlands,293.5,267,321,281,303,1
+West Midlands,283,253,310,269,292,1
+West Midlands,275,247,305,263,287,1
+West Midlands,266,236,295,251,275,1
+West Midlands,256,225,282,242,265,1
+West Midlands,247,217,273,236,257,1
+West Midlands,234,204,256,225,247,1
+West Midlands,221,196,246,208,229,0.99
+West Midlands,211,184,232,204,224,0.99
+West Midlands,200,175,224,188,207,0.99
+West Midlands,191,168,215,180,199,0.99
+West Midlands,183,158,205,168,187,0.98
+West Midlands,176,152,197,168,186,0.98
+West Midlands,167,143,189,156,174,0.97
+West Midlands,158,133,177,146,163,0.97
+West Midlands,150,128,171,142,159,0.96
+West Midlands,144,123,163,134,151,0.94
+West Midlands,137,114,155,127,143,0.93
+West Midlands,130,107,147,119,135,0.91
+West Midlands,122,103,144,114,129,0.88
+West Midlands,114,94,133,105,120,0.85
+West Midlands,104.5,86,123,96,111,0.81
+West Midlands,96,75,113,86,101,0.76
+West Midlands,88,68,107,77,94,0.69
 Yorkshire and The Humber,1,1,1,1,1,1
 Yorkshire and The Humber,0.5,0,1,0,1,1
+Yorkshire and The Humber,1,0,1,1,1,1
+Yorkshire and The Humber,0,0,1,0,0,1
 Yorkshire and The Humber,0,0,1,0,0,1
 Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,0,0,0,1
-Yorkshire and The Humber,0,0,1,0,0,1
-Yorkshire and The Humber,0,0,1,0,0,1
-Yorkshire and The Humber,0,0,1,0,0,1
-Yorkshire and The Humber,0,0,1,0,0,1
-Yorkshire and The Humber,0,0,1,0,0,1
 Yorkshire and The Humber,0,0,1,0,0,1
 Yorkshire and The Humber,0,0,1,0,0,1
 Yorkshire and The Humber,0,0,1,0,0,1
@@ -1397,83 +1351,85 @@ Yorkshire and The Humber,0,0,1,0,0,1
 Yorkshire and The Humber,0,0,2,0,0,1
 Yorkshire and The Humber,0,0,2,0,0,1
 Yorkshire and The Humber,1,0,2,0,1,1
+Yorkshire and The Humber,1,0,2,0,1,1
 Yorkshire and The Humber,1,0,3,0,1,1
 Yorkshire and The Humber,1,0,3,0,1,1
-Yorkshire and The Humber,1,0,4,0,1,1
 Yorkshire and The Humber,2,0,4,0,2,1
 Yorkshire and The Humber,2,0,5,0,2,1
 Yorkshire and The Humber,3,0,6,1,3,1
-Yorkshire and The Humber,3,0,7,2,4,1
+Yorkshire and The Humber,3,0,7,1,3,1
 Yorkshire and The Humber,4,0,8,1,4,1
-Yorkshire and The Humber,5,1,10,2,5,1
+Yorkshire and The Humber,5,1,9,2,5,1
 Yorkshire and The Humber,6,1,11,2,6,1
-Yorkshire and The Humber,7,1,13,4,8,1
-Yorkshire and The Humber,8,2,15,4,9,1
-Yorkshire and The Humber,10,2,17,6,11,1
-Yorkshire and The Humber,12,4,20,7,13,1
-Yorkshire and The Humber,14,4,23,9,16,1
-Yorkshire and The Humber,16,6,27,10,18,1
-Yorkshire and The Humber,20,9,33,14,23,1
-Yorkshire and The Humber,23,11,38,13,24,1
-Yorkshire and The Humber,29,12,43,17,30,1
-Yorkshire and The Humber,33,17,49,24,37,1
-Yorkshire and The Humber,39,20,56,29,43,1
-Yorkshire and The Humber,45,25,65,34,50,1
-Yorkshire and The Humber,53,32,75,43,60,1
-Yorkshire and The Humber,61,33,82,47,66,1
-Yorkshire and The Humber,71,45,97,55,76,1
-Yorkshire and The Humber,82,54,108,67,88,1
-Yorkshire and The Humber,94,67,123,76,100,1
-Yorkshire and The Humber,107,77,134,91,115,1
-Yorkshire and The Humber,120,87,151,104,129,1
-Yorkshire and The Humber,135,104,166,122,148,1
-Yorkshire and The Humber,149,121,182,134,160,1
-Yorkshire and The Humber,165,133,198,148,175,1
-Yorkshire and The Humber,179,144,210,162,188,1
-Yorkshire and The Humber,193,157,221,181,205,1
-Yorkshire and The Humber,206,176,241,188,214,1
-Yorkshire and The Humber,219,185,247,204,228,1
-Yorkshire and The Humber,230,196,256,218,242,1
-Yorkshire and The Humber,239,210,268,223,248,1
-Yorkshire and The Humber,249,216,277,236,260,1
-Yorkshire and The Humber,256,225,284,243,267,1
-Yorkshire and The Humber,262,232,291,245,268,1
-Yorkshire and The Humber,266,238,295,253,276,1
-Yorkshire and The Humber,268,235,294,257,280,1
-Yorkshire and The Humber,267,237,295,256,279,1
-Yorkshire and The Humber,270,237,294,260,282,1
-Yorkshire and The Humber,271,242,297,257,280,1
-Yorkshire and The Humber,273,245,301,264,286,1
-Yorkshire and The Humber,276,245,303,261,285,1
-Yorkshire and The Humber,278,245,302,264,287,1
-Yorkshire and The Humber,278,244,302,264,287,1
-Yorkshire and The Humber,277,247,304,264,288,1
-Yorkshire and The Humber,274,245,302,263,286,1
-Yorkshire and The Humber,273.5,241,299,258,281,1
-Yorkshire and The Humber,274,242,299,258,282,1
-Yorkshire and The Humber,274,246,302,260,282,1
-Yorkshire and The Humber,275,247,302,259,281,1
-Yorkshire and The Humber,274,245,301,260,283,1
-Yorkshire and The Humber,271,242,296,261,282,1
-Yorkshire and The Humber,266,238,293,253,275,1
-Yorkshire and The Humber,264,236,291,248,271,1
-Yorkshire and The Humber,263,235,288,255,276,1
-Yorkshire and The Humber,260,231,288,246,268,1
-Yorkshire and The Humber,259,229,284,244,266,0.99
-Yorkshire and The Humber,253,220,278,239,261,0.99
-Yorkshire and The Humber,246,222,273,235,256,0.99
-Yorkshire and The Humber,240,216,266,228,249,0.99
-Yorkshire and The Humber,231,203,256,219,241,0.99
-Yorkshire and The Humber,221,192,245,210,231,0.98
-Yorkshire and The Humber,212,188,238,200,220,0.98
-Yorkshire and The Humber,202,178,230,185,208,0.97
-Yorkshire and The Humber,193,165,217,180,201,0.96
-Yorkshire and The Humber,181,157,204,167,186,0.95
-Yorkshire and The Humber,168,144,189,157,176,0.94
-Yorkshire and The Humber,157,133,176,145,163,0.93
-Yorkshire and The Humber,146,124,166,137,153,0.91
-Yorkshire and The Humber,137,114,157,126,143,0.88
-Yorkshire and The Humber,129,106,146,120,136,0.85
-Yorkshire and The Humber,121,100,139,114,129,0.81
-Yorkshire and The Humber,113,94,137,101,118,0.76
-Yorkshire and The Humber,107,86,131,94,112,0.69
+Yorkshire and The Humber,7,2,13,4,8,1
+Yorkshire and The Humber,9,2,14,4,9,1
+Yorkshire and The Humber,10,2,16,6,11,1
+Yorkshire and The Humber,12,3,19,7,13,1
+Yorkshire and The Humber,14,5,22,8,15,1
+Yorkshire and The Humber,16,7,26,10,17,1
+Yorkshire and The Humber,19,9,31,13,21,1
+Yorkshire and The Humber,24,12,36,15,25,1
+Yorkshire and The Humber,27,15,41,19,30,1
+Yorkshire and The Humber,32,19,49,24,36,1
+Yorkshire and The Humber,38,20,55,29,42,1
+Yorkshire and The Humber,44,27,63,33,48,1
+Yorkshire and The Humber,52,31,71,40,56,1
+Yorkshire and The Humber,59,39,83,47,64,1
+Yorkshire and The Humber,70,44,94,59,78,1
+Yorkshire and The Humber,81,55,106,70,90,1
+Yorkshire and The Humber,93,65,119,82,103,1
+Yorkshire and The Humber,107,75,131,94,117,1
+Yorkshire and The Humber,120,91,149,105,129,1
+Yorkshire and The Humber,134,101,162,117,142,1
+Yorkshire and The Humber,149,116,179,135,161,1
+Yorkshire and The Humber,163,129,190,146,172,1
+Yorkshire and The Humber,179,148,211,169,193,1
+Yorkshire and The Humber,193,158,219,180,204,1
+Yorkshire and The Humber,205,175,233,193,217,1
+Yorkshire and The Humber,217,187,245,200,224,1
+Yorkshire and The Humber,228,194,255,212,237,1
+Yorkshire and The Humber,238,209,266,220,244,1
+Yorkshire and The Humber,247.5,220,277,231,255,1
+Yorkshire and The Humber,256,227,282,243,264,1
+Yorkshire and The Humber,262,229,288,252,275,1
+Yorkshire and The Humber,266,234,291,255,277,1
+Yorkshire and The Humber,266,239,297,250,275,1
+Yorkshire and The Humber,267,239,296,250,273,1
+Yorkshire and The Humber,268,239,297,255,277,1
+Yorkshire and The Humber,271,242,300,261,285,1
+Yorkshire and The Humber,272,242,301,256,280,1
+Yorkshire and The Humber,274,245,303,259,283,1
+Yorkshire and The Humber,277.5,248,305,261,285,1
+Yorkshire and The Humber,276,247,304,259,283,1
+Yorkshire and The Humber,276,244,300,264,285,1
+Yorkshire and The Humber,274,244,302,261,283,1
+Yorkshire and The Humber,273,246,302,257,281,1
+Yorkshire and The Humber,274,247,305,260,283,1
+Yorkshire and The Humber,275,244,300,258,281,1
+Yorkshire and The Humber,274,244,299,260,282,1
+Yorkshire and The Humber,273,244,298,259,281,1
+Yorkshire and The Humber,270,243,298,253,276,1
+Yorkshire and The Humber,267,239,295,254,276,1
+Yorkshire and The Humber,263,234,290,249,273,1
+Yorkshire and The Humber,263,235,289,252,275,1
+Yorkshire and The Humber,260,229,286,246,268,1
+Yorkshire and The Humber,258,230,284,243,265,1
+Yorkshire and The Humber,254,225,281,240,262,1
+Yorkshire and The Humber,246.5,221,275,236,257,1
+Yorkshire and The Humber,239,213,266,227,248,0.99
+Yorkshire and The Humber,231,204,257,221,241,0.99
+Yorkshire and The Humber,223,194,247,208,230,0.99
+Yorkshire and The Humber,213,186,238,199,220,0.99
+Yorkshire and The Humber,205,180,229,191,211,0.98
+Yorkshire and The Humber,193,165,216,181,201,0.98
+Yorkshire and The Humber,183,158,206,167,187,0.97
+Yorkshire and The Humber,170,147,191,157,175,0.97
+Yorkshire and The Humber,160,136,179,146,164,0.96
+Yorkshire and The Humber,149,128,171,138,156,0.94
+Yorkshire and The Humber,142,119,161,133,149,0.93
+Yorkshire and The Humber,134,111,153,124,140,0.91
+Yorkshire and The Humber,126,105,145,117,132,0.88
+Yorkshire and The Humber,119,99,138,110,125,0.85
+Yorkshire and The Humber,113,93,131,105,120,0.81
+Yorkshire and The Humber,107,87,128,95,113,0.76
+Yorkshire and The Humber,104,83,129,94,111,0.69

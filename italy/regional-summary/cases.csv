@@ -1,6 +1,12 @@
 region,median,lower_90,upper_90,lower_50,upper_50,confidence
 Abruzzo,1,1,1,1,1,1
 Abruzzo,0,0,0,0,0,1
+Abruzzo,0,0,0,0,0,1
+Abruzzo,0,0,0,0,0,1
+Abruzzo,0,0,0,0,0,1
+Abruzzo,0,0,0,0,0,1
+Abruzzo,0,0,0,0,0,1
+Abruzzo,1,0,1,1,1,1
 Abruzzo,0.5,0,1,0,1,1
 Abruzzo,0.5,0,1,0,1,1
 Abruzzo,0,0,1,0,0,1
@@ -21,10 +27,8 @@ Abruzzo,0,0,1,0,0,1
 Abruzzo,0,0,1,0,0,1
 Abruzzo,0,0,1,0,0,1
 Abruzzo,0,0,1,0,0,1
-Abruzzo,0,0,1,0,0,1
-Abruzzo,0,0,1,0,0,1
 Abruzzo,0,0,2,0,0,1
-Abruzzo,0,0,2,0,0,1
+Abruzzo,1,0,2,0,1,1
 Abruzzo,1,0,2,0,1,1
 Abruzzo,1,0,2,0,1,1
 Abruzzo,1,0,3,0,1,1
@@ -34,84 +38,88 @@ Abruzzo,2,0,4,0,2,1
 Abruzzo,2,0,5,0,2,1
 Abruzzo,3,0,6,1,3,1
 Abruzzo,4,0,7,1,4,1
-Abruzzo,4,0,8,1,4,1
+Abruzzo,4,1,9,1,4,1
 Abruzzo,5,1,10,3,6,1
-Abruzzo,6,1,11,3,7,1
-Abruzzo,8,2,13,6,10,1
-Abruzzo,9.5,3,16,5,10,1
-Abruzzo,11,3,18,6,12,1
-Abruzzo,14,6,21,9,15,1
-Abruzzo,16,6,24,11,18,1
-Abruzzo,19.5,10,29,14,21,1
-Abruzzo,23,12,32,17,25,1
-Abruzzo,27,15,36,19,28,1
-Abruzzo,31,18,40,24,33,1
-Abruzzo,36,21,46,30,39,1
-Abruzzo,40,29,54,33,43,1
-Abruzzo,45,31,57,39,49,1
-Abruzzo,50,36,63,45,55,1
-Abruzzo,55,41,68,48,59,1
-Abruzzo,60,46,73,54,64,1
-Abruzzo,65,51,79,59,70,1
-Abruzzo,69,55,83,62,73,1
-Abruzzo,74,59,87,66,77,1
-Abruzzo,76,64,92,69,80,1
-Abruzzo,79,63,91,72,83,1
-Abruzzo,80,67,94,75,85,1
-Abruzzo,81,67,95,73,85,1
-Abruzzo,81,65,95,75,86,1
-Abruzzo,81,67,96,72,84,1
-Abruzzo,82,67,96,73,85,1
-Abruzzo,80,67,96,70,82,1
-Abruzzo,78,62,91,69,81,1
-Abruzzo,75,61,90,69,80,1
-Abruzzo,70,55,82,63,74,1
-Abruzzo,67,55,81,62,72,1
-Abruzzo,63,50,76,56,66,1
-Abruzzo,61,47,72,54,64,1
-Abruzzo,60,49,72,54,63,1
-Abruzzo,61,48,72,53,63,1
-Abruzzo,61,48,73,56,66,1
-Abruzzo,61,48,72,56,65,1
-Abruzzo,61,49,74,55,65,1
-Abruzzo,61,48,72,55,64,1
-Abruzzo,60,46,70,56,65,1
-Abruzzo,59,47,71,54,63,1
-Abruzzo,58,45,69,51,61,1
-Abruzzo,56,42,68,50,60,1
-Abruzzo,54,42,65,49,58,1
-Abruzzo,53,40,63,47,56,1
-Abruzzo,51,37,60,44,53,1
-Abruzzo,50,39,61,43,52,1
-Abruzzo,49,37,60,42,51,1
-Abruzzo,47,35,58,41,50,1
-Abruzzo,45,33,56,39,48,1
-Abruzzo,42.5,30,53,37,46,1
-Abruzzo,39,27,49,34,42,1
-Abruzzo,35,24,45,31,39,0.99
-Abruzzo,32,23,41,25,33,0.99
-Abruzzo,28,19,37,23,30,0.99
-Abruzzo,25,16,32,21,27,0.99
-Abruzzo,22,14,29,18,24,0.99
-Abruzzo,20,12,26,17,22,0.98
-Abruzzo,19,12,26,15,20,0.98
-Abruzzo,19,12,25,13,19,0.97
-Abruzzo,18,12,25,14,19,0.96
-Abruzzo,18,11,24,13,18,0.95
-Abruzzo,18,12,25,14,19,0.94
-Abruzzo,17,10,24,15,20,0.93
-Abruzzo,17,10,24,13,18,0.91
-Abruzzo,18,10,25,13,19,0.88
-Abruzzo,17,9,25,12,18,0.85
-Abruzzo,17,8,26,11,18,0.81
-Abruzzo,17,7,28,9,17,0.75
-Abruzzo,17,5,31,10,18,0.68
-Abruzzo,18.5,4,39,8,19,0.59
+Abruzzo,7,2,11,3,7,1
+Abruzzo,8,3,14,5,9,1
+Abruzzo,10,3,16,5,10,1
+Abruzzo,11,4,18,9,14,1
+Abruzzo,14,5,21,10,16,1
+Abruzzo,16,7,24,10,17,1
+Abruzzo,19,11,29,13,20,1
+Abruzzo,23,13,33,17,25,1
+Abruzzo,27,17,38,22,30,1
+Abruzzo,31,19,41,24,33,1
+Abruzzo,36,23,47,30,39,1
+Abruzzo,41,27,51,36,45,1
+Abruzzo,45,32,57,38,48,1
+Abruzzo,50,36,62,41,52,1
+Abruzzo,55,40,67,50,60,1
+Abruzzo,60,48,74,54,65,1
+Abruzzo,65,51,78,57,68,1
+Abruzzo,70,57,85,63,74,1
+Abruzzo,74,59,87,67,78,1
+Abruzzo,76,62,89,68,79,1
+Abruzzo,79,65,93,72,83,1
+Abruzzo,80,64,92,73,84,1
+Abruzzo,81,67,95,72,84,1
+Abruzzo,81,66,96,71,83,1
+Abruzzo,82,67,96,74,86,1
+Abruzzo,82,67,95,75,86,1
+Abruzzo,80,64,94,73,85,1
+Abruzzo,78,63,92,72,83,1
+Abruzzo,74.5,61,89,65,77,1
+Abruzzo,71,56,84,63,74,1
+Abruzzo,67,53,79,58,69,1
+Abruzzo,63,51,75,56,66,1
+Abruzzo,61,48,73,54,64,1
+Abruzzo,61,48,72,55,65,1
+Abruzzo,61,48,73,57,66,1
+Abruzzo,61,49,73,52,62,1
+Abruzzo,61,50,75,53,63,1
+Abruzzo,61,48,74,54,64,1
+Abruzzo,60.5,47,73,53,63,1
+Abruzzo,61,47,72,55,65,1
+Abruzzo,59,46,71,53,63,1
+Abruzzo,58,46,69,50,60,1
+Abruzzo,56,41,66,51,60,1
+Abruzzo,54,41,65,46,56,1
+Abruzzo,52,42,64,45,55,1
+Abruzzo,51,40,62,45,54,1
+Abruzzo,49,37,60,44,53,1
+Abruzzo,49,36,59,42,51,1
+Abruzzo,47,35,59,41,50,1
+Abruzzo,45,33,56,38,47,1
+Abruzzo,42,31,54,38,47,1
+Abruzzo,38,27,48,32,40,1
+Abruzzo,35,24,44,30,38,1
+Abruzzo,31,21,40,25,33,1
+Abruzzo,28,18,36,23,30,1
+Abruzzo,24,16,32,18,25,1
+Abruzzo,22,13,28,17,23,0.99
+Abruzzo,20,12,26,17,22,0.99
+Abruzzo,19,11,25,15,20,0.99
+Abruzzo,18,11,24,15,20,0.99
+Abruzzo,17,11,23,13,18,0.98
+Abruzzo,17,11,23,13,18,0.98
+Abruzzo,17,10,22,12,17,0.97
+Abruzzo,16,11,23,12,17,0.97
+Abruzzo,16,10,22,12,17,0.96
+Abruzzo,16,9,21,11,16,0.95
+Abruzzo,15,8,21,11,16,0.93
+Abruzzo,14,8,20,10,15,0.91
+Abruzzo,14,8,20,9,14,0.89
+Abruzzo,13,6,20,9,14,0.86
+Abruzzo,13,6,21,10,15,0.82
+Abruzzo,14,6,23,8,14,0.77
+Abruzzo,15,5,27,10,17,0.7
+Abruzzo,16,5,33,9,18,0.62
 Calabria,1,1,1,1,1,1
+Calabria,0,0,0,0,0,1
+Calabria,0,0,0,0,0,1
+Calabria,0,0,0,0,0,1
 Calabria,0.5,0,1,0,1,1
-Calabria,0.5,0,1,0,1,1
-Calabria,0,0,1,0,0,1
-Calabria,0,0,1,0,0,1
+Calabria,1,0,1,1,1,1
 Calabria,0,0,1,0,0,1
 Calabria,0,0,1,0,0,1
 Calabria,0,0,1,0,0,1
@@ -132,99 +140,90 @@ Calabria,0,0,1,0,0,1
 Calabria,0,0,1,0,0,1
 Calabria,0,0,1,0,0,1
 Calabria,0,0,2,0,0,1
-Calabria,0,0,2,0,0,1
+Calabria,1,0,2,0,1,1
 Calabria,1,0,2,0,1,1
 Calabria,1,0,2,0,1,1
 Calabria,1,0,3,0,1,1
 Calabria,1,0,3,0,1,1
 Calabria,1,0,4,0,1,1
-Calabria,2,0,4,0,2,1
+Calabria,2,0,4,1,2,1
 Calabria,2,0,5,0,2,1
 Calabria,3,0,6,1,3,1
-Calabria,3,0,7,2,4,1
+Calabria,4,0,7,2,4,1
 Calabria,4,1,8,1,4,1
-Calabria,5,1,9,3,6,1
-Calabria,6,1,10,3,7,1
-Calabria,8,2,12,4,8,1
-Calabria,9,3,14,6,10,1
-Calabria,11,4,16,6,11,1
-Calabria,12,5,18,9,14,1
-Calabria,14,8,21,11,16,1
-Calabria,17,9,23,13,18,1
-Calabria,19,11,26,16,21,1
-Calabria,21,13,29,16,22,1
-Calabria,23,14,30,19,25,1
-Calabria,25,18,34,20,27,1
-Calabria,27,18,35,25,31,1
-Calabria,29,20,37,24,31,1
-Calabria,31,22,40,26,33,1
-Calabria,33,24,42,29,36,1
-Calabria,34,24,43,28,36,1
-Calabria,36,26,45,30,38,1
-Calabria,37,29,47,30,38,1
-Calabria,37,26,46,33,40,1
-Calabria,38.5,28,47,34,41,1
+Calabria,5,1,9,2,5,1
+Calabria,6,1,10,4,7,1
+Calabria,7,3,13,4,8,1
+Calabria,9,3,14,5,9,1
+Calabria,11,5,17,6,11,1
+Calabria,12,5,18,10,14,1
+Calabria,15,8,21,11,16,1
+Calabria,17,9,23,11,17,1
+Calabria,18,11,26,13,19,1
+Calabria,21,13,28,16,22,1
+Calabria,23,14,31,20,26,1
+Calabria,25,16,33,21,27,1
+Calabria,28,19,36,22,29,1
+Calabria,29.5,20,38,25,32,1
+Calabria,32,22,40,26,33,1
+Calabria,33,24,42,30,37,1
+Calabria,35,25,44,29,37,1
+Calabria,36,26,45,29,37,1
+Calabria,37,27,45,32,39,1
+Calabria,37,28,47,33,40,1
+Calabria,38,26,46,35,42,1
+Calabria,38,28,47,32,40,1
 Calabria,38,27,47,32,40,1
-Calabria,39,28,47,33,41,1
-Calabria,38,27,47,31,39,1
-Calabria,36,25,45,30,38,1
-Calabria,34,22,42,28,36,1
-Calabria,31,21,39,25,32,1
-Calabria,27,19,36,21,28,1
-Calabria,25,17,32,20,26,1
-Calabria,23,15,30,19,25,1
-Calabria,22,14,29,18,24,1
-Calabria,22,14,28,17,23,1
-Calabria,21,13,28,17,23,1
-Calabria,20,13,27,17,22,1
-Calabria,19,11,25,16,21,1
-Calabria,18,11,24,13,19,1
-Calabria,17,9,23,14,19,1
+Calabria,38,28,47,32,40,1
+Calabria,36,26,45,29,37,1
+Calabria,34,23,43,29,36,1
+Calabria,30,21,39,25,32,1
+Calabria,28,18,36,22,29,1
+Calabria,25,15,32,21,27,1
+Calabria,23,15,30,18,24,1
+Calabria,22,13,29,17,23,1
+Calabria,22,15,29,17,23,1
+Calabria,21,13,27,18,23,1
+Calabria,21,14,28,18,23,1
+Calabria,20,12,26,15,21,1
+Calabria,18,11,24,15,20,1
+Calabria,17,11,24,13,18,1
 Calabria,16,10,22,12,17,1
 Calabria,16,9,21,11,16,1
-Calabria,15,9,21,11,16,1
-Calabria,15,8,20,12,16,1
+Calabria,15,8,20,10,15,1
+Calabria,14,8,20,10,15,1
 Calabria,14,7,19,10,15,1
-Calabria,14,7,18,11,15,1
-Calabria,13,7,19,10,14,1
-Calabria,13,6,17,10,14,1
-Calabria,11,5,16,8,12,1
+Calabria,14,7,19,9,14,1
+Calabria,13,8,19,10,14,1
+Calabria,12,6,17,9,13,1
+Calabria,11,5,16,9,13,1
 Calabria,10,5,15,7,11,1
-Calabria,9,4,13,7,10,1
-Calabria,8,3,12,6,9,1
-Calabria,7,3,11,5,8,0.99
-Calabria,6,2,10,4,7,0.99
+Calabria,9,3,13,5,9,1
+Calabria,8,4,12,6,9,1
+Calabria,7,3,11,5,8,1
+Calabria,6,2,10,4,7,1
 Calabria,6,2,9,3,6,0.99
 Calabria,5,1,8,2,5,0.99
-Calabria,4,1,8,3,5,0.98
-Calabria,4,1,7,2,4,0.98
-Calabria,4,0,6,2,4,0.97
-Calabria,3,0,6,1,3,0.97
-Calabria,3,0,6,2,4,0.96
-Calabria,3,1,6,1,3,0.94
+Calabria,4,1,7,3,5,0.99
+Calabria,4,1,7,2,4,0.99
+Calabria,3,1,6,2,4,0.98
+Calabria,3,1,6,1,3,0.98
+Calabria,3,0,5,1,3,0.97
+Calabria,3,0,5,1,3,0.97
+Calabria,3,0,6,1,3,0.96
+Calabria,3,1,6,1,3,0.95
 Calabria,3,0,6,1,3,0.93
-Calabria,3,1,7,2,4,0.91
-Calabria,3,1,7,2,4,0.89
+Calabria,3,0,6,1,3,0.91
+Calabria,3,0,7,1,3,0.89
 Calabria,4,0,8,1,4,0.86
-Calabria,4,0,10,2,5,0.82
-Calabria,5,0,12,1,5,0.77
-Calabria,6,1,18,1,6,0.7
-Calabria,8,0,23,2,8,0.62
-Calabria,10,0,33,2,10,0.52
+Calabria,4,0,9,2,5,0.82
+Calabria,5,0,12,1,5,0.78
+Calabria,6,1,16,1,6,0.71
+Calabria,7,0,21,2,8,0.64
+Calabria,10,0,32,3,11,0.54
+Calabria,14,0,48,2,14,0.43
 Campania,1,1,1,1,1,1
-Campania,0,0,0,0,0,1
-Campania,0,0,0,0,0,1
-Campania,0,0,0,0,0,1
-Campania,0,0,0,0,0,1
-Campania,0,0,0,0,0,1
-Campania,1,1,1,1,1,1
-Campania,0,0,0,0,0,1
-Campania,1,0,1,1,1,1
-Campania,0,0,0,0,0,1
-Campania,0,0,0,0,0,1
-Campania,0,0,0,0,0,1
-Campania,0,0,0,0,0,1
-Campania,0,0,0,0,0,1
+Campania,0.5,0,1,0,1,1
 Campania,1,0,1,1,1,1
 Campania,0,0,1,0,0,1
 Campania,0,0,1,0,0,1
@@ -244,99 +243,100 @@ Campania,0,0,1,0,0,1
 Campania,0,0,1,0,0,1
 Campania,0,0,1,0,0,1
 Campania,0,0,1,0,0,1
-Campania,1,0,2,0,1,1
+Campania,0,0,1,0,0,1
 Campania,1,0,2,0,1,1
 Campania,1,0,2,0,1,1
 Campania,1,0,2,0,1,1
 Campania,1,0,3,0,1,1
-Campania,1,0,4,0,1,1
+Campania,1,0,3,0,1,1
+Campania,1,0,3,0,1,1
 Campania,2,0,4,1,2,1
 Campania,2,0,5,0,2,1
-Campania,2,0,5,0,2,1
 Campania,3,0,6,1,3,1
+Campania,3,0,7,2,4,1
 Campania,4,1,8,1,4,1
 Campania,5,1,9,2,5,1
-Campania,6,2,11,2,6,1
-Campania,7.5,2,13,4,8,1
-Campania,9,3,15,4,9,1
-Campania,11,4,17,6,11,1
-Campania,13,4,19,8,14,1
-Campania,15,6,22,10,16,1
-Campania,17,8,25,11,18,1
-Campania,20,10,28,15,22,1
-Campania,23,13,33,17,25,1
-Campania,26,17,38,19,28,1
-Campania,30,17,41,23,32,1
-Campania,34,22,46,26,36,1
-Campania,38,25,51,30,40,1
-Campania,43,28,56,36,47,1
-Campania,48,33,63,42,53,1
-Campania,54,38,69,47,59,1
-Campania,60,41,74,52,64,1
-Campania,67,50,82,57,71,1
-Campania,73,57,90,65,78,1
-Campania,80,64,97,72,85,1
-Campania,86,68,102,76,90,1
-Campania,93,74,109,82,96,1
-Campania,98,82,118,90,103,1
-Campania,104,86,120,97,110,1
-Campania,109,92,127,98,112,1
-Campania,114,95,131,104,118,1
-Campania,118,99,134,109,123,1
-Campania,121,103,139,111,126,1
-Campania,125,107,145,114,129,1
-Campania,131,109,148,124,138,1
-Campania,135,114,152,124,140,1
-Campania,139,119,156,130,144,1
-Campania,142,120,160,131,147,1
-Campania,144,123,164,133,150,1
-Campania,144,120,163,131,148,1
-Campania,141,120,162,130,147,1
-Campania,136,114,157,129,145,1
-Campania,131,107,152,116,135,1
-Campania,125,102,146,115,133,1
-Campania,116,91,135,103,121,1
-Campania,107,86,126,94,111,1
-Campania,98,77,116,91,105,1
-Campania,89,70,106,80,94,1
-Campania,82,64,97,72,85,1
-Campania,76,61,91,71,82,1
-Campania,73,59,88,65,76,1
-Campania,68,54,82,61,72,1
-Campania,65,51,79,56,68,1
-Campania,61,47,74,54,65,1
-Campania,58,43,69,51,61,1
-Campania,54,41,65,48,57,1
-Campania,51,39,61,46,55,1
-Campania,47,35,58,42,51,1
-Campania,44,35,56,37,46,1
-Campania,41,30,51,37,45,1
-Campania,39,28,49,34,42,1
-Campania,37,27,47,31,39,1
-Campania,35,24,44,28,36,1
-Campania,32,22,41,26,34,0.99
-Campania,30,20,38,25,32,0.99
-Campania,27,19,35,21,28,0.99
-Campania,25,15,31,20,26,0.99
-Campania,23,13,29,18,24,0.98
-Campania,21,14,28,16,22,0.98
-Campania,20,11,26,18,23,0.97
-Campania,19,12,26,16,21,0.97
-Campania,19,11,25,16,21,0.96
-Campania,18,11,24,14,19,0.95
-Campania,18,11,24,14,19,0.93
-Campania,17,10,24,14,19,0.91
-Campania,17,9,24,13,18,0.89
-Campania,17,8,24,12,18,0.86
-Campania,17,8,26,13,19,0.82
-Campania,18,9,28,12,19,0.77
-Campania,20,8,33,14,22,0.71
-Campania,21,9,39,13,23,0.63
+Campania,6,1,11,4,7,1
+Campania,8,2,12,4,8,1
+Campania,9,3,15,5,9,1
+Campania,11,4,17,7,12,1
+Campania,13,5,19,7,13,1
+Campania,15,7,22,10,16,1
+Campania,17,8,25,12,19,1
+Campania,20,12,30,15,22,1
+Campania,23,13,33,18,26,1
+Campania,26,15,36,22,30,1
+Campania,30,18,40,24,33,1
+Campania,35,21,46,30,39,1
+Campania,38,27,51,32,42,1
+Campania,44,30,57,36,47,1
+Campania,49,33,62,41,53,1
+Campania,54,37,68,44,57,1
+Campania,61,45,75,52,64,1
+Campania,67,50,83,59,72,1
+Campania,73,57,90,63,77,1
+Campania,80,62,95,71,85,1
+Campania,86,69,102,78,91,1
+Campania,94,76,110,86,99,1
+Campania,98,80,114,89,103,1
+Campania,104,85,119,97,110,1
+Campania,109,90,126,99,113,1
+Campania,114,96,130,106,120,1
+Campania,117,101,136,107,121,1
+Campania,122,105,141,113,127,1
+Campania,125.5,107,143,120,134,1
+Campania,130,111,149,120,135,1
+Campania,135,116,153,124,139,1
+Campania,139,121,158,127,143,1
+Campania,143,122,163,133,149,1
+Campania,144,122,164,132,149,1
+Campania,144,124,163,136,152,1
+Campania,142,122,161,132,148,1
+Campania,137,111,156,128,145,1
+Campania,132,110,152,120,137,1
+Campania,124,103,144,112,130,1
+Campania,116,97,139,106,122,1
+Campania,107,89,128,97,113,1
+Campania,98,78,115,87,102,1
+Campania,89,70,105,79,93,1
+Campania,83,64,96,75,88,1
+Campania,77,58,90,69,81,1
+Campania,73,57,85,64,76,1
+Campania,69,55,82,61,72,1
+Campania,65,50,77,58,68,1
+Campania,61,46,73,53,64,1
+Campania,57,44,69,52,62,1
+Campania,53,41,65,47,56,1
+Campania,50,38,63,45,54,1
+Campania,47,34,57,42,51,1
+Campania,44,33,56,39,48,1
+Campania,42,30,51,36,44,1
+Campania,39,28,49,33,41,1
+Campania,36,26,46,30,38,1
+Campania,34,24,44,29,36,1
+Campania,32,21,40,27,34,1
+Campania,29,19,37,25,32,1
+Campania,27,17,34,20,27,1
+Campania,24,16,32,20,26,0.99
+Campania,22,14,29,18,24,0.99
+Campania,21,13,27,16,22,0.99
+Campania,19,13,26,15,20,0.99
+Campania,18,11,25,15,20,0.98
+Campania,18,12,24,14,19,0.98
+Campania,17,11,24,13,18,0.97
+Campania,17,10,23,13,18,0.97
+Campania,16,10,22,11,16,0.96
+Campania,16,9,22,12,17,0.95
+Campania,16,9,22,12,17,0.93
+Campania,15.5,9,22,12,17,0.91
+Campania,16,9,22,12,17,0.89
+Campania,16,8,23,10,16,0.86
+Campania,16,7,23,11,17,0.82
+Campania,17,8,26,10,17,0.77
+Campania,18,8,31,11,19,0.71
+Campania,20,6,36,11,21,0.63
 Emilia-Romagna,1,1,1,1,1,1
-Emilia-Romagna,0,0,0,0,0,1
-Emilia-Romagna,0.5,0,1,0,1,1
-Emilia-Romagna,0,0,1,0,0,1
-Emilia-Romagna,0.5,0,1,0,1,1
+Emilia-Romagna,1,0,1,1,1,1
 Emilia-Romagna,0,0,1,0,0,1
 Emilia-Romagna,0,0,1,0,0,1
 Emilia-Romagna,0,0,1,0,0,1
@@ -354,111 +354,117 @@ Emilia-Romagna,0,0,1,0,0,1
 Emilia-Romagna,0,0,1,0,0,1
 Emilia-Romagna,0,0,1,0,0,1
 Emilia-Romagna,0,0,2,0,0,1
-Emilia-Romagna,1,0,2,0,1,1
+Emilia-Romagna,0,0,2,0,0,1
 Emilia-Romagna,1,0,2,0,1,1
 Emilia-Romagna,1,0,2,0,1,1
 Emilia-Romagna,1,0,3,0,1,1
 Emilia-Romagna,1,0,3,0,1,1
 Emilia-Romagna,1,0,4,0,1,1
-Emilia-Romagna,1,0,5,0,1,1
+Emilia-Romagna,2,0,4,0,2,1
 Emilia-Romagna,2,0,6,0,2,1
-Emilia-Romagna,3,0,7,1,3,1
+Emilia-Romagna,2,0,7,0,2,1
 Emilia-Romagna,3,0,8,0,3,1
 Emilia-Romagna,4,0,10,0,4,1
-Emilia-Romagna,6,0,12,2,6,1
+Emilia-Romagna,6,1,13,2,6,1
 Emilia-Romagna,7,1,15,3,8,1
 Emilia-Romagna,9,1,18,4,10,1
-Emilia-Romagna,12,2,22,6,13,1
+Emilia-Romagna,12,3,22,4,12,1
 Emilia-Romagna,15,4,27,7,16,1
-Emilia-Romagna,18,6,33,11,21,1
-Emilia-Romagna,23,7,38,12,24,1
-Emilia-Romagna,28,11,46,15,29,1
-Emilia-Romagna,34,13,53,23,38,1
-Emilia-Romagna,42,19,64,27,45,1
-Emilia-Romagna,50,29,79,34,54,1
-Emilia-Romagna,60,37,92,43,64,1
-Emilia-Romagna,73,41,102,54,78,1
-Emilia-Romagna,84,55,117,65,90,1
-Emilia-Romagna,97,60,130,73,101,1
-Emilia-Romagna,113,80,154,94,123,1
-Emilia-Romagna,125,85,164,106,138,1
-Emilia-Romagna,143,103,191,119,152,1
-Emilia-Romagna,161,117,211,142,178,1
-Emilia-Romagna,180,133,231,156,194,1
-Emilia-Romagna,201,146,254,174,216,1
-Emilia-Romagna,223,171,284,193,236,1
-Emilia-Romagna,245,193,310,216,261,1
-Emilia-Romagna,272,209,329,239,287,1
-Emilia-Romagna,297,231,368,263,316,1
-Emilia-Romagna,329,246,389,298,354,1
-Emilia-Romagna,356,291,440,325,383,1
-Emilia-Romagna,396,321,471,370,430,1
-Emilia-Romagna,432,354,507,393,454,1
-Emilia-Romagna,472,395,540,441,502,1
-Emilia-Romagna,513,436,579,477,534,1
-Emilia-Romagna,554,482,618,524,576,1
-Emilia-Romagna,588,518,646,564,614,1
-Emilia-Romagna,619,558,673,599,646,1
-Emilia-Romagna,645,585,700,620,665,1
-Emilia-Romagna,668,616,719,650,691,1
-Emilia-Romagna,685,634,733,668,706,1
-Emilia-Romagna,692,645,744,671,711,1
-Emilia-Romagna,690.5,643,748,663,703,1
-Emilia-Romagna,683,634,735,660,702,1
-Emilia-Romagna,666,614,715,643,684,1
-Emilia-Romagna,644,595,697,627,670,1
-Emilia-Romagna,620,569,668,593,634,1
-Emilia-Romagna,597,548,642,579,616,1
-Emilia-Romagna,573,522,618,550,590,1
-Emilia-Romagna,549,504,593,525,561,1
-Emilia-Romagna,526,481,565,504,539,1
-Emilia-Romagna,503,458,547,482,519,1
-Emilia-Romagna,486,442,523,471,504,1
-Emilia-Romagna,467.5,427,508,454,488,1
-Emilia-Romagna,455,415,497,440,473,1
-Emilia-Romagna,438,401,478,414,446,1
-Emilia-Romagna,419,383,459,395,426,1
-Emilia-Romagna,401,364,436,384,412,1
-Emilia-Romagna,385,353,421,369,395,1
-Emilia-Romagna,374,342,409,358,386,1
-Emilia-Romagna,366,331,396,352,378,1
-Emilia-Romagna,358,325,392,339,366,1
-Emilia-Romagna,349,316,383,335,361,1
-Emilia-Romagna,340,305,370,321,348,1
-Emilia-Romagna,329,294,360,315,340,1
-Emilia-Romagna,316,284,347,303,328,1
-Emilia-Romagna,305,273,330,291,315,1
-Emilia-Romagna,295,262,326,276,303,1
-Emilia-Romagna,288,257,317,274,298,1
-Emilia-Romagna,278,250,307,267,291,1
-Emilia-Romagna,268,241,298,252,275,1
-Emilia-Romagna,257,224,284,243,265,1
-Emilia-Romagna,246,217,272,232,254,1
-Emilia-Romagna,236,208,261,223,244,1
-Emilia-Romagna,226,197,249,212,234,0.99
-Emilia-Romagna,219,195,246,203,224,0.99
-Emilia-Romagna,209.5,186,235,198,218,0.99
-Emilia-Romagna,200.5,176,225,186,206,0.99
-Emilia-Romagna,193,168,216,180,199,0.98
-Emilia-Romagna,185,159,208,176,194,0.98
-Emilia-Romagna,176,154,199,165,183,0.97
-Emilia-Romagna,166,141,187,154,172,0.97
-Emilia-Romagna,154,132,175,143,161,0.96
-Emilia-Romagna,144,121,162,133,150,0.94
-Emilia-Romagna,132,113,153,123,140,0.93
-Emilia-Romagna,121,104,141,109,124,0.91
-Emilia-Romagna,114,96,132,104,119,0.89
-Emilia-Romagna,108,89,127,97,113,0.85
-Emilia-Romagna,104,82,123,94,110,0.81
-Emilia-Romagna,104,82,124,92,109,0.76
-Emilia-Romagna,104,81,128,91,110,0.69
+Emilia-Romagna,19,7,33,10,20,1
+Emilia-Romagna,23,7,37,13,24,1
+Emilia-Romagna,28,12,45,19,32,1
+Emilia-Romagna,35,17,54,25,40,1
+Emilia-Romagna,42,23,66,30,46,1
+Emilia-Romagna,51,28,75,39,56,1
+Emilia-Romagna,61,33,86,49,69,1
+Emilia-Romagna,72,43,99,54,76,1
+Emilia-Romagna,84,53,113,65,89,1
+Emilia-Romagna,97,65,129,78,104,1
+Emilia-Romagna,111,76,148,92,118,1
+Emilia-Romagna,128,87,163,114,144,1
+Emilia-Romagna,144.5,100,184,126,158,1
+Emilia-Romagna,162,116,204,144,179,1
+Emilia-Romagna,181,133,228,155,192,1
+Emilia-Romagna,202,151,252,173,215,1
+Emilia-Romagna,222,172,283,191,234,1
+Emilia-Romagna,246.5,188,298,218,263,1
+Emilia-Romagna,272.5,207,330,241,289,1
+Emilia-Romagna,299.5,238,364,264,316,1
+Emilia-Romagna,327,259,396,294,346,1
+Emilia-Romagna,362,289,430,332,389,1
+Emilia-Romagna,395.5,323,470,354,414,1
+Emilia-Romagna,434,366,508,395,452,1
+Emilia-Romagna,474,403,546,439,500,1
+Emilia-Romagna,516,445,584,494,549,1
+Emilia-Romagna,554.5,475,610,529,582,1
+Emilia-Romagna,588,525,648,563,613,1
+Emilia-Romagna,620,560,677,589,641,1
+Emilia-Romagna,647,591,701,629,672,1
+Emilia-Romagna,668,614,717,643,685,1
+Emilia-Romagna,683,633,733,662,703,1
+Emilia-Romagna,693,639,742,669,709,1
+Emilia-Romagna,691,636,737,671,711,1
+Emilia-Romagna,681,634,730,660,698,1
+Emilia-Romagna,666,607,712,641,683,1
+Emilia-Romagna,643,594,694,618,658,1
+Emilia-Romagna,620,573,671,602,643,1
+Emilia-Romagna,595,551,643,571,608,1
+Emilia-Romagna,571,526,619,547,586,1
+Emilia-Romagna,548,500,588,525,562,1
+Emilia-Romagna,524,479,564,503,536,1
+Emilia-Romagna,502,457,540,484,517,1
+Emilia-Romagna,483,439,521,468,500,1
+Emilia-Romagna,469,428,506,451,481,1
+Emilia-Romagna,453,410,491,434,466,1
+Emilia-Romagna,437,402,475,417,448,1
+Emilia-Romagna,418,377,450,405,435,1
+Emilia-Romagna,401,366,435,383,410,1
+Emilia-Romagna,385,352,418,367,395,1
+Emilia-Romagna,373,338,408,354,382,1
+Emilia-Romagna,365,331,397,350,377,1
+Emilia-Romagna,358,325,392,344,370,1
+Emilia-Romagna,351,316,384,338,365,1
+Emilia-Romagna,340,306,368,326,352,1
+Emilia-Romagna,326,298,361,308,334,1
+Emilia-Romagna,315,282,343,299,323,1
+Emilia-Romagna,304,271,330,293,318,1
+Emilia-Romagna,294,264,323,279,302,1
+Emilia-Romagna,285.5,256,314,271,294,1
+Emilia-Romagna,277.5,245,308,262,285,1
+Emilia-Romagna,268,234,294,254,278,1
+Emilia-Romagna,257,227,281,242,264,1
+Emilia-Romagna,243,220,271,231,252,1
+Emilia-Romagna,234,208,261,222,243,1
+Emilia-Romagna,225,201,253,209,230,1
+Emilia-Romagna,215,189,241,201,222,1
+Emilia-Romagna,208,178,232,197,219,1
+Emilia-Romagna,198,171,221,191,211,0.99
+Emilia-Romagna,189,164,213,178,198,0.99
+Emilia-Romagna,180,156,205,167,186,0.99
+Emilia-Romagna,172,144,193,159,180,0.99
+Emilia-Romagna,160,136,184,146,166,0.98
+Emilia-Romagna,147,125,171,135,154,0.98
+Emilia-Romagna,135,117,156,128,143,0.97
+Emilia-Romagna,124,104,142,114,129,0.97
+Emilia-Romagna,113,96,131,101,116,0.96
+Emilia-Romagna,103,85,121,95,109,0.94
+Emilia-Romagna,96,81,113,87,100,0.93
+Emilia-Romagna,90,75,107,80,93,0.91
+Emilia-Romagna,86,70,102,77,90,0.88
+Emilia-Romagna,85,66,99,77,90,0.85
+Emilia-Romagna,82,63,97,73,86,0.81
+Emilia-Romagna,80,62,99,69,84,0.76
+Emilia-Romagna,81,57,100,70,87,0.69
 Friuli Venezia Giulia,1,1,1,1,1,1
 Friuli Venezia Giulia,0,0,0,0,0,1
-Friuli Venezia Giulia,0.5,0,1,0,1,1
+Friuli Venezia Giulia,0,0,0,0,0,1
+Friuli Venezia Giulia,0,0,0,0,0,1
 Friuli Venezia Giulia,1,0,1,1,1,1
 Friuli Venezia Giulia,0,0,0,0,0,1
-Friuli Venezia Giulia,0,0,1,0,0,1
 Friuli Venezia Giulia,0.5,0,1,0,1,1
+Friuli Venezia Giulia,0,0,0,0,0,1
+Friuli Venezia Giulia,0,0,1,0,0,1
+Friuli Venezia Giulia,0,0,0,0,0,1
 Friuli Venezia Giulia,0,0,1,0,0,1
 Friuli Venezia Giulia,0,0,1,0,0,1
 Friuli Venezia Giulia,0,0,1,0,0,1
@@ -473,103 +479,105 @@ Friuli Venezia Giulia,0,0,1,0,0,1
 Friuli Venezia Giulia,0,0,1,0,0,1
 Friuli Venezia Giulia,0,0,1,0,0,1
 Friuli Venezia Giulia,0,0,1,0,0,1
-Friuli Venezia Giulia,0,0,1,0,0,1
-Friuli Venezia Giulia,1,0,2,0,1,1
+Friuli Venezia Giulia,0,0,2,0,0,1
+Friuli Venezia Giulia,0,0,2,0,0,1
 Friuli Venezia Giulia,1,0,2,0,1,1
 Friuli Venezia Giulia,1,0,2,0,1,1
 Friuli Venezia Giulia,1,0,3,0,1,1
 Friuli Venezia Giulia,1,0,3,0,1,1
 Friuli Venezia Giulia,1,0,3,0,1,1
 Friuli Venezia Giulia,1,0,4,0,1,1
-Friuli Venezia Giulia,2,0,4,0,2,1
 Friuli Venezia Giulia,2,0,5,0,2,1
-Friuli Venezia Giulia,3,0,6,1,3,1
-Friuli Venezia Giulia,4,1,8,1,4,1
-Friuli Venezia Giulia,5,1,9,2,5,1
-Friuli Venezia Giulia,6,1,10,2,6,1
-Friuli Venezia Giulia,7,1,12,4,8,1
-Friuli Venezia Giulia,9,3,15,5,10,1
-Friuli Venezia Giulia,11,3,17,7,12,1
+Friuli Venezia Giulia,2,0,5,0,2,1
+Friuli Venezia Giulia,3,0,7,1,3,1
+Friuli Venezia Giulia,4,0,8,1,4,1
+Friuli Venezia Giulia,5,0,9,2,5,1
+Friuli Venezia Giulia,6,1,11,2,6,1
+Friuli Venezia Giulia,7,2,13,4,8,1
+Friuli Venezia Giulia,9,4,16,5,10,1
+Friuli Venezia Giulia,11,5,18,7,12,1
 Friuli Venezia Giulia,13,5,20,8,14,1
-Friuli Venezia Giulia,16,7,23,12,18,1
-Friuli Venezia Giulia,18,8,26,13,20,1
-Friuli Venezia Giulia,22,12,31,17,24,1
-Friuli Venezia Giulia,25,15,34,19,27,1
-Friuli Venezia Giulia,29,19,40,22,31,1
-Friuli Venezia Giulia,33,22,45,27,36,1
-Friuli Venezia Giulia,37,24,48,30,39,1
-Friuli Venezia Giulia,42,28,53,35,45,1
-Friuli Venezia Giulia,46,33,57,40,50,1
-Friuli Venezia Giulia,51,39,64,48,58,1
-Friuli Venezia Giulia,55,41,67,48,58,1
-Friuli Venezia Giulia,60,45,72,51,62,1
-Friuli Venezia Giulia,63,49,76,55,66,1
-Friuli Venezia Giulia,67,52,79,59,70,1
-Friuli Venezia Giulia,71,55,83,63,74,1
-Friuli Venezia Giulia,74,58,86,65,76,1
-Friuli Venezia Giulia,78,63,91,69,80,1
-Friuli Venezia Giulia,81,65,94,74,85,1
-Friuli Venezia Giulia,83,70,98,74,86,1
-Friuli Venezia Giulia,86,71,100,77,89,1
-Friuli Venezia Giulia,85,70,100,76,88,1
-Friuli Venezia Giulia,85,70,100,79,91,1
-Friuli Venezia Giulia,84,69,97,76,87,1
-Friuli Venezia Giulia,82,68,97,74,86,1
-Friuli Venezia Giulia,81,65,94,75,86,1
-Friuli Venezia Giulia,80,64,94,73,84,1
-Friuli Venezia Giulia,78,62,91,71,82,1
-Friuli Venezia Giulia,76,60,89,67,79,1
-Friuli Venezia Giulia,74,59,87,67,78,1
-Friuli Venezia Giulia,72,57,84,64,75,1
-Friuli Venezia Giulia,71,56,83,65,75,1
-Friuli Venezia Giulia,69,57,82,63,73,1
-Friuli Venezia Giulia,67,56,83,60,71,1
-Friuli Venezia Giulia,65,51,79,60,70,1
-Friuli Venezia Giulia,61,48,74,57,67,1
-Friuli Venezia Giulia,57,45,69,50,60,1
-Friuli Venezia Giulia,54,42,66,47,57,1
-Friuli Venezia Giulia,51,38,61,45,54,1
-Friuli Venezia Giulia,49,36,58,41,50,1
-Friuli Venezia Giulia,46,36,57,42,50,1
-Friuli Venezia Giulia,44,32,54,38,47,1
-Friuli Venezia Giulia,42,30,51,37,45,1
-Friuli Venezia Giulia,40,29,49,34,42,1
-Friuli Venezia Giulia,38,29,48,32,40,1
-Friuli Venezia Giulia,37,27,46,33,40,1
-Friuli Venezia Giulia,36,25,45,30,38,1
-Friuli Venezia Giulia,34,24,43,28,36,1
-Friuli Venezia Giulia,32,23,40,27,34,1
-Friuli Venezia Giulia,30,19,38,25,32,1
+Friuli Venezia Giulia,15,8,24,12,18,1
+Friuli Venezia Giulia,18,9,26,13,20,1
+Friuli Venezia Giulia,22,13,32,15,23,1
+Friuli Venezia Giulia,25,14,34,19,27,1
+Friuli Venezia Giulia,29,17,39,24,32,1
+Friuli Venezia Giulia,33,21,44,26,35,1
+Friuli Venezia Giulia,37,25,48,34,43,1
+Friuli Venezia Giulia,42,29,54,33,43,1
+Friuli Venezia Giulia,47,34,59,39,50,1
+Friuli Venezia Giulia,51,40,65,45,55,1
+Friuli Venezia Giulia,56,42,68,47,58,1
+Friuli Venezia Giulia,60,45,71,53,64,1
+Friuli Venezia Giulia,64,48,75,58,68,1
+Friuli Venezia Giulia,68,53,80,61,72,1
+Friuli Venezia Giulia,71,57,84,62,74,1
+Friuli Venezia Giulia,74,60,88,67,78,1
+Friuli Venezia Giulia,78,62,92,69,81,1
+Friuli Venezia Giulia,81,66,95,75,86,1
+Friuli Venezia Giulia,84,68,97,77,88,1
+Friuli Venezia Giulia,86,71,100,78,90,1
+Friuli Venezia Giulia,86,71,100,81,92,1
+Friuli Venezia Giulia,85,68,98,79,90,1
+Friuli Venezia Giulia,84,68,97,76,87,1
+Friuli Venezia Giulia,83,68,97,76,87,1
+Friuli Venezia Giulia,82,65,94,76,87,1
+Friuli Venezia Giulia,79,64,93,73,84,1
+Friuli Venezia Giulia,78,63,91,71,82,1
+Friuli Venezia Giulia,75,59,88,67,79,1
+Friuli Venezia Giulia,73,58,85,66,77,1
+Friuli Venezia Giulia,72,58,85,65,76,1
+Friuli Venezia Giulia,71,58,85,63,74,1
+Friuli Venezia Giulia,70,54,82,62,73,1
+Friuli Venezia Giulia,68,54,81,60,71,1
+Friuli Venezia Giulia,65,52,78,56,67,1
+Friuli Venezia Giulia,61,47,73,57,67,1
+Friuli Venezia Giulia,57,44,69,50,60,1
+Friuli Venezia Giulia,53,41,66,45,55,1
+Friuli Venezia Giulia,51,40,62,45,54,1
+Friuli Venezia Giulia,48,37,60,41,50,1
+Friuli Venezia Giulia,46,36,57,40,48,1
+Friuli Venezia Giulia,44,32,54,40,48,1
+Friuli Venezia Giulia,42,30,52,34,43,1
+Friuli Venezia Giulia,40,30,49,37,44,1
+Friuli Venezia Giulia,38,28,48,31,39,1
+Friuli Venezia Giulia,37,27,46,31,39,1
+Friuli Venezia Giulia,35,26,45,29,37,1
+Friuli Venezia Giulia,34,25,43,28,35,1
+Friuli Venezia Giulia,32,23,41,28,35,1
+Friuli Venezia Giulia,30,21,38,24,31,1
 Friuli Venezia Giulia,27,18,35,21,28,1
-Friuli Venezia Giulia,25,17,33,21,27,1
-Friuli Venezia Giulia,24,16,31,19,25,1
-Friuli Venezia Giulia,23,15,30,18,24,0.99
-Friuli Venezia Giulia,22,14,29,17,23,0.99
-Friuli Venezia Giulia,21,13,28,17,23,0.99
-Friuli Venezia Giulia,20,13,27,15,21,0.99
-Friuli Venezia Giulia,19,11,25,15,20,0.98
-Friuli Venezia Giulia,17,10,23,14,19,0.98
-Friuli Venezia Giulia,16,10,23,12,17,0.97
-Friuli Venezia Giulia,15,8,20,11,16,0.97
-Friuli Venezia Giulia,13,7,19,9,14,0.96
-Friuli Venezia Giulia,12,6,17,9,13,0.94
-Friuli Venezia Giulia,11,6,17,8,12,0.93
-Friuli Venezia Giulia,11,5,16,8,12,0.91
-Friuli Venezia Giulia,11,6,17,8,12,0.89
-Friuli Venezia Giulia,11,4,17,6,11,0.85
-Friuli Venezia Giulia,11,5,19,7,12,0.81
-Friuli Venezia Giulia,12,4,21,7,13,0.76
-Friuli Venezia Giulia,14,5,26,6,14,0.69
-Friuli Venezia Giulia,15,3,31,8,17,0.61
+Friuli Venezia Giulia,25,16,32,20,26,1
+Friuli Venezia Giulia,23.5,16,31,19,25,1
+Friuli Venezia Giulia,23,14,29,18,24,1
+Friuli Venezia Giulia,22,14,29,17,23,1
+Friuli Venezia Giulia,21,14,29,16,22,1
+Friuli Venezia Giulia,20,13,27,17,22,0.99
+Friuli Venezia Giulia,18,11,25,13,19,0.99
+Friuli Venezia Giulia,17,11,24,14,19,0.99
+Friuli Venezia Giulia,15.5,10,22,11,16,0.99
+Friuli Venezia Giulia,14,8,20,10,15,0.98
+Friuli Venezia Giulia,13,7,18,10,14,0.98
+Friuli Venezia Giulia,11,5,16,8,12,0.97
+Friuli Venezia Giulia,11,5,15,7,11,0.97
+Friuli Venezia Giulia,10,6,15,6,10,0.96
+Friuli Venezia Giulia,10,5,15,6,10,0.95
+Friuli Venezia Giulia,9,4,14,6,10,0.93
+Friuli Venezia Giulia,9,5,15,6,10,0.91
+Friuli Venezia Giulia,10,5,15,6,10,0.89
+Friuli Venezia Giulia,10,4,16,7,11,0.86
+Friuli Venezia Giulia,11,4,17,7,12,0.82
+Friuli Venezia Giulia,12,3,19,8,13,0.77
+Friuli Venezia Giulia,13,4,23,7,14,0.71
+Friuli Venezia Giulia,15,5,30,8,16,0.63
 Lazio,1,1,1,1,1,1
 Lazio,0,0,0,0,0,1
-Lazio,0,0,0,0,0,1
 Lazio,0.5,0,1,0,1,1
-Lazio,0,0,0,0,0,1
-Lazio,0.5,0,1,0,1,1
+Lazio,0,0,1,0,0,1
+Lazio,0,0,1,0,0,1
+Lazio,0,0,1,0,0,1
 Lazio,1,0,1,1,1,1
-Lazio,0,0,1,0,0,1
-Lazio,0,0,1,0,0,1
+Lazio,0,0,0,0,0,1
 Lazio,0,0,1,0,0,1
 Lazio,0,0,1,0,0,1
 Lazio,0,0,1,0,0,1
@@ -591,102 +599,105 @@ Lazio,1,0,2,0,1,1
 Lazio,1,0,2,0,1,1
 Lazio,1,0,3,0,1,1
 Lazio,1,0,3,0,1,1
-Lazio,1,0,3,0,1,1
-Lazio,2,0,4,1,2,1
+Lazio,1,0,4,0,1,1
+Lazio,2,0,4,0,2,1
 Lazio,2,0,5,0,2,1
 Lazio,3,0,6,1,3,1
-Lazio,4,0,8,1,4,1
-Lazio,4,1,9,2,5,1
-Lazio,5.5,0,10,2,6,1
+Lazio,3,0,7,0,3,1
+Lazio,4,0,9,2,5,1
+Lazio,5,1,11,2,6,1
 Lazio,7,1,12,3,7,1
 Lazio,8,2,15,4,9,1
-Lazio,10,3,17,6,11,1
-Lazio,12,4,21,8,14,1
-Lazio,15,7,26,11,18,1
-Lazio,18,8,29,13,21,1
-Lazio,22,10,33,14,23,1
-Lazio,26,15,40,19,28,1
-Lazio,30,16,43,22,33,1
-Lazio,36,20,50,26,38,1
-Lazio,42,26,57,33,46,1
-Lazio,48,30,66,39,53,1
-Lazio,55,37,75,46,61,1
-Lazio,63,45,83,50,67,1
-Lazio,71,51,91,60,77,1
-Lazio,81,61,102,70,87,1
-Lazio,92,70,115,83,101,1
-Lazio,102,82,125,90,108,1
-Lazio,112,87,133,99,118,1
-Lazio,122,98,143,111,129,1
-Lazio,131,111,154,118,136,1
-Lazio,141,120,164,130,148,1
-Lazio,150,128,173,139,156,1
-Lazio,158,139,182,147,164,1
-Lazio,166.5,143,184,156,174,1
-Lazio,173,150,193,166,183,1
-Lazio,177,154,197,165,182,1
-Lazio,179,156,198,171,187,1
-Lazio,181,160,201,173,189,1
-Lazio,180,155,200,166,185,1
-Lazio,178,157,201,165,183,1
-Lazio,178,152,197,165,183,1
-Lazio,175,153,196,163,180,1
-Lazio,171,151,194,159,177,1
-Lazio,167,144,188,155,173,1
-Lazio,161,140,182,149,167,1
-Lazio,156,135,177,144,161,1
-Lazio,150,130,169,138,155,1
-Lazio,145,123,164,135,151,1
-Lazio,140,123,161,133,147,1
-Lazio,137,118,155,128,143,1
-Lazio,134,115,151,129,143,1
-Lazio,132,115,151,121,136,1
-Lazio,130,112,148,117,133,1
-Lazio,128,110,146,121,135,1
-Lazio,127,106,143,114,129,1
-Lazio,125,105,141,118,132,1
-Lazio,121,103,140,111,126,1
-Lazio,117,98,135,106,121,1
-Lazio,113,93,130,105,119,1
-Lazio,109,91,127,101,115,1
-Lazio,105,88,122,96,110,1
-Lazio,99,84,118,92,106,1
-Lazio,95,77,110,84,98,1
-Lazio,89,71,103,78,91,1
-Lazio,85,69,99,76,88,1
-Lazio,81,65,94,74,85,1
-Lazio,77,63,90,69,80,1
-Lazio,76,61,89,68,79,0.99
-Lazio,75,60,87,70,81,0.99
-Lazio,73,60,87,65,76,0.99
-Lazio,71,55,83,64,75,0.99
-Lazio,70,55,82,62,73,0.99
-Lazio,67,54,80,59,70,0.98
-Lazio,65,50,76,59,69,0.98
-Lazio,62,49,74,57,66,0.97
-Lazio,60,47,72,53,63,0.96
-Lazio,57,45,69,52,61,0.95
-Lazio,55,41,65,47,57,0.94
-Lazio,53,40,64,48,58,0.92
-Lazio,51,40,64,44,54,0.9
-Lazio,49,37,61,42,52,0.87
-Lazio,47,33,60,39,50,0.84
-Lazio,46,31,60,37,48,0.79
-Lazio,44,27,61,35,47,0.73
-Lazio,42,25,65,32,45,0.66
+Lazio,10,3,17,5,11,1
+Lazio,13,4,21,8,14,1
+Lazio,15,6,24,9,16,1
+Lazio,18,7,28,11,19,1
+Lazio,22,11,33,15,24,1
+Lazio,26,12,37,21,30,1
+Lazio,31,19,46,22,33,1
+Lazio,36,22,52,26,38,1
+Lazio,42,26,58,34,47,1
+Lazio,48,30,64,40,53,1
+Lazio,55,34,72,44,59,1
+Lazio,64,42,81,52,68,1
+Lazio,72,52,90,60,76,1
+Lazio,82,59,103,72,89,1
+Lazio,92,72,114,78,96,1
+Lazio,102,80,123,92,109,1
+Lazio,113,90,133,101,119,1
+Lazio,122,98,142,115,132,1
+Lazio,131,108,151,119,136,1
+Lazio,141,121,162,133,149,1
+Lazio,150,128,171,141,158,1
+Lazio,158,136,180,146,163,1
+Lazio,166,145,187,155,172,1
+Lazio,172,152,193,163,179,1
+Lazio,177,156,198,163,181,1
+Lazio,179,154,197,169,186,1
+Lazio,180,157,200,169,186,1
+Lazio,179,157,200,168,185,1
+Lazio,179,157,198,166,183,1
+Lazio,177,154,198,166,184,1
+Lazio,175,153,195,162,180,1
+Lazio,171,147,191,160,178,1
+Lazio,167,147,189,153,171,1
+Lazio,162,138,181,150,168,1
+Lazio,155,136,179,144,161,1
+Lazio,150,129,170,140,156,1
+Lazio,145,125,163,136,151,1
+Lazio,141,119,159,130,146,1
+Lazio,138,119,156,126,142,1
+Lazio,134,114,152,125,140,1
+Lazio,132,111,151,122,137,1
+Lazio,130,111,148,121,136,1
+Lazio,128,109,145,120,135,1
+Lazio,126,107,145,115,130,1
+Lazio,123,102,139,115,129,1
+Lazio,120,100,139,110,125,1
+Lazio,117,97,134,111,124,1
+Lazio,113,96,131,103,118,1
+Lazio,109,90,127,100,114,1
+Lazio,104,85,121,96,110,1
+Lazio,100,82,116,90,104,1
+Lazio,94,78,111,86,99,1
+Lazio,89,75,105,81,93,1
+Lazio,84,69,99,75,88,1
+Lazio,79,65,93,70,82,1
+Lazio,77,61,90,67,79,1
+Lazio,75,61,87,70,80,1
+Lazio,74,60,88,65,76,1
+Lazio,72,59,87,64,75,1
+Lazio,70,56,83,63,74,1
+Lazio,69,53,80,62,73,0.99
+Lazio,66,52,78,58,69,0.99
+Lazio,64,51,76,57,67,0.99
+Lazio,62,47,73,54,64,0.99
+Lazio,59,46,70,50,60,0.98
+Lazio,56,44,67,50,59,0.98
+Lazio,54,41,65,49,58,0.97
+Lazio,52,38,61,46,55,0.96
+Lazio,50,37,60,44,53,0.95
+Lazio,47,35,58,41,50,0.94
+Lazio,47,36,58,40,49,0.93
+Lazio,45,33,55,40,49,0.91
+Lazio,44,32,54,38,47,0.88
+Lazio,43,31,55,36,45,0.85
+Lazio,43,31,56,35,45,0.81
+Lazio,46,30,61,37,48,0.75
+Lazio,49,31,68,42,55,0.68
 Liguria,1,1,1,1,1,1
 Liguria,0,0,0,0,0,1
 Liguria,0,0,0,0,0,1
 Liguria,0,0,0,0,0,1
 Liguria,0,0,0,0,0,1
-Liguria,0.5,0,1,0,1,1
+Liguria,0,0,0,0,0,1
+Liguria,0,0,0,0,0,1
 Liguria,1,0,1,1,1,1
+Liguria,0,0,1,0,0,1
 Liguria,0,0,0,0,0,1
 Liguria,0,0,1,0,0,1
+Liguria,0.5,0,1,0,1,1
 Liguria,0,0,1,0,0,1
-Liguria,0,0,1,0,0,1
-Liguria,0,0,1,0,0,1
-Liguria,1,0,1,1,1,1
 Liguria,0,0,1,0,0,1
 Liguria,0,0,1,0,0,1
 Liguria,0,0,1,0,0,1
@@ -705,103 +716,110 @@ Liguria,0,0,1,0,0,1
 Liguria,0,0,2,0,0,1
 Liguria,1,0,2,0,1,1
 Liguria,1,0,2,0,1,1
+Liguria,1,0,2,0,1,1
 Liguria,1,0,3,0,1,1
 Liguria,1,0,3,0,1,1
 Liguria,1,0,4,0,1,1
-Liguria,2,0,5,1,2,1
+Liguria,2,0,4,0,2,1
 Liguria,2,0,5,0,2,1
 Liguria,3,0,6,1,3,1
-Liguria,4,0,7,1,4,1
-Liguria,5,1,9,2,5,1
-Liguria,5,1,10,3,6,1
-Liguria,7,1,12,3,7,1
-Liguria,8,3,15,4,9,1
-Liguria,10,3,17,6,11,1
-Liguria,12,4,19,6,12,1
-Liguria,14,5,22,9,15,1
-Liguria,16,6,25,11,18,1
-Liguria,19,8,29,13,21,1
-Liguria,22,10,34,18,27,1
-Liguria,26,13,40,18,29,1
-Liguria,31,16,46,22,34,1
-Liguria,37,18,53,25,39,1
-Liguria,43,25,62,32,47,1
-Liguria,51,31,71,39,55,1
-Liguria,59,38,80,50,66,1
-Liguria,70,49,93,57,75,1
-Liguria,80,58,104,67,85,1
-Liguria,90,66,113,76,95,1
-Liguria,102,75,123,89,108,1
-Liguria,113,88,134,101,120,1
-Liguria,123,99,145,111,130,1
-Liguria,134,109,156,121,140,1
-Liguria,144,124,167,136,153,1
-Liguria,154,130,176,142,160,1
-Liguria,163,143,187,150,168,1
-Liguria,171,146,194,158,176,1
-Liguria,180,157,202,169,187,1
-Liguria,187,163,207,176,194,1
-Liguria,192,167,211,182,199,1
-Liguria,194,174,218,183,201,1
-Liguria,196,171,217,186,204,1
-Liguria,194,174,217,182,201,1
-Liguria,192,168,212,182,200,1
-Liguria,189,167,210,176,194,1
-Liguria,185,164,206,174,191,1
-Liguria,181,162,206,170,188,1
-Liguria,180,158,199,172,188,1
-Liguria,179,159,201,165,183,1
-Liguria,179.5,154,198,171,188,1
-Liguria,177,157,201,167,184,1
-Liguria,175,156,198,168,184,1
-Liguria,173,151,193,159,177,1
-Liguria,169,148,190,157,174,1
-Liguria,165,142,184,154,170,1
-Liguria,162,140,181,152,168,1
-Liguria,157,134,175,148,164,1
-Liguria,152,132,172,140,156,1
-Liguria,148,129,168,138,153,1
-Liguria,145,125,163,137,151,1
-Liguria,144,124,162,132,148,1
-Liguria,143,124,160,133,148,1
-Liguria,142,122,159,135,150,1
-Liguria,141,121,159,129,144,1
-Liguria,140,119,156,131,146,1
-Liguria,139,121,157,131,145,1
-Liguria,139,119,155,131,145,1
-Liguria,137,119,155,127,143,1
-Liguria,136,117,154,129,143,1
-Liguria,135,118,154,127,141,1
-Liguria,132,115,152,121,136,1
-Liguria,131,111,148,119,135,1
-Liguria,128,109,146,117,132,0.99
-Liguria,125,106,142,116,131,0.99
-Liguria,121,102,138,112,127,0.99
-Liguria,119,100,136,109,124,0.99
-Liguria,114,93,131,106,120,0.99
-Liguria,109,91,128,103,118,0.98
-Liguria,103,85,121,95,109,0.98
-Liguria,98,80,115,87,101,0.97
-Liguria,90,73,105,83,96,0.96
-Liguria,84,65,98,75,88,0.95
-Liguria,78,62,93,71,83,0.94
-Liguria,72,55,85,66,77,0.92
-Liguria,66,52,80,59,70,0.9
-Liguria,62,47,75,56,66,0.88
-Liguria,59,43,73,49,61,0.84
-Liguria,56,41,71,50,62,0.8
-Liguria,55,38,75,45,58,0.74
-Liguria,53,35,79,40,55,0.67
+Liguria,4,0,8,1,4,1
+Liguria,4,1,9,2,5,1
+Liguria,6,1,10,3,6,1
+Liguria,7,2,12,3,7,1
+Liguria,8,3,14,5,9,1
+Liguria,10,4,17,6,11,1
+Liguria,12,5,20,8,13,1
+Liguria,14,6,22,9,15,1
+Liguria,16,8,26,11,18,1
+Liguria,19,9,30,13,21,1
+Liguria,22,10,33,15,24,1
+Liguria,26,13,38,19,29,1
+Liguria,31,15,45,21,33,1
+Liguria,36,21,53,27,40,1
+Liguria,43,27,60,35,49,1
+Liguria,51,32,69,39,55,1
+Liguria,60,39,78,47,64,1
+Liguria,69,48,90,60,77,1
+Liguria,80,56,100,68,85,1
+Liguria,91,66,112,79,97,1
+Liguria,101,81,126,89,107,1
+Liguria,112,91,137,98,117,1
+Liguria,123,98,144,110,128,1
+Liguria,134,112,158,123,142,1
+Liguria,145,120,166,133,151,1
+Liguria,154,131,176,144,162,1
+Liguria,162,139,185,151,169,1
+Liguria,171,147,192,163,181,1
+Liguria,180,158,202,169,186,1
+Liguria,186,161,206,176,194,1
+Liguria,191,170,214,181,199,1
+Liguria,195,174,217,185,203,1
+Liguria,196,176,218,185,203,1
+Liguria,194,169,214,185,204,1
+Liguria,193,169,213,180,198,1
+Liguria,188,168,211,175,193,1
+Liguria,184,162,205,173,190,1
+Liguria,182.5,163,205,172,189,1
+Liguria,181,159,202,168,185,1
+Liguria,180,160,201,169,186,1
+Liguria,179,156,199,166,184,1
+Liguria,178,156,198,167,184,1
+Liguria,175,151,194,166,183,1
+Liguria,172,152,194,161,178,1
+Liguria,170,147,191,157,175,1
+Liguria,165,142,184,156,172,1
+Liguria,161.5,142,184,149,166,1
+Liguria,156,137,176,149,165,1
+Liguria,153,132,172,141,157,1
+Liguria,147,127,166,137,152,1
+Liguria,146,126,164,138,153,1
+Liguria,144,125,163,134,149,1
+Liguria,142,122,160,131,147,1
+Liguria,141,121,158,132,146,1
+Liguria,141,121,159,130,145,1
+Liguria,140,120,158,129,144,1
+Liguria,139,120,158,131,146,1
+Liguria,138,118,156,128,144,1
+Liguria,138,118,155,128,144,1
+Liguria,136,115,151,128,143,1
+Liguria,135,114,152,130,144,1
+Liguria,133,113,151,122,137,1
+Liguria,130,111,149,118,134,1
+Liguria,127,107,143,118,132,1
+Liguria,124,104,139,116,130,1
+Liguria,122,102,139,113,128,1
+Liguria,119,99,137,110,125,0.99
+Liguria,114,97,133,104,118,0.99
+Liguria,109,88,124,99,113,0.99
+Liguria,102,81,118,92,106,0.99
+Liguria,96,78,112,87,101,0.99
+Liguria,89,72,105,82,95,0.98
+Liguria,82,67,98,72,85,0.98
+Liguria,77,61,91,71,83,0.97
+Liguria,71,55,84,64,75,0.96
+Liguria,66,52,78,60,70,0.95
+Liguria,62,49,76,54,65,0.94
+Liguria,60,44,70,54,64,0.93
+Liguria,58,44,70,50,61,0.91
+Liguria,57,43,69,49,60,0.88
+Liguria,57,43,71,50,61,0.85
+Liguria,56,41,72,51,62,0.81
+Liguria,58,40,76,49,61,0.75
+Liguria,61,41,83,50,64,0.68
 Lombardia,1,1,1,1,1,1
 Lombardia,0,0,0,0,0,1
-Lombardia,0,0,0,0,0,1
-Lombardia,0,0,0,0,0,1
-Lombardia,0,0,0,0,0,1
-Lombardia,0,0,0,0,0,1
-Lombardia,0,0,0,0,0,1
-Lombardia,0.5,0,1,0,1,1
 Lombardia,0.5,0,1,0,1,1
 Lombardia,0,0,1,0,0,1
+Lombardia,0,0,0,0,0,1
+Lombardia,0,0,1,0,0,1
+Lombardia,0,0,0,0,0,1
+Lombardia,0,0,1,0,0,1
+Lombardia,0,0,1,0,0,1
+Lombardia,0,0,0,0,0,1
+Lombardia,0,0,0,0,0,1
+Lombardia,0,0,1,0,0,1
+Lombardia,1,0,1,1,1,1
 Lombardia,0,0,1,0,0,1
 Lombardia,0,0,1,0,0,1
 Lombardia,0,0,1,0,0,1
@@ -810,127 +828,123 @@ Lombardia,0,0,1,0,0,1
 Lombardia,0,0,1,0,0,1
 Lombardia,0,0,1,0,0,1
 Lombardia,0,0,1,0,0,1
-Lombardia,0,0,1,0,0,1
-Lombardia,0,0,1,0,0,1
-Lombardia,0,0,1,0,0,1
-Lombardia,0.5,0,1,0,1,1
+Lombardia,0,0,2,0,0,1
 Lombardia,1,0,2,0,1,1
 Lombardia,1,0,2,0,1,1
 Lombardia,1,0,2,0,1,1
-Lombardia,1,0,2,0,1,1
-Lombardia,1,0,3,0,1,1
 Lombardia,1,0,3,0,1,1
 Lombardia,1,0,3,0,1,1
 Lombardia,1,0,4,0,1,1
+Lombardia,1,0,4,0,1,1
 Lombardia,2,0,5,0,2,1
 Lombardia,2,0,7,0,2,1
-Lombardia,3,0,8,0,3,1
+Lombardia,2,0,8,0,2,1
 Lombardia,4,0,10,1,4,1
 Lombardia,5,0,12,1,5,1
-Lombardia,7,0,15,1,7,1
-Lombardia,8,0,19,1,8,1
-Lombardia,11,0,23,2,11,1
-Lombardia,13,2,29,4,14,1
-Lombardia,17,4,35,7,19,1
-Lombardia,23,4,43,10,25,1
-Lombardia,29,7,54,15,32,1
-Lombardia,36,11,65,17,39,1
-Lombardia,45,14,79,22,48,1
-Lombardia,57,18,93,32,63,1
-Lombardia,71,31,117,46,80,1
-Lombardia,87,41,144,58,99,1
-Lombardia,107,53,173,74,121,1
-Lombardia,131,71,202,96,148,1
-Lombardia,157,90,233,112,172,1
-Lombardia,191,117,280,141,208,1
-Lombardia,224,146,325,187,262,1
-Lombardia,265,166,367,223,305,1
-Lombardia,307,210,428,251,339,1
-Lombardia,358.5,243,480,299,395,1
-Lombardia,415,280,544,354,457,1
-Lombardia,475,341,614,402,518,1
-Lombardia,543,399,696,465,590,1
-Lombardia,620,459,770,527,659,1
-Lombardia,698,548,884,623,756,1
-Lombardia,781.5,627,966,701,843,1
-Lombardia,874,690,1035,792,937,1
-Lombardia,969,803,1155,896,1039,1
-Lombardia,1067,897,1247,982,1119,1
-Lombardia,1169,1003,1344,1096,1229,1
-Lombardia,1263,1109,1438,1182,1315,1
-Lombardia,1356.5,1203,1516,1279,1405,1
-Lombardia,1437.5,1313,1607,1365,1495,1
-Lombardia,1520,1378,1665,1467,1589,1
-Lombardia,1590,1458,1726,1538,1652,1
-Lombardia,1661,1528,1775,1609,1712,1
-Lombardia,1708,1579,1818,1655,1750,1
-Lombardia,1752,1627,1859,1706,1796,1
-Lombardia,1791,1682,1901,1739,1826,1
-Lombardia,1823,1724,1924,1781,1864,1
-Lombardia,1844,1745,1942,1806,1885,1
-Lombardia,1851,1738,1942,1807,1889,1
-Lombardia,1836,1745,1938,1784,1865,1
-Lombardia,1795,1698,1889,1752,1830,1
-Lombardia,1743,1644,1831,1705,1781,1
-Lombardia,1682,1588,1771,1659,1736,1
-Lombardia,1625,1516,1701,1590,1661,1
-Lombardia,1578,1475,1653,1550,1624,1
-Lombardia,1520,1416,1599,1489,1558,1
-Lombardia,1459,1380,1550,1425,1496,1
-Lombardia,1386,1307,1457,1361,1425,1
-Lombardia,1313,1234,1377,1295,1353,1
-Lombardia,1260,1184,1329,1223,1278,1
-Lombardia,1225,1154,1286,1197,1250,1
-Lombardia,1203,1134,1266,1176,1232,1
-Lombardia,1190,1123,1253,1162,1217,1
-Lombardia,1174,1112,1236,1142,1195,1
-Lombardia,1150,1088,1220,1119,1172,1
-Lombardia,1131,1068,1197,1107,1159,1
-Lombardia,1109,1043,1170,1080,1132,1
-Lombardia,1095,1029,1159,1068,1120,1
-Lombardia,1089.5,1022,1152,1066,1119,1
-Lombardia,1079,1014,1141,1041,1098,1
-Lombardia,1065,999,1130,1036,1087,1
-Lombardia,1037,970,1100,1001,1053,1
-Lombardia,1004,946,1064,977,1026,1
-Lombardia,965.5,903,1020,946,994,1
-Lombardia,931,874,987,908,951,1
-Lombardia,906,855,965,882,926,1
-Lombardia,887.5,831,942,867,913,1
-Lombardia,874.5,822,932,852,897,1
-Lombardia,861,804,914,843,888,1
-Lombardia,846,792,897,821,864,1
-Lombardia,825,769,876,795,839,1
-Lombardia,805,747,852,785,827,1
-Lombardia,782,727,833,762,801,0.99
-Lombardia,755,704,811,733,774,0.99
-Lombardia,727,676,776,704,746,0.99
-Lombardia,695,649,748,674,713,0.99
-Lombardia,667,624,712,647,685,0.98
-Lombardia,642,592,683,625,658,0.98
-Lombardia,627.5,584,669,607,642,0.97
-Lombardia,614,569,660,588,628,0.97
-Lombardia,603,553,650,580,620,0.96
-Lombardia,596,543,647,567,608,0.94
-Lombardia,596,542,649,576,619,0.93
-Lombardia,601,537,658,583,633,0.91
-Lombardia,610,535,668,578,630,0.89
-Lombardia,628,560,706,593,650,0.85
-Lombardia,650,563,743,599,671,0.81
-Lombardia,681.5,579,798,632,719,0.76
-Lombardia,731,582,864,645,759,0.69
+Lombardia,6,0,15,1,6,1
+Lombardia,8,1,19,3,9,1
+Lombardia,10,1,24,2,10,1
+Lombardia,13,1,28,4,14,1
+Lombardia,17,2,34,6,18,1
+Lombardia,22,5,43,10,25,1
+Lombardia,28,6,53,12,30,1
+Lombardia,36,10,66,16,38,1
+Lombardia,44.5,14,80,25,50,1
+Lombardia,56,21,94,34,63,1
+Lombardia,68,28,115,41,75,1
+Lombardia,86,39,141,62,101,1
+Lombardia,105,51,163,71,116,1
+Lombardia,129,68,195,102,152,1
+Lombardia,155,89,236,120,177,1
+Lombardia,187,110,272,149,210,1
+Lombardia,225,131,310,171,241,1
+Lombardia,261.5,168,364,219,293,1
+Lombardia,308,199,413,260,343,1
+Lombardia,355,244,477,299,389,1
+Lombardia,410,292,543,357,455,1
+Lombardia,473.5,331,602,424,529,1
+Lombardia,541.5,401,690,459,576,1
+Lombardia,619.5,474,773,553,672,1
+Lombardia,696,535,854,630,756,1
+Lombardia,780,614,943,698,833,1
+Lombardia,873.5,696,1043,827,962,1
+Lombardia,967,812,1152,911,1042,1
+Lombardia,1070,903,1241,1014,1147,1
+Lombardia,1170.5,1006,1337,1093,1228,1
+Lombardia,1260,1101,1422,1189,1318,1
+Lombardia,1350,1197,1503,1305,1426,1
+Lombardia,1435.5,1303,1591,1399,1517,1
+Lombardia,1515,1369,1639,1479,1591,1
+Lombardia,1587,1446,1708,1532,1636,1
+Lombardia,1654,1526,1762,1621,1718,1
+Lombardia,1706,1599,1825,1661,1747,1
+Lombardia,1752,1635,1854,1717,1802,1
+Lombardia,1790,1682,1889,1749,1831,1
+Lombardia,1820.5,1723,1921,1779,1861,1
+Lombardia,1846,1748,1942,1807,1883,1
+Lombardia,1851,1751,1951,1800,1879,1
+Lombardia,1838,1730,1930,1789,1873,1
+Lombardia,1803,1685,1890,1760,1843,1
+Lombardia,1745,1648,1842,1694,1780,1
+Lombardia,1684,1589,1783,1643,1719,1
+Lombardia,1627,1526,1715,1585,1662,1
+Lombardia,1574,1476,1662,1530,1604,1
+Lombardia,1524,1421,1607,1490,1565,1
+Lombardia,1460,1366,1547,1416,1488,1
+Lombardia,1389,1305,1468,1344,1414,1
+Lombardia,1317,1237,1383,1291,1351,1
+Lombardia,1257.5,1185,1323,1234,1287,1
+Lombardia,1225,1154,1290,1195,1250,1
+Lombardia,1203.5,1133,1262,1172,1226,1
+Lombardia,1190,1126,1257,1157,1208,1
+Lombardia,1173.5,1114,1241,1144,1196,1
+Lombardia,1152,1085,1212,1131,1185,1
+Lombardia,1132,1069,1200,1104,1158,1
+Lombardia,1110,1050,1180,1081,1137,1
+Lombardia,1095,1026,1154,1077,1127,1
+Lombardia,1090,1022,1160,1058,1115,1
+Lombardia,1080.5,1008,1150,1059,1115,1
+Lombardia,1065,1006,1135,1032,1086,1
+Lombardia,1040,976,1101,1015,1062,1
+Lombardia,1004,949,1071,983,1036,1
+Lombardia,967,899,1025,940,989,1
+Lombardia,931.5,872,987,904,953,1
+Lombardia,904,854,961,879,922,1
+Lombardia,885,831,940,863,907,1
+Lombardia,874,818,929,846,890,1
+Lombardia,861,798,908,836,882,1
+Lombardia,842,790,897,822,864,1
+Lombardia,823,768,881,793,838,1
+Lombardia,801,747,852,769,814,1
+Lombardia,778,716,829,759,803,1
+Lombardia,752,694,805,728,773,1
+Lombardia,723,670,775,694,738,1
+Lombardia,686,637,737,665,704,0.99
+Lombardia,658,614,704,641,677,0.99
+Lombardia,633,591,679,619,654,0.99
+Lombardia,615,569,656,598,634,0.99
+Lombardia,598,551,637,578,614,0.98
+Lombardia,582,538,622,564,597,0.98
+Lombardia,572,531,612,552,587,0.97
+Lombardia,563,519,605,540,575,0.97
+Lombardia,559,517,605,548,584,0.96
+Lombardia,556,515,602,534,571,0.94
+Lombardia,555,509,603,535,573,0.93
+Lombardia,553,502,597,530,567,0.91
+Lombardia,553,500,601,534,574,0.89
+Lombardia,547,498,601,527,568,0.85
+Lombardia,548,492,612,520,570,0.81
+Lombardia,555,485,623,522,575,0.76
+Lombardia,576,491,647,536,599,0.69
 Marche,1,1,1,1,1,1
 Marche,0,0,0,0,0,1
-Marche,0,0,0,0,0,1
-Marche,0,0,0,0,0,1
-Marche,0,0,0,0,0,1
-Marche,0,0,0,0,0,1
-Marche,0,0,0,0,0,1
+Marche,0.5,0,1,0,1,1
 Marche,0,0,0,0,0,1
 Marche,0,0,0,0,0,1
 Marche,0,0,0,0,0,1
 Marche,0.5,0,1,0,1,1
-Marche,1,0,1,1,1,1
+Marche,0,0,0,0,0,1
+Marche,0,0,0,0,0,1
 Marche,0,0,1,0,0,1
 Marche,0,0,1,0,0,1
 Marche,0,0,1,0,0,1
@@ -946,113 +960,122 @@ Marche,0,0,1,0,0,1
 Marche,0,0,1,0,0,1
 Marche,0,0,1,0,0,1
 Marche,0,0,1,0,0,1
-Marche,0,0,1,0,0,1
-Marche,0,0,1,0,0,1
-Marche,1,0,2,0,1,1
 Marche,0,0,2,0,0,1
+Marche,0,0,2,0,0,1
+Marche,1,0,2,0,1,1
 Marche,1,0,2,0,1,1
 Marche,1,0,2,0,1,1
 Marche,1,0,3,0,1,1
 Marche,1,0,3,0,1,1
 Marche,1,0,4,0,1,1
-Marche,2,0,4,0,2,1
-Marche,2,0,5,0,2,1
-Marche,3,0,6,1,3,1
-Marche,3,0,8,0,3,1
-Marche,4,0,9,2,5,1
+Marche,2,0,4,1,2,1
+Marche,2,0,6,0,2,1
+Marche,3,0,7,1,3,1
+Marche,3.5,0,8,1,4,1
+Marche,5,0,9,2,5,1
 Marche,6,0,11,2,6,1
-Marche,7,1,13,2,7,1
-Marche,9,1,16,3,9,1
-Marche,11,3,19,6,12,1
-Marche,14,4,22,8,15,1
-Marche,17,7,28,12,20,1
-Marche,21,8,32,13,22,1
-Marche,25,11,37,18,28,1
-Marche,31,16,44,23,34,1
-Marche,37,18,51,28,41,1
-Marche,43,24,59,35,48,1
-Marche,50,29,66,38,53,1
-Marche,58,38,77,44,61,1
-Marche,66,44,85,54,70,1
-Marche,76,54,95,66,82,1
-Marche,85,61,105,75,93,1
-Marche,95,73,117,83,101,1
-Marche,104,81,126,92,110,1
-Marche,116,94,138,104,122,1
-Marche,126,101,147,114,133,1
-Marche,137,115,160,125,143,1
-Marche,146,124,166,137,154,1
-Marche,155,131,176,141,159,1
-Marche,163,142,185,153,170,1
-Marche,168,143,186,157,174,1
-Marche,173,151,191,163,179,1
-Marche,174,155,195,166,182,1
-Marche,176,153,196,164,181,1
-Marche,176,152,194,164,181,1
-Marche,175,154,197,163,181,1
-Marche,173,150,196,161,179,1
-Marche,169,145,190,161,180,1
-Marche,165,142,186,156,173,1
-Marche,158,135,179,148,165,1
-Marche,153,133,174,143,159,1
-Marche,147,126,169,138,155,1
-Marche,143,123,163,132,148,1
-Marche,139,116,156,128,144,1
-Marche,135,116,153,127,142,1
-Marche,131,114,151,121,136,1
-Marche,128,106,145,117,132,1
-Marche,124,104,140,116,131,1
-Marche,120,102,138,110,124,1
-Marche,117,96,132,108,122,1
-Marche,112,94,130,103,117,1
-Marche,109,89,125,100,115,1
-Marche,106,87,123,97,111,1
-Marche,101,83,118,93,107,1
-Marche,96,80,112,86,99,1
-Marche,92,73,107,81,95,1
-Marche,86,67,101,77,91,1
-Marche,81,65,97,73,87,1
-Marche,75,60,90,68,80,1
-Marche,70,54,83,63,74,1
-Marche,65,52,79,59,69,1
-Marche,60,46,72,52,63,1
-Marche,57,43,69,51,61,1
-Marche,54,43,66,46,56,1
-Marche,51,38,62,43,53,1
-Marche,49,37,61,44,53,1
-Marche,46,35,56,40,49,1
-Marche,44,33,54,38,46,1
-Marche,42,30,51,36,44,1
-Marche,40,29,50,34,42,0.99
-Marche,39,29,48,33,41,0.99
-Marche,37,28,47,33,41,0.99
-Marche,36,26,45,31,38,0.99
-Marche,34,25,43,27,35,0.99
-Marche,33,23,41,28,35,0.98
-Marche,31,22,39,26,33,0.98
-Marche,30,22,38,27,33,0.97
-Marche,30,20,38,25,32,0.96
-Marche,29,19,37,24,31,0.95
-Marche,29,20,37,23,30,0.94
-Marche,29,19,37,24,31,0.92
-Marche,29,19,37,24,31,0.9
-Marche,28,18,38,23,30,0.87
-Marche,29,17,38,22,30,0.84
-Marche,29,17,40,22,31,0.79
-Marche,30,17,44,21,31,0.73
-Marche,31,15,50,20,32,0.66
+Marche,7,1,14,2,7,1
+Marche,9,3,17,5,10,1
+Marche,11,3,19,7,13,1
+Marche,14,4,23,9,16,1
+Marche,17,7,27,12,20,1
+Marche,21,9,32,13,22,1
+Marche,26,13,38,19,29,1
+Marche,31,18,47,24,34,1
+Marche,36,21,51,28,40,1
+Marche,43,28,60,33,46,1
+Marche,50,31,66,42,55,1
+Marche,58,38,74,50,64,1
+Marche,66,46,85,57,72,1
+Marche,75,57,98,62,79,1
+Marche,85,63,106,73,90,1
+Marche,95,71,116,83,101,1
+Marche,105,85,128,95,112,1
+Marche,116,91,136,106,124,1
+Marche,126,103,147,117,133,1
+Marche,136,112,156,125,143,1
+Marche,147,127,169,135,153,1
+Marche,156,134,177,144,162,1
+Marche,163,141,182,151,169,1
+Marche,168,147,189,156,174,1
+Marche,172,152,193,161,177,1
+Marche,175,151,194,166,182,1
+Marche,175,151,194,167,183,1
+Marche,175,150,195,163,180,1
+Marche,175,152,195,166,184,1
+Marche,174,150,194,162,180,1
+Marche,170,146,190,158,175,1
+Marche,165,143,185,152,170,1
+Marche,158,136,178,146,163,1
+Marche,153,130,172,142,159,1
+Marche,147,128,168,137,154,1
+Marche,143,123,161,133,149,1
+Marche,139,117,156,133,149,1
+Marche,134.5,116,154,127,142,1
+Marche,131,112,146,122,136,1
+Marche,127,109,146,117,132,1
+Marche,124,104,140,114,129,1
+Marche,120,101,137,110,124,1
+Marche,116,96,135,110,124,1
+Marche,113,97,133,104,118,1
+Marche,109,91,128,98,113,1
+Marche,106,86,121,97,111,1
+Marche,102,82,117,92,106,1
+Marche,97,79,113,89,102,1
+Marche,92,75,109,82,96,1
+Marche,86,68,101,78,91,1
+Marche,81,65,96,73,86,1
+Marche,74,59,90,67,79,1
+Marche,69,57,85,61,73,1
+Marche,65,51,79,58,69,1
+Marche,60,46,73,53,63,1
+Marche,57,45,70,50,60,1
+Marche,54,43,67,47,57,1
+Marche,52,40,63,45,54,1
+Marche,48,36,59,43,52,1
+Marche,47,34,56,40,49,1
+Marche,44,31,53,36,45,1
+Marche,42,31,51,36,44,1
+Marche,40,28,49,34,42,1
+Marche,39,28,48,36,43,1
+Marche,37,26,45,30,38,1
+Marche,35,24,43,31,38,0.99
+Marche,34,24,43,29,36,0.99
+Marche,32,23,41,27,34,0.99
+Marche,31,21,38,25,32,0.99
+Marche,30,22,39,25,32,0.98
+Marche,29,20,37,23,30,0.98
+Marche,29,20,37,23,30,0.97
+Marche,28,18,35,23,30,0.97
+Marche,27,18,34,23,29,0.96
+Marche,27,18,35,24,30,0.95
+Marche,26,17,34,20,27,0.93
+Marche,26,16,33,22,28,0.92
+Marche,25,16,34,20,27,0.89
+Marche,25,16,34,17,25,0.86
+Marche,25,15,34,19,26,0.83
+Marche,25,14,35,19,27,0.78
+Marche,25,12,39,19,28,0.72
+Marche,27,12,45,18,29,0.64
 Piemonte,1,1,1,1,1,1
 Piemonte,0,0,0,0,0,1
-Piemonte,1,1,1,1,1,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
 Piemonte,0.5,0,1,0,1,1
-Piemonte,1,0,1,1,1,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0.5,0,1,0,1,1
+Piemonte,0,0,0,0,0,1
+Piemonte,0,0,0,0,0,1
 Piemonte,0,0,1,0,0,1
-Piemonte,1,0,1,0,1,1
-Piemonte,0,0,1,0,0,1
-Piemonte,0,0,1,0,0,1
-Piemonte,0,0,1,0,0,1
-Piemonte,0,0,1,0,0,1
-Piemonte,0,0,1,0,0,1
+Piemonte,0.5,0,1,0,1,1
 Piemonte,0,0,1,0,0,1
 Piemonte,0,0,1,0,0,1
 Piemonte,0,0,1,0,0,1
@@ -1060,6 +1083,14 @@ Piemonte,0,0,1,0,0,1
 Piemonte,0,0,1,0,0,1
 Piemonte,0,0,1,0,0,1
 Piemonte,0,0,1,0,0,1
+Piemonte,0,0,1,0,0,1
+Piemonte,0,0,1,0,0,1
+Piemonte,0,0,1,0,0,1
+Piemonte,0,0,1,0,0,1
+Piemonte,0,0,1,0,0,1
+Piemonte,0,0,1,0,0,1
+Piemonte,0,0,2,0,0,1
+Piemonte,0,0,2,0,0,1
 Piemonte,1,0,2,0,1,1
 Piemonte,1,0,2,0,1,1
 Piemonte,1,0,2,0,1,1
@@ -1068,97 +1099,105 @@ Piemonte,1,0,3,0,1,1
 Piemonte,1,0,4,0,1,1
 Piemonte,2,0,5,0,2,1
 Piemonte,2,0,6,0,2,1
-Piemonte,3,0,6,1,3,1
+Piemonte,3,0,7,1,3,1
 Piemonte,3,0,8,0,3,1
-Piemonte,4,0,9,2,5,1
-Piemonte,6,1,12,2,6,1
-Piemonte,7,1,15,2,7,1
-Piemonte,9,1,17,4,10,1
-Piemonte,11,1,21,5,12,1
-Piemonte,14,5,27,7,15,1
-Piemonte,18,5,31,9,19,1
-Piemonte,22,7,36,12,23,1
-Piemonte,27,11,45,18,31,1
-Piemonte,33,14,52,19,35,1
-Piemonte,40,17,61,29,46,1
-Piemonte,48,24,72,34,53,1
-Piemonte,58,31,87,41,63,1
-Piemonte,68,40,100,48,73,1
-Piemonte,81,49,115,61,88,1
-Piemonte,94,57,129,71,102,1
-Piemonte,112,71,149,87,121,1
-Piemonte,129,85,171,106,143,1
-Piemonte,149,101,195,117,157,1
-Piemonte,170.5,120,224,139,181,1
-Piemonte,194,144,253,166,212,1
-Piemonte,220,158,274,187,233,1
-Piemonte,251,187,304,214,265,1
-Piemonte,283,218,339,256,305,1
-Piemonte,316,255,378,292,341,1
-Piemonte,352,293,409,318,367,1
-Piemonte,386,327,441,366,412,1
-Piemonte,417,363,475,391,436,1
-Piemonte,445,391,492,419,462,1
-Piemonte,468,419,518,449,487,1
-Piemonte,485,441,529,461,498,1
-Piemonte,499,453,541,483,516,1
-Piemonte,508,462,552,484,520,1
-Piemonte,515,472,557,494,528,1
-Piemonte,519,475,564,501,535,1
-Piemonte,527,483,576,505,541,1
-Piemonte,529,486,577,511,547,1
-Piemonte,533,487,573,516,550,1
-Piemonte,538,492,579,519,553,1
-Piemonte,540,489,584,522,559,1
-Piemonte,545,500,592,526,563,1
-Piemonte,549,504,592,526,563,1
-Piemonte,555,503,598,530,568,1
-Piemonte,560,516,604,543,580,1
-Piemonte,565,519,607,537,576,1
-Piemonte,570.5,523,612,544,582,1
-Piemonte,576,526,619,555,593,1
-Piemonte,575.5,524,618,558,593,1
-Piemonte,577,530,622,556,594,1
-Piemonte,576,529,617,560,596,1
-Piemonte,577,534,627,552,589,1
-Piemonte,581,538,627,560,597,1
-Piemonte,584,539,632,559,595,1
-Piemonte,584.5,538,628,558,598,1
-Piemonte,582,538,623,566,601,1
-Piemonte,574,529,616,550,585,1
-Piemonte,563,517,603,545,578,1
-Piemonte,553,506,589,536,569,1
-Piemonte,541,504,585,515,551,1
-Piemonte,530,484,569,514,549,1
-Piemonte,518,469,556,498,533,1
-Piemonte,499,454,538,481,513,1
-Piemonte,477,437,513,455,487,1
-Piemonte,458,417,497,440,471,1
-Piemonte,441,400,478,425,456,1
-Piemonte,423,384,464,404,437,0.99
-Piemonte,404,365,439,394,424,0.99
-Piemonte,381,343,418,366,398,0.99
-Piemonte,355,317,388,335,364,0.99
-Piemonte,332,300,369,311,340,0.98
-Piemonte,312.5,280,344,296,322,0.98
-Piemonte,294,259,321,276,301,0.97
-Piemonte,280,248,307,267,292,0.97
-Piemonte,263,229,289,253,277,0.96
-Piemonte,244,211,273,231,255,0.94
-Piemonte,225,194,251,215,237,0.93
-Piemonte,205,180,231,194,215,0.91
-Piemonte,188,163,212,176,197,0.89
-Piemonte,177,154,204,170,189,0.85
-Piemonte,173,149,200,159,180,0.81
-Piemonte,172,142,200,157,180,0.76
-Piemonte,174,139,206,158,184,0.69
+Piemonte,4,0,10,0,4,1
+Piemonte,6,0,12,2,6,1
+Piemonte,7,1,15,3,8,1
+Piemonte,9,2,18,4,10,1
+Piemonte,12,3,21,5,12,1
+Piemonte,14,4,26,8,16,1
+Piemonte,18,6,32,8,18,1
+Piemonte,22,9,38,14,25,1
+Piemonte,27,11,45,17,30,1
+Piemonte,33,16,54,23,38,1
+Piemonte,40,19,61,26,43,1
+Piemonte,49,24,72,33,52,1
+Piemonte,58,29,82,43,65,1
+Piemonte,68,37,97,50,74,1
+Piemonte,81,45,112,66,92,1
+Piemonte,94,61,137,73,102,1
+Piemonte,111,70,150,90,122,1
+Piemonte,129,89,174,106,140,1
+Piemonte,150,103,195,126,162,1
+Piemonte,169,120,219,142,181,1
+Piemonte,195,145,254,170,212,1
+Piemonte,222.5,166,280,198,241,1
+Piemonte,251,187,304,218,264,1
+Piemonte,283,222,340,251,300,1
+Piemonte,317,254,371,284,331,1
+Piemonte,351,292,411,320,369,1
+Piemonte,385.5,330,442,363,408,1
+Piemonte,418,367,469,396,439,1
+Piemonte,446,388,489,420,461,1
+Piemonte,469,428,519,450,487,1
+Piemonte,486.5,438,529,463,500,1
+Piemonte,497,456,549,475,512,1
+Piemonte,507,460,545,491,525,1
+Piemonte,514,474,554,495,529,1
+Piemonte,520,478,564,502,537,1
+Piemonte,527,479,569,504,539,1
+Piemonte,529,485,573,512,546,1
+Piemonte,533,488,572,517,551,1
+Piemonte,537,490,579,515,550,1
+Piemonte,539,496,584,511,548,1
+Piemonte,545.5,496,589,526,563,1
+Piemonte,549,506,597,533,568,1
+Piemonte,555,512,601,529,567,1
+Piemonte,562,512,604,543,581,1
+Piemonte,564,524,612,537,576,1
+Piemonte,573,526,616,552,587,1
+Piemonte,574,531,619,552,588,1
+Piemonte,578,535,618,554,589,1
+Piemonte,579,534,622,558,594,1
+Piemonte,577,530,621,561,598,1
+Piemonte,576,529,616,548,585,1
+Piemonte,579,527,619,555,591,1
+Piemonte,582,541,632,558,595,1
+Piemonte,583,541,629,561,596,1
+Piemonte,579,533,622,561,597,1
+Piemonte,575,533,619,559,595,1
+Piemonte,564,523,609,536,573,1
+Piemonte,552,512,598,530,565,1
+Piemonte,541,498,586,527,562,1
+Piemonte,529,489,574,509,543,1
+Piemonte,512,466,554,488,524,1
+Piemonte,494,452,538,473,508,1
+Piemonte,474,431,513,455,486,1
+Piemonte,455,410,493,438,471,1
+Piemonte,437,396,478,416,450,1
+Piemonte,421,381,461,405,438,1
+Piemonte,401.5,359,440,385,417,1
+Piemonte,376,336,417,359,390,1
+Piemonte,351,312,385,332,361,0.99
+Piemonte,327,288,360,308,337,0.99
+Piemonte,305,273,336,291,317,0.99
+Piemonte,288,256,317,272,297,0.99
+Piemonte,273,241,304,259,284,0.98
+Piemonte,255,224,286,239,264,0.98
+Piemonte,236,204,262,218,242,0.97
+Piemonte,215,187,239,204,225,0.97
+Piemonte,195,173,224,182,202,0.96
+Piemonte,180.5,158,203,169,188,0.94
+Piemonte,168,144,188,158,176,0.93
+Piemonte,162.5,139,185,151,169,0.91
+Piemonte,159,137,183,147,165,0.88
+Piemonte,159,133,183,145,166,0.85
+Piemonte,159,136,190,144,166,0.81
+Piemonte,161,133,193,142,166,0.76
+Piemonte,169,133,201,150,177,0.69
 Puglia,1,1,1,1,1,1
 Puglia,0,0,0,0,0,1
 Puglia,0,0,0,0,0,1
-Puglia,0.5,0,1,0,1,1
+Puglia,1,1,1,1,1,1
+Puglia,1,1,1,1,1,1
 Puglia,0.5,0,1,0,1,1
 Puglia,0,0,1,0,0,1
 Puglia,0,0,1,0,0,1
+Puglia,0,0,1,0,0,1
+Puglia,0,0,1,0,0,1
+Puglia,0,0,1,0,0,1
+Puglia,0,0,0,0,0,1
 Puglia,0,0,0,0,0,1
 Puglia,0,0,1,0,0,1
 Puglia,0,0,1,0,0,1
@@ -1173,12 +1212,8 @@ Puglia,0,0,1,0,0,1
 Puglia,0,0,1,0,0,1
 Puglia,0,0,1,0,0,1
 Puglia,0,0,1,0,0,1
-Puglia,0,0,1,0,0,1
-Puglia,0,0,1,0,0,1
-Puglia,0,0,1,0,0,1
-Puglia,0,0,1,0,0,1
-Puglia,0,0,1,0,0,1
-Puglia,0,0,1,0,0,1
+Puglia,0,0,2,0,0,1
+Puglia,0,0,2,0,0,1
 Puglia,1,0,2,0,1,1
 Puglia,1,0,2,0,1,1
 Puglia,1,0,2,0,1,1
@@ -1188,92 +1223,98 @@ Puglia,1,0,3,0,1,1
 Puglia,2,0,4,1,2,1
 Puglia,2,0,5,0,2,1
 Puglia,3,0,6,1,3,1
-Puglia,3,0,7,0,3,1
+Puglia,3,0,7,2,4,1
 Puglia,4,0,8,1,4,1
 Puglia,5,1,10,3,6,1
-Puglia,6,1,11,3,7,1
-Puglia,8,1,13,4,8,1
-Puglia,9,3,16,5,10,1
-Puglia,11,3,18,7,12,1
-Puglia,14,6,22,8,14,1
-Puglia,16,6,25,9,17,1
-Puglia,20,9,29,13,21,1
-Puglia,23,12,33,16,25,1
-Puglia,27,15,39,21,30,1
-Puglia,31,19,44,24,34,1
-Puglia,36,23,50,27,38,1
-Puglia,41,26,55,32,43,1
-Puglia,47,31,60,42,53,1
-Puglia,53,37,68,42,55,1
-Puglia,59,42,74,50,63,1
-Puglia,66,49,81,57,70,1
-Puglia,73,54,87,64,77,1
-Puglia,79,62,94,69,83,1
-Puglia,86,69,102,78,91,1
-Puglia,92,75,106,84,96,1
-Puglia,96,81,112,87,100,1
-Puglia,101,85,117,91,104,1
-Puglia,104,86,119,97,109,1
-Puglia,107,90,122,98,111,1
-Puglia,108,91,122,98,111,1
-Puglia,109,91,125,99,113,1
-Puglia,110,92,125,102,114,1
-Puglia,110,93,125,101,114,1
-Puglia,110,92,126,102,115,1
-Puglia,110,93,126,99,113,1
-Puglia,109,92,125,100,114,1
-Puglia,107,89,122,99,112,1
-Puglia,105,87,120,99,111,1
-Puglia,101,84,116,91,105,1
-Puglia,98,81,114,90,103,1
-Puglia,95,77,108,86,99,1
-Puglia,92,75,106,83,96,1
-Puglia,89,74,104,80,92,1
-Puglia,86,72,101,77,89,1
-Puglia,85,68,98,79,90,1
-Puglia,83,69,98,76,88,1
-Puglia,81,66,95,76,87,1
-Puglia,79,64,92,72,83,1
-Puglia,77,62,89,69,80,1
-Puglia,74,59,86,65,76,1
-Puglia,72,57,85,64,75,1
-Puglia,70,54,82,63,73,1
-Puglia,68,55,81,61,71,1
-Puglia,66,52,78,58,69,1
-Puglia,65,51,78,60,70,1
-Puglia,63,49,76,56,67,1
-Puglia,61,47,74,52,63,1
-Puglia,59,45,73,50,61,1
-Puglia,55,41,67,47,58,1
-Puglia,51,39,64,45,54,1
-Puglia,46,33,57,40,49,0.99
-Puglia,42,30,52,34,43,0.99
-Puglia,37,25,46,32,40,0.99
-Puglia,34,24,43,28,36,0.99
-Puglia,30,20,38,24,31,0.98
-Puglia,28,20,36,25,31,0.98
-Puglia,28,18,35,25,31,0.97
-Puglia,27,19,35,24,30,0.97
-Puglia,26,18,35,20,27,0.96
-Puglia,26,17,34,22,28,0.94
-Puglia,25,16,33,22,28,0.93
-Puglia,25,15,32,21,27,0.91
-Puglia,25,14,33,19,26,0.89
-Puglia,25,17,36,19,27,0.85
-Puglia,26,16,39,19,28,0.81
-Puglia,28,14,41,20,30,0.76
-Puglia,28,13,48,20,31,0.7
-Puglia,30,13,56,17,31,0.61
+Puglia,6,1,11,2,6,1
+Puglia,8,1,13,3,8,1
+Puglia,9,2,15,5,10,1
+Puglia,11,3,18,6,12,1
+Puglia,14,5,21,9,15,1
+Puglia,17,8,25,11,18,1
+Puglia,20,10,29,13,21,1
+Puglia,23,13,34,17,25,1
+Puglia,27,15,37,20,29,1
+Puglia,32,19,43,23,33,1
+Puglia,36,22,48,29,39,1
+Puglia,42,27,55,34,45,1
+Puglia,47,32,61,37,49,1
+Puglia,52,40,69,43,55,1
+Puglia,59,43,74,49,62,1
+Puglia,66,48,80,57,70,1
+Puglia,73,59,91,64,77,1
+Puglia,79,62,94,70,83,1
+Puglia,85,68,101,76,89,1
+Puglia,91,76,107,84,97,1
+Puglia,97,79,112,90,102,1
+Puglia,101,82,115,93,106,1
+Puglia,105,88,121,99,112,1
+Puglia,107,90,124,99,112,1
+Puglia,108,90,122,100,113,1
+Puglia,108,93,126,98,112,1
+Puglia,110,93,125,102,115,1
+Puglia,110,92,125,103,116,1
+Puglia,110,92,125,101,114,1
+Puglia,110,91,126,101,114,1
+Puglia,109,89,124,101,115,1
+Puglia,106,91,125,96,110,1
+Puglia,104,87,120,96,109,1
+Puglia,101,83,117,91,105,1
+Puglia,98,80,112,92,104,1
+Puglia,94,78,109,84,97,1
+Puglia,91,75,106,82,95,1
+Puglia,89,73,103,80,92,1
+Puglia,87,70,100,78,90,1
+Puglia,85,68,98,76,88,1
+Puglia,84,67,96,75,87,1
+Puglia,81,66,95,72,84,1
+Puglia,79,63,92,70,82,1
+Puglia,76,62,89,72,83,1
+Puglia,74,59,87,67,78,1
+Puglia,72,58,84,65,75,1
+Puglia,69,56,82,62,72,1
+Puglia,68,54,80,61,71,1
+Puglia,67,53,79,59,70,1
+Puglia,64,50,76,57,67,1
+Puglia,63,51,77,56,67,1
+Puglia,61,45,72,56,66,1
+Puglia,58,45,70,50,61,1
+Puglia,55,41,68,47,57,1
+Puglia,51,36,61,43,53,1
+Puglia,46,35,59,41,50,1
+Puglia,41,29,52,35,44,1
+Puglia,37,27,47,31,39,1
+Puglia,33,23,42,30,37,0.99
+Puglia,30,21,38,24,31,0.99
+Puglia,27,17,34,23,29,0.99
+Puglia,26,18,34,23,29,0.99
+Puglia,26,18,33,21,27,0.98
+Puglia,25,16,32,21,27,0.98
+Puglia,24,15,32,22,28,0.97
+Puglia,24,16,31,19,25,0.96
+Puglia,22,15,29,17,23,0.96
+Puglia,22,14,29,17,23,0.94
+Puglia,21,13,28,17,23,0.93
+Puglia,21,12,28,17,23,0.91
+Puglia,21.5,12,29,18,24,0.88
+Puglia,21,12,30,17,23,0.85
+Puglia,20,11,29,14,21,0.81
+Puglia,19,10,30,13,20,0.76
+Puglia,19,8,32,13,21,0.69
+Puglia,20,7,37,10,20,0.61
 Sardegna,1,1,1,1,1,1
-Sardegna,0,0,1,0,0,1
 Sardegna,0,0,0,0,0,1
-Sardegna,0,0,1,0,0,1
 Sardegna,0,0,0,0,0,1
-Sardegna,0.5,0,1,0,1,1
-Sardegna,0,0,1,0,0,1
+Sardegna,0,0,0,0,0,1
+Sardegna,0,0,0,0,0,1
 Sardegna,1,0,1,1,1,1
 Sardegna,0,0,1,0,0,1
-Sardegna,0,0,0,0,0,1
+Sardegna,0,0,1,0,0,1
+Sardegna,0.5,0,1,0,1,1
+Sardegna,0,0,1,0,0,1
+Sardegna,0,0,1,0,0,1
+Sardegna,0,0,1,0,0,1
+Sardegna,0,0,1,0,0,1
 Sardegna,0,0,1,0,0,1
 Sardegna,0,0,1,0,0,1
 Sardegna,0,0,1,0,0,1
@@ -1287,7 +1328,8 @@ Sardegna,0,0,1,0,0,1
 Sardegna,0,0,1,0,0,1
 Sardegna,0,0,1,0,0,1
 Sardegna,0,0,2,0,0,1
-Sardegna,1,0,2,0,1,1
+Sardegna,0,0,2,0,0,1
+Sardegna,0,0,2,0,0,1
 Sardegna,1,0,2,0,1,1
 Sardegna,1,0,2,0,1,1
 Sardegna,1,0,3,0,1,1
@@ -1296,90 +1338,88 @@ Sardegna,1,0,4,0,1,1
 Sardegna,2,0,4,0,2,1
 Sardegna,2,0,5,0,2,1
 Sardegna,3,0,6,1,3,1
-Sardegna,3,0,7,2,4,1
-Sardegna,4,1,8,1,4,1
-Sardegna,5,1,9,2,5,1
-Sardegna,6,2,11,4,7,1
-Sardegna,7,3,13,4,8,1
-Sardegna,9,3,14,6,10,1
-Sardegna,11,4,16,8,12,1
-Sardegna,13,7,20,9,14,1
-Sardegna,15,7,22,12,17,1
-Sardegna,17,9,24,12,18,1
-Sardegna,19.5,11,26,15,21,1
-Sardegna,22,13,30,16,23,1
-Sardegna,24,14,32,21,27,1
-Sardegna,28,19,37,23,30,1
+Sardegna,4,0,7,2,4,1
+Sardegna,4,1,8,2,5,1
+Sardegna,5,1,9,3,6,1
+Sardegna,6,2,11,3,7,1
+Sardegna,8,3,13,5,9,1
+Sardegna,9,3,14,7,11,1
+Sardegna,11,5,17,7,12,1
+Sardegna,13,6,19,9,14,1
+Sardegna,15,7,21,12,17,1
+Sardegna,17,10,24,12,18,1
+Sardegna,19,11,27,16,22,1
+Sardegna,22,13,30,18,24,1
+Sardegna,25,15,32,19,26,1
+Sardegna,28,17,35,23,30,1
 Sardegna,30,20,39,25,32,1
-Sardegna,33,23,42,28,35,1
+Sardegna,33,24,43,28,36,1
 Sardegna,36,26,45,32,39,1
 Sardegna,38,28,47,33,41,1
-Sardegna,40,30,49,34,42,1
-Sardegna,41,30,50,35,43,1
-Sardegna,41,30,51,35,43,1
-Sardegna,40,31,50,35,43,1
-Sardegna,40,28,49,34,42,1
-Sardegna,39,29,48,34,42,1
+Sardegna,40,27,48,34,42,1
+Sardegna,40,28,49,36,43,1
+Sardegna,41,30,50,37,44,1
+Sardegna,40,30,50,35,43,1
+Sardegna,39,28,48,34,42,1
+Sardegna,39,29,49,35,42,1
+Sardegna,39,30,50,33,41,1
 Sardegna,39,29,48,33,41,1
-Sardegna,39,28,48,36,43,1
-Sardegna,39,29,49,33,41,1
 Sardegna,39,30,49,33,41,1
-Sardegna,37.5,28,47,31,39,1
-Sardegna,36,26,45,30,38,1
-Sardegna,34,25,43,30,37,1
-Sardegna,33,24,42,29,36,1
+Sardegna,39,27,47,33,41,1
+Sardegna,37,27,47,32,39,1
+Sardegna,36,26,45,29,37,1
+Sardegna,34,25,43,29,36,1
+Sardegna,33,23,41,27,34,1
 Sardegna,31,22,40,27,34,1
-Sardegna,31,20,38,25,32,1
-Sardegna,29,19,37,23,30,1
-Sardegna,28,18,36,22,29,1
-Sardegna,26,18,34,22,28,1
-Sardegna,25,16,33,19,26,1
-Sardegna,24,16,31,20,26,1
-Sardegna,23,15,30,18,24,1
-Sardegna,22,15,29,16,22,1
-Sardegna,20,12,26,16,21,1
-Sardegna,18,11,24,14,19,1
+Sardegna,30,22,39,26,33,1
+Sardegna,29,20,37,25,32,1
+Sardegna,28,18,35,24,30,1
+Sardegna,27,18,34,25,31,1
+Sardegna,25,18,34,21,27,1
+Sardegna,24,15,31,19,25,1
+Sardegna,23,16,31,18,24,1
+Sardegna,21,13,28,16,22,1
+Sardegna,20,12,27,15,21,1
+Sardegna,18,10,24,15,20,1
 Sardegna,16,9,22,12,17,1
-Sardegna,14,8,19,9,14,1
-Sardegna,13,7,18,11,15,1
-Sardegna,12,6,17,8,12,1
+Sardegna,14,7,19,10,15,1
+Sardegna,13,7,18,10,14,1
+Sardegna,12,6,17,9,13,1
 Sardegna,11,6,16,8,12,1
 Sardegna,11,5,15,7,11,1
 Sardegna,10,4,14,6,10,1
-Sardegna,9,4,13,8,11,1
-Sardegna,8,4,13,6,9,0.99
-Sardegna,8,4,12,6,9,0.99
-Sardegna,7,3,11,4,7,0.99
-Sardegna,7,2,10,4,7,0.99
-Sardegna,6,2,10,3,6,0.99
-Sardegna,6,2,9,3,6,0.98
-Sardegna,6,2,9,3,6,0.98
-Sardegna,5,1,8,2,5,0.97
-Sardegna,5,1,8,2,5,0.96
-Sardegna,5,1,8,2,5,0.95
-Sardegna,5,1,8,4,6,0.94
-Sardegna,5,1,8,2,5,0.92
-Sardegna,5,2,9,2,5,0.9
-Sardegna,5,1,9,2,5,0.87
-Sardegna,5,0,10,3,6,0.84
-Sardegna,6,1,13,2,6,0.79
-Sardegna,7,1,16,2,7,0.74
-Sardegna,9,1,22,4,10,0.66
-Sardegna,11,1,30,4,12,0.57
-Sardegna,14,2,46,5,16,0.46
+Sardegna,9,4,14,6,10,1
+Sardegna,8,3,12,6,9,1
+Sardegna,8,4,12,5,8,1
+Sardegna,7,3,11,5,8,1
+Sardegna,6,3,10,4,7,0.99
+Sardegna,6,2,9,3,6,0.99
+Sardegna,6,2,9,3,6,0.99
+Sardegna,6,2,9,3,6,0.99
+Sardegna,5,1,8,4,6,0.98
+Sardegna,5,1,8,4,6,0.98
+Sardegna,4,2,8,3,5,0.97
+Sardegna,4,2,8,3,5,0.97
+Sardegna,4,1,8,3,5,0.96
+Sardegna,4,1,7,3,5,0.95
+Sardegna,4,0,7,3,5,0.93
+Sardegna,4,1,7,2,4,0.91
+Sardegna,4,1,8,1,4,0.89
+Sardegna,4,0,9,2,5,0.86
+Sardegna,5,0,10,2,5,0.82
+Sardegna,5,0,13,2,6,0.78
+Sardegna,6,0,17,1,6,0.71
+Sardegna,7,0,23,1,7,0.64
+Sardegna,9,0,35,2,9,0.55
+Sardegna,11,0,57,1,11,0.44
 Sicilia,1,1,1,1,1,1
-Sicilia,0,0,0,0,0,1
-Sicilia,0,0,0,0,0,1
-Sicilia,0.5,0,1,0,1,1
+Sicilia,1,0,1,1,1,1
 Sicilia,0,0,1,0,0,1
 Sicilia,0,0,1,0,0,1
 Sicilia,0,0,1,0,0,1
 Sicilia,0,0,1,0,0,1
 Sicilia,0,0,1,0,0,1
-Sicilia,0,0,1,0,0,1
-Sicilia,0,0,0,0,0,1
-Sicilia,0,0,1,0,0,1
-Sicilia,0,0,1,0,0,1
+Sicilia,1,0,1,1,1,1
 Sicilia,0,0,1,0,0,1
 Sicilia,0,0,1,0,0,1
 Sicilia,0,0,1,0,0,1
@@ -1397,95 +1437,101 @@ Sicilia,0,0,1,0,0,1
 Sicilia,0,0,1,0,0,1
 Sicilia,0,0,2,0,0,1
 Sicilia,0,0,2,0,0,1
+Sicilia,1,0,2,0,1,1
 Sicilia,1,0,2,0,1,1
 Sicilia,1,0,2,0,1,1
 Sicilia,1,0,3,0,1,1
 Sicilia,1,0,3,0,1,1
 Sicilia,1,0,4,0,1,1
-Sicilia,2,0,4,1,2,1
+Sicilia,2,0,4,0,2,1
 Sicilia,2,0,5,0,2,1
 Sicilia,3,0,6,1,3,1
-Sicilia,3,0,7,2,4,1
-Sicilia,4,1,8,1,4,1
-Sicilia,5,1,9,2,5,1
-Sicilia,6,0,10,4,7,1
+Sicilia,3,1,7,2,4,1
+Sicilia,4,1,8,3,5,1
+Sicilia,5,0,9,3,6,1
+Sicilia,6,1,10,3,6,1
 Sicilia,7,2,12,3,7,1
-Sicilia,9,2,14,6,10,1
-Sicilia,10,4,17,6,11,1
-Sicilia,12,5,19,9,14,1
-Sicilia,14,6,21,9,15,1
-Sicilia,16,8,25,10,17,1
-Sicilia,19,11,29,13,20,1
-Sicilia,22,13,32,17,24,1
-Sicilia,25,15,36,19,27,1
-Sicilia,29,17,40,23,32,1
-Sicilia,34,20,44,26,36,1
-Sicilia,37,24,50,30,40,1
-Sicilia,42,30,57,33,45,1
-Sicilia,48,33,62,39,51,1
-Sicilia,53,37,67,45,57,1
-Sicilia,59,43,74,50,63,1
-Sicilia,66,48,80,60,72,1
-Sicilia,73,57,90,66,78,1
-Sicilia,79,64,96,70,83,1
-Sicilia,86,70,102,79,92,1
-Sicilia,92,76,108,83,96,1
-Sicilia,97,80,112,89,102,1
-Sicilia,101,87,117,92,105,1
-Sicilia,104,88,119,97,110,1
-Sicilia,104,86,118,95,108,1
-Sicilia,101,82,118,93,107,1
-Sicilia,98.5,78,115,89,103,1
-Sicilia,94,75,109,85,99,1
-Sicilia,88,70,103,80,94,1
-Sicilia,82,67,97,72,85,1
-Sicilia,77,61,91,68,81,1
-Sicilia,73,58,86,66,77,1
-Sicilia,69,55,82,59,71,1
-Sicilia,65,52,79,57,68,1
-Sicilia,62,48,74,56,66,1
-Sicilia,61,47,72,54,64,1
-Sicilia,59,46,70,52,62,1
-Sicilia,57,44,68,51,60,1
-Sicilia,55,43,66,49,58,1
-Sicilia,54,41,64,50,59,1
-Sicilia,53,41,64,46,55,1
-Sicilia,51,39,62,45,54,1
-Sicilia,50,38,60,44,53,1
-Sicilia,49,37,59,44,52,1
-Sicilia,47,36,58,39,48,1
-Sicilia,45,33,55,37,46,1
-Sicilia,44,34,54,39,47,1
-Sicilia,44,32,53,37,45,1
-Sicilia,44,31,52,38,46,1
-Sicilia,43,33,54,39,47,1
+Sicilia,9,3,14,5,9,1
+Sicilia,10,3,16,6,11,1
+Sicilia,12,5,19,6,12,1
+Sicilia,14,6,21,10,16,1
+Sicilia,17,7,24,10,17,1
+Sicilia,19,11,29,14,21,1
+Sicilia,22,12,31,17,24,1
+Sicilia,26,14,36,19,28,1
+Sicilia,29,19,41,23,31,1
+Sicilia,33,21,45,25,35,1
+Sicilia,38,25,50,34,44,1
+Sicilia,42,26,54,34,45,1
+Sicilia,48,33,61,39,50,1
+Sicilia,53,38,67,45,57,1
+Sicilia,59,44,74,50,62,1
+Sicilia,66,50,81,55,68,1
+Sicilia,73,56,89,65,77,1
+Sicilia,80,65,97,71,84,1
+Sicilia,86,70,102,76,89,1
+Sicilia,92,77,108,86,98,1
+Sicilia,97,82,112,87,100,1
+Sicilia,101,84,117,92,105,1
+Sicilia,103,85,119,98,112,1
+Sicilia,104,87,120,98,111,1
+Sicilia,102,85,118,95,108,1
+Sicilia,98,80,114,89,103,1
+Sicilia,94,78,112,85,98,1
+Sicilia,89,69,104,79,93,1
+Sicilia,83,66,97,73,86,1
+Sicilia,77,64,93,69,81,1
+Sicilia,72,56,85,67,77,1
+Sicilia,69,55,82,61,72,1
+Sicilia,66,52,79,57,68,1
+Sicilia,62,49,74,56,66,1
+Sicilia,61,47,72,53,63,1
+Sicilia,59,44,70,53,63,1
+Sicilia,57,44,68,52,61,1
+Sicilia,56,44,67,47,57,1
+Sicilia,54,44,67,48,57,1
+Sicilia,53,41,65,45,55,1
+Sicilia,52,38,61,45,54,1
+Sicilia,50,39,61,43,52,1
+Sicilia,48,36,59,42,51,1
+Sicilia,46,35,57,40,49,1
+Sicilia,45,34,55,39,47,1
+Sicilia,44,33,53,38,46,1
+Sicilia,43.5,32,53,38,46,1
+Sicilia,43,32,53,37,45,1
 Sicilia,43,31,52,38,46,1
-Sicilia,42,32,52,35,43,1
-Sicilia,41,29,50,34,43,1
-Sicilia,39,29,49,32,40,0.99
-Sicilia,36,27,47,30,38,0.99
-Sicilia,34,25,45,27,35,0.99
-Sicilia,32,22,40,27,34,0.99
-Sicilia,29,20,37,24,31,0.99
-Sicilia,26,19,36,21,28,0.98
-Sicilia,24,17,32,20,26,0.98
-Sicilia,22,14,29,17,23,0.97
-Sicilia,21,12,27,18,23,0.96
-Sicilia,19,11,25,17,22,0.95
-Sicilia,18,12,25,14,19,0.94
-Sicilia,17,10,24,14,19,0.92
-Sicilia,16,8,22,12,17,0.9
-Sicilia,16,8,22,13,18,0.87
-Sicilia,15,8,23,10,16,0.84
-Sicilia,15,7,24,11,17,0.8
-Sicilia,16,6,27,10,17,0.74
-Sicilia,18,5,33,10,19,0.66
-Sicilia,20,6,43,9,21,0.57
+Sicilia,42,30,51,36,44,1
+Sicilia,41.5,31,51,35,43,1
+Sicilia,40,29,50,33,42,1
+Sicilia,39,28,48,32,40,1
+Sicilia,36,25,45,29,37,1
+Sicilia,34,24,43,27,35,1
+Sicilia,31,22,40,26,33,1
+Sicilia,28,20,38,23,30,0.99
+Sicilia,26,17,34,22,28,0.99
+Sicilia,23,16,31,19,25,0.99
+Sicilia,21,13,28,17,23,0.99
+Sicilia,20,13,27,15,21,0.98
+Sicilia,18,12,25,15,20,0.98
+Sicilia,17,9,23,14,19,0.97
+Sicilia,16,9,22,12,17,0.97
+Sicilia,15,9,20,13,17,0.96
+Sicilia,14,8,20,11,15,0.94
+Sicilia,13,7,19,9,14,0.93
+Sicilia,13,6,18,10,14,0.91
+Sicilia,13,6,18,10,14,0.88
+Sicilia,13,6,20,8,13,0.85
+Sicilia,14,6,21,11,16,0.81
+Sicilia,14,5,23,9,15,0.76
+Sicilia,16,5,28,8,16,0.69
+Sicilia,18,4,35,9,19,0.61
 Toscana,1,1,1,1,1,1
 Toscana,0,0,0,0,0,1
+Toscana,0,0,0,0,0,1
+Toscana,0,0,0,0,0,1
+Toscana,0.5,0,1,0,1,1
+Toscana,0,0,0,0,0,1
 Toscana,1,0,1,1,1,1
-Toscana,0,0,0,0,0,1
-Toscana,0,0,0,0,0,1
 Toscana,0,0,1,0,0,1
 Toscana,0,0,1,0,0,1
 Toscana,0,0,1,0,0,1
@@ -1502,107 +1548,109 @@ Toscana,0,0,1,0,0,1
 Toscana,0,0,1,0,0,1
 Toscana,0,0,1,0,0,1
 Toscana,0,0,1,0,0,1
+Toscana,0,0,2,0,0,1
 Toscana,0,0,1,0,0,1
-Toscana,1,0,2,0,1,1
-Toscana,1,0,2,0,1,1
 Toscana,1,0,2,0,1,1
 Toscana,1,0,2,0,1,1
 Toscana,1,0,3,0,1,1
-Toscana,1,0,4,0,1,1
+Toscana,1,0,3,0,1,1
+Toscana,1,0,3,0,1,1
 Toscana,1,0,4,0,1,1
 Toscana,2,0,5,0,2,1
-Toscana,2,0,5,0,2,1
-Toscana,3,0,7,0,3,1
+Toscana,2,0,6,0,2,1
+Toscana,3,0,7,1,3,1
 Toscana,4,0,8,1,4,1
 Toscana,5,0,10,1,5,1
-Toscana,6,1,12,2,6,1
-Toscana,7,1,14,2,7,1
-Toscana,9,2,17,4,10,1
+Toscana,6,1,12,3,7,1
+Toscana,8,2,15,3,8,1
+Toscana,10,3,17,4,10,1
 Toscana,12,4,21,5,12,1
-Toscana,14,4,24,7,15,1
-Toscana,18,7,29,10,19,1
-Toscana,22,10,35,15,25,1
-Toscana,26,11,40,16,28,1
-Toscana,32,15,47,23,36,1
-Toscana,38,19,54,26,40,1
-Toscana,44,26,64,33,48,1
-Toscana,53,32,73,43,59,1
-Toscana,61,38,83,49,67,1
-Toscana,71,47,96,60,79,1
-Toscana,81.5,56,108,68,89,1
-Toscana,94,64,117,81,102,1
-Toscana,106,77,132,95,117,1
-Toscana,119,91,148,103,125,1
-Toscana,133,107,163,118,141,1
-Toscana,148,119,177,131,156,1
-Toscana,162.5,131,189,148,172,1
-Toscana,176,147,203,161,184,1
-Toscana,190,162,218,176,199,1
-Toscana,204,176,231,190,213,1
-Toscana,216,191,242,200,221,1
-Toscana,225,199,249,213,233,1
-Toscana,234,204,254,224,244,1
-Toscana,241,217,267,228,248,1
-Toscana,246,221,271,235,255,1
-Toscana,250,226,275,238,259,1
-Toscana,251.5,226,276,241,261,1
-Toscana,252,224,273,237,257,1
-Toscana,254,226,278,242,263,1
-Toscana,255.5,224,278,245,265,1
-Toscana,254,226,280,242,264,1
-Toscana,252.5,226,280,237,258,1
-Toscana,247,217,272,232,256,1
-Toscana,241,215,271,227,250,1
-Toscana,234,207,262,215,240,1
-Toscana,223,198,250,208,230,1
-Toscana,216,189,239,201,222,1
-Toscana,205,177,229,197,218,1
-Toscana,198,171,218,185,204,1
-Toscana,191,168,214,179,197,1
-Toscana,184,161,206,171,189,1
-Toscana,179,158,200,170,187,1
-Toscana,177,154,198,165,183,1
-Toscana,175,152,195,164,181,1
-Toscana,174,148,194,161,179,1
-Toscana,169,143,191,159,178,1
-Toscana,165,142,187,152,170,1
-Toscana,158.5,133,179,145,164,1
-Toscana,152,131,176,139,158,1
-Toscana,144,120,166,133,151,1
-Toscana,135,112,155,125,142,1
-Toscana,127,105,147,117,134,1
-Toscana,119,99,138,108,124,1
-Toscana,110,91,128,99,115,1
-Toscana,102,85,122,91,107,1
-Toscana,94,77,111,86,99,1
-Toscana,88,72,104,83,95,1
-Toscana,83,66,99,75,88,0.99
-Toscana,78,62,93,68,81,0.99
-Toscana,73,60,89,65,77,0.99
-Toscana,69,53,82,60,72,0.99
-Toscana,64,49,77,59,70,0.98
-Toscana,59,46,73,50,61,0.98
-Toscana,55,41,66,46,56,0.97
-Toscana,51,38,61,43,53,0.97
-Toscana,48,35,58,41,50,0.96
-Toscana,44,32,55,38,47,0.95
-Toscana,41,31,53,35,43,0.93
-Toscana,38,25,47,33,41,0.92
-Toscana,34,24,44,28,36,0.89
-Toscana,31,20,41,26,34,0.86
-Toscana,30,18,41,24,32,0.83
-Toscana,30,16,42,23,32,0.78
-Toscana,29,15,46,20,31,0.72
-Toscana,30,15,54,18,31,0.64
+Toscana,15,5,25,8,16,1
+Toscana,18,7,29,11,20,1
+Toscana,22,10,34,14,24,1
+Toscana,26,11,40,18,29,1
+Toscana,32,15,46,21,34,1
+Toscana,38,18,54,29,43,1
+Toscana,46,25,62,33,49,1
+Toscana,53.5,33,72,43,58,1
+Toscana,62,43,86,49,66,1
+Toscana,72,52,95,59,77,1
+Toscana,82,55,105,71,90,1
+Toscana,94,67,119,80,101,1
+Toscana,106,81,133,90,111,1
+Toscana,120,92,146,106,128,1
+Toscana,134,102,159,119,143,1
+Toscana,147,117,175,131,155,1
+Toscana,163,131,188,151,173,1
+Toscana,177,146,203,163,185,1
+Toscana,191,163,217,177,199,1
+Toscana,204,177,232,191,212,1
+Toscana,216,190,242,202,223,1
+Toscana,226,198,250,212,233,1
+Toscana,235,208,256,224,244,1
+Toscana,241.5,213,264,227,247,1
+Toscana,245,219,268,231,250,1
+Toscana,249,222,272,237,257,1
+Toscana,251.5,227,276,239,259,1
+Toscana,253,226,276,239,259,1
+Toscana,254,226,277,245,265,1
+Toscana,254,227,278,242,263,1
+Toscana,254,229,280,242,263,1
+Toscana,251,223,276,237,259,1
+Toscana,248,220,273,234,256,1
+Toscana,240,213,268,234,256,1
+Toscana,234,210,260,224,245,1
+Toscana,225,200,252,216,237,1
+Toscana,214,187,240,204,224,1
+Toscana,206,177,227,192,213,1
+Toscana,198,172,219,187,207,1
+Toscana,190,166,212,180,198,1
+Toscana,184,156,204,173,191,1
+Toscana,180,155,199,170,187,1
+Toscana,178,157,200,170,187,1
+Toscana,176,155,199,164,182,1
+Toscana,174,148,195,164,182,1
+Toscana,169,144,189,159,176,1
+Toscana,165,140,187,154,173,1
+Toscana,158,132,178,145,164,1
+Toscana,151,127,174,140,158,1
+Toscana,142,121,165,130,148,1
+Toscana,135,112,155,122,140,1
+Toscana,126,105,146,113,131,1
+Toscana,119,96,137,109,125,1
+Toscana,109,89,129,98,114,1
+Toscana,101,84,120,91,105,1
+Toscana,94,75,110,85,99,1
+Toscana,88,70,103,82,95,1
+Toscana,82,66,98,75,88,1
+Toscana,77,62,93,69,81,1
+Toscana,73,58,88,64,77,1
+Toscana,68,54,83,61,72,0.99
+Toscana,64,49,76,57,68,0.99
+Toscana,58,44,70,51,61,0.99
+Toscana,53,40,64,48,58,0.99
+Toscana,50,36,59,44,53,0.98
+Toscana,46,33,55,39,48,0.98
+Toscana,43,31,53,36,45,0.98
+Toscana,39,29,50,33,42,0.97
+Toscana,36,26,46,30,38,0.96
+Toscana,32,22,41,25,33,0.95
+Toscana,30,21,38,24,31,0.94
+Toscana,28,19,36,23,30,0.92
+Toscana,27,17,35,22,29,0.9
+Toscana,27,16,36,20,28,0.87
+Toscana,27,16,37,21,29,0.83
+Toscana,28,15,39,23,31,0.79
+Toscana,29,17,46,23,32,0.73
+Toscana,31,16,51,21,33,0.65
 Trentino-Alto Adige,1,1,1,1,1,1
-Trentino-Alto Adige,1,0,1,1,1,1
 Trentino-Alto Adige,0,0,0,0,0,1
-Trentino-Alto Adige,0,0,0,0,0,1
-Trentino-Alto Adige,0,0,0,0,0,1
+Trentino-Alto Adige,0.5,0,1,0,1,1
 Trentino-Alto Adige,0,0,1,0,0,1
-Trentino-Alto Adige,0.5,0,1,0,1,1
-Trentino-Alto Adige,0.5,0,1,0,1,1
-Trentino-Alto Adige,1,0,1,1,1,1
+Trentino-Alto Adige,0,0,1,0,0,1
+Trentino-Alto Adige,0,0,1,0,0,1
+Trentino-Alto Adige,0,0,1,0,0,1
+Trentino-Alto Adige,0,0,1,0,0,1
 Trentino-Alto Adige,0,0,1,0,0,1
 Trentino-Alto Adige,0,0,1,0,0,1
 Trentino-Alto Adige,0,0,1,0,0,1
@@ -1616,101 +1664,109 @@ Trentino-Alto Adige,0,0,1,0,0,1
 Trentino-Alto Adige,0,0,1,0,0,1
 Trentino-Alto Adige,0,0,1,0,0,1
 Trentino-Alto Adige,0,0,2,0,0,1
-Trentino-Alto Adige,1,0,2,0,1,1
+Trentino-Alto Adige,0,0,2,0,0,1
+Trentino-Alto Adige,0,0,2,0,0,1
 Trentino-Alto Adige,1,0,2,0,1,1
 Trentino-Alto Adige,1,0,2,0,1,1
 Trentino-Alto Adige,1,0,3,0,1,1
 Trentino-Alto Adige,1,0,3,0,1,1
 Trentino-Alto Adige,1,0,4,0,1,1
-Trentino-Alto Adige,2,0,4,0,2,1
+Trentino-Alto Adige,2,0,5,0,2,1
 Trentino-Alto Adige,2,0,6,0,2,1
 Trentino-Alto Adige,3,0,7,1,3,1
-Trentino-Alto Adige,3,0,8,0,3,1
-Trentino-Alto Adige,4,0,10,2,5,1
-Trentino-Alto Adige,6,1,12,2,6,1
+Trentino-Alto Adige,4,0,8,1,4,1
+Trentino-Alto Adige,5,1,10,2,5,1
+Trentino-Alto Adige,6,0,12,2,6,1
 Trentino-Alto Adige,7,1,14,3,8,1
 Trentino-Alto Adige,9,2,17,4,10,1
-Trentino-Alto Adige,11,2,20,5,12,1
-Trentino-Alto Adige,14,4,24,8,16,1
+Trentino-Alto Adige,12,2,20,8,14,1
+Trentino-Alto Adige,14,4,24,7,15,1
 Trentino-Alto Adige,18,7,30,11,20,1
-Trentino-Alto Adige,22,8,34,16,25,1
-Trentino-Alto Adige,27,13,42,20,31,1
-Trentino-Alto Adige,32,16,48,21,34,1
-Trentino-Alto Adige,39,22,57,29,43,1
-Trentino-Alto Adige,47,28,65,35,50,1
-Trentino-Alto Adige,56,34,73,43,59,1
-Trentino-Alto Adige,64,41,84,55,72,1
-Trentino-Alto Adige,75,52,96,65,83,1
-Trentino-Alto Adige,85,61,106,73,91,1
-Trentino-Alto Adige,95.5,71,116,89,107,1
-Trentino-Alto Adige,107,83,128,96,113,1
-Trentino-Alto Adige,116,93,137,106,123,1
-Trentino-Alto Adige,126,105,146,115,132,1
-Trentino-Alto Adige,135,111,154,123,140,1
-Trentino-Alto Adige,143,121,162,134,149,1
-Trentino-Alto Adige,151,127,170,143,160,1
-Trentino-Alto Adige,158,136,177,146,163,1
-Trentino-Alto Adige,164,141,183,155,171,1
-Trentino-Alto Adige,169,145,188,158,174,1
-Trentino-Alto Adige,172,149,192,159,176,1
-Trentino-Alto Adige,173,153,193,163,178,1
-Trentino-Alto Adige,173,153,193,164,180,1
-Trentino-Alto Adige,171,152,191,160,176,1
-Trentino-Alto Adige,170,148,191,159,176,1
-Trentino-Alto Adige,169,146,188,160,176,1
-Trentino-Alto Adige,169,145,188,162,178,1
-Trentino-Alto Adige,169,149,190,157,174,1
-Trentino-Alto Adige,167,149,189,159,174,1
-Trentino-Alto Adige,166,145,187,153,170,1
-Trentino-Alto Adige,163,143,183,151,168,1
-Trentino-Alto Adige,160,139,179,148,165,1
-Trentino-Alto Adige,157,136,175,147,163,1
-Trentino-Alto Adige,154.5,133,174,146,162,1
-Trentino-Alto Adige,153,130,171,142,159,1
-Trentino-Alto Adige,150,126,167,141,157,1
-Trentino-Alto Adige,147,124,165,136,153,1
-Trentino-Alto Adige,145,123,164,138,154,1
-Trentino-Alto Adige,140,122,162,129,145,1
-Trentino-Alto Adige,137,114,156,126,143,1
-Trentino-Alto Adige,130.5,108,150,121,137,1
-Trentino-Alto Adige,125,100,143,113,130,1
-Trentino-Alto Adige,117,96,137,104,121,1
-Trentino-Alto Adige,111,90,128,102,117,1
-Trentino-Alto Adige,103,83,119,93,107,1
-Trentino-Alto Adige,96,76,112,85,99,1
-Trentino-Alto Adige,90,72,105,82,95,1
-Trentino-Alto Adige,85,67,99,76,89,1
-Trentino-Alto Adige,81,65,96,72,85,1
-Trentino-Alto Adige,77,61,92,68,81,1
-Trentino-Alto Adige,73,60,88,64,76,1
-Trentino-Alto Adige,68,55,82,60,71,1
-Trentino-Alto Adige,65,49,77,57,68,0.99
-Trentino-Alto Adige,62,49,73,55,65,0.99
-Trentino-Alto Adige,59,45,71,53,63,0.99
-Trentino-Alto Adige,57,44,70,48,59,0.99
-Trentino-Alto Adige,54,42,67,46,56,0.99
-Trentino-Alto Adige,50,36,61,43,53,0.98
-Trentino-Alto Adige,45,31,56,38,48,0.98
-Trentino-Alto Adige,41,27,51,36,45,0.97
-Trentino-Alto Adige,37,25,46,30,39,0.96
-Trentino-Alto Adige,33,21,43,27,35,0.95
-Trentino-Alto Adige,29,18,37,24,31,0.94
-Trentino-Alto Adige,25,17,34,20,27,0.92
-Trentino-Alto Adige,22.5,13,30,19,25,0.9
-Trentino-Alto Adige,19,12,27,14,20,0.88
-Trentino-Alto Adige,17,9,25,12,18,0.84
-Trentino-Alto Adige,15,7,24,11,17,0.8
-Trentino-Alto Adige,14,5,24,8,15,0.74
-Trentino-Alto Adige,15,5,29,9,16,0.67
-Trentino-Alto Adige,16,5,37,8,17,0.58
+Trentino-Alto Adige,22,9,35,14,24,1
+Trentino-Alto Adige,27,13,42,22,33,1
+Trentino-Alto Adige,33,17,48,25,37,1
+Trentino-Alto Adige,40,20,55,31,44,1
+Trentino-Alto Adige,47,28,65,38,53,1
+Trentino-Alto Adige,55,35,75,46,62,1
+Trentino-Alto Adige,65,43,83,57,73,1
+Trentino-Alto Adige,75,52,93,63,80,1
+Trentino-Alto Adige,85,61,105,77,94,1
+Trentino-Alto Adige,97,71,114,83,101,1
+Trentino-Alto Adige,107,86,128,96,113,1
+Trentino-Alto Adige,117,96,137,110,125,1
+Trentino-Alto Adige,127,105,147,119,136,1
+Trentino-Alto Adige,136,114,155,129,145,1
+Trentino-Alto Adige,144,121,164,134,151,1
+Trentino-Alto Adige,151,128,169,142,159,1
+Trentino-Alto Adige,156,134,176,144,161,1
+Trentino-Alto Adige,163,142,184,152,169,1
+Trentino-Alto Adige,168,147,188,155,172,1
+Trentino-Alto Adige,173,153,191,165,181,1
+Trentino-Alto Adige,173,150,191,163,179,1
+Trentino-Alto Adige,173,152,193,161,177,1
+Trentino-Alto Adige,171,150,191,160,177,1
+Trentino-Alto Adige,170,149,190,160,176,1
+Trentino-Alto Adige,170,150,190,161,177,1
+Trentino-Alto Adige,171,148,189,158,175,1
+Trentino-Alto Adige,169,149,188,160,176,1
+Trentino-Alto Adige,168,147,187,154,171,1
+Trentino-Alto Adige,165,146,186,154,171,1
+Trentino-Alto Adige,162.5,140,182,152,169,1
+Trentino-Alto Adige,159,137,178,148,164,1
+Trentino-Alto Adige,156,136,175,146,162,1
+Trentino-Alto Adige,154,137,177,146,161,1
+Trentino-Alto Adige,152,128,169,144,159,1
+Trentino-Alto Adige,150,129,170,140,156,1
+Trentino-Alto Adige,147,125,165,138,153,1
+Trentino-Alto Adige,144,123,164,135,151,1
+Trentino-Alto Adige,141,119,161,129,146,1
+Trentino-Alto Adige,136,114,156,123,140,1
+Trentino-Alto Adige,131,107,149,121,138,1
+Trentino-Alto Adige,124,104,144,111,128,1
+Trentino-Alto Adige,116,96,135,109,124,1
+Trentino-Alto Adige,110,88,128,100,116,1
+Trentino-Alto Adige,103,83,118,94,108,1
+Trentino-Alto Adige,95,77,111,88,101,1
+Trentino-Alto Adige,90,73,106,84,97,1
+Trentino-Alto Adige,84,69,100,76,88,1
+Trentino-Alto Adige,81,66,95,74,85,1
+Trentino-Alto Adige,77,60,91,69,81,1
+Trentino-Alto Adige,72,58,86,68,80,1
+Trentino-Alto Adige,68,54,80,60,71,1
+Trentino-Alto Adige,64,50,76,58,68,1
+Trentino-Alto Adige,61,49,74,52,63,1
+Trentino-Alto Adige,58,45,71,53,63,1
+Trentino-Alto Adige,55,43,69,49,59,0.99
+Trentino-Alto Adige,53,39,65,47,57,0.99
+Trentino-Alto Adige,49,35,60,42,52,0.99
+Trentino-Alto Adige,45,33,56,39,48,0.99
+Trentino-Alto Adige,40,28,50,33,42,0.98
+Trentino-Alto Adige,35,25,45,29,37,0.98
+Trentino-Alto Adige,31,21,40,24,32,0.97
+Trentino-Alto Adige,27,17,35,22,29,0.97
+Trentino-Alto Adige,24,15,31,20,26,0.96
+Trentino-Alto Adige,20,12,27,15,21,0.95
+Trentino-Alto Adige,17,10,24,12,18,0.93
+Trentino-Alto Adige,15,8,21,11,16,0.92
+Trentino-Alto Adige,13,7,19,8,13,0.89
+Trentino-Alto Adige,12,5,17,7,12,0.86
+Trentino-Alto Adige,11,4,18,7,12,0.82
+Trentino-Alto Adige,12,3,20,6,12,0.78
+Trentino-Alto Adige,13,3,23,6,13,0.71
+Trentino-Alto Adige,14,3,30,6,15,0.63
+Trentino-Alto Adige,16,3,41,6,17,0.54
 Umbria,1,1,1,1,1,1
-Umbria,0,0,0,0,0,1
-Umbria,0,0,0,0,0,1
-Umbria,0,0,0,0,0,1
-Umbria,1,0,1,1,1,1
 Umbria,0.5,0,1,0,1,1
 Umbria,0,0,1,0,0,1
+Umbria,0,0,0,0,0,1
+Umbria,0,0,1,0,0,1
+Umbria,0,0,1,0,0,1
+Umbria,0,0,0,0,0,1
+Umbria,0,0,0,0,0,1
 Umbria,1,0,1,1,1,1
+Umbria,0,0,1,0,0,1
+Umbria,0,0,1,0,0,1
+Umbria,0,0,1,0,0,1
 Umbria,0,0,1,0,0,1
 Umbria,0,0,1,0,0,1
 Umbria,0,0,1,0,0,1
@@ -1728,92 +1784,96 @@ Umbria,0,0,1,0,0,1
 Umbria,0,0,2,0,0,1
 Umbria,1,0,2,0,1,1
 Umbria,1,0,2,0,1,1
-Umbria,1,0,2,0,1,1
-Umbria,1,0,2,0,1,1
+Umbria,1,0,3,0,1,1
 Umbria,1,0,3,0,1,1
 Umbria,1,0,4,0,1,1
 Umbria,2,0,4,1,2,1
 Umbria,2,0,5,0,2,1
 Umbria,3,0,6,1,3,1
-Umbria,3,0,7,2,4,1
+Umbria,3,0,6,2,4,1
 Umbria,4,1,8,1,4,1
-Umbria,5,1,9,3,6,1
-Umbria,6,1,10,4,7,1
+Umbria,5,1,9,2,5,1
+Umbria,6,1,11,2,6,1
 Umbria,7,2,12,4,8,1
 Umbria,9,4,15,5,9,1
-Umbria,10,4,16,6,11,1
-Umbria,12,5,19,9,14,1
-Umbria,14,8,23,10,16,1
+Umbria,10,3,16,6,11,1
+Umbria,12,4,18,9,14,1
+Umbria,15,7,22,9,15,1
 Umbria,17,8,24,12,18,1
-Umbria,19,10,28,14,21,1
-Umbria,23,14,33,16,24,1
-Umbria,26,16,36,20,28,1
-Umbria,30,19,40,27,35,1
-Umbria,34,22,44,27,36,1
-Umbria,38,28,50,32,41,1
-Umbria,42,31,53,35,44,1
-Umbria,46,32,56,41,50,1
-Umbria,49,38,60,42,51,1
-Umbria,52,40,63,45,55,1
-Umbria,56,44,67,49,58,1
-Umbria,57,47,69,49,59,1
-Umbria,59,47,71,54,63,1
-Umbria,60,45,70,54,64,1
-Umbria,59,46,70,53,62,1
-Umbria,58,45,69,51,61,1
-Umbria,56,43,69,47,58,1
-Umbria,53,39,65,46,56,1
-Umbria,50,37,63,43,53,1
-Umbria,47,34,59,41,51,1
-Umbria,43,29,54,36,46,1
-Umbria,38,25,48,30,40,1
-Umbria,33,22,43,26,35,1
-Umbria,28,19,37,24,31,1
-Umbria,25,16,34,19,26,1
-Umbria,22,14,30,18,24,1
-Umbria,20,12,27,16,22,1
-Umbria,18,11,25,13,19,1
-Umbria,16,10,23,13,18,1
-Umbria,14,7,19,9,14,1
-Umbria,11,4,16,9,13,1
+Umbria,20,9,27,14,21,1
+Umbria,23,13,32,18,25,1
+Umbria,26.5,15,35,22,29,1
+Umbria,29,19,40,24,32,1
+Umbria,34,21,43,27,36,1
+Umbria,38,24,47,31,40,1
+Umbria,42,30,52,35,44,1
+Umbria,46,35,58,40,49,1
+Umbria,49.5,37,60,43,52,1
+Umbria,53,41,63,46,55,1
+Umbria,56,42,66,48,58,1
+Umbria,58,45,70,53,62,1
+Umbria,60,47,71,52,62,1
+Umbria,59,48,72,52,62,1
+Umbria,58,46,71,53,63,1
+Umbria,58,45,70,51,61,1
+Umbria,55,44,69,48,58,1
+Umbria,53,40,65,48,58,1
+Umbria,51,36,62,45,55,1
+Umbria,46,34,58,39,49,1
+Umbria,43,29,53,37,46,1
+Umbria,38,26,48,31,40,1
+Umbria,33,23,44,26,35,1
+Umbria,29,19,37,22,30,1
+Umbria,25,15,33,19,26,1
+Umbria,22,14,29,18,24,1
+Umbria,20,11,27,15,21,1
+Umbria,18,9,24,15,20,1
+Umbria,16,8,22,11,17,1
+Umbria,14,7,19,10,15,1
+Umbria,11,6,17,9,13,1
 Umbria,9,4,14,6,10,1
-Umbria,8,3,12,6,9,1
-Umbria,7,2,10,4,7,1
-Umbria,6,2,9,3,6,1
-Umbria,5,1,8,2,5,1
-Umbria,4,2,8,3,5,1
+Umbria,8,3,12,4,8,1
+Umbria,6,2,10,4,7,1
+Umbria,6,1,9,3,6,1
+Umbria,5,2,8,3,5,1
 Umbria,4,1,7,3,5,1
 Umbria,4,1,7,3,5,1
+Umbria,4,1,7,3,5,1
+Umbria,4,1,7,2,4,1
+Umbria,4,1,7,2,4,1
 Umbria,4,0,6,2,4,1
 Umbria,4,1,7,2,4,1
-Umbria,4,1,7,2,4,1
-Umbria,4,1,7,2,4,1
 Umbria,4,0,6,2,4,1
-Umbria,4,1,6,2,4,1
-Umbria,3,0,6,2,4,0.99
+Umbria,3,1,6,2,4,1
+Umbria,3,1,6,2,4,1
+Umbria,3,1,6,1,3,1
 Umbria,3,1,6,2,4,0.99
 Umbria,3,1,6,2,4,0.99
-Umbria,3,1,6,2,4,0.99
+Umbria,4,1,6,2,4,0.99
 Umbria,3,1,6,1,3,0.99
-Umbria,4,1,6,2,4,0.98
-Umbria,3,1,6,2,4,0.98
+Umbria,3,1,6,1,3,0.98
+Umbria,3,0,5,1,3,0.98
 Umbria,3,1,6,1,3,0.97
-Umbria,3,1,6,1,3,0.96
-Umbria,3,1,6,1,3,0.95
-Umbria,3,1,6,1,3,0.94
-Umbria,3,0,6,1,3,0.92
-Umbria,3,0,6,1,3,0.9
-Umbria,3,0,7,2,4,0.87
-Umbria,4,0,9,1,4,0.84
-Umbria,5,1,11,2,5,0.79
-Umbria,6,0,14,2,6,0.73
-Umbria,7,0,19,2,7,0.66
-Umbria,9,1,27,2,9,0.57
+Umbria,3,0,5,1,3,0.97
+Umbria,3,0,5,1,3,0.96
+Umbria,3,0,5,1,3,0.95
+Umbria,3,0,5,1,3,0.93
+Umbria,3,0,6,1,3,0.91
+Umbria,3,0,6,1,3,0.89
+Umbria,4,0,8,2,4,0.86
+Umbria,4,1,9,1,4,0.82
+Umbria,5,0,12,1,5,0.77
+Umbria,6,0,15,2,6,0.71
+Umbria,7,0,22,1,7,0.63
+Umbria,9,0,33,1,9,0.54
+Umbria,13,0,54,1,13,0.43
 Valle d'Aosta,1,1,1,1,1,1
 Valle d'Aosta,0,0,0,0,0,1
-Valle d'Aosta,0.5,0,1,0,1,1
+Valle d'Aosta,0,0,0,0,0,1
 Valle d'Aosta,0,0,0,0,0,1
 Valle d'Aosta,1,0,1,1,1,1
+Valle d'Aosta,0,0,0,0,0,1
+Valle d'Aosta,0,0,1,0,0,1
 Valle d'Aosta,1,0,1,1,1,1
 Valle d'Aosta,0,0,1,0,0,1
 Valle d'Aosta,0,0,1,0,0,1
@@ -1830,99 +1890,98 @@ Valle d'Aosta,0,0,1,0,0,1
 Valle d'Aosta,0,0,1,0,0,1
 Valle d'Aosta,0,0,1,0,0,1
 Valle d'Aosta,0,0,1,0,0,1
-Valle d'Aosta,0,0,2,0,0,1
+Valle d'Aosta,0,0,1,0,0,1
+Valle d'Aosta,0,0,1,0,0,1
 Valle d'Aosta,0,0,2,0,0,1
 Valle d'Aosta,1,0,2,0,1,1
 Valle d'Aosta,1,0,2,0,1,1
-Valle d'Aosta,1,0,3,0,1,1
+Valle d'Aosta,1,0,2,0,1,1
+Valle d'Aosta,1,0,2,0,1,1
 Valle d'Aosta,1,0,3,0,1,1
 Valle d'Aosta,1,0,3,0,1,1
 Valle d'Aosta,2,0,4,1,2,1
 Valle d'Aosta,2,0,5,0,2,1
-Valle d'Aosta,2,0,6,0,2,1
-Valle d'Aosta,3,0,6,1,3,1
-Valle d'Aosta,4,1,8,1,4,1
+Valle d'Aosta,3,0,5,1,3,1
+Valle d'Aosta,3,0,6,2,4,1
+Valle d'Aosta,4,0,7,1,4,1
 Valle d'Aosta,5,1,9,2,5,1
-Valle d'Aosta,6,1,10,4,7,1
-Valle d'Aosta,7,2,12,3,7,1
-Valle d'Aosta,8,4,15,5,9,1
-Valle d'Aosta,10,4,16,5,10,1
-Valle d'Aosta,12,5,17,8,13,1
-Valle d'Aosta,14,7,20,10,15,1
-Valle d'Aosta,16,8,23,10,16,1
+Valle d'Aosta,6,1,10,3,6,1
+Valle d'Aosta,7,3,12,3,7,1
+Valle d'Aosta,9,2,13,6,10,1
+Valle d'Aosta,10,4,16,7,11,1
+Valle d'Aosta,12,5,17,7,12,1
+Valle d'Aosta,14,8,21,11,16,1
+Valle d'Aosta,16,8,23,13,18,1
 Valle d'Aosta,18,11,26,14,20,1
 Valle d'Aosta,21,13,29,17,23,1
-Valle d'Aosta,24,15,31,18,25,1
-Valle d'Aosta,27,17,34,23,29,1
-Valle d'Aosta,29,21,38,26,32,1
-Valle d'Aosta,31,23,40,26,33,1
-Valle d'Aosta,34,24,42,29,36,1
-Valle d'Aosta,34,24,42,29,36,1
-Valle d'Aosta,34,25,43,29,36,1
-Valle d'Aosta,34,23,42,30,37,1
-Valle d'Aosta,33,22,40,30,37,1
-Valle d'Aosta,32,22,40,26,33,1
-Valle d'Aosta,31,22,39,26,33,1
-Valle d'Aosta,30,21,38,26,32,1
-Valle d'Aosta,29,22,38,25,31,1
-Valle d'Aosta,29,19,36,23,30,1
-Valle d'Aosta,30,20,38,24,31,1
-Valle d'Aosta,31,23,40,26,33,1
-Valle d'Aosta,31,21,39,25,32,1
-Valle d'Aosta,30,21,38,27,33,1
-Valle d'Aosta,29,22,39,23,30,1
-Valle d'Aosta,28,18,35,24,30,1
-Valle d'Aosta,26,19,34,22,28,1
-Valle d'Aosta,25,17,33,21,27,1
-Valle d'Aosta,24,16,32,20,26,1
-Valle d'Aosta,23,14,30,20,26,1
-Valle d'Aosta,22,14,28,17,23,1
-Valle d'Aosta,20,13,27,15,21,1
-Valle d'Aosta,19,12,25,15,20,1
-Valle d'Aosta,18,10,24,14,19,1
-Valle d'Aosta,17,10,23,14,19,1
+Valle d'Aosta,24,15,31,20,26,1
+Valle d'Aosta,27,17,34,22,29,1
+Valle d'Aosta,29,21,38,24,31,1
+Valle d'Aosta,32,21,39,27,34,1
+Valle d'Aosta,33,22,41,28,36,1
+Valle d'Aosta,34,25,42,29,36,1
+Valle d'Aosta,34,24,43,30,37,1
+Valle d'Aosta,34,23,42,29,36,1
+Valle d'Aosta,33,24,42,28,35,1
+Valle d'Aosta,32,23,41,27,34,1
+Valle d'Aosta,31,22,39,25,32,1
+Valle d'Aosta,30,21,37,24,31,1
+Valle d'Aosta,29,21,37,25,31,1
+Valle d'Aosta,29,21,37,24,31,1
+Valle d'Aosta,30,21,38,24,31,1
+Valle d'Aosta,31,21,38,25,32,1
+Valle d'Aosta,31,20,38,26,33,1
+Valle d'Aosta,31,20,38,26,33,1
+Valle d'Aosta,29,20,38,24,31,1
+Valle d'Aosta,28,18,35,22,29,1
+Valle d'Aosta,26,19,35,22,28,1
+Valle d'Aosta,25,16,32,21,27,1
+Valle d'Aosta,25,17,32,21,27,1
+Valle d'Aosta,23,16,31,18,24,1
+Valle d'Aosta,22,14,29,17,23,1
+Valle d'Aosta,20,12,26,18,23,1
+Valle d'Aosta,19,11,25,16,21,1
+Valle d'Aosta,18,11,24,14,19,1
+Valle d'Aosta,17,11,23,13,18,1
 Valle d'Aosta,17,9,22,13,18,1
+Valle d'Aosta,16,11,23,12,17,1
 Valle d'Aosta,16,9,22,12,17,1
-Valle d'Aosta,16,10,22,12,17,1
-Valle d'Aosta,16,9,21,11,16,1
-Valle d'Aosta,15,9,21,13,17,1
+Valle d'Aosta,16,8,21,12,17,1
+Valle d'Aosta,16,10,22,11,16,1
 Valle d'Aosta,15,9,21,11,16,1
 Valle d'Aosta,14,7,20,10,15,1
-Valle d'Aosta,13,6,19,9,14,1
-Valle d'Aosta,11,5,17,8,12,1
+Valle d'Aosta,13,7,19,9,14,1
+Valle d'Aosta,11,5,16,9,13,1
 Valle d'Aosta,9,4,14,6,10,1
-Valle d'Aosta,7,2,11,5,8,0.99
-Valle d'Aosta,5,2,9,2,5,0.99
-Valle d'Aosta,4,1,7,3,5,0.99
-Valle d'Aosta,4,0,6,2,4,0.99
+Valle d'Aosta,7,2,11,5,8,1
+Valle d'Aosta,5,2,9,2,5,1
+Valle d'Aosta,4,1,7,2,4,1
+Valle d'Aosta,4,0,6,2,4,1
+Valle d'Aosta,4,1,6,2,4,0.99
+Valle d'Aosta,4,1,7,2,4,0.99
+Valle d'Aosta,4,1,7,2,4,0.99
+Valle d'Aosta,4,1,7,2,4,0.99
 Valle d'Aosta,4,1,7,2,4,0.98
-Valle d'Aosta,4,1,7,2,4,0.98
-Valle d'Aosta,4,1,7,2,4,0.98
-Valle d'Aosta,4,1,7,2,4,0.97
-Valle d'Aosta,4,1,7,2,4,0.96
-Valle d'Aosta,4,1,7,2,4,0.95
-Valle d'Aosta,4,1,7,2,4,0.94
-Valle d'Aosta,4,1,7,2,4,0.92
-Valle d'Aosta,4,1,7,2,4,0.9
-Valle d'Aosta,4,1,8,1,4,0.87
+Valle d'Aosta,4,0,6,2,4,0.98
+Valle d'Aosta,4,1,6,2,4,0.98
+Valle d'Aosta,3,1,6,1,3,0.97
+Valle d'Aosta,3,1,6,1,3,0.96
+Valle d'Aosta,3,0,6,1,3,0.95
+Valle d'Aosta,3,0,5,1,3,0.94
+Valle d'Aosta,3,0,6,1,3,0.92
+Valle d'Aosta,3,1,7,1,3,0.9
+Valle d'Aosta,4,0,7,1,4,0.87
 Valle d'Aosta,4,1,9,1,4,0.83
-Valle d'Aosta,5,0,11,2,5,0.79
-Valle d'Aosta,5,0,14,2,6,0.73
-Valle d'Aosta,7,0,19,3,8,0.65
-Valle d'Aosta,9,0,28,1,9,0.56
-Valle d'Aosta,12,0,47,2,12,0.45
+Valle d'Aosta,5,0,10,2,5,0.79
+Valle d'Aosta,6,0,14,2,6,0.73
+Valle d'Aosta,7,0,19,3,8,0.66
+Valle d'Aosta,10,0,27,3,10,0.57
 Veneto,1,1,1,1,1,1
-Veneto,0.5,0,1,0,1,1
-Veneto,0,0,0,0,0,1
-Veneto,0,0,0,0,0,1
-Veneto,0,0,0,0,0,1
-Veneto,0,0,0,0,0,1
 Veneto,1,0,1,1,1,1
-Veneto,0,0,0,0,0,1
-Veneto,0,0,0,0,0,1
 Veneto,0,0,1,0,0,1
-Veneto,0.5,0,1,0,1,1
 Veneto,0,0,1,0,0,1
+Veneto,0,0,1,0,0,1
+Veneto,0,0,0,0,0,1
 Veneto,0,0,1,0,0,1
 Veneto,0,0,1,0,0,1
 Veneto,0,0,1,0,0,1
@@ -1939,97 +1998,101 @@ Veneto,0,0,1,0,0,1
 Veneto,0,0,2,0,0,1
 Veneto,1,0,2,0,1,1
 Veneto,1,0,2,0,1,1
+Veneto,1,0,2,0,1,1
 Veneto,1,0,3,0,1,1
 Veneto,1,0,3,0,1,1
 Veneto,1,0,4,0,1,1
-Veneto,2,0,4,0,2,1
+Veneto,2,0,4,1,2,1
 Veneto,2,0,5,0,2,1
 Veneto,3,0,6,1,3,1
 Veneto,3,0,8,0,3,1
 Veneto,4,0,9,2,5,1
 Veneto,6,0,11,2,6,1
-Veneto,7,1,14,4,8,1
-Veneto,9,1,16,3,9,1
+Veneto,7,1,13,2,7,1
+Veneto,9,2,16,4,9,1
 Veneto,11,3,19,6,12,1
-Veneto,14,4,23,7,14,1
-Veneto,16.5,5,27,10,18,1
-Veneto,20,9,33,11,21,1
-Veneto,25,12,38,18,28,1
+Veneto,14,4,23,9,16,1
+Veneto,17,7,27,10,18,1
+Veneto,21,9,32,14,23,1
+Veneto,24,11,37,16,26,1
 Veneto,30,16,45,20,32,1
-Veneto,35.5,19,52,25,38,1
-Veneto,41,24,58,33,46,1
-Veneto,48,28,66,38,53,1
-Veneto,54,36,77,42,58,1
-Veneto,62,39,84,48,65,1
-Veneto,69,44,94,55,74,1
-Veneto,77,53,108,61,83,1
-Veneto,87,60,118,68,93,1
-Veneto,99,67,132,81,108,1
-Veneto,111,74,148,90,119,1
-Veneto,125.5,89,166,101,135,1
-Veneto,143,102,186,121,157,1
-Veneto,164,117,206,140,178,1
-Veneto,185,139,232,159,198,1
-Veneto,205,159,253,186,224,1
-Veneto,229,183,276,204,242,1
-Veneto,254,208,303,229,267,1
-Veneto,279,227,324,251,290,1
-Veneto,301.5,251,345,277,316,1
-Veneto,324,280,367,298,335,1
-Veneto,344,294,384,324,359,1
-Veneto,362,321,406,343,377,1
-Veneto,378,337,422,360,396,1
-Veneto,394,351,435,373,406,1
-Veneto,409,362,446,388,420,1
-Veneto,420,383,460,399,431,1
-Veneto,431,390,465,415,445,1
-Veneto,437,396,470,419,449,1
-Veneto,437,398,470,423,450,1
-Veneto,436,399,468,425,453,1
-Veneto,430,396,465,416,444,1
-Veneto,421,384,457,402,432,1
-Veneto,416,376,450,401,430,1
-Veneto,411,376,446,395,422,1
-Veneto,405,370,441,387,414,1
-Veneto,396,361,431,381,409,1
-Veneto,390,357,421,372,400,1
-Veneto,381,346,414,365,392,1
-Veneto,375,340,406,362,389,1
-Veneto,368,335,402,351,379,1
-Veneto,362.5,329,393,347,373,1
-Veneto,356,322,386,342,368,1
-Veneto,349,317,382,333,359,1
-Veneto,341,304,371,325,352,1
-Veneto,332,299,366,316,343,1
-Veneto,323,288,356,307,334,1
-Veneto,312,277,344,293,320,1
-Veneto,298,261,328,282,311,1
-Veneto,282,250,313,265,289,1
-Veneto,265,231,290,249,274,1
-Veneto,250,223,277,242,264,1
-Veneto,239,212,267,227,248,1
-Veneto,234,209,261,222,243,1
-Veneto,231,208,259,218,238,1
-Veneto,229,197,256,214,238,1
-Veneto,221,191,248,206,229,1
-Veneto,209,178,234,196,218,1
-Veneto,195,169,224,180,203,1
-Veneto,182,152,204,166,188,1
-Veneto,168,140,191,156,177,1
-Veneto,155,131,177,142,161,0.99
-Veneto,142,123,167,129,147,0.99
-Veneto,128,107,150,119,136,0.99
-Veneto,116,97,134,104,120,0.99
-Veneto,106,88,124,97,112,0.98
-Veneto,98,81,115,88,102,0.98
-Veneto,92,75,107,87,99,0.97
-Veneto,88,71,103,79,92,0.97
-Veneto,82,66,96,74,86,0.96
-Veneto,77,59,90,70,81,0.94
-Veneto,71,54,84,63,75,0.93
-Veneto,64,49,77,58,69,0.91
-Veneto,61,46,74,52,63,0.89
-Veneto,58,44,71,50,61,0.85
-Veneto,57,41,71,50,61,0.81
-Veneto,57,41,72,48,60,0.76
-Veneto,58,39,74,49,62,0.69
+Veneto,36,18,50,27,39,1
+Veneto,42,24,59,31,45,1
+Veneto,47,28,66,37,52,1
+Veneto,55,37,79,42,58,1
+Veneto,62,41,85,49,66,1
+Veneto,70,46,94,58,76,1
+Veneto,77,52,103,67,87,1
+Veneto,89,55,115,74,98,1
+Veneto,99,66,130,79,105,1
+Veneto,111,74,146,96,124,1
+Veneto,127,88,161,106,137,1
+Veneto,144.5,101,183,122,155,1
+Veneto,163,121,208,143,177,1
+Veneto,183,139,229,161,197,1
+Veneto,207,169,262,188,225,1
+Veneto,230,181,274,206,244,1
+Veneto,256,203,298,237,275,1
+Veneto,280.5,230,321,255,291,1
+Veneto,302,256,346,283,318,1
+Veneto,324,283,371,303,337,1
+Veneto,344,302,389,324,358,1
+Veneto,362,320,405,353,387,1
+Veneto,378,336,418,352,387,1
+Veneto,394,353,434,372,407,1
+Veneto,408,364,443,394,428,1
+Veneto,421.5,380,458,400,432,1
+Veneto,431,396,471,414,444,1
+Veneto,437,401,471,417,447,1
+Veneto,436,401,471,418,447,1
+Veneto,434,399,468,413,442,1
+Veneto,428,391,465,409,438,1
+Veneto,421,384,455,398,427,1
+Veneto,417,378,449,399,429,1
+Veneto,411,378,448,393,421,1
+Veneto,402,368,437,389,416,1
+Veneto,395,360,427,383,410,1
+Veneto,388,352,419,369,397,1
+Veneto,381,351,417,364,391,1
+Veneto,375,342,406,358,383,1
+Veneto,369,335,401,356,381,1
+Veneto,363,328,394,345,372,1
+Veneto,356,319,386,344,371,1
+Veneto,348,315,380,336,362,1
+Veneto,341,310,373,325,353,1
+Veneto,332,298,366,319,346,1
+Veneto,323,290,354,310,338,1
+Veneto,313,277,343,304,331,1
+Veneto,297,267,332,283,310,1
+Veneto,282,254,315,267,291,1
+Veneto,263,233,290,250,274,1
+Veneto,251,220,274,238,260,1
+Veneto,239,214,270,222,244,1
+Veneto,234,205,261,223,245,1
+Veneto,231,201,256,217,238,1
+Veneto,226,201,255,209,233,1
+Veneto,220,194,251,208,230,1
+Veneto,210,181,237,195,217,1
+Veneto,193,162,218,180,202,1
+Veneto,181,155,206,168,189,1
+Veneto,168,142,193,153,174,1
+Veneto,154,130,178,140,159,1
+Veneto,142,117,163,128,148,1
+Veneto,128,105,148,115,133,1
+Veneto,115,94,133,105,121,0.99
+Veneto,104,85,121,94,109,0.99
+Veneto,96,80,112,86,100,0.99
+Veneto,90,73,105,83,95,0.99
+Veneto,85,67,100,79,91,0.98
+Veneto,79,65,94,72,83,0.98
+Veneto,73,57,86,66,77,0.97
+Veneto,66,53,81,58,69,0.97
+Veneto,61,46,72,56,66,0.96
+Veneto,55,43,66,49,58,0.94
+Veneto,52,39,63,44,54,0.93
+Veneto,50,37,60,43,52,0.91
+Veneto,48,37,59,41,50,0.88
+Veneto,47,33,57,40,49,0.85
+Veneto,46,32,58,40,50,0.81
+Veneto,45,32,59,38,49,0.76
+Veneto,46,32,63,37,49,0.69
