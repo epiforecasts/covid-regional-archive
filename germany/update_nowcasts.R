@@ -25,19 +25,10 @@ cases <- cases %>%
   tidyr::gather(key = "import_status", value = "confirm", local, imported) %>% 
   tidyr::drop_na(region)
 
-# Get linelist ------------------------------------------------------------
+# Shared delay ------------------------------------------------------------
 
-# linelist <-  NCoVUtils::get_international_linelist() %>% 
-#   tidyr::drop_na(date_onset)
-linelist <- 
-  data.table::fread("https://raw.githubusercontent.com/epiforecasts/NCoVUtils/master/data-raw/linelist.csv")
+delay_defs <- readRDS("delay.rds")
 
-
-delays <- linelist[!is.na(date_onset_symptoms)][, 
-                                                .(report_delay = as.numeric(lubridate::dmy(date_confirmation) - 
-                                                                              as.Date(lubridate::dmy(date_onset_symptoms))))]
-
-delays <- delays$report_delay
 
 # Set up cores -----------------------------------------------------
 if (!interactive()){
@@ -45,13 +36,6 @@ if (!interactive()){
 }
 
 future::plan("multiprocess", workers = round(future::availableCores() / 3))
-
-
-# Fit the reporting delay -------------------------------------------------
-
-delay_defs <- EpiNow::get_dist_def(delays, 
-                                   bootstraps = 100, samples = 1000)
-
 
 # Run pipeline ----------------------------------------------------
 
@@ -62,9 +46,9 @@ EpiNow::regional_rt_pipeline(
   horizon = 14,
   approx_delay = TRUE,
   report_forecast = TRUE,
-  forecast_model = function(...){EpiSoon::forecastHybrid_model(
-    model_params = list(models = "aeftz", weights = "equal",
-                        t.args = list(use.parallel = FALSE)),
+  forecast_model = function(y, ...){EpiSoon::forecastHybrid_model(
+    y = y[max(1, length(y) - 21):length(y)],
+    model_params = list(models = "aefz", weights = "equal"),
     forecast_params = list(PI.combination = "mean"), ...)}
 )
 
