@@ -1,0 +1,1599 @@
+region,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
+Acre,nowcast,1.2,0.4,1.9,0.8,1.4,0.34
+Acre,nowcast,1.1,0.4,1.9,0.9,1.4,0.35
+Acre,nowcast,1.2,0.5,1.9,0.8,1.4,0.34
+Acre,nowcast,1.1,0.4,1.9,0.8,1.3,0.36
+Acre,nowcast,1.2,0.5,1.9,0.8,1.4,0.33
+Acre,nowcast,1.1,0.5,1.9,0.8,1.3,0.34
+Acre,nowcast,1.2,0.5,1.9,0.9,1.4,0.31
+Acre,nowcast,1.3,0.6,2.1,1,1.5,0.22
+Acre,nowcast,1.3,0.7,2.2,1,1.5,0.18
+Acre,nowcast,1.4,0.8,2.2,1,1.5,0.14
+Acre,nowcast,1.5,0.8,2.2,1.1,1.6,0.09
+Acre,nowcast,1.5,0.8,2.2,1.2,1.7,0.08
+Acre,nowcast,1.5,0.9,2.2,1.2,1.7,0.07
+Acre,nowcast,1.5,0.9,2.1,1.2,1.7,0.06
+Acre,nowcast,1.5,0.9,2,1.2,1.7,0.05
+Acre,nowcast,1.5,1,2,1.3,1.7,0.04
+Acre,nowcast,1.5,1,2,1.3,1.6,0.04
+Acre,nowcast,1.5,1,2,1.2,1.6,0.04
+Acre,nowcast,1.5,1,1.9,1.2,1.6,0.04
+Acre,nowcast,1.4,1,1.9,1.2,1.6,0.04
+Acre,nowcast,1.4,1,1.9,1.2,1.5,0.03
+Acre,nowcast,1.4,1.1,1.9,1.3,1.6,0.03
+Acre,nowcast,1.4,1.1,1.8,1.2,1.5,0.03
+Acre,nowcast,1.4,1,1.7,1.3,1.5,0.02
+Acre,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+Acre,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
+Acre,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
+Acre,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Acre,nowcast,1.4,1.2,1.8,1.3,1.6,0
+Acre,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Acre,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Acre,nowcast,1.5,1.2,1.8,1.3,1.5,0
+Acre,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Acre,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Acre,nowcast,1.4,1.1,1.6,1.3,1.5,0
+Acre,nowcast,1.4,1.1,1.6,1.3,1.5,0
+Acre,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Acre,nowcast,1.3,1,1.5,1.2,1.4,0.02
+Acre,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Acre,nowcast,1.2,1,1.3,1.1,1.2,0.07
+Acre,nowcast,1.1,0.9,1.3,1,1.2,0.15
+Acre,nowcast,1.1,0.9,1.2,1,1.1,0.25
+Acre,nowcast,1,0.9,1.2,1,1.1,0.36
+Acre,nowcast,1,0.8,1.1,0.9,1.1,0.52
+Acre,nowcast,1,0.8,1.1,0.9,1,0.69
+Acre,nowcast,0.9,0.7,1.1,0.9,1,0.77
+Acre,nowcast,0.9,0.7,1.1,0.9,1,0.8
+Acre,forecast,0.9,0.6,1.3,0.8,1.1,0.59
+Acre,forecast,0.9,0.5,1.4,0.8,1.1,0.58
+Acre,forecast,1,0.4,1.5,0.8,1.2,0.55
+Acre,forecast,0.9,0.4,1.5,0.7,1.1,0.57
+Acre,forecast,0.9,0.4,1.6,0.7,1.2,0.56
+Acre,forecast,1,0.3,1.6,0.7,1.2,0.55
+Acre,forecast,1,0.3,1.7,0.7,1.2,0.54
+Acre,forecast,1,0.2,1.6,0.6,1.2,0.55
+Acre,forecast,0.9,0,1.5,0.7,1.3,0.56
+Acre,forecast,0.9,0,1.6,0.6,1.3,0.54
+Acre,forecast,0.9,0,1.6,0.6,1.3,0.54
+Acre,forecast,0.9,0,1.6,0.6,1.3,0.54
+Acre,forecast,1,0,1.6,0.7,1.4,0.54
+Acre,forecast,0.9,0,1.6,0.6,1.3,0.55
+Alagoas,nowcast,1.7,1,2.4,1.4,1.9,0.03
+Alagoas,nowcast,1.7,1.1,2.4,1.4,1.9,0.02
+Alagoas,nowcast,1.7,1.2,2.4,1.5,1.9,0.01
+Alagoas,nowcast,1.7,1.2,2.3,1.5,1.9,0.01
+Alagoas,nowcast,1.7,1.2,2.3,1.5,1.9,0.01
+Alagoas,nowcast,1.7,1.2,2.2,1.5,1.8,0
+Alagoas,nowcast,1.7,1.3,2.2,1.5,1.8,0
+Alagoas,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Alagoas,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Alagoas,nowcast,1.6,1.3,2.1,1.5,1.8,0
+Alagoas,nowcast,1.6,1.3,2,1.5,1.8,0
+Alagoas,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Alagoas,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Alagoas,nowcast,1.5,1.2,1.8,1.4,1.7,0
+Alagoas,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Alagoas,nowcast,1.5,1.2,1.7,1.4,1.6,0
+Alagoas,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Alagoas,nowcast,1.4,1.1,1.6,1.3,1.5,0
+Alagoas,nowcast,1.3,1.1,1.6,1.3,1.4,0
+Alagoas,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Alagoas,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Alagoas,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Alagoas,nowcast,1.2,1,1.3,1.1,1.3,0.03
+Alagoas,nowcast,1.1,1,1.3,1.1,1.2,0.05
+Alagoas,nowcast,1.1,1,1.3,1.1,1.2,0.09
+Alagoas,nowcast,1.1,1,1.2,1.1,1.2,0.09
+Alagoas,nowcast,1.1,1,1.2,1.1,1.2,0.08
+Alagoas,nowcast,1.1,1,1.2,1.1,1.2,0.06
+Alagoas,nowcast,1.1,1,1.3,1.1,1.2,0.02
+Alagoas,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Alagoas,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Alagoas,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Alagoas,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Alagoas,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Alagoas,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Alagoas,nowcast,1.3,1.2,1.5,1.2,1.3,0
+Alagoas,forecast,1.3,1,1.5,1.2,1.4,0.04
+Alagoas,forecast,1.3,1,1.6,1.1,1.4,0.06
+Alagoas,forecast,1.3,0.9,1.6,1.1,1.4,0.09
+Alagoas,forecast,1.3,0.9,1.7,1.1,1.4,0.12
+Alagoas,forecast,1.3,0.8,1.7,1.1,1.4,0.14
+Alagoas,forecast,1.3,0.8,1.8,1.1,1.4,0.15
+Alagoas,forecast,1.3,0.8,1.8,1.1,1.5,0.18
+Alagoas,forecast,1.3,0.8,1.8,1,1.4,0.19
+Alagoas,forecast,1.3,0.7,1.9,1.1,1.5,0.2
+Alagoas,forecast,1.3,0.7,1.9,1,1.5,0.22
+Alagoas,forecast,1.3,0.7,1.9,1,1.5,0.24
+Alagoas,forecast,1.2,0.6,1.9,0.9,1.4,0.24
+Alagoas,forecast,1.3,0.5,1.9,1,1.5,0.25
+Alagoas,forecast,1.3,0.6,2,1,1.5,0.26
+Amapá,nowcast,1.5,1.1,1.9,1.3,1.6,0.03
+Amapá,nowcast,1.4,1,1.8,1.3,1.6,0.03
+Amapá,nowcast,1.3,1,1.7,1.2,1.5,0.05
+Amapá,nowcast,1.3,1,1.6,1.1,1.4,0.08
+Amapá,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
+Amapá,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
+Amapá,nowcast,1.2,0.9,1.4,1.1,1.3,0.13
+Amapá,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
+Amapá,nowcast,1.2,0.9,1.4,1.1,1.3,0.08
+Amapá,nowcast,1.2,1,1.5,1.1,1.3,0.06
+Amapá,nowcast,1.2,1,1.5,1.1,1.3,0.04
+Amapá,nowcast,1.3,1,1.5,1.2,1.3,0.01
+Amapá,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Amapá,nowcast,1.4,1.1,1.6,1.3,1.4,0
+Amapá,nowcast,1.4,1.2,1.6,1.2,1.4,0
+Amapá,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Amapá,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Amapá,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Amapá,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Amapá,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Amapá,nowcast,1.3,1.2,1.5,1.2,1.4,0
+Amapá,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Amapá,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Amapá,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Amapá,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Amapá,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Amapá,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Amapá,nowcast,1.2,1,1.3,1.1,1.3,0.03
+Amapá,nowcast,1.1,1,1.3,1.1,1.2,0.06
+Amapá,nowcast,1.1,1,1.2,1.1,1.2,0.1
+Amapá,nowcast,1.1,1,1.2,1.1,1.2,0.11
+Amapá,nowcast,1.1,1,1.2,1.1,1.1,0.09
+Amapá,nowcast,1.1,1,1.2,1.1,1.1,0.05
+Amapá,nowcast,1.1,1,1.3,1.1,1.2,0.03
+Amapá,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Amapá,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Amapá,forecast,1.2,1,1.4,1.1,1.3,0.08
+Amapá,forecast,1.2,0.9,1.4,1.1,1.3,0.11
+Amapá,forecast,1.2,0.9,1.5,1.1,1.3,0.14
+Amapá,forecast,1.2,0.8,1.5,1.1,1.3,0.17
+Amapá,forecast,1.2,0.8,1.5,1,1.3,0.2
+Amapá,forecast,1.2,0.8,1.6,1,1.3,0.21
+Amapá,forecast,1.2,0.8,1.6,1,1.3,0.22
+Amapá,forecast,1.2,0.7,1.6,1,1.3,0.22
+Amapá,forecast,1.2,0.7,1.6,1,1.3,0.24
+Amapá,forecast,1.2,0.7,1.6,1,1.4,0.25
+Amapá,forecast,1.2,0.7,1.6,1,1.3,0.26
+Amapá,forecast,1.2,0.6,1.7,1,1.4,0.29
+Amapá,forecast,1.2,0.7,1.7,1,1.4,0.28
+Amapá,forecast,1.2,0.6,1.7,0.9,1.3,0.29
+Amazonas,nowcast,1.6,1.2,2,1.4,1.8,0
+Amazonas,nowcast,1.6,1.2,2,1.4,1.7,0
+Amazonas,nowcast,1.6,1.3,2,1.4,1.7,0
+Amazonas,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Amazonas,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Amazonas,nowcast,1.5,1.3,1.9,1.4,1.6,0
+Amazonas,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Amazonas,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Amazonas,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Amazonas,nowcast,1.5,1.2,1.7,1.4,1.6,0
+Amazonas,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Amazonas,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Amazonas,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Amazonas,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Amazonas,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Amazonas,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Amazonas,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Amazonas,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Amazonas,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Amazonas,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Amazonas,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Amazonas,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Amazonas,nowcast,1.3,1.2,1.5,1.2,1.4,0
+Amazonas,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Amazonas,nowcast,1.3,1.2,1.4,1.3,1.3,0
+Amazonas,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Amazonas,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Amazonas,nowcast,1.2,1.2,1.3,1.2,1.3,0
+Amazonas,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Amazonas,nowcast,1.2,1.2,1.3,1.2,1.3,0
+Amazonas,nowcast,1.2,1.2,1.3,1.2,1.3,0
+Amazonas,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Amazonas,nowcast,1.3,1.2,1.4,1.3,1.3,0
+Amazonas,forecast,1.3,1.1,1.5,1.2,1.4,0
+Amazonas,forecast,1.3,1.1,1.5,1.2,1.4,0.01
+Amazonas,forecast,1.3,1.1,1.5,1.2,1.4,0.01
+Amazonas,forecast,1.3,1,1.5,1.2,1.4,0.02
+Amazonas,forecast,1.3,1,1.6,1.2,1.4,0.03
+Amazonas,forecast,1.3,1,1.6,1.2,1.4,0.04
+Amazonas,forecast,1.3,1,1.6,1.2,1.4,0.05
+Amazonas,forecast,1.3,1,1.6,1.2,1.4,0.06
+Amazonas,forecast,1.3,0.9,1.6,1.2,1.4,0.07
+Amazonas,forecast,1.3,0.9,1.6,1.1,1.4,0.08
+Amazonas,forecast,1.3,0.9,1.6,1.2,1.4,0.08
+Amazonas,forecast,1.3,0.9,1.7,1.1,1.4,0.09
+Amazonas,forecast,1.3,0.9,1.7,1.1,1.4,0.1
+Amazonas,forecast,1.3,0.9,1.7,1.1,1.4,0.11
+Bahia,nowcast,1.5,1,2,1.3,1.7,0.03
+Bahia,nowcast,1.5,1,1.9,1.3,1.6,0.03
+Bahia,nowcast,1.5,1.1,1.9,1.3,1.6,0.03
+Bahia,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+Bahia,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
+Bahia,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+Bahia,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
+Bahia,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
+Bahia,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
+Bahia,nowcast,1.3,1.1,1.7,1.2,1.5,0.02
+Bahia,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Bahia,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Bahia,nowcast,1.3,1,1.5,1.2,1.4,0.02
+Bahia,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Bahia,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Bahia,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Bahia,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Bahia,nowcast,1.3,1.1,1.4,1.2,1.4,0
+Bahia,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Bahia,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Bahia,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0.01
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Bahia,forecast,1.2,1,1.4,1.2,1.3,0.02
+Bahia,forecast,1.2,1,1.4,1.1,1.3,0.03
+Bahia,forecast,1.2,1,1.4,1.1,1.3,0.05
+Bahia,forecast,1.2,1,1.5,1.1,1.3,0.06
+Bahia,forecast,1.2,1,1.5,1.1,1.3,0.07
+Bahia,forecast,1.2,0.9,1.5,1.1,1.3,0.08
+Bahia,forecast,1.2,0.9,1.5,1.1,1.3,0.1
+Bahia,forecast,1.2,0.9,1.5,1.1,1.3,0.11
+Bahia,forecast,1.2,0.9,1.5,1.1,1.3,0.12
+Bahia,forecast,1.2,0.9,1.6,1,1.3,0.12
+Bahia,forecast,1.2,0.9,1.6,1.1,1.3,0.14
+Bahia,forecast,1.2,0.8,1.6,1.1,1.4,0.14
+Bahia,forecast,1.2,0.8,1.6,1,1.3,0.16
+Bahia,forecast,1.2,0.8,1.6,1.1,1.3,0.16
+Ceará,nowcast,1.6,1.2,2.1,1.4,1.7,0
+Ceará,nowcast,1.6,1.2,2,1.4,1.7,0.01
+Ceará,nowcast,1.5,1.2,1.9,1.4,1.6,0.01
+Ceará,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
+Ceará,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
+Ceará,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Ceará,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Ceará,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Ceará,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Ceará,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Ceará,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Ceará,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Ceará,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Ceará,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Ceará,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Ceará,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Ceará,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Ceará,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Ceará,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Ceará,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.5,1.2,1.4,0
+Ceará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Ceará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Ceará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Ceará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Ceará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Ceará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Ceará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Ceará,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Ceará,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Ceará,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Ceará,nowcast,1.2,1.2,1.3,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Ceará,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Ceará,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Ceará,nowcast,1.1,1.1,1.2,1.1,1.2,0
+Ceará,nowcast,1.1,1.1,1.2,1.1,1.2,0
+Ceará,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Ceará,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Ceará,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Ceará,forecast,1.2,1,1.4,1.1,1.3,0.01
+Ceará,forecast,1.2,1,1.4,1.1,1.3,0.03
+Ceará,forecast,1.2,1,1.4,1.1,1.3,0.05
+Ceará,forecast,1.2,1,1.4,1.1,1.3,0.07
+Ceará,forecast,1.2,1,1.4,1.1,1.3,0.08
+Ceará,forecast,1.2,0.9,1.5,1.1,1.3,0.09
+Ceará,forecast,1.2,0.9,1.5,1.1,1.3,0.11
+Ceará,forecast,1.2,0.9,1.5,1.1,1.3,0.12
+Ceará,forecast,1.2,0.9,1.5,1.1,1.3,0.13
+Ceará,forecast,1.2,0.9,1.5,1.1,1.3,0.15
+Ceará,forecast,1.2,0.9,1.5,1.1,1.3,0.16
+Ceará,forecast,1.2,0.8,1.5,1.1,1.3,0.16
+Ceará,forecast,1.2,0.8,1.6,1.1,1.3,0.17
+Ceará,forecast,1.2,0.8,1.6,1.1,1.4,0.18
+Distrito Federal,nowcast,1.5,1,2,1.3,1.7,0.04
+Distrito Federal,nowcast,1.4,1,1.9,1.2,1.6,0.05
+Distrito Federal,nowcast,1.3,1,1.8,1.2,1.5,0.08
+Distrito Federal,nowcast,1.3,0.9,1.7,1.2,1.5,0.09
+Distrito Federal,nowcast,1.2,0.9,1.6,1.1,1.4,0.12
+Distrito Federal,nowcast,1.2,0.9,1.5,1.1,1.3,0.15
+Distrito Federal,nowcast,1.2,0.9,1.5,1,1.3,0.17
+Distrito Federal,nowcast,1.1,0.8,1.4,1,1.3,0.22
+Distrito Federal,nowcast,1.1,0.8,1.4,1,1.2,0.23
+Distrito Federal,nowcast,1.1,0.8,1.4,1,1.2,0.28
+Distrito Federal,nowcast,1.1,0.8,1.4,1,1.2,0.31
+Distrito Federal,nowcast,1.1,0.8,1.3,1,1.2,0.36
+Distrito Federal,nowcast,1,0.8,1.3,0.9,1.1,0.41
+Distrito Federal,nowcast,1,0.8,1.3,0.9,1.1,0.44
+Distrito Federal,nowcast,1,0.8,1.3,0.9,1.1,0.47
+Distrito Federal,nowcast,1,0.7,1.2,0.9,1.1,0.5
+Distrito Federal,nowcast,1,0.8,1.2,0.9,1.1,0.49
+Distrito Federal,nowcast,1,0.8,1.3,0.9,1.1,0.48
+Distrito Federal,nowcast,1,0.8,1.3,0.9,1.1,0.45
+Distrito Federal,nowcast,1,0.8,1.3,0.9,1.1,0.39
+Distrito Federal,nowcast,1.1,0.8,1.4,1,1.2,0.32
+Distrito Federal,nowcast,1.1,0.9,1.4,1,1.2,0.23
+Distrito Federal,nowcast,1.1,0.9,1.4,1,1.2,0.16
+Distrito Federal,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
+Distrito Federal,nowcast,1.2,0.9,1.5,1.1,1.3,0.08
+Distrito Federal,nowcast,1.2,0.9,1.5,1.1,1.3,0.07
+Distrito Federal,nowcast,1.2,1,1.5,1.1,1.3,0.07
+Distrito Federal,nowcast,1.2,1,1.5,1.1,1.3,0.05
+Distrito Federal,nowcast,1.2,1,1.5,1.1,1.3,0.05
+Distrito Federal,nowcast,1.2,1,1.5,1.1,1.3,0.04
+Distrito Federal,nowcast,1.2,1,1.5,1.1,1.3,0.04
+Distrito Federal,nowcast,1.2,1,1.5,1.1,1.3,0.03
+Distrito Federal,nowcast,1.2,1,1.5,1.1,1.3,0.02
+Distrito Federal,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+Distrito Federal,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Distrito Federal,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Distrito Federal,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Distrito Federal,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Distrito Federal,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Distrito Federal,nowcast,1.3,1.2,1.6,1.3,1.4,0
+Distrito Federal,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Distrito Federal,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Distrito Federal,nowcast,1.3,1.2,1.5,1.2,1.4,0
+Distrito Federal,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Distrito Federal,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Distrito Federal,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Distrito Federal,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Distrito Federal,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Distrito Federal,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Distrito Federal,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Distrito Federal,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Distrito Federal,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Distrito Federal,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Distrito Federal,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Distrito Federal,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Distrito Federal,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Distrito Federal,forecast,1.3,1.1,1.5,1.2,1.4,0.02
+Distrito Federal,forecast,1.3,1,1.6,1.2,1.4,0.04
+Distrito Federal,forecast,1.3,1,1.6,1.1,1.4,0.06
+Distrito Federal,forecast,1.3,1,1.6,1.1,1.4,0.08
+Distrito Federal,forecast,1.3,0.9,1.7,1.1,1.4,0.09
+Distrito Federal,forecast,1.3,0.9,1.6,1.1,1.4,0.11
+Distrito Federal,forecast,1.3,0.9,1.7,1.1,1.4,0.11
+Distrito Federal,forecast,1.3,0.9,1.7,1.1,1.4,0.14
+Distrito Federal,forecast,1.3,0.8,1.7,1.1,1.5,0.14
+Distrito Federal,forecast,1.3,0.8,1.7,1.1,1.4,0.14
+Distrito Federal,forecast,1.3,0.8,1.8,1.1,1.4,0.17
+Distrito Federal,forecast,1.3,0.8,1.8,1.1,1.4,0.16
+Distrito Federal,forecast,1.3,0.8,1.8,1.1,1.5,0.17
+Distrito Federal,forecast,1.3,0.8,1.8,1.1,1.5,0.18
+Espirito Santo,nowcast,1.4,0.9,2,1.2,1.6,0.09
+Espirito Santo,nowcast,1.4,0.9,2,1.2,1.6,0.06
+Espirito Santo,nowcast,1.5,1,2,1.2,1.6,0.05
+Espirito Santo,nowcast,1.5,1,2,1.3,1.6,0.04
+Espirito Santo,nowcast,1.5,1,2,1.3,1.6,0.03
+Espirito Santo,nowcast,1.5,1.1,2,1.3,1.6,0.02
+Espirito Santo,nowcast,1.5,1.1,2,1.3,1.6,0.02
+Espirito Santo,nowcast,1.5,1.1,1.9,1.4,1.7,0.02
+Espirito Santo,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Espirito Santo,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Espirito Santo,nowcast,1.5,1.2,1.9,1.3,1.6,0.01
+Espirito Santo,nowcast,1.5,1.2,1.8,1.4,1.6,0.01
+Espirito Santo,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Espirito Santo,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Espirito Santo,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Espirito Santo,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Espirito Santo,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Espirito Santo,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Espirito Santo,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Espirito Santo,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Espirito Santo,nowcast,1.4,1.1,1.6,1.3,1.5,0
+Espirito Santo,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Espirito Santo,nowcast,1.3,1.1,1.6,1.3,1.4,0
+Espirito Santo,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Espirito Santo,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Espirito Santo,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Espirito Santo,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Espirito Santo,nowcast,1.2,1,1.3,1.1,1.2,0.05
+Espirito Santo,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Espirito Santo,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Espirito Santo,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Espirito Santo,nowcast,1.2,1.1,1.4,1.1,1.2,0
+Espirito Santo,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Espirito Santo,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Espirito Santo,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Espirito Santo,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Espirito Santo,nowcast,1.2,1.1,1.3,1.2,1.3,0.01
+Espirito Santo,nowcast,1.2,1.1,1.3,1.2,1.3,0.01
+Espirito Santo,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Espirito Santo,nowcast,1.1,1,1.3,1.1,1.2,0.04
+Espirito Santo,nowcast,1.1,1,1.2,1.1,1.2,0.07
+Espirito Santo,nowcast,1.1,1,1.2,1.1,1.1,0.06
+Espirito Santo,nowcast,1.1,1,1.2,1.1,1.1,0.05
+Espirito Santo,nowcast,1.1,1,1.2,1.1,1.1,0.03
+Espirito Santo,nowcast,1.1,1,1.2,1.1,1.2,0.01
+Espirito Santo,nowcast,1.1,1.1,1.3,1.1,1.2,0.01
+Espirito Santo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Espirito Santo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Espirito Santo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Espirito Santo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Espirito Santo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Espirito Santo,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Espirito Santo,forecast,1.2,1,1.4,1.1,1.3,0.05
+Espirito Santo,forecast,1.2,1,1.5,1.1,1.3,0.07
+Espirito Santo,forecast,1.2,0.9,1.5,1.1,1.3,0.11
+Espirito Santo,forecast,1.2,0.9,1.5,1.1,1.3,0.14
+Espirito Santo,forecast,1.2,0.8,1.6,1,1.3,0.15
+Espirito Santo,forecast,1.2,0.8,1.6,1.1,1.4,0.17
+Espirito Santo,forecast,1.2,0.8,1.6,1.1,1.4,0.19
+Espirito Santo,forecast,1.2,0.8,1.7,1,1.3,0.2
+Espirito Santo,forecast,1.2,0.7,1.7,1,1.4,0.22
+Espirito Santo,forecast,1.2,0.7,1.7,1,1.4,0.21
+Espirito Santo,forecast,1.2,0.7,1.7,1,1.4,0.24
+Espirito Santo,forecast,1.2,0.7,1.7,1,1.4,0.24
+Espirito Santo,forecast,1.2,0.7,1.7,1,1.4,0.24
+Espirito Santo,forecast,1.2,0.6,1.8,1,1.4,0.26
+Goiás,nowcast,1.4,0.7,2.2,1.1,1.7,0.15
+Goiás,nowcast,1.4,0.6,2.2,1.1,1.6,0.14
+Goiás,nowcast,1.4,0.8,2.2,1.1,1.6,0.12
+Goiás,nowcast,1.4,0.8,2.1,1.1,1.6,0.14
+Goiás,nowcast,1.4,0.8,2.1,1.1,1.6,0.12
+Goiás,nowcast,1.4,0.8,2,1.1,1.6,0.13
+Goiás,nowcast,1.4,0.8,2,1.1,1.6,0.14
+Goiás,nowcast,1.3,0.8,1.9,1.1,1.5,0.14
+Goiás,nowcast,1.3,0.8,1.9,1.1,1.5,0.12
+Goiás,nowcast,1.3,0.8,1.9,1.1,1.5,0.12
+Goiás,nowcast,1.3,0.8,1.9,1.1,1.5,0.1
+Goiás,nowcast,1.4,0.9,1.9,1.1,1.5,0.08
+Goiás,nowcast,1.4,0.9,1.9,1.2,1.5,0.07
+Goiás,nowcast,1.4,0.9,1.9,1.2,1.5,0.08
+Goiás,nowcast,1.4,0.9,1.8,1.2,1.5,0.06
+Goiás,nowcast,1.4,1,1.8,1.2,1.5,0.05
+Goiás,nowcast,1.3,0.9,1.8,1.1,1.4,0.07
+Goiás,nowcast,1.3,0.9,1.7,1.2,1.5,0.08
+Goiás,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
+Goiás,nowcast,1.3,0.9,1.6,1.1,1.4,0.11
+Goiás,nowcast,1.2,0.9,1.6,1.1,1.4,0.11
+Goiás,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
+Goiás,nowcast,1.2,0.9,1.5,1.1,1.3,0.13
+Goiás,nowcast,1.2,0.8,1.5,1.1,1.3,0.15
+Goiás,nowcast,1.2,0.9,1.5,1.1,1.3,0.14
+Goiás,nowcast,1.2,0.9,1.4,1,1.3,0.16
+Goiás,nowcast,1.1,0.9,1.4,1,1.2,0.16
+Goiás,nowcast,1.1,0.9,1.4,1,1.2,0.18
+Goiás,nowcast,1.1,0.9,1.4,1,1.2,0.18
+Goiás,nowcast,1.1,0.9,1.4,1,1.2,0.16
+Goiás,nowcast,1.1,0.9,1.4,1,1.2,0.16
+Goiás,nowcast,1.2,0.9,1.4,1,1.2,0.13
+Goiás,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
+Goiás,nowcast,1.2,1,1.5,1.1,1.3,0.07
+Goiás,nowcast,1.2,1,1.5,1.1,1.3,0.06
+Goiás,nowcast,1.2,1,1.5,1.1,1.3,0.05
+Goiás,nowcast,1.2,1,1.5,1.1,1.3,0.06
+Goiás,nowcast,1.2,1,1.4,1.1,1.3,0.08
+Goiás,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+Goiás,nowcast,1.1,0.9,1.4,1.1,1.2,0.17
+Goiás,nowcast,1.1,0.9,1.3,1,1.2,0.22
+Goiás,nowcast,1.1,0.9,1.3,1,1.2,0.27
+Goiás,nowcast,1.1,0.9,1.3,1,1.1,0.28
+Goiás,nowcast,1.1,0.8,1.3,1,1.2,0.25
+Goiás,nowcast,1.1,0.9,1.3,1,1.2,0.21
+Goiás,nowcast,1.1,0.9,1.4,1,1.2,0.15
+Goiás,nowcast,1.2,0.9,1.4,1,1.2,0.09
+Goiás,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Goiás,nowcast,1.2,1,1.5,1.1,1.3,0.03
+Goiás,nowcast,1.3,1,1.6,1.2,1.3,0.01
+Goiás,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Goiás,nowcast,1.4,1.1,1.7,1.2,1.4,0
+Goiás,nowcast,1.4,1.2,1.8,1.3,1.5,0
+Goiás,nowcast,1.5,1.2,1.8,1.3,1.5,0
+Goiás,forecast,1.4,1,1.9,1.2,1.6,0.04
+Goiás,forecast,1.4,1,1.9,1.2,1.6,0.05
+Goiás,forecast,1.4,0.9,2,1.2,1.6,0.07
+Goiás,forecast,1.4,0.9,2,1.2,1.6,0.09
+Goiás,forecast,1.4,0.8,2,1.1,1.6,0.1
+Goiás,forecast,1.4,0.8,2.1,1.2,1.6,0.12
+Goiás,forecast,1.4,0.8,2.1,1.1,1.6,0.13
+Goiás,forecast,1.4,0.8,2.1,1.1,1.6,0.13
+Goiás,forecast,1.4,0.7,2.1,1.1,1.7,0.15
+Goiás,forecast,1.4,0.7,2.2,1.1,1.7,0.17
+Goiás,forecast,1.4,0.7,2.2,1.1,1.6,0.17
+Goiás,forecast,1.4,0.7,2.2,1.1,1.7,0.18
+Goiás,forecast,1.4,0.6,2.2,1.1,1.7,0.18
+Goiás,forecast,1.4,0.6,2.3,1.1,1.7,0.19
+Maranhão,nowcast,1.8,1.1,2.5,1.5,2,0.01
+Maranhão,nowcast,1.8,1.2,2.4,1.5,2,0
+Maranhão,nowcast,1.7,1.2,2.3,1.5,1.9,0
+Maranhão,nowcast,1.7,1.3,2.3,1.5,1.9,0.01
+Maranhão,nowcast,1.7,1.2,2.2,1.5,1.8,0
+Maranhão,nowcast,1.7,1.2,2.1,1.5,1.8,0
+Maranhão,nowcast,1.6,1.3,2.1,1.5,1.8,0
+Maranhão,nowcast,1.6,1.3,2,1.5,1.7,0
+Maranhão,nowcast,1.6,1.3,2,1.4,1.7,0
+Maranhão,nowcast,1.6,1.2,1.9,1.4,1.7,0
+Maranhão,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Maranhão,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Maranhão,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Maranhão,nowcast,1.5,1.2,1.7,1.4,1.6,0
+Maranhão,nowcast,1.5,1.2,1.7,1.4,1.5,0
+Maranhão,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Maranhão,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Maranhão,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Maranhão,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Maranhão,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Maranhão,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Maranhão,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Maranhão,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Maranhão,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Maranhão,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.3,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.3,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Maranhão,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Maranhão,nowcast,1.3,1.2,1.4,1.3,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.3,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maranhão,forecast,1.3,1.1,1.5,1.2,1.3,0.01
+Maranhão,forecast,1.3,1.1,1.5,1.2,1.3,0.02
+Maranhão,forecast,1.3,1,1.5,1.2,1.4,0.04
+Maranhão,forecast,1.3,1,1.6,1.2,1.4,0.05
+Maranhão,forecast,1.3,1,1.6,1.1,1.4,0.07
+Maranhão,forecast,1.3,0.9,1.6,1.1,1.4,0.08
+Maranhão,forecast,1.3,0.9,1.6,1.1,1.4,0.1
+Maranhão,forecast,1.3,0.9,1.6,1.1,1.4,0.11
+Maranhão,forecast,1.2,0.9,1.6,1.1,1.4,0.13
+Maranhão,forecast,1.2,0.9,1.6,1.1,1.4,0.14
+Maranhão,forecast,1.3,0.9,1.7,1.1,1.4,0.15
+Maranhão,forecast,1.2,0.8,1.7,1.1,1.4,0.17
+Maranhão,forecast,1.2,0.8,1.7,1.1,1.4,0.17
+Maranhão,forecast,1.2,0.8,1.7,1.1,1.4,0.17
+Mato Grosso,nowcast,1.5,0.8,2.3,1.1,1.7,0.1
+Mato Grosso,nowcast,1.5,0.7,2.2,1.2,1.7,0.1
+Mato Grosso,nowcast,1.4,0.8,2.2,1.1,1.6,0.12
+Mato Grosso,nowcast,1.4,0.7,2.1,1.1,1.6,0.13
+Mato Grosso,nowcast,1.4,0.7,2,1.1,1.5,0.14
+Mato Grosso,nowcast,1.3,0.7,1.9,1.1,1.5,0.17
+Mato Grosso,nowcast,1.3,0.7,1.9,1,1.5,0.19
+Mato Grosso,nowcast,1.2,0.7,1.7,1,1.4,0.24
+Mato Grosso,nowcast,1.2,0.6,1.7,1,1.3,0.26
+Mato Grosso,nowcast,1.2,0.7,1.7,1,1.3,0.28
+Mato Grosso,nowcast,1.1,0.6,1.5,0.9,1.3,0.33
+Mato Grosso,nowcast,1.1,0.7,1.6,0.9,1.2,0.37
+Mato Grosso,nowcast,1.1,0.6,1.5,0.9,1.2,0.41
+Mato Grosso,nowcast,1,0.6,1.5,0.9,1.2,0.43
+Mato Grosso,nowcast,1,0.6,1.5,0.8,1.1,0.44
+Mato Grosso,nowcast,1,0.6,1.5,0.8,1.1,0.47
+Mato Grosso,nowcast,1,0.6,1.5,0.8,1.1,0.45
+Mato Grosso,nowcast,1,0.6,1.5,0.9,1.2,0.44
+Mato Grosso,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
+Mato Grosso,nowcast,1.1,0.7,1.5,0.9,1.2,0.36
+Mato Grosso,nowcast,1.1,0.7,1.6,0.9,1.2,0.33
+Mato Grosso,nowcast,1.1,0.7,1.6,0.9,1.3,0.27
+Mato Grosso,nowcast,1.1,0.8,1.6,1,1.3,0.26
+Mato Grosso,nowcast,1.2,0.8,1.6,1,1.3,0.21
+Mato Grosso,nowcast,1.2,0.8,1.6,1,1.3,0.19
+Mato Grosso,nowcast,1.2,0.8,1.6,1,1.3,0.16
+Mato Grosso,nowcast,1.2,0.8,1.6,1.1,1.4,0.14
+Mato Grosso,nowcast,1.2,0.8,1.6,1,1.3,0.15
+Mato Grosso,nowcast,1.2,0.9,1.6,1.1,1.3,0.16
+Mato Grosso,nowcast,1.2,0.8,1.6,1,1.3,0.16
+Mato Grosso,nowcast,1.2,0.8,1.5,1,1.3,0.15
+Mato Grosso,nowcast,1.2,0.9,1.7,1.1,1.4,0.11
+Mato Grosso,nowcast,1.3,0.9,1.6,1.1,1.4,0.08
+Mato Grosso,nowcast,1.3,0.9,1.7,1.1,1.4,0.07
+Mato Grosso,nowcast,1.3,1,1.7,1.2,1.4,0.05
+Mato Grosso,nowcast,1.3,1,1.7,1.2,1.4,0.04
+Mato Grosso,nowcast,1.3,1,1.7,1.2,1.4,0.03
+Mato Grosso,nowcast,1.4,1,1.7,1.2,1.5,0.02
+Mato Grosso,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
+Mato Grosso,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
+Mato Grosso,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Mato Grosso,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Mato Grosso,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
+Mato Grosso,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Mato Grosso,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Mato Grosso,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Mato Grosso,nowcast,1.3,1,1.6,1.2,1.4,0.02
+Mato Grosso,forecast,1.3,0.9,1.7,1.2,1.5,0.09
+Mato Grosso,forecast,1.3,0.9,1.9,1.1,1.5,0.12
+Mato Grosso,forecast,1.3,0.8,1.8,1.1,1.5,0.15
+Mato Grosso,forecast,1.3,0.8,1.9,1.1,1.6,0.17
+Mato Grosso,forecast,1.3,0.7,1.9,1.1,1.6,0.17
+Mato Grosso,forecast,1.3,0.7,2,1.1,1.5,0.18
+Mato Grosso,forecast,1.3,0.6,2,1.1,1.6,0.2
+Mato Grosso,forecast,1.3,0.6,2,1,1.5,0.21
+Mato Grosso,forecast,1.3,0.6,2,1,1.6,0.22
+Mato Grosso,forecast,1.3,0.6,2,1.1,1.6,0.22
+Mato Grosso,forecast,1.3,0.6,2.1,1,1.6,0.23
+Mato Grosso,forecast,1.3,0.5,2.1,1,1.6,0.24
+Mato Grosso,forecast,1.3,0.5,2.1,1,1.6,0.24
+Mato Grosso,forecast,1.3,0.5,2.2,1,1.6,0.24
+Minas Gerais,nowcast,1.4,1,1.9,1.2,1.6,0.04
+Minas Gerais,nowcast,1.4,1,1.8,1.2,1.5,0.04
+Minas Gerais,nowcast,1.3,1,1.7,1.2,1.5,0.06
+Minas Gerais,nowcast,1.3,0.9,1.6,1.2,1.4,0.07
+Minas Gerais,nowcast,1.3,1,1.6,1.1,1.4,0.07
+Minas Gerais,nowcast,1.3,1,1.6,1.1,1.4,0.07
+Minas Gerais,nowcast,1.3,1,1.6,1.1,1.4,0.06
+Minas Gerais,nowcast,1.3,1,1.5,1.2,1.4,0.06
+Minas Gerais,nowcast,1.2,1,1.5,1.1,1.3,0.05
+Minas Gerais,nowcast,1.2,1,1.5,1.1,1.3,0.06
+Minas Gerais,nowcast,1.2,1,1.5,1.1,1.3,0.06
+Minas Gerais,nowcast,1.2,1,1.5,1.1,1.3,0.07
+Minas Gerais,nowcast,1.2,1,1.4,1.1,1.3,0.08
+Minas Gerais,nowcast,1.2,0.9,1.4,1.1,1.3,0.1
+Minas Gerais,nowcast,1.1,0.9,1.4,1.1,1.2,0.13
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.16
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.16
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.18
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.19
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.19
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.19
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.19
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.17
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.17
+Minas Gerais,nowcast,1.1,1,1.3,1,1.2,0.13
+Minas Gerais,nowcast,1.1,0.9,1.3,1,1.2,0.11
+Minas Gerais,nowcast,1.1,1,1.3,1.1,1.2,0.09
+Minas Gerais,nowcast,1.1,1,1.3,1.1,1.2,0.08
+Minas Gerais,nowcast,1.1,1,1.3,1.1,1.2,0.07
+Minas Gerais,nowcast,1.1,1,1.3,1.1,1.2,0.07
+Minas Gerais,nowcast,1.2,1,1.3,1.1,1.2,0.05
+Minas Gerais,nowcast,1.2,1,1.4,1.1,1.2,0.03
+Minas Gerais,nowcast,1.2,1,1.4,1.1,1.2,0.03
+Minas Gerais,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Minas Gerais,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
+Minas Gerais,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Minas Gerais,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Minas Gerais,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Minas Gerais,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Minas Gerais,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Minas Gerais,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Minas Gerais,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Minas Gerais,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Minas Gerais,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Minas Gerais,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Minas Gerais,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Minas Gerais,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Minas Gerais,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Minas Gerais,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Minas Gerais,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Minas Gerais,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Minas Gerais,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Minas Gerais,nowcast,1.2,1.1,1.4,1.1,1.2,0
+Minas Gerais,forecast,1.2,1,1.4,1.1,1.3,0.05
+Minas Gerais,forecast,1.2,1,1.4,1.1,1.3,0.07
+Minas Gerais,forecast,1.2,1,1.4,1.1,1.3,0.08
+Minas Gerais,forecast,1.2,0.9,1.5,1.1,1.3,0.1
+Minas Gerais,forecast,1.2,0.9,1.5,1.1,1.3,0.11
+Minas Gerais,forecast,1.2,0.9,1.5,1.1,1.3,0.13
+Minas Gerais,forecast,1.2,0.9,1.5,1.1,1.3,0.14
+Minas Gerais,forecast,1.2,0.9,1.5,1.1,1.3,0.15
+Minas Gerais,forecast,1.2,0.9,1.5,1.1,1.3,0.16
+Minas Gerais,forecast,1.2,0.9,1.6,1.1,1.3,0.17
+Minas Gerais,forecast,1.2,0.8,1.6,1,1.3,0.18
+Minas Gerais,forecast,1.2,0.8,1.6,1,1.3,0.18
+Minas Gerais,forecast,1.2,0.8,1.6,1,1.3,0.18
+Minas Gerais,forecast,1.2,0.8,1.6,1,1.3,0.19
+Pará,nowcast,1.7,1.2,2.3,1.5,1.9,0.01
+Pará,nowcast,1.7,1.2,2.2,1.4,1.9,0.01
+Pará,nowcast,1.7,1.2,2.2,1.4,1.8,0.01
+Pará,nowcast,1.6,1.2,2.2,1.4,1.8,0.01
+Pará,nowcast,1.6,1.2,2.1,1.4,1.8,0.01
+Pará,nowcast,1.6,1.2,2,1.5,1.8,0
+Pará,nowcast,1.6,1.2,2,1.4,1.7,0
+Pará,nowcast,1.6,1.2,1.9,1.4,1.7,0
+Pará,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Pará,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Pará,nowcast,1.5,1.3,1.9,1.4,1.6,0
+Pará,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Pará,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Pará,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Pará,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Pará,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Pará,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Pará,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Pará,nowcast,1.5,1.3,1.7,1.4,1.5,0
+Pará,nowcast,1.5,1.3,1.7,1.4,1.5,0
+Pará,nowcast,1.4,1.3,1.7,1.4,1.5,0
+Pará,nowcast,1.4,1.3,1.6,1.4,1.5,0
+Pará,nowcast,1.4,1.3,1.6,1.3,1.5,0
+Pará,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Pará,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Pará,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Pará,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pará,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Pará,forecast,1.3,1.2,1.6,1.3,1.4,0
+Pará,forecast,1.3,1.1,1.6,1.2,1.4,0.01
+Pará,forecast,1.3,1.1,1.6,1.2,1.4,0.01
+Pará,forecast,1.3,1.1,1.6,1.2,1.4,0.02
+Pará,forecast,1.3,1.1,1.6,1.2,1.4,0.03
+Pará,forecast,1.3,1,1.7,1.2,1.4,0.03
+Pará,forecast,1.3,1,1.7,1.2,1.4,0.04
+Pará,forecast,1.3,1,1.7,1.2,1.5,0.05
+Pará,forecast,1.3,1,1.7,1.2,1.5,0.05
+Pará,forecast,1.3,1,1.7,1.2,1.4,0.06
+Pará,forecast,1.3,0.9,1.7,1.2,1.5,0.07
+Pará,forecast,1.3,0.9,1.8,1.2,1.5,0.08
+Pará,forecast,1.3,0.9,1.8,1.2,1.5,0.08
+Pará,forecast,1.3,0.9,1.8,1.2,1.5,0.09
+Paraíba,nowcast,1.6,1,2.1,1.4,1.7,0.02
+Paraíba,nowcast,1.5,1.1,2,1.3,1.7,0.02
+Paraíba,nowcast,1.5,1.1,2,1.3,1.7,0.02
+Paraíba,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+Paraíba,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+Paraíba,nowcast,1.4,1.1,1.8,1.3,1.5,0.03
+Paraíba,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+Paraíba,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+Paraíba,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+Paraíba,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Paraíba,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Paraíba,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Paraíba,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Paraíba,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Paraíba,nowcast,1.5,1.2,1.7,1.4,1.6,0
+Paraíba,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Paraíba,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Paraíba,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Paraíba,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Paraíba,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Paraíba,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Paraíba,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Paraíba,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Paraíba,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Paraíba,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.4,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Paraíba,forecast,1.3,1,1.5,1.2,1.3,0.03
+Paraíba,forecast,1.3,1,1.5,1.1,1.3,0.04
+Paraíba,forecast,1.2,1,1.6,1.1,1.3,0.07
+Paraíba,forecast,1.2,1,1.6,1.1,1.4,0.08
+Paraíba,forecast,1.2,0.9,1.6,1.1,1.4,0.1
+Paraíba,forecast,1.2,0.9,1.6,1.1,1.4,0.11
+Paraíba,forecast,1.2,0.9,1.6,1.1,1.4,0.13
+Paraíba,forecast,1.2,0.8,1.6,1.1,1.4,0.15
+Paraíba,forecast,1.2,0.8,1.7,1.1,1.4,0.15
+Paraíba,forecast,1.2,0.8,1.7,1.1,1.4,0.16
+Paraíba,forecast,1.2,0.8,1.7,1.1,1.4,0.18
+Paraíba,forecast,1.2,0.7,1.7,1,1.4,0.18
+Paraíba,forecast,1.2,0.8,1.7,1.1,1.4,0.19
+Paraíba,forecast,1.2,0.8,1.8,1,1.4,0.19
+Paraná,nowcast,1.7,1,2.4,1.3,1.9,0.03
+Paraná,nowcast,1.7,1,2.3,1.4,1.9,0.03
+Paraná,nowcast,1.6,1.1,2.3,1.3,1.8,0.03
+Paraná,nowcast,1.6,1,2.2,1.3,1.8,0.02
+Paraná,nowcast,1.6,1.1,2.1,1.3,1.7,0.03
+Paraná,nowcast,1.5,1,2,1.3,1.7,0.03
+Paraná,nowcast,1.5,1,1.9,1.3,1.6,0.03
+Paraná,nowcast,1.5,1,1.9,1.3,1.6,0.03
+Paraná,nowcast,1.4,1,1.8,1.3,1.6,0.03
+Paraná,nowcast,1.4,1,1.8,1.3,1.6,0.03
+Paraná,nowcast,1.4,1.1,1.8,1.2,1.5,0.02
+Paraná,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
+Paraná,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
+Paraná,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
+Paraná,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
+Paraná,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Paraná,nowcast,1.3,1,1.6,1.2,1.4,0.04
+Paraná,nowcast,1.2,1,1.5,1.1,1.3,0.07
+Paraná,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+Paraná,nowcast,1.1,0.9,1.4,1,1.2,0.18
+Paraná,nowcast,1.1,0.8,1.3,1,1.2,0.28
+Paraná,nowcast,1,0.8,1.3,1,1.1,0.38
+Paraná,nowcast,1,0.8,1.2,0.9,1.1,0.47
+Paraná,nowcast,1,0.8,1.2,0.9,1.1,0.54
+Paraná,nowcast,1,0.8,1.2,0.9,1,0.62
+Paraná,nowcast,1,0.8,1.1,0.9,1,0.68
+Paraná,nowcast,0.9,0.7,1.1,0.9,1,0.73
+Paraná,nowcast,0.9,0.8,1.1,0.9,1,0.73
+Paraná,nowcast,0.9,0.8,1.1,0.9,1,0.73
+Paraná,nowcast,0.9,0.7,1.2,0.9,1,0.68
+Paraná,nowcast,1,0.8,1.2,0.9,1,0.62
+Paraná,nowcast,1,0.8,1.2,0.9,1,0.59
+Paraná,nowcast,1,0.8,1.2,0.9,1,0.53
+Paraná,nowcast,1,0.8,1.2,0.9,1.1,0.5
+Paraná,nowcast,1,0.8,1.2,0.9,1.1,0.49
+Paraná,nowcast,1,0.8,1.2,0.9,1.1,0.46
+Paraná,nowcast,1,0.8,1.3,0.9,1.1,0.39
+Paraná,nowcast,1,0.8,1.3,1,1.1,0.32
+Paraná,nowcast,1.1,0.9,1.3,1,1.1,0.25
+Paraná,nowcast,1.1,0.9,1.3,1,1.2,0.19
+Paraná,nowcast,1.1,0.9,1.3,1,1.2,0.15
+Paraná,nowcast,1.1,0.9,1.4,1,1.2,0.13
+Paraná,nowcast,1.1,0.9,1.3,1,1.2,0.13
+Paraná,nowcast,1.1,0.9,1.3,1,1.2,0.13
+Paraná,nowcast,1.1,0.9,1.3,1,1.2,0.19
+Paraná,nowcast,1.1,0.9,1.3,1,1.2,0.26
+Paraná,nowcast,1,0.9,1.2,1,1.1,0.33
+Paraná,nowcast,1,0.9,1.2,1,1.1,0.37
+Paraná,nowcast,1,0.8,1.2,1,1.1,0.35
+Paraná,nowcast,1,0.9,1.2,1,1.1,0.32
+Paraná,nowcast,1.1,0.9,1.3,1,1.1,0.24
+Paraná,nowcast,1.1,0.9,1.3,1,1.2,0.17
+Paraná,nowcast,1.1,0.9,1.4,1,1.2,0.13
+Paraná,nowcast,1.1,1,1.4,1.1,1.2,0.09
+Paraná,nowcast,1.2,1,1.4,1.1,1.2,0.06
+Paraná,nowcast,1.2,1,1.4,1.1,1.2,0.05
+Paraná,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Paraná,nowcast,1.2,1,1.5,1.1,1.3,0.04
+Paraná,forecast,1.2,0.9,1.6,1.1,1.3,0.13
+Paraná,forecast,1.2,0.9,1.6,1,1.3,0.17
+Paraná,forecast,1.2,0.8,1.6,1,1.3,0.19
+Paraná,forecast,1.2,0.8,1.7,1,1.4,0.21
+Paraná,forecast,1.2,0.8,1.7,1,1.4,0.23
+Paraná,forecast,1.2,0.7,1.7,1,1.4,0.25
+Paraná,forecast,1.2,0.7,1.8,1,1.4,0.25
+Paraná,forecast,1.2,0.6,1.8,1,1.4,0.26
+Paraná,forecast,1.2,0.6,1.8,0.9,1.4,0.28
+Paraná,forecast,1.2,0.6,1.8,0.9,1.4,0.3
+Paraná,forecast,1.2,0.6,1.8,0.9,1.4,0.3
+Paraná,forecast,1.2,0.5,1.9,0.9,1.4,0.3
+Paraná,forecast,1.2,0.5,1.9,0.9,1.5,0.3
+Paraná,forecast,1.2,0.6,1.9,0.8,1.4,0.31
+Pernambuco,nowcast,1.6,0.8,2.4,1.2,1.8,0.08
+Pernambuco,nowcast,1.6,0.9,2.3,1.3,1.8,0.07
+Pernambuco,nowcast,1.5,0.9,2.2,1.2,1.7,0.06
+Pernambuco,nowcast,1.5,0.9,2.3,1.3,1.8,0.07
+Pernambuco,nowcast,1.6,1,2.2,1.3,1.8,0.04
+Pernambuco,nowcast,1.6,1.1,2.3,1.4,1.8,0.03
+Pernambuco,nowcast,1.7,1.1,2.3,1.4,1.8,0.01
+Pernambuco,nowcast,1.7,1.2,2.4,1.5,1.9,0
+Pernambuco,nowcast,1.7,1.2,2.3,1.5,1.9,0
+Pernambuco,nowcast,1.7,1.3,2.3,1.5,1.9,0
+Pernambuco,nowcast,1.8,1.3,2.2,1.5,1.9,0
+Pernambuco,nowcast,1.8,1.3,2.2,1.6,1.9,0
+Pernambuco,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Pernambuco,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Pernambuco,nowcast,1.8,1.4,2.2,1.6,1.9,0
+Pernambuco,nowcast,1.7,1.4,2.1,1.5,1.8,0
+Pernambuco,nowcast,1.7,1.4,2.1,1.6,1.9,0
+Pernambuco,nowcast,1.7,1.3,2,1.5,1.8,0
+Pernambuco,nowcast,1.7,1.4,2,1.5,1.8,0
+Pernambuco,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Pernambuco,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Pernambuco,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Pernambuco,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Pernambuco,nowcast,1.4,1.2,1.7,1.4,1.5,0
+Pernambuco,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Pernambuco,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Pernambuco,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Pernambuco,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pernambuco,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Pernambuco,nowcast,1.3,1.2,1.4,1.2,1.4,0
+Pernambuco,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Pernambuco,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Pernambuco,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Pernambuco,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Pernambuco,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Pernambuco,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Pernambuco,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Pernambuco,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Pernambuco,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Pernambuco,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Pernambuco,forecast,1.3,1.1,1.6,1.2,1.4,0.02
+Pernambuco,forecast,1.3,1,1.7,1.2,1.4,0.05
+Pernambuco,forecast,1.3,1,1.7,1.2,1.4,0.06
+Pernambuco,forecast,1.3,0.9,1.7,1.2,1.5,0.08
+Pernambuco,forecast,1.3,0.9,1.8,1.2,1.5,0.1
+Pernambuco,forecast,1.3,0.9,1.8,1.1,1.5,0.1
+Pernambuco,forecast,1.3,0.9,1.8,1.1,1.5,0.12
+Pernambuco,forecast,1.3,0.8,1.9,1.1,1.5,0.13
+Pernambuco,forecast,1.3,0.8,1.9,1.1,1.5,0.14
+Pernambuco,forecast,1.3,0.7,1.9,1.1,1.6,0.16
+Pernambuco,forecast,1.3,0.7,2,1.1,1.5,0.16
+Pernambuco,forecast,1.3,0.7,2,1.1,1.5,0.17
+Pernambuco,forecast,1.3,0.7,2,1.1,1.5,0.19
+Pernambuco,forecast,1.3,0.6,2,1.1,1.6,0.2
+Piauí,nowcast,1.5,0.8,2.3,1.1,1.7,0.11
+Piauí,nowcast,1.5,0.8,2.4,1.1,1.7,0.09
+Piauí,nowcast,1.6,0.8,2.3,1.2,1.7,0.07
+Piauí,nowcast,1.6,0.9,2.3,1.3,1.8,0.05
+Piauí,nowcast,1.6,0.9,2.3,1.3,1.8,0.04
+Piauí,nowcast,1.6,1,2.2,1.3,1.8,0.03
+Piauí,nowcast,1.6,1,2.3,1.3,1.8,0.03
+Piauí,nowcast,1.6,1.1,2.2,1.3,1.7,0.02
+Piauí,nowcast,1.6,1.1,2.2,1.4,1.8,0.02
+Piauí,nowcast,1.6,1.1,2.1,1.4,1.8,0.02
+Piauí,nowcast,1.5,1.1,2.1,1.4,1.7,0.02
+Piauí,nowcast,1.5,1.1,2,1.3,1.7,0.02
+Piauí,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+Piauí,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+Piauí,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
+Piauí,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
+Piauí,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
+Piauí,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Piauí,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Piauí,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Piauí,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
+Piauí,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
+Piauí,nowcast,1.3,1.1,1.6,1.3,1.4,0.01
+Piauí,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Piauí,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Piauí,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Piauí,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Piauí,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Piauí,nowcast,1.2,1,1.4,1.2,1.3,0.02
+Piauí,nowcast,1.2,1,1.4,1.2,1.3,0.03
+Piauí,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Piauí,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Piauí,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Piauí,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Piauí,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Piauí,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
+Piauí,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Piauí,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Piauí,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Piauí,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Piauí,forecast,1.2,0.9,1.6,1.1,1.4,0.09
+Piauí,forecast,1.2,0.9,1.6,1.1,1.4,0.13
+Piauí,forecast,1.2,0.8,1.7,1.1,1.4,0.15
+Piauí,forecast,1.2,0.8,1.7,1,1.4,0.19
+Piauí,forecast,1.2,0.8,1.8,1,1.4,0.19
+Piauí,forecast,1.2,0.7,1.8,1,1.4,0.21
+Piauí,forecast,1.2,0.7,1.8,1,1.4,0.23
+Piauí,forecast,1.2,0.6,1.8,1,1.4,0.25
+Piauí,forecast,1.2,0.6,1.8,1,1.5,0.25
+Piauí,forecast,1.2,0.6,1.9,1,1.5,0.27
+Piauí,forecast,1.2,0.6,1.9,1,1.5,0.27
+Piauí,forecast,1.2,0.5,1.9,0.9,1.5,0.28
+Piauí,forecast,1.2,0.5,1.9,0.9,1.5,0.29
+Piauí,forecast,1.2,0.5,2,0.9,1.5,0.3
+Rio de Janeiro,nowcast,1.8,1.3,2.4,1.5,1.9,0
+Rio de Janeiro,nowcast,1.7,1.2,2.3,1.5,1.9,0
+Rio de Janeiro,nowcast,1.7,1.2,2.2,1.5,1.8,0
+Rio de Janeiro,nowcast,1.7,1.3,2.2,1.5,1.8,0
+Rio de Janeiro,nowcast,1.6,1.3,2.1,1.4,1.8,0
+Rio de Janeiro,nowcast,1.6,1.2,2,1.5,1.8,0
+Rio de Janeiro,nowcast,1.6,1.2,1.9,1.4,1.7,0
+Rio de Janeiro,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Rio de Janeiro,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Rio de Janeiro,nowcast,1.5,1.2,1.7,1.3,1.6,0
+Rio de Janeiro,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Rio de Janeiro,nowcast,1.4,1.1,1.6,1.3,1.5,0
+Rio de Janeiro,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Rio de Janeiro,nowcast,1.4,1.1,1.6,1.3,1.4,0
+Rio de Janeiro,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Rio de Janeiro,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Rio de Janeiro,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Rio de Janeiro,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Rio de Janeiro,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Rio de Janeiro,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Rio de Janeiro,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Rio de Janeiro,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Rio de Janeiro,nowcast,1.3,1.2,1.5,1.2,1.4,0
+Rio de Janeiro,nowcast,1.3,1.2,1.5,1.2,1.4,0
+Rio de Janeiro,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Rio de Janeiro,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Rio de Janeiro,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Rio de Janeiro,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Rio de Janeiro,nowcast,1.2,1.1,1.2,1.1,1.2,0.01
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Rio de Janeiro,nowcast,1.2,1.1,1.2,1.1,1.2,0
+Rio de Janeiro,nowcast,1.1,1.1,1.2,1.1,1.2,0
+Rio de Janeiro,nowcast,1.1,1,1.2,1.1,1.1,0.01
+Rio de Janeiro,nowcast,1.1,1,1.2,1.1,1.1,0.02
+Rio de Janeiro,nowcast,1.1,1,1.2,1,1.1,0.07
+Rio de Janeiro,nowcast,1.1,1,1.2,1,1.1,0.12
+Rio de Janeiro,nowcast,1.1,1,1.2,1,1.1,0.09
+Rio de Janeiro,nowcast,1.1,1,1.3,1.1,1.2,0.02
+Rio de Janeiro,forecast,1.1,0.9,1.3,1.1,1.2,0.1
+Rio de Janeiro,forecast,1.1,0.9,1.3,1,1.2,0.14
+Rio de Janeiro,forecast,1.1,0.9,1.4,1,1.2,0.17
+Rio de Janeiro,forecast,1.1,0.9,1.4,1,1.2,0.2
+Rio de Janeiro,forecast,1.1,0.8,1.4,1,1.2,0.23
+Rio de Janeiro,forecast,1.1,0.8,1.4,1,1.2,0.22
+Rio de Janeiro,forecast,1.1,0.8,1.4,1,1.2,0.25
+Rio de Janeiro,forecast,1.1,0.8,1.4,1,1.2,0.26
+Rio de Janeiro,forecast,1.1,0.8,1.5,1,1.2,0.28
+Rio de Janeiro,forecast,1.1,0.8,1.5,1,1.3,0.29
+Rio de Janeiro,forecast,1.1,0.7,1.5,0.9,1.2,0.31
+Rio de Janeiro,forecast,1.1,0.7,1.5,1,1.2,0.32
+Rio de Janeiro,forecast,1.1,0.7,1.5,0.9,1.2,0.33
+Rio de Janeiro,forecast,1.1,0.7,1.5,0.9,1.2,0.33
+Rio Grande do Norte,nowcast,1.6,1,2.3,1.3,1.8,0.03
+Rio Grande do Norte,nowcast,1.6,1.1,2.2,1.4,1.8,0.02
+Rio Grande do Norte,nowcast,1.5,1.1,2.1,1.3,1.7,0.03
+Rio Grande do Norte,nowcast,1.5,1,2,1.3,1.6,0.04
+Rio Grande do Norte,nowcast,1.4,1,1.9,1.2,1.6,0.04
+Rio Grande do Norte,nowcast,1.4,1,1.8,1.2,1.5,0.05
+Rio Grande do Norte,nowcast,1.4,1,1.8,1.2,1.5,0.06
+Rio Grande do Norte,nowcast,1.3,0.9,1.7,1.2,1.5,0.08
+Rio Grande do Norte,nowcast,1.3,0.9,1.6,1.1,1.4,0.1
+Rio Grande do Norte,nowcast,1.2,0.9,1.6,1.1,1.4,0.13
+Rio Grande do Norte,nowcast,1.2,0.9,1.5,1.1,1.3,0.15
+Rio Grande do Norte,nowcast,1.2,0.9,1.5,1,1.3,0.2
+Rio Grande do Norte,nowcast,1.1,0.8,1.4,1,1.2,0.25
+Rio Grande do Norte,nowcast,1.1,0.8,1.4,1,1.2,0.28
+Rio Grande do Norte,nowcast,1.1,0.8,1.4,1,1.2,0.25
+Rio Grande do Norte,nowcast,1.1,0.9,1.5,1,1.2,0.17
+Rio Grande do Norte,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
+Rio Grande do Norte,nowcast,1.2,1,1.6,1.1,1.3,0.05
+Rio Grande do Norte,nowcast,1.3,1,1.6,1.1,1.3,0.03
+Rio Grande do Norte,nowcast,1.3,1,1.6,1.1,1.4,0.03
+Rio Grande do Norte,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Rio Grande do Norte,nowcast,1.3,1,1.5,1.2,1.4,0.04
+Rio Grande do Norte,nowcast,1.3,1,1.5,1.2,1.4,0.04
+Rio Grande do Norte,nowcast,1.2,1,1.5,1.2,1.3,0.05
+Rio Grande do Norte,nowcast,1.2,1,1.5,1.1,1.3,0.05
+Rio Grande do Norte,nowcast,1.2,1,1.5,1.1,1.3,0.05
+Rio Grande do Norte,nowcast,1.2,1,1.4,1.1,1.3,0.04
+Rio Grande do Norte,nowcast,1.2,1,1.4,1.1,1.3,0.04
+Rio Grande do Norte,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Rio Grande do Norte,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Norte,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Norte,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Norte,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Rio Grande do Norte,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Norte,nowcast,1.2,1,1.4,1.2,1.3,0.02
+Rio Grande do Norte,nowcast,1.2,1,1.4,1.1,1.3,0.04
+Rio Grande do Norte,nowcast,1.2,1,1.3,1.1,1.3,0.07
+Rio Grande do Norte,nowcast,1.1,1,1.3,1.1,1.2,0.11
+Rio Grande do Norte,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
+Rio Grande do Norte,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
+Rio Grande do Norte,nowcast,1.1,1,1.3,1.1,1.2,0.08
+Rio Grande do Norte,nowcast,1.1,1,1.3,1.1,1.2,0.06
+Rio Grande do Norte,nowcast,1.2,1,1.3,1.1,1.2,0.03
+Rio Grande do Norte,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Rio Grande do Norte,nowcast,1.2,1.1,1.4,1.1,1.2,0.01
+Rio Grande do Norte,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Rio Grande do Norte,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Rio Grande do Norte,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Rio Grande do Norte,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Rio Grande do Norte,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Rio Grande do Norte,forecast,1.2,1,1.5,1.2,1.4,0.05
+Rio Grande do Norte,forecast,1.2,1,1.6,1.1,1.4,0.08
+Rio Grande do Norte,forecast,1.2,0.9,1.6,1.1,1.4,0.1
+Rio Grande do Norte,forecast,1.2,0.9,1.6,1.1,1.4,0.13
+Rio Grande do Norte,forecast,1.2,0.9,1.7,1.1,1.4,0.15
+Rio Grande do Norte,forecast,1.2,0.8,1.7,1.1,1.4,0.16
+Rio Grande do Norte,forecast,1.2,0.8,1.7,1.1,1.4,0.17
+Rio Grande do Norte,forecast,1.2,0.8,1.7,1,1.4,0.19
+Rio Grande do Norte,forecast,1.2,0.8,1.8,1,1.4,0.2
+Rio Grande do Norte,forecast,1.2,0.8,1.8,1,1.4,0.2
+Rio Grande do Norte,forecast,1.2,0.7,1.8,1,1.5,0.22
+Rio Grande do Norte,forecast,1.2,0.7,1.8,1,1.4,0.23
+Rio Grande do Norte,forecast,1.2,0.7,1.8,1,1.5,0.23
+Rio Grande do Norte,forecast,1.2,0.7,1.8,1,1.5,0.24
+Rio Grande do Sul,nowcast,1.4,1,1.8,1.2,1.5,0.05
+Rio Grande do Sul,nowcast,1.3,0.9,1.7,1.2,1.5,0.07
+Rio Grande do Sul,nowcast,1.3,0.9,1.6,1.1,1.4,0.09
+Rio Grande do Sul,nowcast,1.2,0.9,1.5,1.1,1.4,0.11
+Rio Grande do Sul,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
+Rio Grande do Sul,nowcast,1.2,0.9,1.5,1.1,1.3,0.12
+Rio Grande do Sul,nowcast,1.2,0.9,1.4,1.1,1.3,0.14
+Rio Grande do Sul,nowcast,1.2,0.9,1.4,1.1,1.3,0.13
+Rio Grande do Sul,nowcast,1.2,0.9,1.4,1,1.2,0.15
+Rio Grande do Sul,nowcast,1.1,0.9,1.4,1.1,1.2,0.16
+Rio Grande do Sul,nowcast,1.1,0.9,1.4,1,1.2,0.2
+Rio Grande do Sul,nowcast,1.1,0.8,1.3,1,1.2,0.24
+Rio Grande do Sul,nowcast,1.1,0.8,1.3,1,1.2,0.32
+Rio Grande do Sul,nowcast,1,0.8,1.3,1,1.1,0.38
+Rio Grande do Sul,nowcast,1,0.8,1.2,0.9,1.1,0.42
+Rio Grande do Sul,nowcast,1,0.8,1.2,0.9,1.1,0.47
+Rio Grande do Sul,nowcast,1,0.8,1.2,0.9,1.1,0.5
+Rio Grande do Sul,nowcast,1,0.8,1.2,0.9,1.1,0.55
+Rio Grande do Sul,nowcast,1,0.8,1.2,0.9,1.1,0.55
+Rio Grande do Sul,nowcast,1,0.8,1.2,0.9,1.1,0.51
+Rio Grande do Sul,nowcast,1,0.8,1.3,0.9,1.1,0.41
+Rio Grande do Sul,nowcast,1.1,0.8,1.3,0.9,1.1,0.31
+Rio Grande do Sul,nowcast,1.1,0.9,1.4,1,1.2,0.21
+Rio Grande do Sul,nowcast,1.1,0.9,1.4,1,1.2,0.13
+Rio Grande do Sul,nowcast,1.2,1,1.5,1.1,1.2,0.07
+Rio Grande do Sul,nowcast,1.2,1,1.4,1.1,1.3,0.06
+Rio Grande do Sul,nowcast,1.2,1,1.5,1.1,1.3,0.03
+Rio Grande do Sul,nowcast,1.2,1,1.5,1.2,1.3,0.02
+Rio Grande do Sul,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+Rio Grande do Sul,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+Rio Grande do Sul,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rio Grande do Sul,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rio Grande do Sul,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rio Grande do Sul,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rio Grande do Sul,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rio Grande do Sul,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Rio Grande do Sul,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Sul,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Rio Grande do Sul,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Rio Grande do Sul,nowcast,1.2,1.1,1.3,1.1,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.3,1.1,1.3,0.02
+Rio Grande do Sul,nowcast,1.2,1,1.3,1.1,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1,1.4,1.1,1.2,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
+Rio Grande do Sul,nowcast,1.2,1.1,1.5,1.1,1.3,0
+Rio Grande do Sul,forecast,1.2,1,1.5,1.1,1.3,0.05
+Rio Grande do Sul,forecast,1.2,1,1.6,1.1,1.3,0.08
+Rio Grande do Sul,forecast,1.2,0.9,1.6,1.1,1.3,0.1
+Rio Grande do Sul,forecast,1.2,0.9,1.6,1.1,1.4,0.11
+Rio Grande do Sul,forecast,1.2,0.9,1.6,1.1,1.4,0.12
+Rio Grande do Sul,forecast,1.2,0.9,1.6,1.1,1.4,0.13
+Rio Grande do Sul,forecast,1.2,0.8,1.6,1,1.4,0.15
+Rio Grande do Sul,forecast,1.2,0.8,1.7,1.1,1.4,0.16
+Rio Grande do Sul,forecast,1.2,0.8,1.7,1,1.4,0.17
+Rio Grande do Sul,forecast,1.2,0.8,1.7,1,1.4,0.18
+Rio Grande do Sul,forecast,1.2,0.7,1.7,1,1.4,0.19
+Rio Grande do Sul,forecast,1.2,0.8,1.7,1.1,1.5,0.19
+Rio Grande do Sul,forecast,1.2,0.8,1.8,1,1.4,0.2
+Rio Grande do Sul,forecast,1.2,0.7,1.8,1,1.4,0.21
+Rondônia,nowcast,1.6,1.1,2.2,1.4,1.8,0.01
+Rondônia,nowcast,1.6,1.1,2.1,1.4,1.7,0.02
+Rondônia,nowcast,1.6,1.1,2,1.4,1.7,0.02
+Rondônia,nowcast,1.5,1.1,2,1.3,1.6,0.02
+Rondônia,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
+Rondônia,nowcast,1.4,1.1,1.8,1.3,1.6,0.03
+Rondônia,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+Rondônia,nowcast,1.4,1.1,1.8,1.2,1.5,0.03
+Rondônia,nowcast,1.4,1,1.7,1.2,1.5,0.03
+Rondônia,nowcast,1.3,1.1,1.7,1.2,1.5,0.03
+Rondônia,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Rondônia,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Rondônia,nowcast,1.3,1,1.6,1.2,1.4,0.02
+Rondônia,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Rondônia,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Rondônia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rondônia,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Rondônia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rondônia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rondônia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rondônia,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Rondônia,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+Rondônia,nowcast,1.2,1,1.4,1.2,1.3,0.03
+Rondônia,nowcast,1.2,1,1.4,1.1,1.3,0.04
+Rondônia,nowcast,1.2,1,1.4,1.1,1.2,0.05
+Rondônia,nowcast,1.2,1,1.3,1.1,1.2,0.07
+Rondônia,nowcast,1.1,1,1.3,1.1,1.2,0.1
+Rondônia,nowcast,1.1,0.9,1.3,1.1,1.2,0.14
+Rondônia,nowcast,1.1,0.9,1.2,1,1.2,0.16
+Rondônia,nowcast,1.1,0.9,1.2,1,1.1,0.17
+Rondônia,nowcast,1.1,0.9,1.3,1,1.2,0.1
+Rondônia,nowcast,1.1,1,1.3,1,1.2,0.07
+Rondônia,forecast,1.1,0.9,1.4,1,1.2,0.21
+Rondônia,forecast,1.1,0.8,1.4,1,1.2,0.25
+Rondônia,forecast,1.1,0.8,1.5,1,1.2,0.29
+Rondônia,forecast,1.1,0.7,1.5,1,1.2,0.31
+Rondônia,forecast,1.1,0.7,1.5,0.9,1.2,0.32
+Rondônia,forecast,1.1,0.7,1.5,0.9,1.3,0.33
+Rondônia,forecast,1.1,0.7,1.5,0.9,1.3,0.35
+Rondônia,forecast,1.1,0.6,1.6,0.9,1.2,0.36
+Rondônia,forecast,1.1,0.6,1.6,0.9,1.3,0.38
+Rondônia,forecast,1.1,0.6,1.6,0.9,1.2,0.38
+Rondônia,forecast,1.1,0.5,1.6,0.9,1.3,0.41
+Rondônia,forecast,1.1,0.5,1.6,0.8,1.2,0.41
+Rondônia,forecast,1.1,0.5,1.6,0.8,1.3,0.42
+Rondônia,forecast,1.1,0.5,1.7,0.9,1.3,0.42
+Roraima,nowcast,1.5,0.6,2.3,1.1,1.7,0.15
+Roraima,nowcast,1.5,0.7,2.4,1.1,1.7,0.13
+Roraima,nowcast,1.5,0.8,2.3,1.1,1.7,0.12
+Roraima,nowcast,1.5,0.8,2.3,1.1,1.7,0.1
+Roraima,nowcast,1.5,0.8,2.2,1.1,1.6,0.1
+Roraima,nowcast,1.4,0.8,2.2,1.1,1.6,0.09
+Roraima,nowcast,1.4,0.8,2.1,1.2,1.6,0.09
+Roraima,nowcast,1.4,0.9,2,1.2,1.6,0.08
+Roraima,nowcast,1.4,0.9,2,1.2,1.6,0.07
+Roraima,nowcast,1.4,0.9,2,1.2,1.6,0.06
+Roraima,nowcast,1.5,1,2,1.3,1.7,0.05
+Roraima,nowcast,1.5,1,2,1.2,1.6,0.04
+Roraima,nowcast,1.5,1,2,1.2,1.6,0.04
+Roraima,nowcast,1.4,1,1.9,1.2,1.6,0.04
+Roraima,nowcast,1.4,1,1.9,1.2,1.6,0.04
+Roraima,nowcast,1.4,1,1.8,1.2,1.5,0.04
+Roraima,nowcast,1.4,1,1.8,1.2,1.5,0.04
+Roraima,nowcast,1.3,1,1.7,1.2,1.5,0.05
+Roraima,nowcast,1.3,1,1.7,1.2,1.4,0.06
+Roraima,nowcast,1.3,1,1.6,1.2,1.4,0.07
+Roraima,nowcast,1.3,0.9,1.6,1.1,1.4,0.07
+Roraima,nowcast,1.2,0.9,1.5,1.1,1.3,0.07
+Roraima,nowcast,1.2,1,1.5,1.1,1.3,0.09
+Roraima,nowcast,1.2,1,1.5,1.1,1.3,0.07
+Roraima,nowcast,1.2,1,1.5,1.1,1.3,0.06
+Roraima,nowcast,1.3,1,1.5,1.1,1.3,0.04
+Roraima,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Roraima,nowcast,1.3,1,1.6,1.2,1.4,0.02
+Roraima,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Roraima,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Roraima,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Roraima,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Roraima,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Roraima,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Roraima,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Roraima,nowcast,1.3,1,1.4,1.2,1.3,0.03
+Roraima,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Roraima,nowcast,1.2,1,1.4,1.1,1.3,0.07
+Roraima,nowcast,1.2,1,1.3,1.1,1.2,0.1
+Roraima,nowcast,1.1,1,1.3,1.1,1.2,0.1
+Roraima,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
+Roraima,nowcast,1.1,1,1.3,1,1.2,0.13
+Roraima,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
+Roraima,nowcast,1.1,1,1.3,1,1.2,0.09
+Roraima,nowcast,1.1,1,1.4,1.1,1.2,0.06
+Roraima,nowcast,1.2,1,1.4,1.1,1.2,0.03
+Roraima,forecast,1.2,0.8,1.5,1,1.3,0.18
+Roraima,forecast,1.2,0.8,1.6,1,1.3,0.22
+Roraima,forecast,1.2,0.7,1.7,1,1.3,0.26
+Roraima,forecast,1.2,0.7,1.7,1,1.3,0.27
+Roraima,forecast,1.2,0.6,1.7,0.9,1.4,0.28
+Roraima,forecast,1.2,0.6,1.8,0.9,1.3,0.3
+Roraima,forecast,1.2,0.5,1.8,1,1.4,0.31
+Roraima,forecast,1.2,0.5,1.8,0.9,1.4,0.32
+Roraima,forecast,1.2,0.5,1.9,0.9,1.4,0.33
+Roraima,forecast,1.2,0.5,1.9,0.9,1.5,0.34
+Roraima,forecast,1.2,0.5,2,0.9,1.4,0.33
+Roraima,forecast,1.2,0.4,1.9,0.9,1.5,0.34
+Roraima,forecast,1.2,0.3,1.9,0.9,1.5,0.34
+Roraima,forecast,1.2,0.4,2,0.8,1.4,0.34
+Santa Catarina,nowcast,1.4,1,1.8,1.2,1.5,0.06
+Santa Catarina,nowcast,1.3,1,1.7,1.2,1.5,0.06
+Santa Catarina,nowcast,1.3,1,1.7,1.2,1.4,0.08
+Santa Catarina,nowcast,1.3,1,1.6,1.1,1.4,0.07
+Santa Catarina,nowcast,1.3,1,1.6,1.1,1.4,0.07
+Santa Catarina,nowcast,1.3,1,1.6,1.1,1.4,0.06
+Santa Catarina,nowcast,1.3,1,1.6,1.2,1.4,0.06
+Santa Catarina,nowcast,1.3,1,1.6,1.1,1.4,0.05
+Santa Catarina,nowcast,1.3,1,1.6,1.2,1.4,0.04
+Santa Catarina,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Santa Catarina,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Santa Catarina,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Santa Catarina,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Santa Catarina,nowcast,1.3,1,1.5,1.2,1.4,0.04
+Santa Catarina,nowcast,1.2,1,1.5,1.2,1.3,0.05
+Santa Catarina,nowcast,1.2,1,1.4,1.1,1.3,0.07
+Santa Catarina,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
+Santa Catarina,nowcast,1.1,0.9,1.3,1.1,1.2,0.16
+Santa Catarina,nowcast,1.1,0.9,1.3,1,1.2,0.23
+Santa Catarina,nowcast,1.1,0.8,1.2,1,1.1,0.35
+Santa Catarina,nowcast,1,0.8,1.2,1,1.1,0.39
+Santa Catarina,nowcast,1,0.8,1.2,0.9,1.1,0.43
+Santa Catarina,nowcast,1,0.8,1.2,1,1.1,0.35
+Santa Catarina,nowcast,1.1,0.9,1.3,1,1.1,0.26
+Santa Catarina,nowcast,1.1,0.9,1.4,1,1.2,0.14
+Santa Catarina,nowcast,1.2,1,1.5,1.1,1.3,0.06
+Santa Catarina,nowcast,1.3,1,1.5,1.1,1.3,0.03
+Santa Catarina,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Santa Catarina,nowcast,1.4,1.1,1.6,1.2,1.4,0
+Santa Catarina,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Santa Catarina,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Santa Catarina,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Santa Catarina,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Santa Catarina,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Santa Catarina,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Santa Catarina,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Santa Catarina,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Santa Catarina,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Santa Catarina,nowcast,1.1,1,1.3,1,1.2,0.11
+Santa Catarina,nowcast,1.1,0.9,1.2,1,1.1,0.29
+Santa Catarina,nowcast,1,0.9,1.2,0.9,1.1,0.45
+Santa Catarina,nowcast,1,0.9,1.1,1,1.1,0.54
+Santa Catarina,nowcast,1,0.9,1.1,1,1,0.53
+Santa Catarina,nowcast,1,0.9,1.1,1,1,0.53
+Santa Catarina,nowcast,1,0.9,1.1,1,1,0.48
+Santa Catarina,nowcast,1,0.9,1.1,1,1.1,0.39
+Santa Catarina,nowcast,1,0.9,1.2,1,1.1,0.27
+Santa Catarina,nowcast,1.1,1,1.2,1,1.1,0.16
+Santa Catarina,nowcast,1.1,1,1.2,1,1.1,0.06
+Santa Catarina,nowcast,1.1,1,1.3,1.1,1.2,0.02
+Santa Catarina,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Santa Catarina,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Santa Catarina,forecast,1.2,0.9,1.4,1.1,1.3,0.1
+Santa Catarina,forecast,1.2,0.9,1.5,1,1.3,0.14
+Santa Catarina,forecast,1.2,0.9,1.5,1,1.3,0.18
+Santa Catarina,forecast,1.2,0.8,1.5,1,1.3,0.19
+Santa Catarina,forecast,1.2,0.8,1.6,1,1.3,0.22
+Santa Catarina,forecast,1.2,0.8,1.6,1,1.4,0.22
+Santa Catarina,forecast,1.2,0.7,1.6,1,1.4,0.25
+Santa Catarina,forecast,1.2,0.7,1.7,1,1.3,0.26
+Santa Catarina,forecast,1.2,0.7,1.7,1,1.4,0.27
+Santa Catarina,forecast,1.2,0.7,1.7,1,1.4,0.27
+Santa Catarina,forecast,1.2,0.6,1.7,1,1.4,0.28
+Santa Catarina,forecast,1.2,0.6,1.8,1,1.4,0.3
+Santa Catarina,forecast,1.2,0.6,1.8,0.9,1.4,0.29
+Santa Catarina,forecast,1.2,0.6,1.7,1,1.4,0.31
+São Paulo,nowcast,1.8,1.4,2.3,1.6,1.9,0
+São Paulo,nowcast,1.8,1.4,2.2,1.6,1.9,0
+São Paulo,nowcast,1.7,1.4,2.1,1.6,1.9,0
+São Paulo,nowcast,1.7,1.3,2,1.6,1.8,0
+São Paulo,nowcast,1.7,1.4,2,1.5,1.8,0
+São Paulo,nowcast,1.6,1.3,1.9,1.5,1.7,0
+São Paulo,nowcast,1.6,1.3,1.9,1.5,1.7,0
+São Paulo,nowcast,1.6,1.3,1.8,1.4,1.6,0
+São Paulo,nowcast,1.5,1.3,1.8,1.4,1.6,0
+São Paulo,nowcast,1.5,1.3,1.7,1.4,1.6,0
+São Paulo,nowcast,1.5,1.3,1.7,1.4,1.6,0
+São Paulo,nowcast,1.5,1.3,1.7,1.4,1.6,0
+São Paulo,nowcast,1.5,1.3,1.7,1.4,1.5,0
+São Paulo,nowcast,1.5,1.3,1.7,1.4,1.6,0
+São Paulo,nowcast,1.5,1.3,1.7,1.4,1.5,0
+São Paulo,nowcast,1.5,1.3,1.7,1.4,1.5,0
+São Paulo,nowcast,1.5,1.3,1.7,1.4,1.5,0
+São Paulo,nowcast,1.5,1.3,1.6,1.4,1.5,0
+São Paulo,nowcast,1.4,1.3,1.6,1.4,1.5,0
+São Paulo,nowcast,1.4,1.2,1.6,1.3,1.5,0
+São Paulo,nowcast,1.4,1.2,1.5,1.3,1.4,0
+São Paulo,nowcast,1.3,1.2,1.5,1.3,1.4,0
+São Paulo,nowcast,1.3,1.1,1.4,1.2,1.3,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.3,0
+São Paulo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.2,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.2,1.1,1.2,0
+São Paulo,nowcast,1.1,1.1,1.2,1.1,1.2,0
+São Paulo,nowcast,1.1,1.1,1.2,1.1,1.2,0
+São Paulo,nowcast,1.1,1.1,1.2,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.2,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+São Paulo,nowcast,1.2,1.2,1.3,1.2,1.3,0
+São Paulo,nowcast,1.3,1.2,1.3,1.2,1.3,0
+São Paulo,nowcast,1.3,1.2,1.3,1.2,1.3,0
+São Paulo,nowcast,1.2,1.2,1.3,1.2,1.3,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.3,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+São Paulo,nowcast,1.1,1.1,1.2,1.1,1.2,0
+São Paulo,nowcast,1.1,1.1,1.2,1.1,1.1,0
+São Paulo,nowcast,1.1,1,1.2,1.1,1.1,0
+São Paulo,nowcast,1.1,1,1.2,1.1,1.1,0.01
+São Paulo,nowcast,1.1,1.1,1.2,1.1,1.1,0
+São Paulo,nowcast,1.1,1.1,1.2,1.1,1.1,0
+São Paulo,nowcast,1.2,1.1,1.2,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.2,1.2,1.2,0
+São Paulo,nowcast,1.2,1.1,1.2,1.2,1.2,0
+São Paulo,nowcast,1.2,1.1,1.2,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.1,1.2,0
+São Paulo,nowcast,1.2,1.1,1.3,1.2,1.2,0
+São Paulo,nowcast,1.2,1.2,1.4,1.2,1.3,0
+São Paulo,nowcast,1.3,1.2,1.4,1.3,1.4,0
+São Paulo,forecast,1.3,1.2,1.5,1.2,1.4,0
+São Paulo,forecast,1.3,1.1,1.5,1.2,1.4,0
+São Paulo,forecast,1.3,1.1,1.5,1.2,1.4,0
+São Paulo,forecast,1.3,1.1,1.6,1.2,1.4,0.01
+São Paulo,forecast,1.3,1.1,1.6,1.2,1.4,0.02
+São Paulo,forecast,1.3,1,1.6,1.2,1.4,0.02
+São Paulo,forecast,1.3,1,1.6,1.2,1.4,0.03
+São Paulo,forecast,1.3,1,1.6,1.2,1.5,0.03
+São Paulo,forecast,1.3,1,1.7,1.2,1.4,0.05
+São Paulo,forecast,1.3,1,1.7,1.2,1.4,0.05
+São Paulo,forecast,1.3,0.9,1.7,1.2,1.4,0.07
+São Paulo,forecast,1.3,0.9,1.7,1.2,1.5,0.07
+São Paulo,forecast,1.3,0.9,1.7,1.2,1.5,0.08
+São Paulo,forecast,1.3,0.9,1.8,1.2,1.5,0.09
+Sergipe,nowcast,1.3,0.4,2.4,0.8,1.5,0.32
+Sergipe,nowcast,1.3,0.4,2.5,0.8,1.5,0.29
+Sergipe,nowcast,1.3,0.4,2.5,0.8,1.6,0.27
+Sergipe,nowcast,1.4,0.4,2.5,0.8,1.6,0.23
+Sergipe,nowcast,1.4,0.4,2.4,0.9,1.6,0.22
+Sergipe,nowcast,1.4,0.5,2.4,0.9,1.6,0.21
+Sergipe,nowcast,1.4,0.5,2.4,1,1.6,0.21
+Sergipe,nowcast,1.4,0.5,2.3,1,1.6,0.2
+Sergipe,nowcast,1.4,0.6,2.3,1,1.7,0.19
+Sergipe,nowcast,1.4,0.6,2.3,1.1,1.7,0.18
+Sergipe,nowcast,1.5,0.6,2.3,1.1,1.7,0.15
+Sergipe,nowcast,1.5,0.7,2.3,1.1,1.7,0.1
+Sergipe,nowcast,1.6,0.7,2.4,1.2,1.8,0.08
+Sergipe,nowcast,1.6,0.9,2.5,1.2,1.8,0.06
+Sergipe,nowcast,1.7,0.9,2.5,1.3,1.9,0.04
+Sergipe,nowcast,1.7,1.1,2.5,1.3,1.9,0.02
+Sergipe,nowcast,1.7,1.1,2.5,1.4,1.9,0.01
+Sergipe,nowcast,1.8,1.2,2.4,1.5,1.9,0.01
+Sergipe,nowcast,1.8,1.2,2.4,1.5,1.9,0.01
+Sergipe,nowcast,1.8,1.2,2.3,1.5,1.9,0
+Sergipe,nowcast,1.7,1.2,2.3,1.5,1.9,0
+Sergipe,nowcast,1.7,1.2,2.2,1.5,1.9,0
+Sergipe,nowcast,1.7,1.3,2.2,1.5,1.9,0
+Sergipe,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Sergipe,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Sergipe,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Sergipe,nowcast,1.6,1.3,2,1.5,1.8,0
+Sergipe,nowcast,1.6,1.3,2,1.5,1.7,0
+Sergipe,nowcast,1.6,1.3,2,1.5,1.7,0
+Sergipe,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Sergipe,nowcast,1.6,1.3,1.9,1.4,1.6,0
+Sergipe,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Sergipe,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Sergipe,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Sergipe,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Sergipe,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Sergipe,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Sergipe,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Sergipe,nowcast,1.3,1.1,1.4,1.2,1.4,0
+Sergipe,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Sergipe,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Sergipe,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Sergipe,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Sergipe,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Sergipe,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Sergipe,nowcast,1.2,1.1,1.4,1.2,1.3,0
+Sergipe,forecast,1.3,0.8,1.7,1.1,1.4,0.16
+Sergipe,forecast,1.2,0.7,1.8,1,1.4,0.21
+Sergipe,forecast,1.3,0.6,1.9,1,1.5,0.23
+Sergipe,forecast,1.3,0.6,2,1,1.5,0.25
+Sergipe,forecast,1.3,0.5,2,1,1.5,0.27
+Sergipe,forecast,1.3,0.5,2.1,0.9,1.5,0.29
+Sergipe,forecast,1.2,0.4,2.1,0.9,1.5,0.3
+Sergipe,forecast,1.2,0.4,2.1,0.9,1.6,0.3
+Sergipe,forecast,1.2,0.4,2.2,0.8,1.5,0.32
+Sergipe,forecast,1.3,0.3,2.3,0.9,1.6,0.31
+Sergipe,forecast,1.2,0.3,2.3,0.8,1.6,0.32
+Sergipe,forecast,1.2,0,2,0.9,1.7,0.33
+Sergipe,forecast,1.3,0,2.1,0.8,1.6,0.33
+Sergipe,forecast,1.2,0,2.1,0.8,1.6,0.34
+Tocantins,nowcast,1.6,1.2,2,1.4,1.7,0
+Tocantins,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Tocantins,nowcast,1.5,1.2,1.8,1.4,1.6,0.01
+Tocantins,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Tocantins,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Tocantins,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Tocantins,nowcast,1.4,1.1,1.6,1.2,1.5,0.01
+Tocantins,nowcast,1.4,1.1,1.6,1.2,1.4,0.01
+Tocantins,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Tocantins,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
+Tocantins,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+Tocantins,nowcast,1.2,1,1.4,1.2,1.3,0.03
+Tocantins,nowcast,1.2,1,1.4,1.1,1.3,0.06
+Tocantins,nowcast,1.2,1,1.3,1.1,1.2,0.1
+Tocantins,nowcast,1.1,0.9,1.3,1.1,1.2,0.12
+Tocantins,nowcast,1.1,0.9,1.3,1,1.2,0.15
+Tocantins,forecast,1.1,0.9,1.4,1,1.2,0.23
+Tocantins,forecast,1.1,0.8,1.4,1,1.2,0.29
+Tocantins,forecast,1.1,0.7,1.4,1,1.2,0.33
+Tocantins,forecast,1.1,0.7,1.4,0.9,1.2,0.37
+Tocantins,forecast,1.1,0.7,1.5,0.9,1.2,0.39
+Tocantins,forecast,1,0.6,1.5,0.9,1.2,0.43
+Tocantins,forecast,1,0.6,1.5,0.8,1.2,0.47
+Tocantins,forecast,1,0.5,1.5,0.8,1.2,0.47
+Tocantins,forecast,1,0.5,1.5,0.8,1.2,0.49
+Tocantins,forecast,1,0.5,1.5,0.8,1.2,0.51
+Tocantins,forecast,1,0.4,1.5,0.8,1.2,0.53
+Tocantins,forecast,1,0.4,1.5,0.8,1.2,0.54
+Tocantins,forecast,1,0.4,1.5,0.7,1.2,0.55
+Tocantins,forecast,0.9,0.3,1.5,0.7,1.2,0.57

@@ -13,7 +13,7 @@ require(data.table)
 
 NCoVUtils::reset_cache()
 
-cases <- get_india_regional_cases(data = "cases") %>%
+cases <- NCoVUtils::get_india_regional_cases(data = "cases") %>%
   dplyr::rename(region = name, region_code = state)
 
 
@@ -24,6 +24,7 @@ region_codes <- cases %>%
 saveRDS(region_codes, "india/data/region_codes.rds")
 
 cases <- cases %>%
+  dplyr::select(-region_code) %>% 
   dplyr::rename(local = cases) %>% 
   dplyr::mutate(imported = 0) %>%
   tidyr::gather(key = "import_status", value = "confirm", local, imported) %>% 
@@ -66,7 +67,7 @@ EpiNow::regional_rt_pipeline(
   report_forecast = TRUE,
   forecast_model = function(...) {EpiSoon::forecastHybrid_model(
     model_params = list(models = "aeftz", weights = "equal",
-                        t.args = list(use_parallel = FALSE)),
+                        t.args = list(use.parallel = FALSE)),
     forecast_params = list(PI.combination = "mean"), ...)}
 )
 

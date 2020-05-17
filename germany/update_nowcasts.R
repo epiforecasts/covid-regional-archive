@@ -16,14 +16,8 @@ NCoVUtils::reset_cache()
 
 cases <- get_germany_regional_cases() %>% 
   dplyr::select(region = state, date, cases) %>% 
+  dplyr::mutate(date = as.Date(date)) %>% 
   dplyr::ungroup()
-
-
-region_codes <- cases %>%
-  dplyr::select(region, region_code) %>%
-  unique()
-
-saveRDS(region_codes, "germany/data/region_codes.rds")
 
 cases <- cases %>%
   dplyr::rename(local = cases) %>%
@@ -70,7 +64,7 @@ EpiNow::regional_rt_pipeline(
   report_forecast = TRUE,
   forecast_model = function(...){EpiSoon::forecastHybrid_model(
     model_params = list(models = "aeftz", weights = "equal",
-                        t.args = list(use_parallel = FALSE)),
+                        t.args = list(use.parallel = FALSE)),
     forecast_params = list(PI.combination = "mean"), ...)}
 )
 

@@ -26,7 +26,7 @@ region_codes <- cases %>%
 saveRDS(region_codes, "brazil/data/region_codes.rds")
 
 cases <- cases %>%
-  dplyr::select(-deaths) %>% 
+  dplyr::select(-deaths, -region_code) %>% 
   dplyr::rename(local = cases) %>%
   dplyr::mutate(imported = 0) %>%
   tidyr::gather(key = "import_status", value = "confirm", local, imported) %>% 
@@ -71,7 +71,7 @@ EpiNow::regional_rt_pipeline(
   report_forecast = TRUE,
   forecast_model = function(...){EpiSoon::forecastHybrid_model(
     model_params = list(models = "aeftz", weights = "equal", 
-                        t.args = list(use_parallel = FALSE)),
+                        t.args = list(use.parallel = FALSE)),
     forecast_params = list(PI.combination = "mean"), ...)}
 )
 
