@@ -24,7 +24,7 @@ cases <- cases %>%
 
 # Shared delay ------------------------------------------------------------
 
-delay_defs <- readRDS("delay.rds")
+delay_defs <- readRDS("delays.rds")
 
 # Set up cores -----------------------------------------------------
 if (!interactive()){
