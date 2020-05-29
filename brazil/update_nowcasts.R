@@ -52,6 +52,7 @@ EpiNow::regional_rt_pipeline(
   delay_defs = delay_defs,
   target_folder = "brazil/regional",
   horizon = 14,
+  nowcast_lag = 10,
   approx_delay = TRUE,
   report_forecast = TRUE,
   forecast_model = function(y, ...){EpiSoon::forecastHybrid_model(
