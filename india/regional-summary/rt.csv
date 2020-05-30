@@ -1,288 +1,284 @@
 region,date,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
 Andhra Pradesh,2020-03-28,nowcast,1.4,1,1.7,1.2,1.5,0.05
-Andhra Pradesh,2020-03-29,nowcast,1.3,0.9,1.6,1.1,1.4,0.09
-Andhra Pradesh,2020-03-30,nowcast,1.2,0.9,1.5,1,1.3,0.14
-Andhra Pradesh,2020-03-31,nowcast,1.1,0.8,1.4,1,1.3,0.21
-Andhra Pradesh,2020-04-01,nowcast,1.1,0.8,1.4,1,1.2,0.28
-Andhra Pradesh,2020-04-02,nowcast,1.1,0.8,1.3,1,1.2,0.34
-Andhra Pradesh,2020-04-03,nowcast,1,0.8,1.3,1,1.1,0.37
-Andhra Pradesh,2020-04-04,nowcast,1,0.8,1.3,1,1.1,0.37
-Andhra Pradesh,2020-04-05,nowcast,1.1,0.8,1.3,0.9,1.1,0.34
-Andhra Pradesh,2020-04-06,nowcast,1.1,0.9,1.3,1,1.2,0.27
-Andhra Pradesh,2020-04-07,nowcast,1.1,0.9,1.4,1,1.2,0.17
-Andhra Pradesh,2020-04-08,nowcast,1.2,0.9,1.4,1,1.2,0.11
-Andhra Pradesh,2020-04-09,nowcast,1.2,1,1.4,1.1,1.2,0.06
+Andhra Pradesh,2020-03-29,nowcast,1.3,0.9,1.6,1.2,1.4,0.08
+Andhra Pradesh,2020-03-30,nowcast,1.2,0.9,1.5,1.1,1.4,0.14
+Andhra Pradesh,2020-03-31,nowcast,1.2,0.9,1.4,1,1.3,0.2
+Andhra Pradesh,2020-04-01,nowcast,1.1,0.8,1.4,1,1.2,0.29
+Andhra Pradesh,2020-04-02,nowcast,1.1,0.8,1.3,1,1.2,0.32
+Andhra Pradesh,2020-04-03,nowcast,1,0.8,1.3,1,1.1,0.36
+Andhra Pradesh,2020-04-04,nowcast,1,0.8,1.3,1,1.1,0.35
+Andhra Pradesh,2020-04-05,nowcast,1.1,0.8,1.3,0.9,1.1,0.33
+Andhra Pradesh,2020-04-06,nowcast,1.1,0.8,1.3,1,1.2,0.25
+Andhra Pradesh,2020-04-07,nowcast,1.1,0.9,1.4,1,1.2,0.18
+Andhra Pradesh,2020-04-08,nowcast,1.2,0.9,1.4,1,1.2,0.1
+Andhra Pradesh,2020-04-09,nowcast,1.2,1,1.5,1.1,1.3,0.07
 Andhra Pradesh,2020-04-10,nowcast,1.2,1,1.5,1.1,1.3,0.04
 Andhra Pradesh,2020-04-11,nowcast,1.2,1,1.5,1.1,1.3,0.03
-Andhra Pradesh,2020-04-12,nowcast,1.2,1,1.5,1.1,1.3,0.02
+Andhra Pradesh,2020-04-12,nowcast,1.2,1,1.5,1.1,1.3,0.03
 Andhra Pradesh,2020-04-13,nowcast,1.2,1,1.5,1.1,1.3,0.02
-Andhra Pradesh,2020-04-14,nowcast,1.2,1,1.5,1.2,1.3,0.02
-Andhra Pradesh,2020-04-15,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Andhra Pradesh,2020-04-14,nowcast,1.2,1,1.5,1.2,1.3,0.03
+Andhra Pradesh,2020-04-15,nowcast,1.2,1,1.5,1.2,1.3,0.03
 Andhra Pradesh,2020-04-16,nowcast,1.2,1,1.4,1.1,1.3,0.03
 Andhra Pradesh,2020-04-17,nowcast,1.2,1,1.4,1.1,1.3,0.05
-Andhra Pradesh,2020-04-18,nowcast,1.2,1,1.4,1.1,1.3,0.08
-Andhra Pradesh,2020-04-19,nowcast,1.1,1,1.3,1.1,1.2,0.1
-Andhra Pradesh,2020-04-20,nowcast,1.1,0.9,1.3,1.1,1.2,0.13
+Andhra Pradesh,2020-04-18,nowcast,1.2,1,1.4,1.1,1.3,0.06
+Andhra Pradesh,2020-04-19,nowcast,1.2,0.9,1.3,1.1,1.2,0.11
+Andhra Pradesh,2020-04-20,nowcast,1.1,0.9,1.3,1.1,1.2,0.15
 Andhra Pradesh,2020-04-21,nowcast,1.1,0.9,1.3,1,1.2,0.18
-Andhra Pradesh,2020-04-22,nowcast,1.1,0.9,1.2,1,1.1,0.29
-Andhra Pradesh,2020-04-23,nowcast,1,0.9,1.2,1,1.1,0.36
-Andhra Pradesh,2020-04-24,nowcast,1,0.8,1.2,1,1.1,0.45
-Andhra Pradesh,2020-04-25,nowcast,1,0.8,1.1,0.9,1.1,0.54
-Andhra Pradesh,2020-04-26,nowcast,1,0.8,1.1,0.9,1,0.61
+Andhra Pradesh,2020-04-22,nowcast,1.1,0.9,1.2,1,1.1,0.26
+Andhra Pradesh,2020-04-23,nowcast,1,0.9,1.2,1,1.1,0.35
+Andhra Pradesh,2020-04-24,nowcast,1,0.8,1.2,1,1.1,0.46
+Andhra Pradesh,2020-04-25,nowcast,1,0.8,1.1,0.9,1.1,0.53
+Andhra Pradesh,2020-04-26,nowcast,1,0.8,1.1,0.9,1,0.64
 Andhra Pradesh,2020-04-27,nowcast,1,0.8,1.1,0.9,1,0.69
-Andhra Pradesh,2020-04-28,nowcast,0.9,0.8,1.1,0.9,1,0.73
+Andhra Pradesh,2020-04-28,nowcast,1,0.8,1.1,0.9,1,0.71
 Andhra Pradesh,2020-04-29,nowcast,0.9,0.8,1.1,0.9,1,0.74
 Andhra Pradesh,2020-04-30,nowcast,0.9,0.8,1.1,0.9,1,0.74
-Andhra Pradesh,2020-05-01,nowcast,1,0.8,1.1,0.9,1,0.74
-Andhra Pradesh,2020-05-02,nowcast,1,0.8,1.1,0.9,1,0.7
+Andhra Pradesh,2020-05-01,nowcast,0.9,0.8,1.1,0.9,1,0.73
+Andhra Pradesh,2020-05-02,nowcast,1,0.8,1.1,0.9,1,0.71
 Andhra Pradesh,2020-05-03,nowcast,1,0.8,1.1,0.9,1,0.68
-Andhra Pradesh,2020-05-04,nowcast,1,0.8,1.2,0.9,1,0.62
-Andhra Pradesh,2020-05-05,nowcast,1,0.8,1.2,0.9,1,0.57
-Andhra Pradesh,2020-05-06,nowcast,1,0.8,1.2,0.9,1,0.51
-Andhra Pradesh,2020-05-07,nowcast,1,0.8,1.2,0.9,1.1,0.42
-Andhra Pradesh,2020-05-08,nowcast,1,0.9,1.2,1,1.1,0.35
-Andhra Pradesh,2020-05-09,nowcast,1,0.9,1.2,1,1.1,0.3
-Andhra Pradesh,2020-05-10,nowcast,1,0.9,1.2,1,1.1,0.29
-Andhra Pradesh,2020-05-11,nowcast,1,0.9,1.2,1,1.1,0.29
-Andhra Pradesh,2020-05-12,nowcast,1.1,0.9,1.2,1,1.1,0.24
+Andhra Pradesh,2020-05-04,nowcast,1,0.8,1.1,0.9,1,0.64
+Andhra Pradesh,2020-05-05,nowcast,1,0.8,1.1,0.9,1,0.58
+Andhra Pradesh,2020-05-06,nowcast,1,0.8,1.2,0.9,1.1,0.48
+Andhra Pradesh,2020-05-07,nowcast,1,0.9,1.2,0.9,1.1,0.41
+Andhra Pradesh,2020-05-08,nowcast,1,0.9,1.2,1,1.1,0.36
+Andhra Pradesh,2020-05-09,nowcast,1,0.9,1.2,1,1.1,0.31
+Andhra Pradesh,2020-05-10,nowcast,1.1,0.9,1.2,1,1.1,0.28
+Andhra Pradesh,2020-05-11,nowcast,1.1,0.9,1.2,1,1.1,0.25
+Andhra Pradesh,2020-05-12,nowcast,1.1,0.9,1.2,1,1.1,0.23
 Andhra Pradesh,2020-05-13,nowcast,1.1,0.9,1.2,1,1.1,0.21
-Andhra Pradesh,2020-05-14,nowcast,1.1,0.9,1.3,1,1.1,0.15
-Andhra Pradesh,2020-05-15,nowcast,1.1,1,1.3,1,1.2,0.1
-Andhra Pradesh,2020-05-16,nowcast,1.1,1,1.3,1.1,1.2,0.05
+Andhra Pradesh,2020-05-14,nowcast,1.1,0.9,1.3,1,1.1,0.16
+Andhra Pradesh,2020-05-15,nowcast,1.1,0.9,1.3,1,1.2,0.12
+Andhra Pradesh,2020-05-16,nowcast,1.1,1,1.3,1.1,1.2,0.06
 Andhra Pradesh,2020-05-17,nowcast,1.2,1,1.4,1.1,1.2,0.03
-Andhra Pradesh,2020-05-18,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Andhra Pradesh,2020-05-18,nowcast,1.2,1,1.4,1.1,1.2,0.02
 Andhra Pradesh,2020-05-19,nowcast,1.2,1,1.4,1.1,1.3,0.02
-Andhra Pradesh,2020-05-20,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Andhra Pradesh,2020-05-21,forecast,1.2,1,1.5,1.1,1.3,0.04
-Andhra Pradesh,2020-05-22,forecast,1.2,1,1.5,1.1,1.3,0.05
-Andhra Pradesh,2020-05-23,forecast,1.2,0.9,1.5,1.1,1.3,0.08
-Andhra Pradesh,2020-05-24,forecast,1.2,0.9,1.5,1.1,1.3,0.09
-Andhra Pradesh,2020-05-25,forecast,1.2,0.9,1.6,1.1,1.4,0.1
-Andhra Pradesh,2020-05-26,forecast,1.2,0.9,1.6,1.1,1.4,0.1
-Andhra Pradesh,2020-05-27,forecast,1.2,0.9,1.6,1.1,1.4,0.11
-Andhra Pradesh,2020-05-28,forecast,1.2,0.8,1.6,1.1,1.4,0.13
-Andhra Pradesh,2020-05-29,forecast,1.2,0.9,1.7,1.1,1.4,0.13
-Andhra Pradesh,2020-05-30,forecast,1.3,0.8,1.7,1.1,1.4,0.15
-Andhra Pradesh,2020-05-31,forecast,1.3,0.8,1.7,1.1,1.4,0.15
-Andhra Pradesh,2020-06-01,forecast,1.3,0.8,1.7,1.1,1.4,0.15
-Andhra Pradesh,2020-06-02,forecast,1.3,0.8,1.8,1.1,1.4,0.15
-Andhra Pradesh,2020-06-03,forecast,1.3,0.8,1.8,1.1,1.4,0.16
-Assam,2020-04-01,nowcast,0.7,0.1,1.4,0.4,1,0.73
-Assam,2020-04-02,nowcast,0.6,0.1,1.3,0.4,0.9,0.8
-Assam,2020-04-03,nowcast,0.6,0,1.3,0.3,0.8,0.81
-Assam,2020-04-04,nowcast,0.6,0,1.2,0.2,0.7,0.82
-Assam,2020-04-05,nowcast,0.6,0,1.4,0.3,0.8,0.79
+Andhra Pradesh,2020-05-20,forecast,1.2,1,1.4,1.1,1.3,0.06
+Andhra Pradesh,2020-05-21,forecast,1.2,0.9,1.4,1.1,1.3,0.08
+Andhra Pradesh,2020-05-22,forecast,1.2,0.9,1.5,1.1,1.3,0.1
+Andhra Pradesh,2020-05-23,forecast,1.2,0.9,1.5,1.1,1.3,0.11
+Andhra Pradesh,2020-05-24,forecast,1.2,0.9,1.5,1.1,1.3,0.12
+Andhra Pradesh,2020-05-25,forecast,1.2,0.9,1.5,1.1,1.3,0.13
+Andhra Pradesh,2020-05-26,forecast,1.2,0.9,1.6,1.1,1.3,0.13
+Andhra Pradesh,2020-05-27,forecast,1.2,0.9,1.6,1.1,1.3,0.15
+Andhra Pradesh,2020-05-28,forecast,1.2,0.8,1.6,1.1,1.4,0.15
+Andhra Pradesh,2020-05-29,forecast,1.2,0.8,1.6,1.1,1.4,0.16
+Andhra Pradesh,2020-05-30,forecast,1.2,0.8,1.6,1.1,1.4,0.16
+Andhra Pradesh,2020-05-31,forecast,1.2,0.8,1.7,1.1,1.4,0.17
+Andhra Pradesh,2020-06-01,forecast,1.2,0.8,1.7,1.1,1.4,0.17
+Andhra Pradesh,2020-06-02,forecast,1.2,0.8,1.7,1.1,1.4,0.19
+Assam,2020-04-01,nowcast,0.7,0.1,1.4,0.3,0.9,0.75
+Assam,2020-04-02,nowcast,0.7,0.1,1.3,0.3,0.8,0.79
+Assam,2020-04-03,nowcast,0.6,0,1.3,0.3,0.8,0.8
+Assam,2020-04-04,nowcast,0.6,0,1.3,0.2,0.7,0.8
+Assam,2020-04-05,nowcast,0.6,0,1.4,0.2,0.7,0.79
 Assam,2020-04-06,nowcast,0.6,0,1.5,0.2,0.8,0.76
-Assam,2020-04-07,nowcast,0.7,0,1.6,0.2,0.7,0.73
-Assam,2020-04-08,nowcast,0.7,0,1.8,0.2,0.8,0.71
-Assam,2020-04-09,nowcast,0.7,0,1.7,0.3,0.9,0.68
-Assam,2020-04-10,nowcast,0.8,0,2,0.2,0.9,0.63
-Assam,2020-04-11,nowcast,0.8,0,2,0.2,1,0.6
-Assam,2020-04-12,nowcast,0.8,0.1,1.9,0.3,1,0.61
-Assam,2020-04-13,nowcast,0.9,0,2.2,0.3,1,0.57
-Assam,2020-04-14,nowcast,0.9,0,2.3,0.3,1.1,0.54
-Assam,2020-04-15,nowcast,1,0,2.4,0.3,1.1,0.51
-Assam,2020-04-16,nowcast,1.1,0,2.6,0.3,1.2,0.47
-Assam,2020-04-17,nowcast,1.2,0.1,2.9,0.3,1.3,0.42
-Assam,2020-04-18,nowcast,1.3,0.1,3,0.5,1.6,0.35
-Assam,2020-04-19,nowcast,1.5,0.1,3.2,0.6,1.8,0.3
-Assam,2020-04-20,nowcast,1.5,0.1,3.2,0.6,1.8,0.25
-Assam,2020-04-21,nowcast,1.6,0.3,3.4,0.8,1.9,0.2
-Assam,2020-04-22,nowcast,1.7,0.4,3.3,1,2,0.17
-Assam,2020-04-23,nowcast,1.7,0.5,3.3,1.1,2.1,0.14
-Assam,2020-04-24,nowcast,1.7,0.5,3.2,1.1,2,0.14
-Assam,2020-04-25,nowcast,1.7,0.6,3.1,1.1,2,0.11
-Assam,2020-04-26,nowcast,1.7,0.7,3,1.1,1.9,0.1
-Assam,2020-04-27,nowcast,1.7,0.7,2.8,1.2,2,0.09
-Assam,2020-04-28,nowcast,1.7,0.7,2.7,1.3,2,0.08
-Assam,2020-04-29,nowcast,1.7,0.9,2.8,1.3,2,0.06
-Assam,2020-04-30,nowcast,1.7,0.9,2.7,1.3,2,0.05
-Assam,2020-05-01,nowcast,1.7,1,2.6,1.4,2,0.04
-Assam,2020-05-02,nowcast,1.7,0.9,2.6,1.4,1.9,0.04
-Assam,2020-05-03,nowcast,1.7,1,2.5,1.4,2,0.03
-Assam,2020-05-04,nowcast,1.7,1,2.4,1.4,1.9,0.02
-Assam,2020-05-05,nowcast,1.7,1.2,2.4,1.5,1.9,0.02
-Assam,2020-05-06,nowcast,1.7,1.1,2.3,1.4,1.9,0.01
-Assam,2020-05-07,nowcast,1.7,1.2,2.4,1.5,1.9,0.01
+Assam,2020-04-07,nowcast,0.7,0,1.6,0.2,0.8,0.73
+Assam,2020-04-08,nowcast,0.7,0,1.7,0.2,0.8,0.7
+Assam,2020-04-09,nowcast,0.7,0,1.9,0.2,0.9,0.66
+Assam,2020-04-10,nowcast,0.8,0,1.9,0.2,0.9,0.64
+Assam,2020-04-11,nowcast,0.8,0,1.9,0.2,0.9,0.62
+Assam,2020-04-12,nowcast,0.8,0,2,0.3,1,0.62
+Assam,2020-04-13,nowcast,0.9,0,2.2,0.2,1,0.57
+Assam,2020-04-14,nowcast,0.9,0,2.2,0.2,1,0.56
+Assam,2020-04-15,nowcast,1,0,2.5,0.3,1.1,0.51
+Assam,2020-04-16,nowcast,1.1,0,2.8,0.3,1.3,0.46
+Assam,2020-04-17,nowcast,1.2,0,2.9,0.4,1.4,0.39
+Assam,2020-04-18,nowcast,1.3,0.1,3.1,0.5,1.6,0.33
+Assam,2020-04-19,nowcast,1.5,0.1,3.3,0.7,1.8,0.27
+Assam,2020-04-20,nowcast,1.6,0.3,3.4,0.8,1.9,0.23
+Assam,2020-04-21,nowcast,1.6,0.3,3.4,0.9,2,0.2
+Assam,2020-04-22,nowcast,1.7,0.3,3.4,1,2.1,0.17
+Assam,2020-04-23,nowcast,1.7,0.4,3.1,0.9,1.9,0.17
+Assam,2020-04-24,nowcast,1.7,0.4,3,1.1,2.1,0.14
+Assam,2020-04-25,nowcast,1.7,0.6,3,1.1,2,0.13
+Assam,2020-04-26,nowcast,1.7,0.6,2.9,1.2,2,0.11
+Assam,2020-04-27,nowcast,1.7,0.7,2.8,1.2,2,0.1
+Assam,2020-04-28,nowcast,1.7,0.8,2.8,1.3,2,0.08
+Assam,2020-04-29,nowcast,1.7,0.8,2.7,1.3,2,0.06
+Assam,2020-04-30,nowcast,1.7,0.9,2.7,1.3,1.9,0.05
+Assam,2020-05-01,nowcast,1.7,0.9,2.6,1.4,2,0.04
+Assam,2020-05-02,nowcast,1.7,1,2.6,1.4,2,0.03
+Assam,2020-05-03,nowcast,1.7,1,2.5,1.4,2,0.02
+Assam,2020-05-04,nowcast,1.7,1.1,2.5,1.4,1.9,0.02
+Assam,2020-05-05,nowcast,1.7,1.1,2.4,1.5,1.9,0.02
+Assam,2020-05-06,nowcast,1.7,1.2,2.4,1.5,1.9,0.01
+Assam,2020-05-07,nowcast,1.7,1.2,2.3,1.5,1.9,0
 Assam,2020-05-08,nowcast,1.7,1.3,2.3,1.5,1.9,0
 Assam,2020-05-09,nowcast,1.7,1.3,2.3,1.5,1.9,0
 Assam,2020-05-10,nowcast,1.7,1.3,2.2,1.5,1.9,0
-Assam,2020-05-11,nowcast,1.7,1.3,2.2,1.5,1.8,0
-Assam,2020-05-12,nowcast,1.7,1.3,2.2,1.5,1.8,0
+Assam,2020-05-11,nowcast,1.7,1.4,2.2,1.5,1.8,0
+Assam,2020-05-12,nowcast,1.7,1.3,2.2,1.5,1.9,0
 Assam,2020-05-13,nowcast,1.7,1.3,2.1,1.5,1.8,0
 Assam,2020-05-14,nowcast,1.7,1.3,2,1.5,1.8,0
 Assam,2020-05-15,nowcast,1.6,1.3,2,1.5,1.7,0
 Assam,2020-05-16,nowcast,1.6,1.3,1.9,1.4,1.7,0
-Assam,2020-05-17,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Assam,2020-05-17,nowcast,1.6,1.2,1.9,1.4,1.7,0
 Assam,2020-05-18,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Assam,2020-05-19,nowcast,1.5,1.2,1.7,1.3,1.5,0
-Assam,2020-05-20,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Assam,2020-05-21,forecast,1.4,1,2,1.2,1.6,0.05
-Assam,2020-05-22,forecast,1.5,0.9,2,1.2,1.7,0.07
-Assam,2020-05-23,forecast,1.5,0.9,2.1,1.2,1.7,0.1
-Assam,2020-05-24,forecast,1.4,0.8,2.1,1.2,1.7,0.13
-Assam,2020-05-25,forecast,1.5,0.8,2.2,1.2,1.7,0.13
-Assam,2020-05-26,forecast,1.4,0.7,2.2,1.1,1.7,0.15
-Assam,2020-05-27,forecast,1.4,0.7,2.3,1.1,1.7,0.16
-Assam,2020-05-28,forecast,1.4,0.7,2.3,1.1,1.7,0.17
-Assam,2020-05-29,forecast,1.4,0.6,2.3,1.1,1.7,0.18
-Assam,2020-05-30,forecast,1.4,0.5,2.3,1.1,1.8,0.2
-Assam,2020-05-31,forecast,1.4,0.5,2.4,1.2,1.8,0.2
-Assam,2020-06-01,forecast,1.4,0.5,2.4,1.1,1.8,0.21
-Assam,2020-06-02,forecast,1.4,0.4,2.4,1,1.8,0.21
-Assam,2020-06-03,forecast,1.4,0.4,2.5,1.1,1.9,0.23
-Bihar,2020-03-31,nowcast,1.3,0.6,2.1,1,1.5,0.21
-Bihar,2020-04-01,nowcast,1.3,0.6,2,1,1.5,0.2
-Bihar,2020-04-02,nowcast,1.3,0.7,2.1,1,1.5,0.19
-Bihar,2020-04-03,nowcast,1.4,0.7,2.1,1.1,1.5,0.14
+Assam,2020-05-19,nowcast,1.5,1.2,1.7,1.4,1.6,0
+Assam,2020-05-20,forecast,1.5,1.1,2,1.3,1.7,0.03
+Assam,2020-05-21,forecast,1.5,1,2.1,1.3,1.7,0.05
+Assam,2020-05-22,forecast,1.5,0.9,2.2,1.3,1.7,0.07
+Assam,2020-05-23,forecast,1.5,0.8,2.2,1.2,1.7,0.09
+Assam,2020-05-24,forecast,1.5,0.8,2.3,1.3,1.8,0.11
+Assam,2020-05-25,forecast,1.5,0.8,2.3,1.2,1.8,0.11
+Assam,2020-05-26,forecast,1.5,0.7,2.3,1.2,1.8,0.11
+Assam,2020-05-27,forecast,1.5,0.7,2.5,1.2,1.9,0.13
+Assam,2020-05-28,forecast,1.5,0.6,2.4,1.2,1.8,0.15
+Assam,2020-05-29,forecast,1.5,0.6,2.4,1.2,1.8,0.16
+Assam,2020-05-30,forecast,1.5,0.5,2.5,1.1,1.8,0.17
+Assam,2020-05-31,forecast,1.5,0.5,2.5,1.1,1.9,0.18
+Assam,2020-06-01,forecast,1.5,0.5,2.6,1.1,1.9,0.18
+Assam,2020-06-02,forecast,1.5,0.5,2.6,1.1,1.8,0.18
+Bihar,2020-03-31,nowcast,1.3,0.6,2,1,1.5,0.21
+Bihar,2020-04-01,nowcast,1.3,0.7,2.1,1,1.5,0.19
+Bihar,2020-04-02,nowcast,1.3,0.7,2.1,1,1.5,0.15
+Bihar,2020-04-03,nowcast,1.4,0.7,2.1,1.1,1.6,0.13
 Bihar,2020-04-04,nowcast,1.4,0.8,2.1,1.1,1.6,0.13
 Bihar,2020-04-05,nowcast,1.4,0.8,2,1.1,1.5,0.12
-Bihar,2020-04-06,nowcast,1.4,0.8,2,1.2,1.6,0.11
-Bihar,2020-04-07,nowcast,1.4,0.9,2,1.2,1.6,0.08
-Bihar,2020-04-08,nowcast,1.4,0.9,2,1.2,1.6,0.08
-Bihar,2020-04-09,nowcast,1.4,0.9,2,1.2,1.6,0.06
-Bihar,2020-04-10,nowcast,1.5,1,2.1,1.3,1.7,0.03
-Bihar,2020-04-11,nowcast,1.5,1,2.1,1.3,1.7,0.02
+Bihar,2020-04-06,nowcast,1.4,0.8,2,1.1,1.6,0.11
+Bihar,2020-04-07,nowcast,1.4,0.8,2,1.2,1.6,0.1
+Bihar,2020-04-08,nowcast,1.4,0.9,2,1.1,1.5,0.09
+Bihar,2020-04-09,nowcast,1.4,1,2,1.2,1.6,0.06
+Bihar,2020-04-10,nowcast,1.5,1,2,1.2,1.6,0.04
+Bihar,2020-04-11,nowcast,1.5,1,2.1,1.2,1.6,0.02
 Bihar,2020-04-12,nowcast,1.5,1.1,2.1,1.3,1.7,0.02
-Bihar,2020-04-13,nowcast,1.5,1.1,2,1.3,1.7,0.01
-Bihar,2020-04-14,nowcast,1.5,1.1,2,1.3,1.7,0.01
-Bihar,2020-04-15,nowcast,1.5,1.1,2,1.3,1.6,0.02
+Bihar,2020-04-13,nowcast,1.5,1,2,1.3,1.6,0.02
+Bihar,2020-04-14,nowcast,1.5,1.1,2,1.3,1.7,0.02
+Bihar,2020-04-15,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
 Bihar,2020-04-16,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
-Bihar,2020-04-17,nowcast,1.4,1,1.8,1.3,1.6,0.02
-Bihar,2020-04-18,nowcast,1.4,1,1.7,1.2,1.5,0.03
-Bihar,2020-04-19,nowcast,1.3,1,1.7,1.2,1.5,0.05
-Bihar,2020-04-20,nowcast,1.3,1,1.6,1.2,1.4,0.06
-Bihar,2020-04-21,nowcast,1.2,0.9,1.5,1.1,1.4,0.1
-Bihar,2020-04-22,nowcast,1.2,0.9,1.5,1.1,1.3,0.16
-Bihar,2020-04-23,nowcast,1.1,0.9,1.4,1,1.2,0.2
-Bihar,2020-04-24,nowcast,1.1,0.8,1.4,1,1.2,0.23
-Bihar,2020-04-25,nowcast,1.1,0.9,1.3,1,1.2,0.23
+Bihar,2020-04-17,nowcast,1.4,1,1.8,1.3,1.6,0.03
+Bihar,2020-04-18,nowcast,1.4,1,1.7,1.3,1.5,0.03
+Bihar,2020-04-19,nowcast,1.3,1,1.7,1.2,1.5,0.04
+Bihar,2020-04-20,nowcast,1.3,1,1.6,1.2,1.4,0.07
+Bihar,2020-04-21,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
+Bihar,2020-04-22,nowcast,1.2,0.9,1.5,1.1,1.3,0.15
+Bihar,2020-04-23,nowcast,1.1,0.9,1.4,1.1,1.3,0.19
+Bihar,2020-04-24,nowcast,1.1,0.8,1.3,1,1.2,0.22
+Bihar,2020-04-25,nowcast,1.1,0.9,1.4,1,1.2,0.24
 Bihar,2020-04-26,nowcast,1.1,0.9,1.3,1,1.2,0.23
-Bihar,2020-04-27,nowcast,1.1,0.9,1.4,1,1.2,0.18
-Bihar,2020-04-28,nowcast,1.2,0.9,1.5,1,1.2,0.11
-Bihar,2020-04-29,nowcast,1.2,1,1.5,1.1,1.3,0.06
-Bihar,2020-04-30,nowcast,1.3,1,1.6,1.1,1.4,0.02
-Bihar,2020-05-01,nowcast,1.3,1.1,1.7,1.2,1.4,0.01
-Bihar,2020-05-02,nowcast,1.4,1.1,1.7,1.2,1.5,0
-Bihar,2020-05-03,nowcast,1.4,1.2,1.8,1.3,1.5,0
-Bihar,2020-05-04,nowcast,1.5,1.2,1.7,1.3,1.5,0
-Bihar,2020-05-05,nowcast,1.5,1.2,1.7,1.4,1.5,0
-Bihar,2020-05-06,nowcast,1.5,1.2,1.7,1.4,1.5,0
-Bihar,2020-05-07,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Bihar,2020-04-27,nowcast,1.1,0.9,1.4,1,1.2,0.16
+Bihar,2020-04-28,nowcast,1.2,0.9,1.4,1,1.2,0.11
+Bihar,2020-04-29,nowcast,1.2,1,1.5,1.1,1.3,0.07
+Bihar,2020-04-30,nowcast,1.3,1,1.6,1.1,1.3,0.02
+Bihar,2020-05-01,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Bihar,2020-05-02,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Bihar,2020-05-03,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Bihar,2020-05-04,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Bihar,2020-05-05,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Bihar,2020-05-06,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Bihar,2020-05-07,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Bihar,2020-05-08,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Bihar,2020-05-09,nowcast,1.4,1.2,1.6,1.3,1.4,0
 Bihar,2020-05-10,nowcast,1.3,1.1,1.5,1.3,1.4,0
 Bihar,2020-05-11,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Bihar,2020-05-12,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Bihar,2020-05-13,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Bihar,2020-05-14,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Bihar,2020-05-15,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-Bihar,2020-05-16,nowcast,1.2,1,1.3,1.1,1.3,0.03
-Bihar,2020-05-17,nowcast,1.1,1,1.3,1.1,1.2,0.09
-Bihar,2020-05-18,nowcast,1.1,0.9,1.2,1,1.2,0.18
-Bihar,2020-05-19,nowcast,1,0.9,1.2,1,1.1,0.35
-Bihar,2020-05-20,nowcast,1,0.8,1.1,0.9,1,0.57
-Bihar,2020-05-21,forecast,1,0.8,1.2,0.9,1.1,0.53
-Bihar,2020-05-22,forecast,1,0.7,1.3,0.9,1.1,0.56
-Bihar,2020-05-23,forecast,1,0.6,1.3,0.8,1.1,0.55
-Bihar,2020-05-24,forecast,1,0.6,1.3,0.8,1.1,0.57
-Bihar,2020-05-25,forecast,1,0.6,1.4,0.8,1.1,0.56
-Bihar,2020-05-26,forecast,1,0.5,1.4,0.8,1.1,0.57
-Bihar,2020-05-27,forecast,1,0.5,1.4,0.8,1.1,0.56
-Bihar,2020-05-28,forecast,1,0.4,1.4,0.8,1.2,0.57
-Bihar,2020-05-29,forecast,0.9,0.4,1.4,0.8,1.2,0.57
-Bihar,2020-05-30,forecast,0.9,0.4,1.5,0.7,1.2,0.58
-Bihar,2020-05-31,forecast,0.9,0.4,1.6,0.7,1.2,0.58
-Bihar,2020-06-01,forecast,0.9,0.3,1.6,0.7,1.2,0.58
-Bihar,2020-06-02,forecast,0.9,0.3,1.6,0.7,1.2,0.59
-Bihar,2020-06-03,forecast,0.9,0.2,1.5,0.7,1.2,0.59
-Chhattisgarh,2020-04-09,nowcast,0.8,0.1,1.5,0.4,1,0.66
-Chhattisgarh,2020-04-10,nowcast,0.7,0.1,1.4,0.4,0.9,0.76
-Chhattisgarh,2020-04-11,nowcast,0.6,0,1.3,0.3,0.8,0.8
-Chhattisgarh,2020-04-12,nowcast,0.6,0,1.3,0.2,0.7,0.8
+Bihar,2020-05-12,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Bihar,2020-05-13,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Bihar,2020-05-14,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Bihar,2020-05-15,nowcast,1.2,1.1,1.4,1.2,1.3,0.02
+Bihar,2020-05-16,nowcast,1.2,1,1.3,1.1,1.2,0.04
+Bihar,2020-05-17,nowcast,1.1,1,1.3,1.1,1.2,0.08
+Bihar,2020-05-18,nowcast,1.1,0.9,1.2,1,1.1,0.17
+Bihar,2020-05-19,nowcast,1,0.9,1.2,1,1.1,0.32
+Bihar,2020-05-20,forecast,1,0.8,1.3,1,1.1,0.34
+Bihar,2020-05-21,forecast,1.1,0.8,1.3,0.9,1.2,0.37
+Bihar,2020-05-22,forecast,1.1,0.7,1.4,0.9,1.2,0.39
+Bihar,2020-05-23,forecast,1,0.7,1.4,0.9,1.2,0.41
+Bihar,2020-05-24,forecast,1,0.7,1.4,0.9,1.2,0.42
+Bihar,2020-05-25,forecast,1,0.6,1.5,0.9,1.2,0.42
+Bihar,2020-05-26,forecast,1,0.6,1.5,0.8,1.2,0.44
+Bihar,2020-05-27,forecast,1,0.6,1.5,0.9,1.2,0.44
+Bihar,2020-05-28,forecast,1,0.6,1.5,0.9,1.2,0.44
+Bihar,2020-05-29,forecast,1,0.5,1.6,0.9,1.3,0.45
+Bihar,2020-05-30,forecast,1,0.5,1.6,0.9,1.3,0.46
+Bihar,2020-05-31,forecast,1,0.5,1.6,0.8,1.2,0.46
+Bihar,2020-06-01,forecast,1,0.4,1.6,0.8,1.2,0.46
+Bihar,2020-06-02,forecast,1,0.4,1.6,0.8,1.3,0.48
+Chhattisgarh,2020-04-09,nowcast,0.8,0.1,1.6,0.5,1.1,0.64
+Chhattisgarh,2020-04-10,nowcast,0.7,0.1,1.4,0.4,1,0.73
+Chhattisgarh,2020-04-11,nowcast,0.6,0,1.3,0.3,0.8,0.78
+Chhattisgarh,2020-04-12,nowcast,0.6,0,1.3,0.3,0.8,0.8
 Chhattisgarh,2020-04-13,nowcast,0.6,0,1.3,0.2,0.7,0.8
-Chhattisgarh,2020-04-14,nowcast,0.6,0,1.4,0.2,0.7,0.79
-Chhattisgarh,2020-04-15,nowcast,0.6,0,1.7,0.1,0.7,0.71
-Chhattisgarh,2020-04-16,nowcast,0.7,0,1.9,0.2,0.8,0.66
-Chhattisgarh,2020-04-17,nowcast,0.8,0,2.2,0.2,1,0.58
-Chhattisgarh,2020-04-18,nowcast,1,0,2.5,0.4,1.2,0.48
-Chhattisgarh,2020-04-19,nowcast,1.2,0,2.8,0.6,1.6,0.37
-Chhattisgarh,2020-04-20,nowcast,1.4,0.2,3.2,0.6,1.7,0.31
-Chhattisgarh,2020-04-21,nowcast,1.5,0.2,3.1,0.8,1.9,0.24
-Chhattisgarh,2020-04-22,nowcast,1.6,0.3,3.1,0.9,1.9,0.2
-Chhattisgarh,2020-04-23,nowcast,1.6,0.4,3,0.8,1.8,0.19
-Chhattisgarh,2020-04-24,nowcast,1.6,0.4,3,1,2,0.17
-Chhattisgarh,2020-04-25,nowcast,1.6,0.5,2.9,1,1.9,0.17
-Chhattisgarh,2020-04-26,nowcast,1.5,0.5,2.7,1,1.8,0.19
-Chhattisgarh,2020-04-27,nowcast,1.4,0.5,2.5,0.9,1.6,0.22
-Chhattisgarh,2020-04-28,nowcast,1.4,0.5,2.4,1,1.7,0.23
-Chhattisgarh,2020-04-29,nowcast,1.3,0.5,2.2,0.9,1.6,0.26
-Chhattisgarh,2020-04-30,nowcast,1.3,0.5,2.2,1,1.6,0.27
-Chhattisgarh,2020-05-01,nowcast,1.3,0.5,2.1,1,1.6,0.26
+Chhattisgarh,2020-04-14,nowcast,0.6,0,1.4,0.2,0.7,0.77
+Chhattisgarh,2020-04-15,nowcast,0.6,0,1.7,0.2,0.7,0.74
+Chhattisgarh,2020-04-16,nowcast,0.7,0,1.9,0.2,0.8,0.67
+Chhattisgarh,2020-04-17,nowcast,0.9,0,2.2,0.3,1.1,0.57
+Chhattisgarh,2020-04-18,nowcast,1.1,0,2.6,0.3,1.2,0.47
+Chhattisgarh,2020-04-19,nowcast,1.2,0.1,2.8,0.5,1.5,0.38
+Chhattisgarh,2020-04-20,nowcast,1.3,0.2,3,0.6,1.6,0.33
+Chhattisgarh,2020-04-21,nowcast,1.5,0.3,3.1,0.8,1.8,0.26
+Chhattisgarh,2020-04-22,nowcast,1.5,0.3,3.1,0.9,1.9,0.21
+Chhattisgarh,2020-04-23,nowcast,1.5,0.3,3,0.9,1.9,0.19
+Chhattisgarh,2020-04-24,nowcast,1.6,0.4,3,1,2,0.18
+Chhattisgarh,2020-04-25,nowcast,1.5,0.4,2.7,1,1.8,0.19
+Chhattisgarh,2020-04-26,nowcast,1.5,0.5,2.6,0.9,1.7,0.2
+Chhattisgarh,2020-04-27,nowcast,1.4,0.5,2.6,0.9,1.7,0.21
+Chhattisgarh,2020-04-28,nowcast,1.4,0.5,2.4,0.9,1.6,0.21
+Chhattisgarh,2020-04-29,nowcast,1.3,0.5,2.2,0.9,1.6,0.23
+Chhattisgarh,2020-04-30,nowcast,1.3,0.5,2.1,0.9,1.6,0.24
+Chhattisgarh,2020-05-01,nowcast,1.3,0.5,2.1,0.9,1.5,0.27
 Chhattisgarh,2020-05-02,nowcast,1.3,0.5,2.2,0.9,1.5,0.24
-Chhattisgarh,2020-05-03,nowcast,1.4,0.5,2.3,1,1.6,0.2
+Chhattisgarh,2020-05-03,nowcast,1.4,0.6,2.3,1,1.6,0.18
 Chhattisgarh,2020-05-04,nowcast,1.5,0.7,2.4,1.1,1.7,0.13
-Chhattisgarh,2020-05-05,nowcast,1.6,0.7,2.5,1.2,1.9,0.08
-Chhattisgarh,2020-05-06,nowcast,1.7,0.9,2.7,1.2,1.9,0.04
-Chhattisgarh,2020-05-07,nowcast,1.7,1,2.6,1.3,1.9,0.02
-Chhattisgarh,2020-05-08,nowcast,1.8,1.1,2.7,1.4,2,0.02
-Chhattisgarh,2020-05-09,nowcast,1.8,1.1,2.5,1.5,2,0.01
-Chhattisgarh,2020-05-10,nowcast,1.8,1.1,2.5,1.4,1.9,0.01
-Chhattisgarh,2020-05-11,nowcast,1.8,1.2,2.4,1.4,1.9,0.01
-Chhattisgarh,2020-05-12,nowcast,1.7,1.1,2.3,1.5,1.9,0.01
-Chhattisgarh,2020-05-13,nowcast,1.7,1.1,2.2,1.4,1.8,0.01
+Chhattisgarh,2020-05-05,nowcast,1.6,0.8,2.6,1.1,1.8,0.08
+Chhattisgarh,2020-05-06,nowcast,1.7,0.9,2.6,1.3,1.9,0.05
+Chhattisgarh,2020-05-07,nowcast,1.7,0.9,2.5,1.4,2,0.03
+Chhattisgarh,2020-05-08,nowcast,1.8,1.1,2.6,1.4,2,0.02
+Chhattisgarh,2020-05-09,nowcast,1.8,1.1,2.5,1.4,2,0.01
+Chhattisgarh,2020-05-10,nowcast,1.8,1.2,2.5,1.5,2,0.01
+Chhattisgarh,2020-05-11,nowcast,1.7,1.2,2.4,1.5,2,0.01
+Chhattisgarh,2020-05-12,nowcast,1.7,1.1,2.3,1.4,1.9,0.01
+Chhattisgarh,2020-05-13,nowcast,1.7,1.2,2.2,1.4,1.8,0.01
 Chhattisgarh,2020-05-14,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
 Chhattisgarh,2020-05-15,nowcast,1.6,1.1,2,1.4,1.7,0.01
-Chhattisgarh,2020-05-16,nowcast,1.5,1.1,1.9,1.3,1.7,0.01
-Chhattisgarh,2020-05-17,nowcast,1.5,1.1,1.8,1.3,1.6,0.02
-Chhattisgarh,2020-05-18,nowcast,1.4,1,1.8,1.3,1.5,0.03
-Chhattisgarh,2020-05-19,nowcast,1.4,1,1.7,1.2,1.5,0.05
-Chhattisgarh,2020-05-20,nowcast,1.3,0.9,1.6,1.1,1.4,0.11
-Chhattisgarh,2020-05-21,forecast,1.3,0.7,2,1.1,1.6,0.17
-Chhattisgarh,2020-05-22,forecast,1.3,0.6,2.1,1,1.6,0.2
-Chhattisgarh,2020-05-23,forecast,1.4,0.5,2.2,1.1,1.7,0.22
-Chhattisgarh,2020-05-24,forecast,1.4,0.4,2.2,1.1,1.7,0.23
-Chhattisgarh,2020-05-25,forecast,1.4,0.4,2.3,1,1.8,0.25
-Chhattisgarh,2020-05-26,forecast,1.4,0.3,2.4,1,1.7,0.25
-Chhattisgarh,2020-05-27,forecast,1.4,0,2.2,0.9,1.8,0.26
-Chhattisgarh,2020-05-28,forecast,1.4,0,2.2,0.9,1.7,0.27
-Chhattisgarh,2020-05-29,forecast,1.4,0,2.3,0.9,1.8,0.29
-Chhattisgarh,2020-05-30,forecast,1.4,0,2.3,0.9,1.9,0.3
-Chhattisgarh,2020-05-31,forecast,1.4,0,2.3,1,1.9,0.3
-Chhattisgarh,2020-06-01,forecast,1.3,0,2.3,0.9,1.9,0.31
-Chhattisgarh,2020-06-02,forecast,1.4,0,2.4,0.9,1.9,0.31
-Chhattisgarh,2020-06-03,forecast,1.4,0,2.4,0.8,1.8,0.32
-Gujarat,2020-03-20,nowcast,1.5,0.9,2.2,1.3,1.8,0.06
-Gujarat,2020-03-21,nowcast,1.5,1,2.1,1.3,1.7,0.04
-Gujarat,2020-03-22,nowcast,1.6,1,2.1,1.3,1.7,0.03
-Gujarat,2020-03-23,nowcast,1.6,1.1,2.1,1.3,1.7,0.02
-Gujarat,2020-03-24,nowcast,1.6,1.1,2.2,1.3,1.7,0.01
+Chhattisgarh,2020-05-16,nowcast,1.5,1.1,1.9,1.3,1.7,0.02
+Chhattisgarh,2020-05-17,nowcast,1.5,1,1.8,1.3,1.6,0.03
+Chhattisgarh,2020-05-18,nowcast,1.4,1,1.8,1.2,1.5,0.04
+Chhattisgarh,2020-05-19,nowcast,1.3,1,1.7,1.2,1.4,0.07
+Chhattisgarh,2020-05-20,forecast,1.4,0.8,2.1,1.1,1.6,0.14
+Chhattisgarh,2020-05-21,forecast,1.4,0.6,2.1,1.1,1.7,0.17
+Chhattisgarh,2020-05-22,forecast,1.4,0.6,2.3,1.1,1.7,0.19
+Chhattisgarh,2020-05-23,forecast,1.4,0.6,2.4,1,1.7,0.2
+Chhattisgarh,2020-05-24,forecast,1.4,0.5,2.4,1,1.7,0.22
+Chhattisgarh,2020-05-25,forecast,1.4,0.4,2.5,1,1.7,0.23
+Chhattisgarh,2020-05-26,forecast,1.4,0.3,2.5,0.9,1.8,0.25
+Chhattisgarh,2020-05-27,forecast,1.4,0,2.3,1,1.8,0.25
+Chhattisgarh,2020-05-28,forecast,1.4,0,2.3,1,1.8,0.27
+Chhattisgarh,2020-05-29,forecast,1.4,0,2.4,1,1.8,0.26
+Chhattisgarh,2020-05-30,forecast,1.4,0,2.4,0.9,1.8,0.28
+Chhattisgarh,2020-05-31,forecast,1.4,0,2.4,0.8,1.8,0.28
+Chhattisgarh,2020-06-01,forecast,1.4,0,2.5,1,2,0.28
+Chhattisgarh,2020-06-02,forecast,1.4,0,2.4,0.9,1.9,0.28
+Gujarat,2020-03-20,nowcast,1.6,1,2.2,1.3,1.8,0.05
+Gujarat,2020-03-21,nowcast,1.5,1,2.2,1.3,1.7,0.05
+Gujarat,2020-03-22,nowcast,1.5,1,2.1,1.3,1.7,0.03
+Gujarat,2020-03-23,nowcast,1.6,1,2.1,1.4,1.8,0.03
+Gujarat,2020-03-24,nowcast,1.6,1.1,2.1,1.3,1.7,0.02
 Gujarat,2020-03-25,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
-Gujarat,2020-03-26,nowcast,1.6,1.2,2.1,1.5,1.8,0.01
-Gujarat,2020-03-27,nowcast,1.7,1.2,2.1,1.5,1.8,0
+Gujarat,2020-03-26,nowcast,1.6,1.2,2.1,1.4,1.8,0.01
+Gujarat,2020-03-27,nowcast,1.6,1.2,2.1,1.4,1.8,0
 Gujarat,2020-03-28,nowcast,1.7,1.3,2.1,1.5,1.8,0
 Gujarat,2020-03-29,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Gujarat,2020-03-30,nowcast,1.7,1.4,2.1,1.5,1.8,0
-Gujarat,2020-03-31,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Gujarat,2020-04-01,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Gujarat,2020-04-02,nowcast,1.7,1.4,2.1,1.5,1.8,0
+Gujarat,2020-03-30,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Gujarat,2020-03-31,nowcast,1.7,1.3,2.1,1.6,1.8,0
+Gujarat,2020-04-01,nowcast,1.7,1.4,2.1,1.5,1.8,0
+Gujarat,2020-04-02,nowcast,1.7,1.4,2,1.6,1.8,0
 Gujarat,2020-04-03,nowcast,1.7,1.4,2,1.5,1.8,0
 Gujarat,2020-04-04,nowcast,1.6,1.3,2,1.5,1.7,0
 Gujarat,2020-04-05,nowcast,1.6,1.3,1.9,1.5,1.7,0
 Gujarat,2020-04-06,nowcast,1.6,1.3,1.8,1.4,1.7,0
 Gujarat,2020-04-07,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Gujarat,2020-04-08,nowcast,1.5,1.2,1.7,1.4,1.6,0
-Gujarat,2020-04-09,nowcast,1.5,1.2,1.7,1.4,1.5,0
-Gujarat,2020-04-10,nowcast,1.4,1.2,1.7,1.4,1.5,0
+Gujarat,2020-04-08,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Gujarat,2020-04-09,nowcast,1.5,1.2,1.7,1.3,1.5,0
+Gujarat,2020-04-10,nowcast,1.4,1.2,1.6,1.4,1.5,0
 Gujarat,2020-04-11,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Gujarat,2020-04-12,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Gujarat,2020-04-13,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Gujarat,2020-04-13,nowcast,1.4,1.2,1.5,1.3,1.4,0
 Gujarat,2020-04-14,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Gujarat,2020-04-15,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Gujarat,2020-04-16,nowcast,1.2,1.1,1.4,1.1,1.3,0.01
+Gujarat,2020-04-15,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Gujarat,2020-04-16,nowcast,1.2,1.1,1.3,1.1,1.3,0.01
 Gujarat,2020-04-17,nowcast,1.2,1,1.3,1.1,1.2,0.02
 Gujarat,2020-04-18,nowcast,1.1,1,1.3,1.1,1.2,0.02
-Gujarat,2020-04-19,nowcast,1.1,1,1.3,1.1,1.2,0.03
+Gujarat,2020-04-19,nowcast,1.1,1,1.2,1.1,1.2,0.03
 Gujarat,2020-04-20,nowcast,1.1,1,1.2,1.1,1.2,0.02
 Gujarat,2020-04-21,nowcast,1.1,1,1.2,1.1,1.2,0.01
 Gujarat,2020-04-22,nowcast,1.1,1.1,1.2,1.1,1.2,0.01
@@ -290,562 +286,568 @@ Gujarat,2020-04-23,nowcast,1.1,1.1,1.2,1.1,1.2,0
 Gujarat,2020-04-24,nowcast,1.1,1.1,1.2,1.1,1.2,0
 Gujarat,2020-04-25,nowcast,1.2,1.1,1.3,1.1,1.2,0
 Gujarat,2020-04-26,nowcast,1.2,1.1,1.2,1.1,1.2,0
-Gujarat,2020-04-27,nowcast,1.1,1.1,1.2,1.1,1.2,0
+Gujarat,2020-04-27,nowcast,1.2,1.1,1.2,1.1,1.2,0.01
 Gujarat,2020-04-28,nowcast,1.1,1.1,1.2,1.1,1.2,0.01
 Gujarat,2020-04-29,nowcast,1.1,1,1.2,1.1,1.2,0.01
 Gujarat,2020-04-30,nowcast,1.1,1,1.2,1.1,1.1,0.02
 Gujarat,2020-05-01,nowcast,1.1,1,1.2,1.1,1.1,0.04
-Gujarat,2020-05-02,nowcast,1.1,1,1.2,1.1,1.1,0.05
-Gujarat,2020-05-03,nowcast,1.1,1,1.2,1,1.1,0.08
+Gujarat,2020-05-02,nowcast,1.1,1,1.2,1.1,1.1,0.06
+Gujarat,2020-05-03,nowcast,1.1,1,1.1,1,1.1,0.07
 Gujarat,2020-05-04,nowcast,1.1,1,1.1,1,1.1,0.1
 Gujarat,2020-05-05,nowcast,1.1,1,1.1,1,1.1,0.1
-Gujarat,2020-05-06,nowcast,1.1,1,1.1,1,1.1,0.1
+Gujarat,2020-05-06,nowcast,1.1,1,1.1,1,1.1,0.11
 Gujarat,2020-05-07,nowcast,1.1,1,1.1,1,1.1,0.1
-Gujarat,2020-05-08,nowcast,1.1,1,1.1,1,1.1,0.1
-Gujarat,2020-05-09,nowcast,1.1,1,1.1,1,1.1,0.08
+Gujarat,2020-05-08,nowcast,1.1,1,1.1,1,1.1,0.09
+Gujarat,2020-05-09,nowcast,1.1,1,1.1,1,1.1,0.09
 Gujarat,2020-05-10,nowcast,1.1,1,1.1,1,1.1,0.1
 Gujarat,2020-05-11,nowcast,1,1,1.1,1,1.1,0.11
-Gujarat,2020-05-12,nowcast,1,1,1.1,1,1.1,0.17
-Gujarat,2020-05-13,nowcast,1,0.9,1.1,1,1.1,0.32
-Gujarat,2020-05-14,nowcast,1,0.9,1.1,1,1,0.54
-Gujarat,2020-05-15,nowcast,1,0.9,1,1,1,0.7
-Gujarat,2020-05-16,nowcast,1,0.9,1,0.9,1,0.74
-Gujarat,2020-05-17,nowcast,1,0.9,1,1,1,0.72
-Gujarat,2020-05-18,nowcast,1,0.9,1.1,1,1,0.65
-Gujarat,2020-05-19,nowcast,1,0.9,1.1,1,1,0.47
-Gujarat,2020-05-20,nowcast,1,0.9,1.1,1,1,0.32
-Gujarat,2020-05-21,forecast,1,0.9,1.1,1,1.1,0.38
-Gujarat,2020-05-22,forecast,1,0.9,1.1,1,1.1,0.41
-Gujarat,2020-05-23,forecast,1,0.9,1.1,1,1.1,0.42
-Gujarat,2020-05-24,forecast,1,0.9,1.2,1,1.1,0.44
-Gujarat,2020-05-25,forecast,1,0.9,1.2,0.9,1.1,0.45
-Gujarat,2020-05-26,forecast,1,0.9,1.2,1,1.1,0.46
-Gujarat,2020-05-27,forecast,1,0.8,1.2,0.9,1.1,0.47
-Gujarat,2020-05-28,forecast,1,0.8,1.2,0.9,1.1,0.48
-Gujarat,2020-05-29,forecast,1,0.8,1.2,0.9,1.1,0.49
-Gujarat,2020-05-30,forecast,1,0.8,1.2,0.9,1.1,0.48
-Gujarat,2020-05-31,forecast,1,0.8,1.2,0.9,1.1,0.48
-Gujarat,2020-06-01,forecast,1,0.8,1.2,0.9,1.1,0.49
-Gujarat,2020-06-02,forecast,1,0.8,1.2,0.9,1.1,0.49
-Gujarat,2020-06-03,forecast,1,0.8,1.2,0.9,1.1,0.5
-Haryana,2020-03-14,nowcast,1.2,0.4,2.1,0.9,1.5,0.31
-Haryana,2020-03-15,nowcast,1.2,0.4,2.2,0.8,1.5,0.31
-Haryana,2020-03-16,nowcast,1.3,0.5,2.2,0.9,1.5,0.27
-Haryana,2020-03-17,nowcast,1.3,0.5,2.2,0.9,1.5,0.25
-Haryana,2020-03-18,nowcast,1.3,0.6,2.3,1,1.6,0.2
-Haryana,2020-03-19,nowcast,1.4,0.6,2.3,1,1.6,0.19
-Haryana,2020-03-20,nowcast,1.4,0.7,2.3,1,1.6,0.18
-Haryana,2020-03-21,nowcast,1.4,0.7,2.3,1,1.6,0.13
-Haryana,2020-03-22,nowcast,1.4,0.7,2.2,1.1,1.6,0.12
-Haryana,2020-03-23,nowcast,1.5,0.7,2.3,1.1,1.6,0.1
-Haryana,2020-03-24,nowcast,1.5,0.8,2.3,1.2,1.7,0.07
-Haryana,2020-03-25,nowcast,1.5,0.9,2.2,1.2,1.7,0.06
+Gujarat,2020-05-12,nowcast,1,1,1.1,1,1.1,0.18
+Gujarat,2020-05-13,nowcast,1,0.9,1.1,1,1,0.34
+Gujarat,2020-05-14,nowcast,1,0.9,1.1,1,1,0.56
+Gujarat,2020-05-15,nowcast,1,0.9,1,0.9,1,0.74
+Gujarat,2020-05-16,nowcast,1,0.9,1,0.9,1,0.81
+Gujarat,2020-05-17,nowcast,1,0.9,1,1,1,0.79
+Gujarat,2020-05-18,nowcast,1,0.9,1,1,1,0.71
+Gujarat,2020-05-19,nowcast,1,0.9,1.1,1,1,0.62
+Gujarat,2020-05-20,forecast,1,0.9,1.1,0.9,1,0.61
+Gujarat,2020-05-21,forecast,1,0.9,1.1,0.9,1,0.62
+Gujarat,2020-05-22,forecast,1,0.9,1.1,0.9,1,0.61
+Gujarat,2020-05-23,forecast,1,0.8,1.1,0.9,1,0.62
+Gujarat,2020-05-24,forecast,1,0.8,1.1,0.9,1,0.62
+Gujarat,2020-05-25,forecast,1,0.8,1.1,0.9,1,0.62
+Gujarat,2020-05-26,forecast,1,0.8,1.1,0.9,1,0.61
+Gujarat,2020-05-27,forecast,1,0.8,1.1,0.9,1,0.62
+Gujarat,2020-05-28,forecast,1,0.8,1.1,0.9,1,0.62
+Gujarat,2020-05-29,forecast,1,0.8,1.2,0.9,1,0.63
+Gujarat,2020-05-30,forecast,1,0.8,1.2,0.9,1,0.63
+Gujarat,2020-05-31,forecast,1,0.8,1.2,0.9,1,0.63
+Gujarat,2020-06-01,forecast,1,0.8,1.2,0.9,1,0.63
+Gujarat,2020-06-02,forecast,1,0.7,1.2,0.9,1,0.63
+Haryana,2020-03-14,nowcast,1.2,0.4,2.1,0.8,1.5,0.32
+Haryana,2020-03-15,nowcast,1.2,0.3,2.1,0.9,1.5,0.31
+Haryana,2020-03-16,nowcast,1.2,0.4,2.2,0.8,1.4,0.3
+Haryana,2020-03-17,nowcast,1.3,0.5,2.3,0.8,1.5,0.26
+Haryana,2020-03-18,nowcast,1.3,0.5,2.2,0.9,1.5,0.23
+Haryana,2020-03-19,nowcast,1.4,0.6,2.3,0.9,1.6,0.19
+Haryana,2020-03-20,nowcast,1.4,0.7,2.4,1,1.6,0.18
+Haryana,2020-03-21,nowcast,1.4,0.7,2.3,1,1.6,0.15
+Haryana,2020-03-22,nowcast,1.4,0.7,2.3,1.1,1.7,0.14
+Haryana,2020-03-23,nowcast,1.5,0.7,2.3,1.1,1.7,0.11
+Haryana,2020-03-24,nowcast,1.5,0.9,2.3,1.2,1.7,0.08
+Haryana,2020-03-25,nowcast,1.5,0.8,2.3,1.2,1.7,0.08
 Haryana,2020-03-26,nowcast,1.5,0.9,2.2,1.2,1.7,0.06
-Haryana,2020-03-27,nowcast,1.5,0.9,2.1,1.2,1.7,0.06
-Haryana,2020-03-28,nowcast,1.5,0.9,2,1.2,1.7,0.06
-Haryana,2020-03-29,nowcast,1.4,0.9,2,1.2,1.6,0.08
-Haryana,2020-03-30,nowcast,1.4,0.9,1.9,1.1,1.5,0.11
-Haryana,2020-03-31,nowcast,1.3,0.8,1.7,1.1,1.4,0.17
-Haryana,2020-04-01,nowcast,1.2,0.7,1.6,1,1.3,0.26
-Haryana,2020-04-02,nowcast,1.1,0.7,1.5,0.9,1.3,0.35
-Haryana,2020-04-03,nowcast,1,0.6,1.4,0.9,1.2,0.48
-Haryana,2020-04-04,nowcast,0.9,0.5,1.3,0.8,1.1,0.59
-Haryana,2020-04-05,nowcast,0.9,0.5,1.2,0.8,1.1,0.7
-Haryana,2020-04-06,nowcast,0.8,0.5,1.2,0.7,1,0.76
+Haryana,2020-03-27,nowcast,1.5,1,2.2,1.2,1.7,0.06
+Haryana,2020-03-28,nowcast,1.5,0.9,2,1.2,1.6,0.07
+Haryana,2020-03-29,nowcast,1.4,0.9,2,1.2,1.6,0.07
+Haryana,2020-03-30,nowcast,1.3,0.8,1.9,1.1,1.5,0.12
+Haryana,2020-03-31,nowcast,1.3,0.8,1.8,1.1,1.5,0.15
+Haryana,2020-04-01,nowcast,1.2,0.7,1.7,1,1.3,0.23
+Haryana,2020-04-02,nowcast,1.1,0.7,1.6,0.9,1.2,0.34
+Haryana,2020-04-03,nowcast,1,0.6,1.4,0.9,1.2,0.47
+Haryana,2020-04-04,nowcast,1,0.6,1.3,0.8,1.1,0.59
+Haryana,2020-04-05,nowcast,0.9,0.5,1.2,0.8,1.1,0.69
+Haryana,2020-04-06,nowcast,0.9,0.5,1.2,0.7,1,0.77
 Haryana,2020-04-07,nowcast,0.9,0.5,1.2,0.7,1,0.78
-Haryana,2020-04-08,nowcast,0.9,0.5,1.2,0.7,1,0.75
-Haryana,2020-04-09,nowcast,0.9,0.5,1.3,0.7,1,0.67
-Haryana,2020-04-10,nowcast,0.9,0.6,1.4,0.7,1,0.61
-Haryana,2020-04-11,nowcast,1,0.6,1.4,0.8,1.1,0.5
-Haryana,2020-04-12,nowcast,1.1,0.7,1.6,0.8,1.2,0.41
-Haryana,2020-04-13,nowcast,1.1,0.7,1.6,0.9,1.2,0.34
-Haryana,2020-04-14,nowcast,1.1,0.7,1.6,0.9,1.2,0.29
-Haryana,2020-04-15,nowcast,1.2,0.8,1.7,1,1.3,0.23
-Haryana,2020-04-16,nowcast,1.2,0.8,1.7,1,1.3,0.19
-Haryana,2020-04-17,nowcast,1.2,0.9,1.7,1.1,1.4,0.15
-Haryana,2020-04-18,nowcast,1.3,0.9,1.7,1.1,1.4,0.12
-Haryana,2020-04-19,nowcast,1.3,0.9,1.7,1.1,1.5,0.08
-Haryana,2020-04-20,nowcast,1.4,1,1.8,1.2,1.5,0.04
+Haryana,2020-04-08,nowcast,0.9,0.5,1.2,0.7,1,0.74
+Haryana,2020-04-09,nowcast,0.9,0.6,1.3,0.7,1,0.67
+Haryana,2020-04-10,nowcast,0.9,0.6,1.4,0.7,1,0.6
+Haryana,2020-04-11,nowcast,1,0.6,1.5,0.8,1.1,0.53
+Haryana,2020-04-12,nowcast,1,0.6,1.5,0.8,1.1,0.42
+Haryana,2020-04-13,nowcast,1.1,0.7,1.6,0.9,1.2,0.35
+Haryana,2020-04-14,nowcast,1.1,0.7,1.6,0.9,1.2,0.31
+Haryana,2020-04-15,nowcast,1.2,0.7,1.7,1,1.3,0.23
+Haryana,2020-04-16,nowcast,1.2,0.8,1.7,1,1.3,0.18
+Haryana,2020-04-17,nowcast,1.2,0.8,1.7,1.1,1.4,0.15
+Haryana,2020-04-18,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
+Haryana,2020-04-19,nowcast,1.3,0.9,1.8,1.1,1.5,0.08
+Haryana,2020-04-20,nowcast,1.4,1,1.8,1.2,1.5,0.05
 Haryana,2020-04-21,nowcast,1.4,1,1.8,1.2,1.5,0.03
-Haryana,2020-04-22,nowcast,1.4,1,1.9,1.2,1.6,0.03
-Haryana,2020-04-23,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
-Haryana,2020-04-24,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
+Haryana,2020-04-22,nowcast,1.4,1,1.8,1.2,1.5,0.03
+Haryana,2020-04-23,nowcast,1.4,1,1.8,1.2,1.5,0.02
+Haryana,2020-04-24,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
 Haryana,2020-04-25,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
-Haryana,2020-04-26,nowcast,1.4,1.1,1.8,1.2,1.5,0.02
-Haryana,2020-04-27,nowcast,1.3,1,1.7,1.2,1.5,0.04
+Haryana,2020-04-26,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
+Haryana,2020-04-27,nowcast,1.4,1,1.7,1.2,1.5,0.03
 Haryana,2020-04-28,nowcast,1.3,1,1.6,1.2,1.4,0.06
-Haryana,2020-04-29,nowcast,1.2,0.9,1.5,1.1,1.3,0.1
-Haryana,2020-04-30,nowcast,1.2,0.9,1.5,1,1.3,0.19
-Haryana,2020-05-01,nowcast,1.1,0.8,1.4,1,1.2,0.3
-Haryana,2020-05-02,nowcast,1,0.8,1.3,0.9,1.1,0.43
-Haryana,2020-05-03,nowcast,1,0.8,1.3,0.9,1.1,0.48
-Haryana,2020-05-04,nowcast,1,0.8,1.2,0.9,1.1,0.53
-Haryana,2020-05-05,nowcast,1,0.8,1.2,0.9,1.1,0.54
-Haryana,2020-05-06,nowcast,1,0.8,1.2,0.9,1.1,0.51
-Haryana,2020-05-07,nowcast,1,0.8,1.2,0.9,1.1,0.45
-Haryana,2020-05-08,nowcast,1,0.8,1.3,0.9,1.1,0.4
-Haryana,2020-05-09,nowcast,1,0.8,1.3,1,1.1,0.36
-Haryana,2020-05-10,nowcast,1.1,0.9,1.3,1,1.1,0.27
-Haryana,2020-05-11,nowcast,1.1,0.9,1.3,1,1.2,0.21
-Haryana,2020-05-12,nowcast,1.1,0.9,1.4,1,1.2,0.13
-Haryana,2020-05-13,nowcast,1.2,0.9,1.4,1.1,1.2,0.08
-Haryana,2020-05-14,nowcast,1.2,1,1.5,1.1,1.3,0.05
-Haryana,2020-05-15,nowcast,1.2,1,1.5,1.1,1.3,0.02
-Haryana,2020-05-16,nowcast,1.3,1,1.5,1.2,1.3,0.01
-Haryana,2020-05-17,nowcast,1.3,1.1,1.6,1.2,1.3,0.01
-Haryana,2020-05-18,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Haryana,2020-05-19,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
-Haryana,2020-05-20,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Haryana,2020-05-21,forecast,1.3,1,1.6,1.1,1.4,0.04
-Haryana,2020-05-22,forecast,1.3,1,1.7,1.2,1.5,0.06
-Haryana,2020-05-23,forecast,1.3,0.9,1.7,1.1,1.4,0.08
-Haryana,2020-05-24,forecast,1.3,0.9,1.7,1.1,1.4,0.1
-Haryana,2020-05-25,forecast,1.3,0.8,1.8,1.1,1.5,0.12
-Haryana,2020-05-26,forecast,1.3,0.8,1.8,1.1,1.5,0.12
-Haryana,2020-05-27,forecast,1.3,0.8,1.8,1.1,1.5,0.14
-Haryana,2020-05-28,forecast,1.3,0.8,1.8,1.1,1.5,0.14
-Haryana,2020-05-29,forecast,1.3,0.8,1.9,1.1,1.5,0.16
-Haryana,2020-05-30,forecast,1.3,0.7,1.9,1.1,1.5,0.17
-Haryana,2020-05-31,forecast,1.3,0.7,2,1,1.5,0.17
-Haryana,2020-06-01,forecast,1.3,0.7,1.9,1.1,1.6,0.19
-Haryana,2020-06-02,forecast,1.3,0.7,2,1.1,1.6,0.19
-Haryana,2020-06-03,forecast,1.3,0.7,2,1.1,1.6,0.19
-Himachal Pradesh,2020-04-04,nowcast,0.9,0.2,1.6,0.6,1.1,0.59
-Himachal Pradesh,2020-04-05,nowcast,0.8,0.1,1.6,0.5,1,0.66
-Himachal Pradesh,2020-04-06,nowcast,0.8,0.1,1.4,0.4,0.9,0.72
-Himachal Pradesh,2020-04-07,nowcast,0.7,0.1,1.4,0.4,0.9,0.73
-Himachal Pradesh,2020-04-08,nowcast,0.7,0.1,1.4,0.4,0.9,0.75
-Himachal Pradesh,2020-04-09,nowcast,0.7,0.1,1.5,0.3,0.9,0.75
-Himachal Pradesh,2020-04-10,nowcast,0.7,0,1.5,0.3,0.8,0.75
-Himachal Pradesh,2020-04-11,nowcast,0.7,0,1.5,0.3,0.8,0.75
-Himachal Pradesh,2020-04-12,nowcast,0.7,0,1.7,0.2,0.8,0.71
-Himachal Pradesh,2020-04-13,nowcast,0.7,0,1.6,0.2,0.8,0.73
+Haryana,2020-04-29,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
+Haryana,2020-04-30,nowcast,1.2,0.9,1.5,1.1,1.3,0.17
+Haryana,2020-05-01,nowcast,1.1,0.8,1.4,1,1.2,0.28
+Haryana,2020-05-02,nowcast,1,0.8,1.3,1,1.2,0.38
+Haryana,2020-05-03,nowcast,1,0.8,1.3,0.9,1.1,0.46
+Haryana,2020-05-04,nowcast,1,0.8,1.2,0.9,1.1,0.49
+Haryana,2020-05-05,nowcast,1,0.8,1.2,0.9,1.1,0.49
+Haryana,2020-05-06,nowcast,1,0.8,1.2,0.9,1.1,0.45
+Haryana,2020-05-07,nowcast,1,0.8,1.3,0.9,1.1,0.41
+Haryana,2020-05-08,nowcast,1.1,0.8,1.3,0.9,1.1,0.32
+Haryana,2020-05-09,nowcast,1.1,0.8,1.3,1,1.1,0.28
+Haryana,2020-05-10,nowcast,1.1,0.9,1.4,1,1.2,0.2
+Haryana,2020-05-11,nowcast,1.2,0.9,1.4,1,1.2,0.12
+Haryana,2020-05-12,nowcast,1.2,1,1.4,1.1,1.2,0.07
+Haryana,2020-05-13,nowcast,1.2,1,1.5,1.1,1.3,0.04
+Haryana,2020-05-14,nowcast,1.3,1,1.5,1.1,1.3,0.02
+Haryana,2020-05-15,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Haryana,2020-05-16,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Haryana,2020-05-17,nowcast,1.4,1.1,1.6,1.2,1.4,0
+Haryana,2020-05-18,nowcast,1.4,1.2,1.6,1.2,1.4,0
+Haryana,2020-05-19,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Haryana,2020-05-20,forecast,1.4,1.1,1.7,1.3,1.5,0.02
+Haryana,2020-05-21,forecast,1.4,1,1.8,1.2,1.5,0.03
+Haryana,2020-05-22,forecast,1.4,1,1.8,1.2,1.5,0.05
+Haryana,2020-05-23,forecast,1.4,1,1.9,1.2,1.5,0.06
+Haryana,2020-05-24,forecast,1.4,0.9,1.9,1.2,1.6,0.09
+Haryana,2020-05-25,forecast,1.4,0.9,1.9,1.2,1.6,0.09
+Haryana,2020-05-26,forecast,1.4,0.9,2,1.2,1.6,0.11
+Haryana,2020-05-27,forecast,1.4,0.9,2,1.2,1.6,0.11
+Haryana,2020-05-28,forecast,1.4,0.8,2.1,1.1,1.6,0.12
+Haryana,2020-05-29,forecast,1.4,0.8,2.1,1.1,1.6,0.13
+Haryana,2020-05-30,forecast,1.4,0.8,2.1,1.1,1.6,0.14
+Haryana,2020-05-31,forecast,1.4,0.8,2.1,1.1,1.7,0.14
+Haryana,2020-06-01,forecast,1.4,0.7,2.1,1.1,1.6,0.16
+Haryana,2020-06-02,forecast,1.4,0.7,2.2,1.2,1.7,0.16
+Himachal Pradesh,2020-04-04,nowcast,0.9,0.1,1.6,0.6,1.1,0.62
+Himachal Pradesh,2020-04-05,nowcast,0.8,0.1,1.5,0.4,1,0.67
+Himachal Pradesh,2020-04-06,nowcast,0.7,0.1,1.4,0.3,0.9,0.75
+Himachal Pradesh,2020-04-07,nowcast,0.7,0.1,1.4,0.4,0.9,0.74
+Himachal Pradesh,2020-04-08,nowcast,0.7,0,1.4,0.3,0.8,0.74
+Himachal Pradesh,2020-04-09,nowcast,0.7,0.1,1.5,0.2,0.8,0.74
+Himachal Pradesh,2020-04-10,nowcast,0.7,0,1.5,0.3,0.8,0.74
+Himachal Pradesh,2020-04-11,nowcast,0.7,0,1.5,0.3,0.8,0.72
+Himachal Pradesh,2020-04-12,nowcast,0.7,0,1.6,0.2,0.8,0.71
+Himachal Pradesh,2020-04-13,nowcast,0.7,0,1.6,0.2,0.8,0.71
 Himachal Pradesh,2020-04-14,nowcast,0.7,0,1.6,0.2,0.8,0.72
-Himachal Pradesh,2020-04-15,nowcast,0.7,0,1.6,0.2,0.8,0.71
-Himachal Pradesh,2020-04-16,nowcast,0.7,0,1.7,0.2,0.8,0.7
-Himachal Pradesh,2020-04-17,nowcast,0.7,0,1.9,0.2,0.8,0.67
-Himachal Pradesh,2020-04-18,nowcast,0.8,0,2.1,0.2,0.9,0.63
-Himachal Pradesh,2020-04-19,nowcast,0.8,0,2.3,0.2,1,0.58
+Himachal Pradesh,2020-04-15,nowcast,0.7,0,1.7,0.2,0.8,0.7
+Himachal Pradesh,2020-04-16,nowcast,0.7,0,1.8,0.2,0.9,0.68
+Himachal Pradesh,2020-04-17,nowcast,0.8,0,2.1,0.2,0.8,0.64
+Himachal Pradesh,2020-04-18,nowcast,0.8,0,2.2,0.1,0.9,0.6
+Himachal Pradesh,2020-04-19,nowcast,0.9,0,2.3,0.2,1,0.57
 Himachal Pradesh,2020-04-20,nowcast,1,0,2.6,0.2,1.1,0.51
-Himachal Pradesh,2020-04-21,nowcast,1.1,0,2.8,0.2,1.2,0.46
-Himachal Pradesh,2020-04-22,nowcast,1.3,0,3.2,0.4,1.5,0.37
-Himachal Pradesh,2020-04-23,nowcast,1.5,0.1,3.3,0.5,1.7,0.29
-Himachal Pradesh,2020-04-24,nowcast,1.6,0.1,3.5,0.7,1.9,0.25
-Himachal Pradesh,2020-04-25,nowcast,1.7,0.2,3.6,0.8,2,0.2
-Himachal Pradesh,2020-04-26,nowcast,1.8,0.3,3.5,0.9,2,0.16
-Himachal Pradesh,2020-04-27,nowcast,1.8,0.4,3.4,1,2.1,0.14
-Himachal Pradesh,2020-04-28,nowcast,1.8,0.5,3.3,1.1,2.1,0.12
-Himachal Pradesh,2020-04-29,nowcast,1.8,0.6,3.2,1.1,2.1,0.1
-Himachal Pradesh,2020-04-30,nowcast,1.8,0.6,3.1,1.3,2.2,0.09
-Himachal Pradesh,2020-05-01,nowcast,1.7,0.6,2.9,1.2,2,0.1
-Himachal Pradesh,2020-05-02,nowcast,1.7,0.7,2.9,1.2,2,0.09
-Himachal Pradesh,2020-05-03,nowcast,1.6,0.8,2.7,1.2,1.9,0.09
-Himachal Pradesh,2020-05-04,nowcast,1.6,0.8,2.5,1.2,1.9,0.09
+Himachal Pradesh,2020-04-21,nowcast,1.1,0,2.9,0.3,1.2,0.46
+Himachal Pradesh,2020-04-22,nowcast,1.3,0,3.1,0.4,1.5,0.38
+Himachal Pradesh,2020-04-23,nowcast,1.4,0,3.4,0.5,1.7,0.31
+Himachal Pradesh,2020-04-24,nowcast,1.6,0.1,3.6,0.7,1.9,0.25
+Himachal Pradesh,2020-04-25,nowcast,1.7,0.2,3.7,0.7,2,0.19
+Himachal Pradesh,2020-04-26,nowcast,1.8,0.3,3.6,1,2.2,0.17
+Himachal Pradesh,2020-04-27,nowcast,1.8,0.4,3.5,1.1,2.1,0.13
+Himachal Pradesh,2020-04-28,nowcast,1.8,0.5,3.5,1.2,2.2,0.12
+Himachal Pradesh,2020-04-29,nowcast,1.8,0.5,3.3,1.2,2.2,0.1
+Himachal Pradesh,2020-04-30,nowcast,1.8,0.7,3.1,1.2,2.1,0.09
+Himachal Pradesh,2020-05-01,nowcast,1.7,0.8,3,1.1,2,0.09
+Himachal Pradesh,2020-05-02,nowcast,1.7,0.7,2.8,1.3,2,0.09
+Himachal Pradesh,2020-05-03,nowcast,1.6,0.7,2.6,1.2,1.9,0.09
+Himachal Pradesh,2020-05-04,nowcast,1.6,0.8,2.5,1.2,1.8,0.08
 Himachal Pradesh,2020-05-05,nowcast,1.6,0.8,2.4,1.2,1.8,0.09
-Himachal Pradesh,2020-05-06,nowcast,1.5,0.8,2.4,1.2,1.8,0.09
-Himachal Pradesh,2020-05-07,nowcast,1.5,0.8,2.2,1.2,1.7,0.08
-Himachal Pradesh,2020-05-08,nowcast,1.5,0.9,2.1,1.2,1.7,0.07
-Himachal Pradesh,2020-05-09,nowcast,1.5,0.9,2.1,1.2,1.7,0.05
-Himachal Pradesh,2020-05-10,nowcast,1.5,0.9,2.1,1.3,1.7,0.05
-Himachal Pradesh,2020-05-11,nowcast,1.5,0.9,2.1,1.3,1.7,0.04
-Himachal Pradesh,2020-05-12,nowcast,1.5,1,2.1,1.3,1.7,0.04
-Himachal Pradesh,2020-05-13,nowcast,1.5,1,2,1.3,1.7,0.03
-Himachal Pradesh,2020-05-14,nowcast,1.5,1,2,1.3,1.7,0.03
-Himachal Pradesh,2020-05-15,nowcast,1.5,1,2,1.3,1.6,0.03
-Himachal Pradesh,2020-05-16,nowcast,1.4,1,1.9,1.2,1.6,0.04
-Himachal Pradesh,2020-05-17,nowcast,1.4,0.9,1.8,1.2,1.6,0.06
-Himachal Pradesh,2020-05-18,nowcast,1.3,0.9,1.7,1.2,1.5,0.09
-Himachal Pradesh,2020-05-19,nowcast,1.3,0.9,1.7,1.1,1.4,0.13
-Himachal Pradesh,2020-05-20,nowcast,1.2,0.8,1.7,1.1,1.4,0.17
-Jammu and Kashmir,2020-03-25,nowcast,1.4,0.9,2,1.2,1.6,0.09
-Jammu and Kashmir,2020-03-26,nowcast,1.4,0.9,1.9,1.2,1.6,0.09
-Jammu and Kashmir,2020-03-27,nowcast,1.4,0.9,1.8,1.1,1.5,0.09
-Jammu and Kashmir,2020-03-28,nowcast,1.3,0.9,1.8,1.1,1.5,0.1
-Jammu and Kashmir,2020-03-29,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
-Jammu and Kashmir,2020-03-30,nowcast,1.3,0.9,1.7,1.1,1.4,0.08
+Himachal Pradesh,2020-05-06,nowcast,1.5,0.8,2.3,1.2,1.7,0.09
+Himachal Pradesh,2020-05-07,nowcast,1.5,0.9,2.3,1.2,1.8,0.08
+Himachal Pradesh,2020-05-08,nowcast,1.5,0.8,2.1,1.2,1.7,0.08
+Himachal Pradesh,2020-05-09,nowcast,1.5,0.9,2.2,1.2,1.7,0.07
+Himachal Pradesh,2020-05-10,nowcast,1.5,0.9,2.2,1.2,1.7,0.05
+Himachal Pradesh,2020-05-11,nowcast,1.5,1,2.1,1.3,1.7,0.04
+Himachal Pradesh,2020-05-12,nowcast,1.5,1,2.1,1.3,1.7,0.03
+Himachal Pradesh,2020-05-13,nowcast,1.5,1,2,1.3,1.6,0.03
+Himachal Pradesh,2020-05-14,nowcast,1.5,1,2,1.2,1.6,0.03
+Himachal Pradesh,2020-05-15,nowcast,1.4,1,1.9,1.3,1.6,0.03
+Himachal Pradesh,2020-05-16,nowcast,1.4,1,1.9,1.2,1.6,0.06
+Himachal Pradesh,2020-05-17,nowcast,1.3,1,1.8,1.2,1.5,0.07
+Himachal Pradesh,2020-05-18,nowcast,1.3,0.9,1.7,1.2,1.5,0.12
+Himachal Pradesh,2020-05-19,nowcast,1.2,0.8,1.6,1.1,1.4,0.16
+Jammu and Kashmir,2020-03-25,nowcast,1.4,0.9,2,1.2,1.6,0.08
+Jammu and Kashmir,2020-03-26,nowcast,1.4,0.9,1.9,1.2,1.5,0.08
+Jammu and Kashmir,2020-03-27,nowcast,1.4,0.9,1.9,1.1,1.5,0.08
+Jammu and Kashmir,2020-03-28,nowcast,1.3,0.9,1.8,1.2,1.5,0.09
+Jammu and Kashmir,2020-03-29,nowcast,1.3,0.9,1.8,1.2,1.5,0.09
+Jammu and Kashmir,2020-03-30,nowcast,1.3,0.9,1.8,1.1,1.4,0.1
 Jammu and Kashmir,2020-03-31,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
-Jammu and Kashmir,2020-04-01,nowcast,1.3,0.9,1.6,1.1,1.4,0.1
-Jammu and Kashmir,2020-04-02,nowcast,1.2,0.9,1.6,1.1,1.4,0.12
-Jammu and Kashmir,2020-04-03,nowcast,1.2,0.9,1.6,1.1,1.3,0.12
-Jammu and Kashmir,2020-04-04,nowcast,1.2,0.8,1.5,1,1.3,0.17
-Jammu and Kashmir,2020-04-05,nowcast,1.2,0.8,1.5,1,1.3,0.2
-Jammu and Kashmir,2020-04-06,nowcast,1.1,0.8,1.4,1,1.2,0.3
-Jammu and Kashmir,2020-04-07,nowcast,1.1,0.7,1.4,0.9,1.2,0.35
+Jammu and Kashmir,2020-04-01,nowcast,1.3,0.9,1.7,1.1,1.4,0.1
+Jammu and Kashmir,2020-04-02,nowcast,1.3,0.9,1.7,1.1,1.4,0.12
+Jammu and Kashmir,2020-04-03,nowcast,1.2,0.9,1.6,1.1,1.4,0.13
+Jammu and Kashmir,2020-04-04,nowcast,1.2,0.8,1.5,1.1,1.3,0.17
+Jammu and Kashmir,2020-04-05,nowcast,1.2,0.8,1.5,1,1.3,0.21
+Jammu and Kashmir,2020-04-06,nowcast,1.1,0.7,1.4,1,1.2,0.3
+Jammu and Kashmir,2020-04-07,nowcast,1.1,0.7,1.4,1,1.2,0.36
 Jammu and Kashmir,2020-04-08,nowcast,1,0.7,1.3,0.9,1.2,0.41
-Jammu and Kashmir,2020-04-09,nowcast,1,0.7,1.3,0.9,1.1,0.46
-Jammu and Kashmir,2020-04-10,nowcast,1,0.8,1.3,0.9,1.1,0.46
-Jammu and Kashmir,2020-04-11,nowcast,1,0.7,1.3,0.9,1.1,0.45
-Jammu and Kashmir,2020-04-12,nowcast,1,0.8,1.3,0.9,1.1,0.4
-Jammu and Kashmir,2020-04-13,nowcast,1.1,0.8,1.4,0.9,1.2,0.34
-Jammu and Kashmir,2020-04-14,nowcast,1.1,0.8,1.4,0.9,1.2,0.3
+Jammu and Kashmir,2020-04-09,nowcast,1,0.7,1.3,0.9,1.2,0.43
+Jammu and Kashmir,2020-04-10,nowcast,1,0.7,1.3,0.9,1.1,0.47
+Jammu and Kashmir,2020-04-11,nowcast,1,0.7,1.3,0.9,1.1,0.44
+Jammu and Kashmir,2020-04-12,nowcast,1,0.8,1.3,0.9,1.1,0.41
+Jammu and Kashmir,2020-04-13,nowcast,1.1,0.8,1.4,0.9,1.2,0.36
+Jammu and Kashmir,2020-04-14,nowcast,1.1,0.8,1.4,1,1.2,0.28
 Jammu and Kashmir,2020-04-15,nowcast,1.1,0.8,1.4,1,1.2,0.25
-Jammu and Kashmir,2020-04-16,nowcast,1.1,0.8,1.4,1,1.2,0.19
+Jammu and Kashmir,2020-04-16,nowcast,1.1,0.8,1.5,1,1.2,0.21
 Jammu and Kashmir,2020-04-17,nowcast,1.1,0.9,1.5,1,1.2,0.17
-Jammu and Kashmir,2020-04-18,nowcast,1.1,0.9,1.5,1,1.2,0.16
-Jammu and Kashmir,2020-04-19,nowcast,1.1,0.9,1.5,1,1.2,0.17
-Jammu and Kashmir,2020-04-20,nowcast,1.1,0.9,1.4,1,1.2,0.18
-Jammu and Kashmir,2020-04-21,nowcast,1.1,0.8,1.4,1,1.2,0.21
-Jammu and Kashmir,2020-04-22,nowcast,1.1,0.8,1.3,1,1.2,0.25
+Jammu and Kashmir,2020-04-18,nowcast,1.2,0.9,1.5,1,1.3,0.16
+Jammu and Kashmir,2020-04-19,nowcast,1.2,0.9,1.4,1,1.2,0.16
+Jammu and Kashmir,2020-04-20,nowcast,1.1,0.8,1.4,1,1.2,0.18
+Jammu and Kashmir,2020-04-21,nowcast,1.1,0.8,1.4,1,1.2,0.22
+Jammu and Kashmir,2020-04-22,nowcast,1.1,0.8,1.4,1,1.2,0.24
 Jammu and Kashmir,2020-04-23,nowcast,1.1,0.8,1.3,1,1.2,0.26
-Jammu and Kashmir,2020-04-24,nowcast,1.1,0.8,1.3,1,1.2,0.28
+Jammu and Kashmir,2020-04-24,nowcast,1.1,0.8,1.3,1,1.2,0.3
 Jammu and Kashmir,2020-04-25,nowcast,1.1,0.8,1.3,1,1.2,0.29
-Jammu and Kashmir,2020-04-26,nowcast,1.1,0.8,1.3,1,1.2,0.27
-Jammu and Kashmir,2020-04-27,nowcast,1.1,0.9,1.3,1,1.2,0.26
-Jammu and Kashmir,2020-04-28,nowcast,1.1,0.8,1.3,1,1.2,0.26
-Jammu and Kashmir,2020-04-29,nowcast,1.1,0.9,1.3,1,1.2,0.24
-Jammu and Kashmir,2020-04-30,nowcast,1.1,0.9,1.4,1,1.2,0.2
+Jammu and Kashmir,2020-04-26,nowcast,1.1,0.8,1.4,1,1.2,0.28
+Jammu and Kashmir,2020-04-27,nowcast,1.1,0.8,1.3,1,1.2,0.26
+Jammu and Kashmir,2020-04-28,nowcast,1.1,0.8,1.4,1,1.2,0.26
+Jammu and Kashmir,2020-04-29,nowcast,1.1,0.9,1.4,1,1.2,0.22
+Jammu and Kashmir,2020-04-30,nowcast,1.1,0.9,1.3,1,1.2,0.19
 Jammu and Kashmir,2020-05-01,nowcast,1.1,0.9,1.4,1,1.2,0.16
-Jammu and Kashmir,2020-05-02,nowcast,1.1,0.9,1.4,1,1.2,0.12
-Jammu and Kashmir,2020-05-03,nowcast,1.2,0.9,1.4,1.1,1.2,0.09
-Jammu and Kashmir,2020-05-04,nowcast,1.2,1,1.5,1.1,1.3,0.06
-Jammu and Kashmir,2020-05-05,nowcast,1.2,1,1.5,1.1,1.3,0.03
-Jammu and Kashmir,2020-05-06,nowcast,1.2,1,1.5,1.1,1.3,0.02
-Jammu and Kashmir,2020-05-07,nowcast,1.3,1,1.5,1.2,1.3,0.02
+Jammu and Kashmir,2020-05-02,nowcast,1.2,0.9,1.4,1,1.2,0.12
+Jammu and Kashmir,2020-05-03,nowcast,1.2,0.9,1.4,1,1.2,0.08
+Jammu and Kashmir,2020-05-04,nowcast,1.2,1,1.5,1.1,1.3,0.05
+Jammu and Kashmir,2020-05-05,nowcast,1.2,1,1.5,1.1,1.3,0.04
+Jammu and Kashmir,2020-05-06,nowcast,1.3,1,1.5,1.1,1.3,0.02
+Jammu and Kashmir,2020-05-07,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
 Jammu and Kashmir,2020-05-08,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Jammu and Kashmir,2020-05-09,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Jammu and Kashmir,2020-05-10,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
 Jammu and Kashmir,2020-05-11,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
-Jammu and Kashmir,2020-05-12,nowcast,1.2,1,1.5,1.2,1.3,0.03
-Jammu and Kashmir,2020-05-13,nowcast,1.2,1,1.4,1.1,1.3,0.04
-Jammu and Kashmir,2020-05-14,nowcast,1.2,1,1.4,1.1,1.3,0.07
-Jammu and Kashmir,2020-05-15,nowcast,1.2,1,1.3,1.1,1.2,0.06
-Jammu and Kashmir,2020-05-16,nowcast,1.2,1,1.3,1.1,1.2,0.07
-Jammu and Kashmir,2020-05-17,nowcast,1.2,1,1.3,1.1,1.2,0.05
+Jammu and Kashmir,2020-05-12,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
+Jammu and Kashmir,2020-05-13,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Jammu and Kashmir,2020-05-14,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Jammu and Kashmir,2020-05-15,nowcast,1.2,1,1.4,1.1,1.2,0.07
+Jammu and Kashmir,2020-05-16,nowcast,1.2,1,1.3,1.1,1.2,0.06
+Jammu and Kashmir,2020-05-17,nowcast,1.2,1,1.3,1.1,1.2,0.04
 Jammu and Kashmir,2020-05-18,nowcast,1.2,1,1.3,1.1,1.2,0.04
-Jammu and Kashmir,2020-05-19,nowcast,1.2,1,1.4,1.1,1.2,0.03
-Jammu and Kashmir,2020-05-20,nowcast,1.2,1,1.4,1.1,1.3,0.02
-Jammu and Kashmir,2020-05-21,forecast,1.2,1,1.5,1.1,1.3,0.07
-Jammu and Kashmir,2020-05-22,forecast,1.2,0.9,1.5,1.1,1.3,0.1
-Jammu and Kashmir,2020-05-23,forecast,1.2,0.9,1.5,1.1,1.3,0.12
-Jammu and Kashmir,2020-05-24,forecast,1.2,0.9,1.5,1.1,1.3,0.13
-Jammu and Kashmir,2020-05-25,forecast,1.2,0.8,1.5,1.1,1.3,0.15
-Jammu and Kashmir,2020-05-26,forecast,1.2,0.8,1.5,1.1,1.3,0.17
-Jammu and Kashmir,2020-05-27,forecast,1.2,0.8,1.6,1,1.3,0.16
-Jammu and Kashmir,2020-05-28,forecast,1.2,0.8,1.6,1.1,1.4,0.18
-Jammu and Kashmir,2020-05-29,forecast,1.2,0.8,1.6,1.1,1.3,0.18
-Jammu and Kashmir,2020-05-30,forecast,1.2,0.8,1.6,1,1.3,0.19
-Jammu and Kashmir,2020-05-31,forecast,1.2,0.8,1.7,1,1.4,0.2
-Jammu and Kashmir,2020-06-01,forecast,1.2,0.7,1.6,1,1.4,0.21
+Jammu and Kashmir,2020-05-19,nowcast,1.2,1,1.4,1.1,1.2,0.02
+Jammu and Kashmir,2020-05-20,forecast,1.2,1,1.4,1.1,1.3,0.08
+Jammu and Kashmir,2020-05-21,forecast,1.2,0.9,1.5,1.1,1.3,0.1
+Jammu and Kashmir,2020-05-22,forecast,1.2,0.9,1.5,1.1,1.3,0.13
+Jammu and Kashmir,2020-05-23,forecast,1.2,0.9,1.5,1.1,1.3,0.14
+Jammu and Kashmir,2020-05-24,forecast,1.2,0.9,1.5,1.1,1.3,0.15
+Jammu and Kashmir,2020-05-25,forecast,1.2,0.8,1.5,1.1,1.3,0.16
+Jammu and Kashmir,2020-05-26,forecast,1.2,0.8,1.6,1.1,1.3,0.17
+Jammu and Kashmir,2020-05-27,forecast,1.2,0.8,1.6,1,1.3,0.17
+Jammu and Kashmir,2020-05-28,forecast,1.2,0.8,1.6,1.1,1.4,0.19
+Jammu and Kashmir,2020-05-29,forecast,1.2,0.8,1.6,1,1.4,0.19
+Jammu and Kashmir,2020-05-30,forecast,1.2,0.8,1.6,1,1.4,0.2
+Jammu and Kashmir,2020-05-31,forecast,1.2,0.7,1.7,1,1.4,0.21
+Jammu and Kashmir,2020-06-01,forecast,1.2,0.7,1.7,1,1.4,0.22
 Jammu and Kashmir,2020-06-02,forecast,1.2,0.7,1.7,1,1.4,0.21
-Jammu and Kashmir,2020-06-03,forecast,1.2,0.7,1.7,1,1.4,0.21
-Jharkhand,2020-04-09,nowcast,1.2,0.5,2,0.9,1.5,0.3
-Jharkhand,2020-04-10,nowcast,1.2,0.5,2,0.9,1.5,0.27
-Jharkhand,2020-04-11,nowcast,1.3,0.5,2,0.9,1.5,0.27
-Jharkhand,2020-04-12,nowcast,1.2,0.6,2,0.9,1.5,0.26
-Jharkhand,2020-04-13,nowcast,1.3,0.6,2,1,1.5,0.23
-Jharkhand,2020-04-14,nowcast,1.3,0.6,2,1,1.5,0.21
-Jharkhand,2020-04-15,nowcast,1.3,0.6,2,1,1.5,0.21
-Jharkhand,2020-04-16,nowcast,1.3,0.6,1.9,1,1.5,0.22
-Jharkhand,2020-04-17,nowcast,1.3,0.6,1.9,1,1.5,0.2
-Jharkhand,2020-04-18,nowcast,1.3,0.7,1.9,1,1.4,0.21
-Jharkhand,2020-04-19,nowcast,1.2,0.7,1.8,1,1.4,0.24
-Jharkhand,2020-04-20,nowcast,1.2,0.7,1.8,0.9,1.4,0.24
-Jharkhand,2020-04-21,nowcast,1.2,0.7,1.7,0.9,1.3,0.29
-Jharkhand,2020-04-22,nowcast,1.1,0.6,1.6,0.9,1.3,0.39
-Jharkhand,2020-04-23,nowcast,1,0.5,1.5,0.8,1.2,0.48
-Jharkhand,2020-04-24,nowcast,1,0.5,1.5,0.8,1.1,0.53
-Jharkhand,2020-04-25,nowcast,0.9,0.5,1.4,0.7,1.1,0.57
-Jharkhand,2020-04-26,nowcast,1,0.4,1.4,0.8,1.1,0.56
-Jharkhand,2020-04-27,nowcast,1,0.5,1.5,0.8,1.2,0.49
-Jharkhand,2020-04-28,nowcast,1,0.6,1.6,0.8,1.2,0.43
-Jharkhand,2020-04-29,nowcast,1.1,0.6,1.8,0.8,1.2,0.36
-Jharkhand,2020-04-30,nowcast,1.2,0.7,1.8,0.9,1.3,0.27
-Jharkhand,2020-05-01,nowcast,1.2,0.7,1.9,1,1.4,0.21
+Jharkhand,2020-04-09,nowcast,1.2,0.5,2,0.9,1.4,0.29
+Jharkhand,2020-04-10,nowcast,1.2,0.5,2,0.9,1.5,0.28
+Jharkhand,2020-04-11,nowcast,1.2,0.5,2,0.9,1.5,0.27
+Jharkhand,2020-04-12,nowcast,1.2,0.6,2,0.9,1.4,0.26
+Jharkhand,2020-04-13,nowcast,1.3,0.6,1.9,0.9,1.4,0.22
+Jharkhand,2020-04-14,nowcast,1.3,0.6,2,0.9,1.4,0.23
+Jharkhand,2020-04-15,nowcast,1.3,0.7,2,1,1.5,0.2
+Jharkhand,2020-04-16,nowcast,1.3,0.7,1.9,1,1.4,0.21
+Jharkhand,2020-04-17,nowcast,1.3,0.7,1.9,1,1.4,0.21
+Jharkhand,2020-04-18,nowcast,1.3,0.7,1.9,1,1.5,0.21
+Jharkhand,2020-04-19,nowcast,1.2,0.7,1.9,1,1.4,0.22
+Jharkhand,2020-04-20,nowcast,1.2,0.6,1.8,1,1.4,0.24
+Jharkhand,2020-04-21,nowcast,1.1,0.6,1.7,0.9,1.3,0.31
+Jharkhand,2020-04-22,nowcast,1.1,0.6,1.6,0.9,1.3,0.37
+Jharkhand,2020-04-23,nowcast,1,0.5,1.5,0.8,1.2,0.46
+Jharkhand,2020-04-24,nowcast,1,0.5,1.5,0.8,1.2,0.54
+Jharkhand,2020-04-25,nowcast,0.9,0.4,1.4,0.8,1.1,0.58
+Jharkhand,2020-04-26,nowcast,1,0.5,1.4,0.8,1.1,0.56
+Jharkhand,2020-04-27,nowcast,1,0.5,1.5,0.8,1.1,0.54
+Jharkhand,2020-04-28,nowcast,1.1,0.5,1.7,0.8,1.2,0.42
+Jharkhand,2020-04-29,nowcast,1.1,0.6,1.7,0.9,1.2,0.34
+Jharkhand,2020-04-30,nowcast,1.2,0.7,1.8,0.9,1.3,0.26
+Jharkhand,2020-05-01,nowcast,1.2,0.7,1.9,1,1.4,0.19
 Jharkhand,2020-05-02,nowcast,1.3,0.8,1.9,1,1.4,0.14
-Jharkhand,2020-05-03,nowcast,1.3,0.8,1.9,1,1.4,0.13
-Jharkhand,2020-05-04,nowcast,1.3,0.8,1.9,1.1,1.5,0.11
-Jharkhand,2020-05-05,nowcast,1.3,0.9,1.9,1.1,1.5,0.11
-Jharkhand,2020-05-06,nowcast,1.3,0.9,1.8,1.1,1.5,0.11
-Jharkhand,2020-05-07,nowcast,1.3,0.9,1.8,1.1,1.5,0.11
-Jharkhand,2020-05-08,nowcast,1.3,0.9,1.8,1.1,1.4,0.08
-Jharkhand,2020-05-09,nowcast,1.3,0.9,1.8,1.2,1.5,0.07
-Jharkhand,2020-05-10,nowcast,1.3,0.9,1.8,1.2,1.5,0.06
-Jharkhand,2020-05-11,nowcast,1.3,0.9,1.7,1.2,1.4,0.07
+Jharkhand,2020-05-03,nowcast,1.3,0.8,1.9,1.1,1.4,0.12
+Jharkhand,2020-05-04,nowcast,1.3,0.8,1.8,1.1,1.4,0.12
+Jharkhand,2020-05-05,nowcast,1.3,0.8,1.8,1.1,1.5,0.11
+Jharkhand,2020-05-06,nowcast,1.3,0.9,1.8,1.1,1.4,0.11
+Jharkhand,2020-05-07,nowcast,1.3,0.8,1.8,1.1,1.5,0.1
+Jharkhand,2020-05-08,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
+Jharkhand,2020-05-09,nowcast,1.3,0.9,1.8,1.2,1.5,0.08
+Jharkhand,2020-05-10,nowcast,1.3,0.9,1.7,1.2,1.5,0.07
+Jharkhand,2020-05-11,nowcast,1.3,0.9,1.7,1.2,1.5,0.07
 Jharkhand,2020-05-12,nowcast,1.3,0.9,1.7,1.1,1.4,0.07
 Jharkhand,2020-05-13,nowcast,1.3,0.9,1.7,1.2,1.4,0.06
-Jharkhand,2020-05-14,nowcast,1.3,0.9,1.7,1.1,1.4,0.06
-Jharkhand,2020-05-15,nowcast,1.3,0.9,1.6,1.2,1.5,0.07
-Jharkhand,2020-05-16,nowcast,1.3,0.9,1.6,1.2,1.4,0.08
-Jharkhand,2020-05-17,nowcast,1.3,0.9,1.6,1.1,1.4,0.08
-Jharkhand,2020-05-18,nowcast,1.2,0.9,1.6,1.1,1.3,0.1
-Jharkhand,2020-05-19,nowcast,1.2,0.9,1.6,1.1,1.3,0.12
-Jharkhand,2020-05-20,nowcast,1.2,0.9,1.5,1.1,1.3,0.16
-Karnataka,2020-03-14,nowcast,1.5,0.8,2.4,1.2,1.8,0.1
-Karnataka,2020-03-15,nowcast,1.5,0.8,2.3,1.1,1.7,0.1
-Karnataka,2020-03-16,nowcast,1.5,0.8,2.2,1.1,1.7,0.1
-Karnataka,2020-03-17,nowcast,1.5,0.8,2.1,1.1,1.6,0.11
-Karnataka,2020-03-18,nowcast,1.4,0.8,2,1.1,1.6,0.12
+Jharkhand,2020-05-14,nowcast,1.3,1,1.7,1.1,1.4,0.07
+Jharkhand,2020-05-15,nowcast,1.3,1,1.7,1.1,1.4,0.05
+Jharkhand,2020-05-16,nowcast,1.3,0.9,1.6,1.1,1.4,0.07
+Jharkhand,2020-05-17,nowcast,1.3,0.9,1.6,1.1,1.4,0.09
+Jharkhand,2020-05-18,nowcast,1.2,0.9,1.6,1.1,1.3,0.09
+Jharkhand,2020-05-19,nowcast,1.2,0.9,1.5,1.1,1.3,0.11
+Jharkhand,2020-05-20,forecast,1.3,0.8,1.7,1.1,1.5,0.17
+Jharkhand,2020-05-21,forecast,1.2,0.8,1.8,1.1,1.4,0.19
+Jharkhand,2020-05-22,forecast,1.3,0.7,1.8,1,1.5,0.2
+Jharkhand,2020-05-23,forecast,1.3,0.7,1.9,1,1.5,0.22
+Jharkhand,2020-05-24,forecast,1.3,0.6,1.8,1,1.5,0.23
+Jharkhand,2020-05-25,forecast,1.3,0.6,1.9,1,1.5,0.23
+Jharkhand,2020-05-26,forecast,1.3,0.6,2,1,1.5,0.25
+Jharkhand,2020-05-27,forecast,1.3,0.6,2,1,1.5,0.26
+Jharkhand,2020-05-28,forecast,1.3,0.5,2,1,1.5,0.25
+Jharkhand,2020-05-29,forecast,1.3,0.5,2.1,1,1.6,0.27
+Jharkhand,2020-05-30,forecast,1.2,0.4,2,0.9,1.5,0.28
+Jharkhand,2020-05-31,forecast,1.3,0.4,2.1,1,1.6,0.28
+Jharkhand,2020-06-01,forecast,1.3,0.4,2.1,0.9,1.6,0.29
+Jharkhand,2020-06-02,forecast,1.3,0.4,2.1,1,1.6,0.28
+Karnataka,2020-03-14,nowcast,1.5,0.8,2.4,1.2,1.8,0.11
+Karnataka,2020-03-15,nowcast,1.5,0.8,2.3,1.1,1.7,0.11
+Karnataka,2020-03-16,nowcast,1.5,0.8,2.3,1.1,1.7,0.1
+Karnataka,2020-03-17,nowcast,1.4,0.8,2.1,1.2,1.6,0.1
+Karnataka,2020-03-18,nowcast,1.4,0.8,2.1,1.1,1.6,0.12
 Karnataka,2020-03-19,nowcast,1.4,0.8,2,1.1,1.5,0.12
 Karnataka,2020-03-20,nowcast,1.3,0.8,1.9,1.1,1.5,0.14
-Karnataka,2020-03-21,nowcast,1.3,0.8,1.9,1,1.4,0.15
-Karnataka,2020-03-22,nowcast,1.3,0.8,1.8,1.1,1.4,0.18
-Karnataka,2020-03-23,nowcast,1.2,0.8,1.7,1,1.4,0.19
-Karnataka,2020-03-24,nowcast,1.2,0.8,1.7,1,1.3,0.22
-Karnataka,2020-03-25,nowcast,1.2,0.7,1.6,1,1.3,0.24
-Karnataka,2020-03-26,nowcast,1.2,0.8,1.6,1,1.3,0.23
-Karnataka,2020-03-27,nowcast,1.2,0.8,1.6,1,1.3,0.23
-Karnataka,2020-03-28,nowcast,1.2,0.8,1.6,1,1.3,0.23
-Karnataka,2020-03-29,nowcast,1.2,0.8,1.6,1,1.3,0.24
-Karnataka,2020-03-30,nowcast,1.2,0.7,1.6,1,1.3,0.23
-Karnataka,2020-03-31,nowcast,1.2,0.8,1.6,1,1.3,0.21
+Karnataka,2020-03-21,nowcast,1.3,0.8,1.8,1,1.5,0.17
+Karnataka,2020-03-22,nowcast,1.3,0.8,1.8,1,1.4,0.18
+Karnataka,2020-03-23,nowcast,1.2,0.7,1.7,1,1.4,0.22
+Karnataka,2020-03-24,nowcast,1.2,0.7,1.6,1,1.4,0.23
+Karnataka,2020-03-25,nowcast,1.2,0.7,1.6,1,1.3,0.23
+Karnataka,2020-03-26,nowcast,1.2,0.7,1.6,1,1.3,0.25
+Karnataka,2020-03-27,nowcast,1.2,0.8,1.6,1,1.3,0.25
+Karnataka,2020-03-28,nowcast,1.2,0.8,1.6,1,1.3,0.24
+Karnataka,2020-03-29,nowcast,1.2,0.8,1.6,1,1.3,0.23
+Karnataka,2020-03-30,nowcast,1.1,0.8,1.5,1,1.3,0.24
+Karnataka,2020-03-31,nowcast,1.1,0.8,1.5,1,1.3,0.24
 Karnataka,2020-04-01,nowcast,1.2,0.8,1.6,1,1.3,0.21
-Karnataka,2020-04-02,nowcast,1.2,0.8,1.6,1,1.3,0.2
-Karnataka,2020-04-03,nowcast,1.2,0.8,1.6,1,1.3,0.17
-Karnataka,2020-04-04,nowcast,1.2,0.8,1.6,1,1.3,0.17
-Karnataka,2020-04-05,nowcast,1.2,0.8,1.6,1,1.3,0.16
-Karnataka,2020-04-06,nowcast,1.2,0.9,1.6,1.1,1.3,0.15
-Karnataka,2020-04-07,nowcast,1.2,0.9,1.6,1,1.3,0.14
-Karnataka,2020-04-08,nowcast,1.2,0.9,1.5,1.1,1.3,0.14
-Karnataka,2020-04-09,nowcast,1.2,0.8,1.5,1,1.3,0.17
-Karnataka,2020-04-10,nowcast,1.2,0.8,1.5,1,1.3,0.18
-Karnataka,2020-04-11,nowcast,1.1,0.8,1.4,1,1.2,0.23
-Karnataka,2020-04-12,nowcast,1.1,0.8,1.4,1,1.2,0.29
+Karnataka,2020-04-02,nowcast,1.2,0.8,1.5,1,1.3,0.21
+Karnataka,2020-04-03,nowcast,1.2,0.8,1.6,1,1.3,0.19
+Karnataka,2020-04-04,nowcast,1.2,0.8,1.5,1,1.3,0.18
+Karnataka,2020-04-05,nowcast,1.2,0.8,1.6,1.1,1.3,0.15
+Karnataka,2020-04-06,nowcast,1.2,0.8,1.6,1,1.3,0.16
+Karnataka,2020-04-07,nowcast,1.2,0.9,1.6,1.1,1.3,0.15
+Karnataka,2020-04-08,nowcast,1.2,0.8,1.5,1,1.3,0.16
+Karnataka,2020-04-09,nowcast,1.2,0.8,1.5,1.1,1.3,0.15
+Karnataka,2020-04-10,nowcast,1.2,0.9,1.5,1.1,1.3,0.18
+Karnataka,2020-04-11,nowcast,1.1,0.8,1.5,1,1.3,0.22
+Karnataka,2020-04-12,nowcast,1.1,0.8,1.4,1,1.2,0.27
 Karnataka,2020-04-13,nowcast,1.1,0.7,1.3,0.9,1.2,0.37
-Karnataka,2020-04-14,nowcast,1,0.7,1.3,0.9,1.1,0.48
-Karnataka,2020-04-15,nowcast,1,0.7,1.2,0.9,1.1,0.56
-Karnataka,2020-04-16,nowcast,1,0.7,1.3,0.9,1.1,0.57
-Karnataka,2020-04-17,nowcast,1,0.7,1.3,0.9,1.1,0.56
-Karnataka,2020-04-18,nowcast,1,0.7,1.3,0.9,1.1,0.51
-Karnataka,2020-04-19,nowcast,1,0.8,1.3,0.9,1.1,0.46
-Karnataka,2020-04-20,nowcast,1,0.8,1.4,0.9,1.1,0.38
-Karnataka,2020-04-21,nowcast,1.1,0.8,1.4,0.9,1.2,0.33
-Karnataka,2020-04-22,nowcast,1.1,0.8,1.5,1,1.2,0.25
-Karnataka,2020-04-23,nowcast,1.1,0.8,1.5,1,1.2,0.2
+Karnataka,2020-04-14,nowcast,1,0.7,1.3,0.9,1.1,0.46
+Karnataka,2020-04-15,nowcast,1,0.7,1.3,0.9,1.1,0.53
+Karnataka,2020-04-16,nowcast,1,0.7,1.2,0.9,1.1,0.58
+Karnataka,2020-04-17,nowcast,1,0.7,1.3,0.9,1.1,0.57
+Karnataka,2020-04-18,nowcast,1,0.7,1.3,0.9,1.1,0.52
+Karnataka,2020-04-19,nowcast,1,0.7,1.3,0.9,1.1,0.46
+Karnataka,2020-04-20,nowcast,1,0.7,1.4,0.9,1.1,0.4
+Karnataka,2020-04-21,nowcast,1.1,0.8,1.4,0.9,1.2,0.32
+Karnataka,2020-04-22,nowcast,1.1,0.8,1.4,1,1.2,0.25
+Karnataka,2020-04-23,nowcast,1.1,0.8,1.5,1,1.2,0.18
 Karnataka,2020-04-24,nowcast,1.2,0.9,1.5,1,1.3,0.14
-Karnataka,2020-04-25,nowcast,1.2,0.9,1.5,1.1,1.3,0.09
-Karnataka,2020-04-26,nowcast,1.2,0.9,1.6,1.1,1.3,0.07
-Karnataka,2020-04-27,nowcast,1.3,1,1.6,1.1,1.4,0.04
-Karnataka,2020-04-28,nowcast,1.3,1,1.6,1.2,1.4,0.03
-Karnataka,2020-04-29,nowcast,1.3,1.1,1.6,1.2,1.4,0.03
+Karnataka,2020-04-25,nowcast,1.2,0.9,1.6,1,1.3,0.09
+Karnataka,2020-04-26,nowcast,1.2,1,1.6,1.1,1.3,0.06
+Karnataka,2020-04-27,nowcast,1.3,1,1.6,1.1,1.3,0.05
+Karnataka,2020-04-28,nowcast,1.3,1,1.6,1.1,1.3,0.03
+Karnataka,2020-04-29,nowcast,1.3,1,1.6,1.2,1.4,0.02
 Karnataka,2020-04-30,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-Karnataka,2020-05-01,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-Karnataka,2020-05-02,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Karnataka,2020-05-01,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Karnataka,2020-05-02,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
 Karnataka,2020-05-03,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
-Karnataka,2020-05-04,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Karnataka,2020-05-04,nowcast,1.3,1.1,1.6,1.3,1.4,0.01
 Karnataka,2020-05-05,nowcast,1.3,1.1,1.6,1.3,1.4,0.01
-Karnataka,2020-05-06,nowcast,1.3,1.1,1.6,1.2,1.4,0
-Karnataka,2020-05-07,nowcast,1.3,1.1,1.6,1.2,1.4,0
-Karnataka,2020-05-08,nowcast,1.3,1.1,1.6,1.2,1.4,0
-Karnataka,2020-05-09,nowcast,1.3,1.1,1.6,1.2,1.4,0
-Karnataka,2020-05-10,nowcast,1.3,1.1,1.6,1.3,1.4,0
-Karnataka,2020-05-11,nowcast,1.3,1.2,1.6,1.3,1.4,0
+Karnataka,2020-05-06,nowcast,1.3,1.1,1.6,1.3,1.4,0.01
+Karnataka,2020-05-07,nowcast,1.4,1.1,1.6,1.3,1.4,0
+Karnataka,2020-05-08,nowcast,1.3,1.1,1.6,1.3,1.4,0
+Karnataka,2020-05-09,nowcast,1.4,1.1,1.6,1.3,1.4,0
+Karnataka,2020-05-10,nowcast,1.4,1.1,1.6,1.3,1.4,0
+Karnataka,2020-05-11,nowcast,1.4,1.1,1.6,1.2,1.4,0
 Karnataka,2020-05-12,nowcast,1.3,1.1,1.5,1.3,1.4,0
-Karnataka,2020-05-13,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Karnataka,2020-05-14,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Karnataka,2020-05-15,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Karnataka,2020-05-16,nowcast,1.2,1.1,1.4,1.2,1.3,0.02
-Karnataka,2020-05-17,nowcast,1.2,1,1.4,1.1,1.3,0.05
-Karnataka,2020-05-18,nowcast,1.1,1,1.3,1.1,1.2,0.11
-Karnataka,2020-05-19,nowcast,1.1,0.9,1.3,1,1.2,0.23
-Karnataka,2020-05-20,nowcast,1,0.9,1.2,1,1.1,0.33
-Karnataka,2020-05-21,forecast,1.1,0.8,1.3,1,1.2,0.33
-Karnataka,2020-05-22,forecast,1.1,0.8,1.3,1,1.2,0.33
-Karnataka,2020-05-23,forecast,1.1,0.7,1.4,1,1.2,0.35
-Karnataka,2020-05-24,forecast,1.1,0.7,1.4,0.9,1.2,0.37
-Karnataka,2020-05-25,forecast,1.1,0.7,1.4,0.9,1.2,0.38
-Karnataka,2020-05-26,forecast,1.1,0.7,1.5,0.9,1.3,0.38
-Karnataka,2020-05-27,forecast,1.1,0.7,1.5,0.9,1.2,0.39
-Karnataka,2020-05-28,forecast,1.1,0.6,1.5,0.9,1.2,0.41
-Karnataka,2020-05-29,forecast,1.1,0.6,1.5,0.9,1.3,0.4
-Karnataka,2020-05-30,forecast,1.1,0.6,1.5,0.9,1.3,0.4
-Karnataka,2020-05-31,forecast,1.1,0.5,1.5,0.9,1.2,0.42
-Karnataka,2020-06-01,forecast,1,0.5,1.5,0.8,1.2,0.44
-Karnataka,2020-06-02,forecast,1.1,0.5,1.5,0.9,1.3,0.43
-Karnataka,2020-06-03,forecast,1.1,0.5,1.6,0.9,1.3,0.43
-Kerala,2020-03-14,nowcast,1.5,0.9,2,1.2,1.6,0.06
+Karnataka,2020-05-13,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Karnataka,2020-05-14,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Karnataka,2020-05-15,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Karnataka,2020-05-16,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
+Karnataka,2020-05-17,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Karnataka,2020-05-18,nowcast,1.2,1,1.3,1.1,1.3,0.05
+Karnataka,2020-05-19,nowcast,1.2,1,1.3,1.1,1.2,0.07
+Karnataka,2020-05-20,forecast,1.2,0.9,1.4,1.1,1.3,0.1
+Karnataka,2020-05-21,forecast,1.2,0.9,1.4,1.1,1.3,0.12
+Karnataka,2020-05-22,forecast,1.2,0.9,1.5,1.1,1.3,0.14
+Karnataka,2020-05-23,forecast,1.2,0.9,1.5,1.1,1.3,0.16
+Karnataka,2020-05-24,forecast,1.2,0.9,1.5,1.1,1.3,0.17
+Karnataka,2020-05-25,forecast,1.2,0.9,1.5,1,1.3,0.18
+Karnataka,2020-05-26,forecast,1.2,0.8,1.6,1.1,1.3,0.2
+Karnataka,2020-05-27,forecast,1.2,0.8,1.6,1,1.3,0.21
+Karnataka,2020-05-28,forecast,1.2,0.8,1.6,1,1.3,0.21
+Karnataka,2020-05-29,forecast,1.2,0.8,1.6,1,1.3,0.22
+Karnataka,2020-05-30,forecast,1.2,0.7,1.6,1,1.4,0.23
+Karnataka,2020-05-31,forecast,1.2,0.7,1.6,1,1.4,0.24
+Karnataka,2020-06-01,forecast,1.2,0.7,1.6,1,1.4,0.25
+Karnataka,2020-06-02,forecast,1.2,0.7,1.6,1,1.4,0.25
+Kerala,2020-03-14,nowcast,1.5,0.9,2.1,1.2,1.7,0.06
 Kerala,2020-03-15,nowcast,1.5,1,2,1.2,1.6,0.05
-Kerala,2020-03-16,nowcast,1.4,1,1.9,1.2,1.6,0.06
-Kerala,2020-03-17,nowcast,1.4,0.9,1.9,1.2,1.5,0.06
-Kerala,2020-03-18,nowcast,1.3,0.9,1.8,1.2,1.5,0.11
-Kerala,2020-03-19,nowcast,1.3,0.9,1.7,1.1,1.5,0.12
-Kerala,2020-03-20,nowcast,1.2,0.8,1.6,1.1,1.4,0.18
-Kerala,2020-03-21,nowcast,1.1,0.8,1.5,1,1.3,0.25
-Kerala,2020-03-22,nowcast,1.1,0.7,1.4,1,1.2,0.31
-Kerala,2020-03-23,nowcast,1,0.7,1.4,0.9,1.2,0.44
-Kerala,2020-03-24,nowcast,1,0.7,1.3,0.9,1.1,0.52
-Kerala,2020-03-25,nowcast,0.9,0.6,1.2,0.8,1.1,0.62
-Kerala,2020-03-26,nowcast,0.9,0.6,1.2,0.8,1,0.71
-Kerala,2020-03-27,nowcast,0.9,0.6,1.2,0.8,1,0.78
-Kerala,2020-03-28,nowcast,0.8,0.5,1.1,0.7,0.9,0.84
+Kerala,2020-03-16,nowcast,1.4,1,1.9,1.2,1.6,0.05
+Kerala,2020-03-17,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
+Kerala,2020-03-18,nowcast,1.3,0.9,1.8,1.1,1.5,0.09
+Kerala,2020-03-19,nowcast,1.3,0.9,1.7,1.1,1.4,0.13
+Kerala,2020-03-20,nowcast,1.2,0.8,1.6,1,1.3,0.19
+Kerala,2020-03-21,nowcast,1.2,0.8,1.5,1,1.3,0.23
+Kerala,2020-03-22,nowcast,1.1,0.7,1.4,1,1.3,0.31
+Kerala,2020-03-23,nowcast,1.1,0.7,1.4,0.9,1.2,0.39
+Kerala,2020-03-24,nowcast,1,0.7,1.3,0.9,1.1,0.5
+Kerala,2020-03-25,nowcast,1,0.7,1.3,0.9,1.1,0.6
+Kerala,2020-03-26,nowcast,0.9,0.6,1.2,0.8,1,0.68
+Kerala,2020-03-27,nowcast,0.9,0.6,1.2,0.8,1,0.77
+Kerala,2020-03-28,nowcast,0.8,0.5,1.1,0.7,1,0.82
 Kerala,2020-03-29,nowcast,0.8,0.5,1.1,0.7,0.9,0.88
 Kerala,2020-03-30,nowcast,0.8,0.5,1.1,0.7,0.9,0.9
-Kerala,2020-03-31,nowcast,0.8,0.5,1.1,0.7,0.9,0.91
-Kerala,2020-04-01,nowcast,0.8,0.4,1.1,0.7,0.9,0.9
-Kerala,2020-04-02,nowcast,0.8,0.4,1.1,0.6,0.9,0.9
-Kerala,2020-04-03,nowcast,0.7,0.4,1.1,0.6,0.8,0.88
-Kerala,2020-04-04,nowcast,0.8,0.4,1.1,0.6,0.9,0.88
+Kerala,2020-03-31,nowcast,0.8,0.5,1,0.6,0.9,0.92
+Kerala,2020-04-01,nowcast,0.8,0.5,1.1,0.7,0.9,0.9
+Kerala,2020-04-02,nowcast,0.7,0.4,1.1,0.6,0.9,0.9
+Kerala,2020-04-03,nowcast,0.7,0.4,1.1,0.6,0.9,0.89
+Kerala,2020-04-04,nowcast,0.8,0.4,1.1,0.6,0.8,0.87
 Kerala,2020-04-05,nowcast,0.8,0.4,1.1,0.6,0.9,0.86
-Kerala,2020-04-06,nowcast,0.8,0.4,1.1,0.6,0.9,0.86
-Kerala,2020-04-07,nowcast,0.8,0.4,1.2,0.6,0.9,0.84
-Kerala,2020-04-08,nowcast,0.8,0.4,1.2,0.6,0.9,0.8
-Kerala,2020-04-09,nowcast,0.8,0.4,1.3,0.6,0.9,0.76
-Kerala,2020-04-10,nowcast,0.9,0.5,1.4,0.7,1,0.69
+Kerala,2020-04-06,nowcast,0.8,0.4,1.1,0.6,0.9,0.84
+Kerala,2020-04-07,nowcast,0.8,0.4,1.2,0.6,0.9,0.83
+Kerala,2020-04-08,nowcast,0.8,0.4,1.2,0.6,0.9,0.79
+Kerala,2020-04-09,nowcast,0.8,0.4,1.3,0.6,0.9,0.75
+Kerala,2020-04-10,nowcast,0.9,0.5,1.4,0.7,1,0.68
 Kerala,2020-04-11,nowcast,0.9,0.5,1.5,0.7,1,0.6
-Kerala,2020-04-12,nowcast,1,0.5,1.5,0.7,1.1,0.55
+Kerala,2020-04-12,nowcast,1,0.6,1.5,0.8,1.1,0.54
 Kerala,2020-04-13,nowcast,1,0.6,1.6,0.8,1.2,0.46
-Kerala,2020-04-14,nowcast,1.1,0.6,1.6,0.9,1.2,0.41
-Kerala,2020-04-15,nowcast,1.1,0.7,1.6,0.8,1.2,0.37
-Kerala,2020-04-16,nowcast,1.1,0.6,1.6,0.9,1.2,0.37
-Kerala,2020-04-17,nowcast,1.1,0.6,1.5,0.9,1.2,0.4
-Kerala,2020-04-18,nowcast,1,0.6,1.5,0.9,1.2,0.44
-Kerala,2020-04-19,nowcast,1,0.5,1.5,0.8,1.2,0.5
-Kerala,2020-04-20,nowcast,0.9,0.5,1.4,0.8,1.1,0.59
-Kerala,2020-04-21,nowcast,0.9,0.4,1.3,0.7,1.1,0.67
-Kerala,2020-04-22,nowcast,0.9,0.4,1.3,0.7,1,0.7
-Kerala,2020-04-23,nowcast,0.8,0.4,1.3,0.7,1,0.74
-Kerala,2020-04-24,nowcast,0.8,0.4,1.2,0.7,1,0.76
-Kerala,2020-04-25,nowcast,0.8,0.4,1.3,0.6,0.9,0.74
-Kerala,2020-04-26,nowcast,0.8,0.4,1.3,0.6,1,0.71
-Kerala,2020-04-27,nowcast,0.9,0.4,1.5,0.7,1.1,0.65
-Kerala,2020-04-28,nowcast,1,0.4,1.7,0.7,1.1,0.53
-Kerala,2020-04-29,nowcast,1.1,0.4,1.8,0.8,1.3,0.41
-Kerala,2020-04-30,nowcast,1.2,0.6,2,0.9,1.4,0.27
-Kerala,2020-05-01,nowcast,1.4,0.7,2.2,1.1,1.6,0.16
-Kerala,2020-05-02,nowcast,1.5,0.9,2.3,1.1,1.6,0.07
-Kerala,2020-05-03,nowcast,1.6,0.9,2.3,1.2,1.7,0.04
-Kerala,2020-05-04,nowcast,1.6,1,2.3,1.3,1.7,0.03
-Kerala,2020-05-05,nowcast,1.6,1.1,2.3,1.4,1.8,0.02
+Kerala,2020-04-14,nowcast,1.1,0.6,1.6,0.8,1.2,0.4
+Kerala,2020-04-15,nowcast,1.1,0.6,1.6,0.9,1.2,0.38
+Kerala,2020-04-16,nowcast,1.1,0.7,1.6,0.9,1.2,0.35
+Kerala,2020-04-17,nowcast,1.1,0.6,1.6,0.8,1.2,0.38
+Kerala,2020-04-18,nowcast,1,0.6,1.5,0.8,1.2,0.43
+Kerala,2020-04-19,nowcast,1,0.6,1.5,0.8,1.2,0.5
+Kerala,2020-04-20,nowcast,1,0.5,1.4,0.8,1.1,0.57
+Kerala,2020-04-21,nowcast,0.9,0.5,1.3,0.7,1.1,0.62
+Kerala,2020-04-22,nowcast,0.9,0.4,1.3,0.7,1,0.69
+Kerala,2020-04-23,nowcast,0.8,0.4,1.3,0.7,1,0.73
+Kerala,2020-04-24,nowcast,0.8,0.3,1.2,0.6,1,0.76
+Kerala,2020-04-25,nowcast,0.8,0.3,1.3,0.6,0.9,0.76
+Kerala,2020-04-26,nowcast,0.8,0.3,1.3,0.6,1,0.73
+Kerala,2020-04-27,nowcast,0.9,0.4,1.5,0.6,1,0.66
+Kerala,2020-04-28,nowcast,1,0.4,1.6,0.7,1.1,0.55
+Kerala,2020-04-29,nowcast,1.1,0.5,1.9,0.8,1.3,0.39
+Kerala,2020-04-30,nowcast,1.3,0.7,2.1,0.9,1.4,0.25
+Kerala,2020-05-01,nowcast,1.3,0.7,2.2,1,1.5,0.15
+Kerala,2020-05-02,nowcast,1.5,0.8,2.3,1.1,1.6,0.07
+Kerala,2020-05-03,nowcast,1.5,0.9,2.2,1.2,1.7,0.04
+Kerala,2020-05-04,nowcast,1.6,1,2.3,1.3,1.8,0.03
+Kerala,2020-05-05,nowcast,1.6,1,2.3,1.3,1.7,0.02
 Kerala,2020-05-06,nowcast,1.6,1.2,2.2,1.4,1.8,0.01
 Kerala,2020-05-07,nowcast,1.6,1.2,2.2,1.4,1.8,0.01
 Kerala,2020-05-08,nowcast,1.6,1.1,2.1,1.4,1.7,0.01
-Kerala,2020-05-09,nowcast,1.6,1.1,2,1.4,1.7,0.01
-Kerala,2020-05-10,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
-Kerala,2020-05-11,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
-Kerala,2020-05-12,nowcast,1.5,1.1,1.8,1.3,1.6,0.02
+Kerala,2020-05-09,nowcast,1.6,1.2,2,1.4,1.7,0.01
+Kerala,2020-05-10,nowcast,1.5,1.1,2,1.4,1.7,0.01
+Kerala,2020-05-11,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Kerala,2020-05-12,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
 Kerala,2020-05-13,nowcast,1.4,1.1,1.8,1.3,1.6,0.01
 Kerala,2020-05-14,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
 Kerala,2020-05-15,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
 Kerala,2020-05-16,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
 Kerala,2020-05-17,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Kerala,2020-05-18,nowcast,1.4,1.1,1.6,1.2,1.5,0.02
+Kerala,2020-05-18,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
 Kerala,2020-05-19,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-Kerala,2020-05-20,nowcast,1.3,1,1.6,1.2,1.4,0.03
-Kerala,2020-05-21,forecast,1.3,0.9,1.8,1.2,1.5,0.1
-Kerala,2020-05-22,forecast,1.3,0.8,1.9,1.1,1.5,0.14
-Kerala,2020-05-23,forecast,1.3,0.7,1.9,1.1,1.6,0.17
-Kerala,2020-05-24,forecast,1.3,0.7,2,1.1,1.6,0.19
-Kerala,2020-05-25,forecast,1.3,0.7,2.1,1.1,1.6,0.2
-Kerala,2020-05-26,forecast,1.3,0.6,2.1,1.1,1.6,0.22
-Kerala,2020-05-27,forecast,1.3,0.6,2.2,1,1.6,0.21
-Kerala,2020-05-28,forecast,1.3,0.5,2.2,1.1,1.7,0.24
-Kerala,2020-05-29,forecast,1.3,0.5,2.2,1,1.7,0.25
-Kerala,2020-05-30,forecast,1.3,0.4,2.3,1,1.7,0.26
-Kerala,2020-05-31,forecast,1.3,0.3,2.2,1,1.7,0.27
-Kerala,2020-06-01,forecast,1.3,0,2.1,1,1.7,0.26
-Kerala,2020-06-02,forecast,1.3,0,2.1,1,1.8,0.29
-Kerala,2020-06-03,forecast,1.3,0.3,2.4,1,1.7,0.28
-Madhya Pradesh,2020-03-25,nowcast,1.6,1.2,2,1.4,1.7,0
+Kerala,2020-05-20,forecast,1.4,0.9,1.9,1.2,1.5,0.09
+Kerala,2020-05-21,forecast,1.4,0.8,1.9,1.1,1.6,0.13
+Kerala,2020-05-22,forecast,1.4,0.7,2,1.1,1.6,0.16
+Kerala,2020-05-23,forecast,1.4,0.6,2,1.1,1.6,0.19
+Kerala,2020-05-24,forecast,1.4,0.6,2.1,1,1.6,0.18
+Kerala,2020-05-25,forecast,1.4,0.5,2.2,1.1,1.7,0.2
+Kerala,2020-05-26,forecast,1.4,0.5,2.2,1,1.6,0.22
+Kerala,2020-05-27,forecast,1.4,0.5,2.3,1.1,1.7,0.22
+Kerala,2020-05-28,forecast,1.3,0.5,2.3,1,1.7,0.24
+Kerala,2020-05-29,forecast,1.3,0.4,2.4,0.9,1.7,0.25
+Kerala,2020-05-30,forecast,1.3,0.3,2.4,0.9,1.6,0.26
+Kerala,2020-05-31,forecast,1.4,0.3,2.4,1,1.7,0.26
+Kerala,2020-06-01,forecast,1.4,0,2.2,1,1.8,0.27
+Kerala,2020-06-02,forecast,1.4,0,2.2,1,1.8,0.26
+Madhya Pradesh,2020-03-25,nowcast,1.6,1.2,2.1,1.5,1.8,0
 Madhya Pradesh,2020-03-26,nowcast,1.6,1.2,2,1.4,1.8,0
-Madhya Pradesh,2020-03-27,nowcast,1.6,1.2,2,1.4,1.7,0
-Madhya Pradesh,2020-03-28,nowcast,1.6,1.2,1.9,1.4,1.6,0
-Madhya Pradesh,2020-03-29,nowcast,1.5,1.2,1.9,1.4,1.6,0
-Madhya Pradesh,2020-03-30,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Madhya Pradesh,2020-03-31,nowcast,1.5,1.1,1.7,1.3,1.6,0
-Madhya Pradesh,2020-04-01,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Madhya Pradesh,2020-03-27,nowcast,1.6,1.2,1.9,1.4,1.7,0
+Madhya Pradesh,2020-03-28,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Madhya Pradesh,2020-03-29,nowcast,1.5,1.2,1.9,1.4,1.7,0
+Madhya Pradesh,2020-03-30,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Madhya Pradesh,2020-03-31,nowcast,1.5,1.2,1.7,1.3,1.6,0
+Madhya Pradesh,2020-04-01,nowcast,1.4,1.1,1.7,1.3,1.6,0
 Madhya Pradesh,2020-04-02,nowcast,1.4,1.2,1.7,1.3,1.5,0
 Madhya Pradesh,2020-04-03,nowcast,1.4,1.1,1.6,1.3,1.5,0
 Madhya Pradesh,2020-04-04,nowcast,1.4,1.1,1.6,1.3,1.5,0
 Madhya Pradesh,2020-04-05,nowcast,1.3,1.1,1.6,1.2,1.4,0
-Madhya Pradesh,2020-04-06,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Madhya Pradesh,2020-04-06,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Madhya Pradesh,2020-04-07,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Madhya Pradesh,2020-04-08,nowcast,1.3,1.1,1.5,1.2,1.3,0.02
-Madhya Pradesh,2020-04-09,nowcast,1.2,1,1.4,1.2,1.3,0.02
-Madhya Pradesh,2020-04-10,nowcast,1.2,1,1.4,1.1,1.3,0.06
-Madhya Pradesh,2020-04-11,nowcast,1.1,1,1.3,1.1,1.2,0.11
-Madhya Pradesh,2020-04-12,nowcast,1.1,0.9,1.2,1,1.2,0.22
+Madhya Pradesh,2020-04-08,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+Madhya Pradesh,2020-04-09,nowcast,1.2,1,1.4,1.2,1.3,0.03
+Madhya Pradesh,2020-04-10,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Madhya Pradesh,2020-04-11,nowcast,1.1,0.9,1.3,1.1,1.2,0.1
+Madhya Pradesh,2020-04-12,nowcast,1.1,0.9,1.2,1,1.1,0.23
 Madhya Pradesh,2020-04-13,nowcast,1,0.9,1.2,1,1.1,0.39
-Madhya Pradesh,2020-04-14,nowcast,1,0.8,1.2,0.9,1.1,0.52
-Madhya Pradesh,2020-04-15,nowcast,1,0.8,1.1,0.9,1.1,0.53
-Madhya Pradesh,2020-04-16,nowcast,1,0.9,1.1,1,1.1,0.45
-Madhya Pradesh,2020-04-17,nowcast,1,0.9,1.2,1,1.1,0.35
+Madhya Pradesh,2020-04-14,nowcast,1,0.8,1.1,1,1.1,0.52
+Madhya Pradesh,2020-04-15,nowcast,1,0.8,1.1,0.9,1.1,0.54
+Madhya Pradesh,2020-04-16,nowcast,1,0.9,1.1,1,1.1,0.49
+Madhya Pradesh,2020-04-17,nowcast,1,0.9,1.2,1,1.1,0.36
 Madhya Pradesh,2020-04-18,nowcast,1.1,0.9,1.2,1,1.1,0.24
 Madhya Pradesh,2020-04-19,nowcast,1.1,0.9,1.2,1,1.1,0.16
-Madhya Pradesh,2020-04-20,nowcast,1.1,1,1.2,1,1.1,0.14
-Madhya Pradesh,2020-04-21,nowcast,1.1,1,1.2,1,1.1,0.14
-Madhya Pradesh,2020-04-22,nowcast,1.1,0.9,1.2,1,1.1,0.16
+Madhya Pradesh,2020-04-20,nowcast,1.1,1,1.2,1,1.1,0.12
+Madhya Pradesh,2020-04-21,nowcast,1.1,1,1.2,1,1.1,0.11
+Madhya Pradesh,2020-04-22,nowcast,1.1,0.9,1.2,1,1.1,0.14
 Madhya Pradesh,2020-04-23,nowcast,1.1,0.9,1.2,1,1.1,0.21
-Madhya Pradesh,2020-04-24,nowcast,1,0.9,1.2,1,1.1,0.3
+Madhya Pradesh,2020-04-24,nowcast,1,0.9,1.2,1,1.1,0.29
 Madhya Pradesh,2020-04-25,nowcast,1,0.9,1.1,1,1.1,0.35
 Madhya Pradesh,2020-04-26,nowcast,1,0.9,1.1,1,1.1,0.37
-Madhya Pradesh,2020-04-27,nowcast,1,0.9,1.2,1,1.1,0.34
-Madhya Pradesh,2020-04-28,nowcast,1,0.9,1.2,1,1.1,0.26
-Madhya Pradesh,2020-04-29,nowcast,1.1,0.9,1.2,1,1.1,0.15
-Madhya Pradesh,2020-04-30,nowcast,1.1,1,1.3,1,1.2,0.06
-Madhya Pradesh,2020-05-01,nowcast,1.2,1,1.3,1.1,1.2,0.02
-Madhya Pradesh,2020-05-02,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Madhya Pradesh,2020-05-03,nowcast,1.2,1.1,1.3,1.1,1.3,0
+Madhya Pradesh,2020-04-27,nowcast,1,0.9,1.2,1,1.1,0.35
+Madhya Pradesh,2020-04-28,nowcast,1,0.9,1.2,1,1.1,0.27
+Madhya Pradesh,2020-04-29,nowcast,1.1,0.9,1.2,1,1.1,0.14
+Madhya Pradesh,2020-04-30,nowcast,1.1,1,1.3,1,1.2,0.07
+Madhya Pradesh,2020-05-01,nowcast,1.1,1,1.3,1.1,1.2,0.02
+Madhya Pradesh,2020-05-02,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Madhya Pradesh,2020-05-03,nowcast,1.2,1.1,1.4,1.1,1.2,0
 Madhya Pradesh,2020-05-04,nowcast,1.2,1.1,1.4,1.1,1.2,0
-Madhya Pradesh,2020-05-05,nowcast,1.2,1.1,1.3,1.2,1.3,0
+Madhya Pradesh,2020-05-05,nowcast,1.2,1.1,1.4,1.2,1.3,0
 Madhya Pradesh,2020-05-06,nowcast,1.2,1.1,1.3,1.2,1.3,0
-Madhya Pradesh,2020-05-07,nowcast,1.2,1.1,1.3,1.2,1.2,0.01
+Madhya Pradesh,2020-05-07,nowcast,1.2,1.1,1.3,1.2,1.3,0.01
 Madhya Pradesh,2020-05-08,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 Madhya Pradesh,2020-05-09,nowcast,1.2,1,1.3,1.1,1.2,0.02
 Madhya Pradesh,2020-05-10,nowcast,1.1,1,1.3,1.1,1.2,0.04
 Madhya Pradesh,2020-05-11,nowcast,1.1,1,1.2,1.1,1.2,0.05
-Madhya Pradesh,2020-05-12,nowcast,1.1,1,1.2,1.1,1.1,0.07
-Madhya Pradesh,2020-05-13,nowcast,1.1,1,1.2,1,1.1,0.11
-Madhya Pradesh,2020-05-14,nowcast,1.1,1,1.2,1,1.1,0.14
-Madhya Pradesh,2020-05-15,nowcast,1.1,1,1.2,1,1.1,0.21
-Madhya Pradesh,2020-05-16,nowcast,1,0.9,1.1,1,1.1,0.28
-Madhya Pradesh,2020-05-17,nowcast,1,0.9,1.1,1,1.1,0.4
-Madhya Pradesh,2020-05-18,nowcast,1,0.9,1.1,1,1,0.49
-Madhya Pradesh,2020-05-19,nowcast,1,0.9,1.1,1,1,0.6
-Madhya Pradesh,2020-05-20,nowcast,1,0.9,1.1,0.9,1,0.65
-Madhya Pradesh,2020-05-21,forecast,1,0.8,1.1,0.9,1,0.61
-Madhya Pradesh,2020-05-22,forecast,1,0.8,1.1,0.9,1,0.59
-Madhya Pradesh,2020-05-23,forecast,1,0.8,1.2,0.9,1.1,0.59
-Madhya Pradesh,2020-05-24,forecast,1,0.8,1.2,0.9,1,0.59
-Madhya Pradesh,2020-05-25,forecast,1,0.7,1.2,0.9,1.1,0.59
-Madhya Pradesh,2020-05-26,forecast,1,0.7,1.2,0.9,1.1,0.58
-Madhya Pradesh,2020-05-27,forecast,1,0.7,1.2,0.9,1.1,0.59
-Madhya Pradesh,2020-05-28,forecast,1,0.7,1.3,0.9,1.1,0.58
-Madhya Pradesh,2020-05-29,forecast,1,0.7,1.3,0.8,1.1,0.58
-Madhya Pradesh,2020-05-30,forecast,1,0.7,1.3,0.8,1.1,0.58
-Madhya Pradesh,2020-05-31,forecast,1,0.6,1.3,0.8,1.1,0.57
-Madhya Pradesh,2020-06-01,forecast,1,0.6,1.3,0.8,1.1,0.58
-Madhya Pradesh,2020-06-02,forecast,1,0.6,1.3,0.8,1.1,0.58
-Madhya Pradesh,2020-06-03,forecast,1,0.6,1.3,0.8,1.1,0.58
-Maharashtra,2020-03-14,nowcast,1.6,1,2.1,1.4,1.8,0.02
-Maharashtra,2020-03-15,nowcast,1.6,1.1,2.1,1.4,1.7,0.02
-Maharashtra,2020-03-16,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
-Maharashtra,2020-03-17,nowcast,1.6,1.2,2,1.4,1.8,0.01
+Madhya Pradesh,2020-05-12,nowcast,1.1,1,1.2,1.1,1.1,0.09
+Madhya Pradesh,2020-05-13,nowcast,1.1,1,1.2,1,1.1,0.12
+Madhya Pradesh,2020-05-14,nowcast,1.1,1,1.2,1,1.1,0.15
+Madhya Pradesh,2020-05-15,nowcast,1,0.9,1.1,1,1.1,0.2
+Madhya Pradesh,2020-05-16,nowcast,1,0.9,1.1,1,1.1,0.29
+Madhya Pradesh,2020-05-17,nowcast,1,0.9,1.1,1,1.1,0.39
+Madhya Pradesh,2020-05-18,nowcast,1,0.9,1.1,1,1,0.51
+Madhya Pradesh,2020-05-19,nowcast,1,0.9,1.1,1,1,0.61
+Madhya Pradesh,2020-05-20,forecast,1,0.8,1.1,0.9,1,0.56
+Madhya Pradesh,2020-05-21,forecast,1,0.8,1.1,0.9,1.1,0.56
+Madhya Pradesh,2020-05-22,forecast,1,0.8,1.2,0.9,1.1,0.55
+Madhya Pradesh,2020-05-23,forecast,1,0.8,1.2,0.9,1.1,0.55
+Madhya Pradesh,2020-05-24,forecast,1,0.7,1.2,0.9,1.1,0.54
+Madhya Pradesh,2020-05-25,forecast,1,0.7,1.2,0.9,1.1,0.54
+Madhya Pradesh,2020-05-26,forecast,1,0.7,1.3,0.9,1.1,0.54
+Madhya Pradesh,2020-05-27,forecast,1,0.7,1.3,0.9,1.1,0.55
+Madhya Pradesh,2020-05-28,forecast,1,0.7,1.3,0.9,1.1,0.53
+Madhya Pradesh,2020-05-29,forecast,1,0.6,1.3,0.9,1.1,0.53
+Madhya Pradesh,2020-05-30,forecast,1,0.6,1.3,0.8,1.1,0.55
+Madhya Pradesh,2020-05-31,forecast,1,0.6,1.3,0.8,1.1,0.54
+Madhya Pradesh,2020-06-01,forecast,1,0.6,1.3,0.8,1.1,0.55
+Madhya Pradesh,2020-06-02,forecast,1,0.6,1.4,0.8,1.1,0.54
+Maharashtra,2020-03-14,nowcast,1.6,1.1,2.1,1.3,1.7,0.03
+Maharashtra,2020-03-15,nowcast,1.6,1.1,2.1,1.3,1.7,0.02
+Maharashtra,2020-03-16,nowcast,1.6,1.2,2.1,1.4,1.8,0.01
+Maharashtra,2020-03-17,nowcast,1.6,1.2,2.1,1.4,1.7,0
 Maharashtra,2020-03-18,nowcast,1.6,1.2,2.1,1.4,1.8,0
 Maharashtra,2020-03-19,nowcast,1.6,1.3,2.1,1.5,1.8,0
-Maharashtra,2020-03-20,nowcast,1.6,1.3,2.1,1.5,1.8,0
-Maharashtra,2020-03-21,nowcast,1.6,1.3,2,1.5,1.8,0
+Maharashtra,2020-03-20,nowcast,1.6,1.3,2,1.5,1.7,0
+Maharashtra,2020-03-21,nowcast,1.7,1.3,2,1.5,1.8,0
 Maharashtra,2020-03-22,nowcast,1.6,1.3,2,1.5,1.8,0
-Maharashtra,2020-03-23,nowcast,1.6,1.3,2,1.5,1.8,0
-Maharashtra,2020-03-24,nowcast,1.6,1.4,2,1.5,1.7,0
-Maharashtra,2020-03-25,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Maharashtra,2020-03-23,nowcast,1.7,1.3,2,1.5,1.7,0
+Maharashtra,2020-03-24,nowcast,1.7,1.4,2,1.5,1.8,0
+Maharashtra,2020-03-25,nowcast,1.6,1.3,2,1.5,1.8,0
 Maharashtra,2020-03-26,nowcast,1.6,1.4,1.9,1.5,1.7,0
 Maharashtra,2020-03-27,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Maharashtra,2020-03-28,nowcast,1.6,1.3,1.8,1.4,1.6,0
-Maharashtra,2020-03-29,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Maharashtra,2020-03-28,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Maharashtra,2020-03-29,nowcast,1.6,1.3,1.8,1.5,1.7,0
 Maharashtra,2020-03-30,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Maharashtra,2020-03-31,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Maharashtra,2020-04-01,nowcast,1.5,1.3,1.7,1.4,1.5,0
 Maharashtra,2020-04-02,nowcast,1.4,1.3,1.6,1.4,1.5,0
 Maharashtra,2020-04-03,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Maharashtra,2020-04-04,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Maharashtra,2020-04-05,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Maharashtra,2020-04-04,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Maharashtra,2020-04-05,nowcast,1.4,1.2,1.6,1.3,1.4,0
 Maharashtra,2020-04-06,nowcast,1.4,1.2,1.5,1.3,1.4,0
 Maharashtra,2020-04-07,nowcast,1.3,1.2,1.5,1.3,1.4,0
 Maharashtra,2020-04-08,nowcast,1.3,1.2,1.5,1.3,1.4,0
-Maharashtra,2020-04-09,nowcast,1.3,1.2,1.4,1.3,1.4,0
-Maharashtra,2020-04-10,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Maharashtra,2020-04-11,nowcast,1.3,1.2,1.4,1.2,1.3,0
+Maharashtra,2020-04-09,nowcast,1.3,1.2,1.5,1.3,1.4,0
+Maharashtra,2020-04-10,nowcast,1.3,1.2,1.4,1.3,1.4,0
+Maharashtra,2020-04-11,nowcast,1.3,1.2,1.4,1.3,1.4,0
 Maharashtra,2020-04-12,nowcast,1.3,1.2,1.4,1.2,1.3,0
 Maharashtra,2020-04-13,nowcast,1.3,1.2,1.4,1.2,1.3,0
 Maharashtra,2020-04-14,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Maharashtra,2020-04-15,nowcast,1.3,1.2,1.4,1.3,1.3,0
+Maharashtra,2020-04-15,nowcast,1.3,1.2,1.4,1.2,1.3,0
 Maharashtra,2020-04-16,nowcast,1.3,1.2,1.4,1.2,1.3,0
 Maharashtra,2020-04-17,nowcast,1.3,1.2,1.4,1.2,1.3,0
-Maharashtra,2020-04-18,nowcast,1.3,1.2,1.3,1.2,1.3,0
+Maharashtra,2020-04-18,nowcast,1.3,1.2,1.4,1.2,1.3,0
 Maharashtra,2020-04-19,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Maharashtra,2020-04-20,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Maharashtra,2020-04-21,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Maharashtra,2020-04-22,nowcast,1.2,1.1,1.3,1.2,1.3,0
-Maharashtra,2020-04-23,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Maharashtra,2020-04-23,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Maharashtra,2020-04-24,nowcast,1.2,1.2,1.3,1.2,1.3,0
 Maharashtra,2020-04-25,nowcast,1.2,1.2,1.3,1.2,1.3,0
 Maharashtra,2020-04-26,nowcast,1.2,1.2,1.3,1.2,1.3,0
@@ -853,71 +855,70 @@ Maharashtra,2020-04-27,nowcast,1.2,1.2,1.3,1.2,1.3,0
 Maharashtra,2020-04-28,nowcast,1.2,1.2,1.3,1.2,1.3,0
 Maharashtra,2020-04-29,nowcast,1.2,1.2,1.3,1.2,1.3,0
 Maharashtra,2020-04-30,nowcast,1.2,1.2,1.3,1.2,1.3,0
-Maharashtra,2020-05-01,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Maharashtra,2020-05-01,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Maharashtra,2020-05-02,nowcast,1.2,1.1,1.3,1.2,1.2,0
 Maharashtra,2020-05-03,nowcast,1.2,1.1,1.3,1.2,1.2,0
 Maharashtra,2020-05-04,nowcast,1.2,1.1,1.3,1.2,1.2,0
-Maharashtra,2020-05-05,nowcast,1.2,1.1,1.2,1.2,1.2,0
+Maharashtra,2020-05-05,nowcast,1.2,1.1,1.3,1.2,1.2,0
 Maharashtra,2020-05-06,nowcast,1.2,1.1,1.2,1.2,1.2,0
 Maharashtra,2020-05-07,nowcast,1.2,1.1,1.2,1.2,1.2,0
 Maharashtra,2020-05-08,nowcast,1.2,1.1,1.2,1.2,1.2,0
 Maharashtra,2020-05-09,nowcast,1.2,1.1,1.2,1.2,1.2,0
 Maharashtra,2020-05-10,nowcast,1.2,1.1,1.2,1.2,1.2,0
-Maharashtra,2020-05-11,nowcast,1.2,1.1,1.2,1.2,1.2,0
-Maharashtra,2020-05-12,nowcast,1.2,1.1,1.2,1.2,1.2,0
+Maharashtra,2020-05-11,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Maharashtra,2020-05-12,nowcast,1.2,1.1,1.3,1.2,1.2,0
 Maharashtra,2020-05-13,nowcast,1.2,1.1,1.2,1.2,1.2,0
 Maharashtra,2020-05-14,nowcast,1.2,1.1,1.2,1.2,1.2,0
 Maharashtra,2020-05-15,nowcast,1.2,1.1,1.2,1.1,1.2,0
 Maharashtra,2020-05-16,nowcast,1.2,1.1,1.2,1.1,1.2,0
 Maharashtra,2020-05-17,nowcast,1.1,1.1,1.2,1.1,1.2,0
-Maharashtra,2020-05-18,nowcast,1.1,1.1,1.2,1.1,1.2,0
+Maharashtra,2020-05-18,nowcast,1.1,1.1,1.2,1.1,1.1,0
 Maharashtra,2020-05-19,nowcast,1.1,1.1,1.2,1.1,1.1,0
-Maharashtra,2020-05-20,nowcast,1.1,1.1,1.2,1.1,1.1,0
+Maharashtra,2020-05-20,forecast,1.1,1,1.2,1.1,1.1,0
 Maharashtra,2020-05-21,forecast,1.1,1,1.2,1.1,1.1,0
 Maharashtra,2020-05-22,forecast,1.1,1,1.2,1.1,1.1,0.01
-Maharashtra,2020-05-23,forecast,1.1,1,1.2,1.1,1.1,0.02
-Maharashtra,2020-05-24,forecast,1.1,1,1.2,1.1,1.1,0.03
-Maharashtra,2020-05-25,forecast,1.1,1,1.2,1.1,1.1,0.04
+Maharashtra,2020-05-23,forecast,1.1,1,1.2,1.1,1.2,0.02
+Maharashtra,2020-05-24,forecast,1.1,1,1.2,1.1,1.2,0.02
+Maharashtra,2020-05-25,forecast,1.1,1,1.2,1.1,1.1,0.03
 Maharashtra,2020-05-26,forecast,1.1,1,1.2,1.1,1.1,0.04
-Maharashtra,2020-05-27,forecast,1.1,1,1.2,1.1,1.1,0.06
-Maharashtra,2020-05-28,forecast,1.1,1,1.2,1.1,1.1,0.07
-Maharashtra,2020-05-29,forecast,1.1,1,1.2,1,1.1,0.08
-Maharashtra,2020-05-30,forecast,1.1,1,1.2,1,1.1,0.09
+Maharashtra,2020-05-27,forecast,1.1,1,1.2,1.1,1.2,0.05
+Maharashtra,2020-05-28,forecast,1.1,1,1.2,1.1,1.1,0.06
+Maharashtra,2020-05-29,forecast,1.1,1,1.2,1.1,1.1,0.07
+Maharashtra,2020-05-30,forecast,1.1,1,1.2,1,1.1,0.08
 Maharashtra,2020-05-31,forecast,1.1,1,1.2,1,1.1,0.1
-Maharashtra,2020-06-01,forecast,1.1,1,1.2,1,1.1,0.11
-Maharashtra,2020-06-02,forecast,1.1,1,1.2,1,1.1,0.12
-Maharashtra,2020-06-03,forecast,1.1,1,1.2,1,1.1,0.13
-NCT of Delhi,2020-03-14,nowcast,1.8,1,2.7,1.4,2,0.04
-NCT of Delhi,2020-03-15,nowcast,1.8,1,2.5,1.4,2,0.02
-NCT of Delhi,2020-03-16,nowcast,1.7,1,2.5,1.4,1.9,0.02
-NCT of Delhi,2020-03-17,nowcast,1.8,1.2,2.5,1.5,2,0.01
-NCT of Delhi,2020-03-18,nowcast,1.7,1.2,2.4,1.5,2,0.01
+Maharashtra,2020-06-01,forecast,1.1,1,1.2,1.1,1.2,0.1
+Maharashtra,2020-06-02,forecast,1.1,1,1.2,1.1,1.2,0.11
+NCT of Delhi,2020-03-14,nowcast,1.8,1,2.6,1.5,2.1,0.03
+NCT of Delhi,2020-03-15,nowcast,1.8,1.1,2.6,1.4,2,0.02
+NCT of Delhi,2020-03-16,nowcast,1.8,1.1,2.5,1.4,2,0.01
+NCT of Delhi,2020-03-17,nowcast,1.8,1.2,2.4,1.5,2,0.01
+NCT of Delhi,2020-03-18,nowcast,1.8,1.2,2.4,1.5,1.9,0.01
 NCT of Delhi,2020-03-19,nowcast,1.8,1.2,2.4,1.5,1.9,0.01
-NCT of Delhi,2020-03-20,nowcast,1.8,1.3,2.3,1.5,1.9,0
+NCT of Delhi,2020-03-20,nowcast,1.8,1.3,2.4,1.5,1.9,0
 NCT of Delhi,2020-03-21,nowcast,1.8,1.3,2.3,1.5,1.9,0
-NCT of Delhi,2020-03-22,nowcast,1.8,1.3,2.2,1.5,1.9,0
+NCT of Delhi,2020-03-22,nowcast,1.8,1.3,2.3,1.5,1.9,0
 NCT of Delhi,2020-03-23,nowcast,1.7,1.3,2.2,1.5,1.9,0
 NCT of Delhi,2020-03-24,nowcast,1.7,1.3,2.2,1.5,1.8,0
 NCT of Delhi,2020-03-25,nowcast,1.7,1.3,2.1,1.5,1.8,0
 NCT of Delhi,2020-03-26,nowcast,1.6,1.3,2,1.5,1.8,0
 NCT of Delhi,2020-03-27,nowcast,1.6,1.2,1.9,1.4,1.7,0
-NCT of Delhi,2020-03-28,nowcast,1.5,1.2,1.9,1.4,1.6,0
-NCT of Delhi,2020-03-29,nowcast,1.5,1.1,1.8,1.3,1.5,0
-NCT of Delhi,2020-03-30,nowcast,1.4,1.1,1.7,1.3,1.5,0
+NCT of Delhi,2020-03-28,nowcast,1.5,1.2,1.8,1.4,1.6,0
+NCT of Delhi,2020-03-29,nowcast,1.4,1.2,1.8,1.3,1.5,0
+NCT of Delhi,2020-03-30,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
 NCT of Delhi,2020-03-31,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
 NCT of Delhi,2020-04-01,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-NCT of Delhi,2020-04-02,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
+NCT of Delhi,2020-04-02,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
 NCT of Delhi,2020-04-03,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
 NCT of Delhi,2020-04-04,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
 NCT of Delhi,2020-04-05,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-NCT of Delhi,2020-04-06,nowcast,1.2,1,1.4,1.2,1.3,0.02
-NCT of Delhi,2020-04-07,nowcast,1.2,1,1.4,1.1,1.3,0.04
-NCT of Delhi,2020-04-08,nowcast,1.1,1,1.3,1.1,1.2,0.08
-NCT of Delhi,2020-04-09,nowcast,1.1,0.9,1.3,1,1.2,0.17
-NCT of Delhi,2020-04-10,nowcast,1.1,0.9,1.2,1,1.1,0.23
-NCT of Delhi,2020-04-11,nowcast,1,0.9,1.2,1,1.1,0.29
+NCT of Delhi,2020-04-06,nowcast,1.2,1.1,1.4,1.2,1.3,0.02
+NCT of Delhi,2020-04-07,nowcast,1.2,1,1.3,1.1,1.2,0.03
+NCT of Delhi,2020-04-08,nowcast,1.1,1,1.3,1.1,1.2,0.07
+NCT of Delhi,2020-04-09,nowcast,1.1,0.9,1.3,1,1.2,0.14
+NCT of Delhi,2020-04-10,nowcast,1.1,0.9,1.2,1,1.1,0.25
+NCT of Delhi,2020-04-11,nowcast,1.1,0.9,1.2,1,1.1,0.28
 NCT of Delhi,2020-04-12,nowcast,1.1,0.9,1.2,1,1.1,0.26
-NCT of Delhi,2020-04-13,nowcast,1.1,0.9,1.2,1,1.1,0.16
+NCT of Delhi,2020-04-13,nowcast,1.1,0.9,1.2,1,1.1,0.18
 NCT of Delhi,2020-04-14,nowcast,1.1,1,1.3,1,1.2,0.09
 NCT of Delhi,2020-04-15,nowcast,1.1,1,1.3,1.1,1.2,0.03
 NCT of Delhi,2020-04-16,nowcast,1.2,1,1.3,1.1,1.2,0.01
@@ -925,152 +926,150 @@ NCT of Delhi,2020-04-17,nowcast,1.2,1.1,1.4,1.1,1.2,0
 NCT of Delhi,2020-04-18,nowcast,1.2,1.1,1.4,1.2,1.3,0
 NCT of Delhi,2020-04-19,nowcast,1.3,1.1,1.4,1.2,1.3,0
 NCT of Delhi,2020-04-20,nowcast,1.3,1.1,1.4,1.2,1.3,0
-NCT of Delhi,2020-04-21,nowcast,1.3,1.1,1.4,1.2,1.3,0
+NCT of Delhi,2020-04-21,nowcast,1.3,1.2,1.4,1.2,1.3,0
 NCT of Delhi,2020-04-22,nowcast,1.3,1.2,1.4,1.2,1.3,0
 NCT of Delhi,2020-04-23,nowcast,1.3,1.2,1.4,1.2,1.3,0
-NCT of Delhi,2020-04-24,nowcast,1.3,1.1,1.4,1.2,1.3,0
+NCT of Delhi,2020-04-24,nowcast,1.3,1.2,1.4,1.2,1.3,0
 NCT of Delhi,2020-04-25,nowcast,1.3,1.1,1.4,1.2,1.3,0
 NCT of Delhi,2020-04-26,nowcast,1.3,1.1,1.4,1.2,1.3,0
-NCT of Delhi,2020-04-27,nowcast,1.3,1.1,1.4,1.2,1.3,0
+NCT of Delhi,2020-04-27,nowcast,1.2,1.1,1.4,1.2,1.3,0
 NCT of Delhi,2020-04-28,nowcast,1.2,1.1,1.4,1.2,1.3,0
 NCT of Delhi,2020-04-29,nowcast,1.2,1.1,1.3,1.2,1.3,0
-NCT of Delhi,2020-04-30,nowcast,1.2,1.1,1.3,1.2,1.2,0
+NCT of Delhi,2020-04-30,nowcast,1.2,1.1,1.3,1.2,1.3,0
 NCT of Delhi,2020-05-01,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-NCT of Delhi,2020-05-02,nowcast,1.1,1,1.2,1.1,1.2,0.01
+NCT of Delhi,2020-05-02,nowcast,1.1,1,1.3,1.1,1.2,0.01
 NCT of Delhi,2020-05-03,nowcast,1.1,1,1.2,1.1,1.2,0.02
 NCT of Delhi,2020-05-04,nowcast,1.1,1,1.2,1.1,1.2,0.02
-NCT of Delhi,2020-05-05,nowcast,1.1,1,1.2,1.1,1.1,0.02
-NCT of Delhi,2020-05-06,nowcast,1.1,1,1.2,1.1,1.1,0.02
-NCT of Delhi,2020-05-07,nowcast,1.1,1,1.2,1.1,1.2,0
-NCT of Delhi,2020-05-08,nowcast,1.1,1.1,1.2,1.1,1.1,0
+NCT of Delhi,2020-05-05,nowcast,1.1,1,1.2,1.1,1.2,0.02
+NCT of Delhi,2020-05-06,nowcast,1.1,1,1.2,1.1,1.1,0.01
+NCT of Delhi,2020-05-07,nowcast,1.1,1,1.2,1.1,1.1,0.01
+NCT of Delhi,2020-05-08,nowcast,1.1,1,1.2,1.1,1.2,0
 NCT of Delhi,2020-05-09,nowcast,1.1,1.1,1.2,1.1,1.2,0
 NCT of Delhi,2020-05-10,nowcast,1.1,1.1,1.2,1.1,1.2,0
 NCT of Delhi,2020-05-11,nowcast,1.1,1.1,1.2,1.1,1.2,0
-NCT of Delhi,2020-05-12,nowcast,1.1,1.1,1.2,1.1,1.2,0
+NCT of Delhi,2020-05-12,nowcast,1.2,1.1,1.2,1.1,1.2,0
 NCT of Delhi,2020-05-13,nowcast,1.2,1.1,1.2,1.1,1.2,0
 NCT of Delhi,2020-05-14,nowcast,1.2,1.1,1.2,1.1,1.2,0
-NCT of Delhi,2020-05-15,nowcast,1.2,1.1,1.2,1.1,1.2,0
-NCT of Delhi,2020-05-16,nowcast,1.2,1.1,1.3,1.1,1.2,0
-NCT of Delhi,2020-05-17,nowcast,1.2,1.1,1.3,1.1,1.2,0
+NCT of Delhi,2020-05-15,nowcast,1.2,1.1,1.3,1.1,1.2,0
+NCT of Delhi,2020-05-16,nowcast,1.2,1.1,1.3,1.2,1.2,0
+NCT of Delhi,2020-05-17,nowcast,1.2,1.1,1.3,1.2,1.2,0
 NCT of Delhi,2020-05-18,nowcast,1.2,1.1,1.3,1.2,1.2,0
 NCT of Delhi,2020-05-19,nowcast,1.2,1.1,1.3,1.2,1.2,0
-NCT of Delhi,2020-05-20,nowcast,1.2,1.1,1.3,1.2,1.2,0
+NCT of Delhi,2020-05-20,forecast,1.2,1.1,1.3,1.2,1.2,0
 NCT of Delhi,2020-05-21,forecast,1.2,1.1,1.3,1.2,1.2,0
-NCT of Delhi,2020-05-22,forecast,1.2,1.1,1.3,1.1,1.2,0
-NCT of Delhi,2020-05-23,forecast,1.2,1.1,1.3,1.1,1.2,0
-NCT of Delhi,2020-05-24,forecast,1.2,1.1,1.3,1.1,1.2,0.01
-NCT of Delhi,2020-05-25,forecast,1.2,1,1.3,1.1,1.2,0.01
-NCT of Delhi,2020-05-26,forecast,1.2,1.1,1.4,1.1,1.3,0.01
+NCT of Delhi,2020-05-22,forecast,1.2,1.1,1.3,1.2,1.3,0.01
+NCT of Delhi,2020-05-23,forecast,1.2,1.1,1.4,1.2,1.3,0.01
+NCT of Delhi,2020-05-24,forecast,1.2,1.1,1.4,1.1,1.3,0.01
+NCT of Delhi,2020-05-25,forecast,1.2,1,1.4,1.1,1.3,0.01
+NCT of Delhi,2020-05-26,forecast,1.2,1.1,1.4,1.1,1.3,0.02
 NCT of Delhi,2020-05-27,forecast,1.2,1,1.4,1.1,1.3,0.02
-NCT of Delhi,2020-05-28,forecast,1.2,1,1.4,1.1,1.3,0.02
-NCT of Delhi,2020-05-29,forecast,1.2,1,1.4,1.1,1.3,0.02
+NCT of Delhi,2020-05-28,forecast,1.2,1,1.4,1.1,1.3,0.03
+NCT of Delhi,2020-05-29,forecast,1.2,1,1.4,1.1,1.3,0.03
 NCT of Delhi,2020-05-30,forecast,1.2,1,1.4,1.1,1.3,0.03
-NCT of Delhi,2020-05-31,forecast,1.2,1,1.4,1.1,1.3,0.03
-NCT of Delhi,2020-06-01,forecast,1.2,1,1.4,1.1,1.3,0.03
-NCT of Delhi,2020-06-02,forecast,1.2,1,1.4,1.1,1.3,0.04
-NCT of Delhi,2020-06-03,forecast,1.2,1,1.4,1.1,1.3,0.05
-Odisha,2020-04-03,nowcast,1,0.4,1.5,0.7,1.2,0.54
+NCT of Delhi,2020-05-31,forecast,1.2,1,1.4,1.1,1.3,0.04
+NCT of Delhi,2020-06-01,forecast,1.2,1,1.4,1.1,1.3,0.04
+NCT of Delhi,2020-06-02,forecast,1.2,1,1.4,1.1,1.3,0.05
+Odisha,2020-04-03,nowcast,1,0.4,1.5,0.7,1.2,0.55
 Odisha,2020-04-04,nowcast,0.9,0.3,1.5,0.7,1.1,0.6
-Odisha,2020-04-05,nowcast,0.9,0.3,1.6,0.6,1.1,0.6
-Odisha,2020-04-06,nowcast,0.9,0.4,1.6,0.7,1.1,0.58
-Odisha,2020-04-07,nowcast,1,0.4,1.7,0.6,1.1,0.55
-Odisha,2020-04-08,nowcast,1,0.4,1.7,0.7,1.2,0.52
-Odisha,2020-04-09,nowcast,1.1,0.4,1.9,0.7,1.3,0.42
-Odisha,2020-04-10,nowcast,1.2,0.4,1.9,0.8,1.4,0.35
-Odisha,2020-04-11,nowcast,1.2,0.5,2,0.8,1.4,0.28
-Odisha,2020-04-12,nowcast,1.3,0.6,2.2,0.9,1.5,0.2
-Odisha,2020-04-13,nowcast,1.4,0.7,2.3,1,1.6,0.14
-Odisha,2020-04-14,nowcast,1.4,0.8,2.3,1.1,1.6,0.11
-Odisha,2020-04-15,nowcast,1.5,0.8,2.2,1.1,1.7,0.09
-Odisha,2020-04-16,nowcast,1.5,0.9,2.2,1.2,1.7,0.08
-Odisha,2020-04-17,nowcast,1.5,0.9,2.2,1.2,1.7,0.07
-Odisha,2020-04-18,nowcast,1.5,0.9,2.1,1.2,1.7,0.08
-Odisha,2020-04-19,nowcast,1.4,0.8,2,1.2,1.7,0.08
-Odisha,2020-04-20,nowcast,1.4,0.9,2,1.2,1.6,0.07
-Odisha,2020-04-21,nowcast,1.5,0.9,2,1.2,1.6,0.05
-Odisha,2020-04-22,nowcast,1.5,1,1.9,1.3,1.6,0.04
+Odisha,2020-04-05,nowcast,0.9,0.3,1.5,0.6,1.1,0.62
+Odisha,2020-04-06,nowcast,0.9,0.3,1.6,0.7,1.1,0.6
+Odisha,2020-04-07,nowcast,0.9,0.4,1.6,0.6,1.1,0.57
+Odisha,2020-04-08,nowcast,1,0.4,1.7,0.7,1.2,0.5
+Odisha,2020-04-09,nowcast,1.1,0.4,1.9,0.8,1.3,0.4
+Odisha,2020-04-10,nowcast,1.1,0.5,2,0.8,1.4,0.36
+Odisha,2020-04-11,nowcast,1.2,0.6,2.2,0.9,1.5,0.26
+Odisha,2020-04-12,nowcast,1.3,0.6,2.2,1,1.5,0.2
+Odisha,2020-04-13,nowcast,1.4,0.7,2.2,1.1,1.6,0.16
+Odisha,2020-04-14,nowcast,1.4,0.8,2.2,1.2,1.7,0.11
+Odisha,2020-04-15,nowcast,1.5,0.8,2.2,1.1,1.6,0.08
+Odisha,2020-04-16,nowcast,1.5,0.9,2.2,1.2,1.7,0.07
+Odisha,2020-04-17,nowcast,1.5,0.8,2.1,1.2,1.7,0.08
+Odisha,2020-04-18,nowcast,1.5,0.8,2.1,1.2,1.7,0.09
+Odisha,2020-04-19,nowcast,1.4,0.9,2,1.2,1.6,0.07
+Odisha,2020-04-20,nowcast,1.5,0.9,2,1.2,1.6,0.06
+Odisha,2020-04-21,nowcast,1.4,1,2,1.2,1.6,0.05
+Odisha,2020-04-22,nowcast,1.5,1,2,1.3,1.6,0.05
 Odisha,2020-04-23,nowcast,1.5,1,2,1.3,1.6,0.03
-Odisha,2020-04-24,nowcast,1.5,1,2,1.3,1.6,0.02
-Odisha,2020-04-25,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
-Odisha,2020-04-26,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
-Odisha,2020-04-27,nowcast,1.5,1.2,2,1.3,1.6,0.01
-Odisha,2020-04-28,nowcast,1.5,1.1,1.9,1.4,1.7,0.01
-Odisha,2020-04-29,nowcast,1.5,1.2,1.9,1.4,1.6,0.01
+Odisha,2020-04-24,nowcast,1.5,1.1,2,1.2,1.6,0.02
+Odisha,2020-04-25,nowcast,1.5,1.1,2,1.3,1.6,0.01
+Odisha,2020-04-26,nowcast,1.5,1.1,2,1.3,1.6,0.02
+Odisha,2020-04-27,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Odisha,2020-04-28,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Odisha,2020-04-29,nowcast,1.5,1.2,1.9,1.3,1.6,0
 Odisha,2020-04-30,nowcast,1.5,1.2,1.9,1.4,1.6,0
 Odisha,2020-05-01,nowcast,1.5,1.2,1.9,1.4,1.6,0
-Odisha,2020-05-02,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Odisha,2020-05-03,nowcast,1.5,1.1,1.8,1.3,1.6,0
-Odisha,2020-05-04,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Odisha,2020-05-05,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
-Odisha,2020-05-06,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Odisha,2020-05-02,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Odisha,2020-05-03,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Odisha,2020-05-04,nowcast,1.4,1.2,1.8,1.3,1.5,0.01
+Odisha,2020-05-05,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Odisha,2020-05-06,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
 Odisha,2020-05-07,nowcast,1.3,1,1.5,1.2,1.4,0.03
-Odisha,2020-05-08,nowcast,1.3,1,1.5,1.2,1.3,0.04
-Odisha,2020-05-09,nowcast,1.2,1,1.4,1.1,1.3,0.05
+Odisha,2020-05-08,nowcast,1.3,1,1.5,1.2,1.3,0.05
+Odisha,2020-05-09,nowcast,1.2,1,1.4,1.1,1.3,0.06
 Odisha,2020-05-10,nowcast,1.2,1,1.4,1.1,1.3,0.08
 Odisha,2020-05-11,nowcast,1.1,1,1.3,1.1,1.2,0.12
-Odisha,2020-05-12,nowcast,1.1,0.9,1.3,1,1.2,0.16
-Odisha,2020-05-13,nowcast,1.1,0.9,1.3,1,1.2,0.16
+Odisha,2020-05-12,nowcast,1.1,0.9,1.3,1,1.2,0.17
+Odisha,2020-05-13,nowcast,1.1,0.9,1.3,1,1.2,0.18
 Odisha,2020-05-14,nowcast,1.1,0.9,1.3,1,1.2,0.18
-Odisha,2020-05-15,nowcast,1.1,0.9,1.2,1,1.2,0.17
-Odisha,2020-05-16,nowcast,1.1,0.9,1.2,1,1.1,0.19
-Odisha,2020-05-17,nowcast,1.1,0.9,1.2,1,1.1,0.21
-Odisha,2020-05-18,nowcast,1.1,0.9,1.2,1,1.1,0.25
-Odisha,2020-05-19,nowcast,1.1,0.9,1.2,1,1.1,0.28
-Odisha,2020-05-20,nowcast,1,0.9,1.2,1,1.1,0.33
-Odisha,2020-05-21,forecast,1,0.8,1.3,0.9,1.1,0.41
-Odisha,2020-05-22,forecast,1,0.8,1.3,0.9,1.1,0.44
-Odisha,2020-05-23,forecast,1,0.7,1.3,0.9,1.2,0.46
-Odisha,2020-05-24,forecast,1,0.7,1.4,0.9,1.1,0.49
-Odisha,2020-05-25,forecast,1,0.6,1.4,0.8,1.1,0.5
-Odisha,2020-05-26,forecast,1,0.6,1.4,0.8,1.2,0.52
-Odisha,2020-05-27,forecast,1,0.5,1.4,0.8,1.2,0.52
-Odisha,2020-05-28,forecast,1,0.5,1.5,0.8,1.1,0.54
-Odisha,2020-05-29,forecast,1,0.5,1.5,0.8,1.1,0.55
-Odisha,2020-05-30,forecast,1,0.5,1.5,0.7,1.1,0.56
-Odisha,2020-05-31,forecast,1,0.4,1.5,0.7,1.1,0.56
-Odisha,2020-06-01,forecast,0.9,0.4,1.5,0.7,1.1,0.56
-Odisha,2020-06-02,forecast,0.9,0.4,1.5,0.7,1.1,0.58
-Odisha,2020-06-03,forecast,0.9,0.3,1.5,0.7,1.1,0.59
-Punjab,2020-03-21,nowcast,1.2,0.5,1.9,0.9,1.4,0.29
+Odisha,2020-05-15,nowcast,1.1,0.9,1.2,1,1.1,0.19
+Odisha,2020-05-16,nowcast,1.1,0.9,1.2,1,1.1,0.2
+Odisha,2020-05-17,nowcast,1.1,0.9,1.2,1,1.1,0.23
+Odisha,2020-05-18,nowcast,1.1,0.9,1.2,1,1.1,0.28
+Odisha,2020-05-19,nowcast,1,0.9,1.2,1,1.1,0.3
+Odisha,2020-05-20,forecast,1,0.8,1.3,0.9,1.1,0.41
+Odisha,2020-05-21,forecast,1,0.8,1.3,0.9,1.1,0.44
+Odisha,2020-05-22,forecast,1,0.7,1.3,0.9,1.1,0.48
+Odisha,2020-05-23,forecast,1,0.6,1.4,0.9,1.2,0.48
+Odisha,2020-05-24,forecast,1,0.6,1.4,0.8,1.1,0.51
+Odisha,2020-05-25,forecast,1,0.6,1.4,0.8,1.1,0.51
+Odisha,2020-05-26,forecast,1,0.6,1.4,0.8,1.1,0.53
+Odisha,2020-05-27,forecast,1,0.5,1.4,0.8,1.2,0.53
+Odisha,2020-05-28,forecast,1,0.5,1.5,0.7,1.1,0.54
+Odisha,2020-05-29,forecast,1,0.4,1.5,0.7,1.2,0.56
+Odisha,2020-05-30,forecast,1,0.4,1.5,0.8,1.2,0.56
+Odisha,2020-05-31,forecast,0.9,0.4,1.6,0.7,1.2,0.59
+Odisha,2020-06-01,forecast,0.9,0.4,1.6,0.7,1.1,0.58
+Odisha,2020-06-02,forecast,0.9,0.3,1.5,0.7,1.1,0.59
+Punjab,2020-03-21,nowcast,1.2,0.5,1.9,0.9,1.4,0.3
 Punjab,2020-03-22,nowcast,1.2,0.5,1.9,0.9,1.4,0.28
-Punjab,2020-03-23,nowcast,1.2,0.6,1.9,0.9,1.4,0.24
-Punjab,2020-03-24,nowcast,1.3,0.6,2,1,1.5,0.21
-Punjab,2020-03-25,nowcast,1.3,0.7,2,1,1.5,0.16
-Punjab,2020-03-26,nowcast,1.4,0.7,2,1.1,1.6,0.13
-Punjab,2020-03-27,nowcast,1.4,0.8,2.1,1.1,1.6,0.1
-Punjab,2020-03-28,nowcast,1.4,0.9,2.1,1.1,1.6,0.08
-Punjab,2020-03-29,nowcast,1.5,0.9,2.1,1.2,1.6,0.07
+Punjab,2020-03-23,nowcast,1.2,0.6,1.9,0.9,1.4,0.26
+Punjab,2020-03-24,nowcast,1.3,0.7,2.1,1,1.5,0.21
+Punjab,2020-03-25,nowcast,1.3,0.7,2,1,1.5,0.15
+Punjab,2020-03-26,nowcast,1.4,0.7,2.1,1.1,1.6,0.13
+Punjab,2020-03-27,nowcast,1.4,0.9,2.2,1.1,1.6,0.09
+Punjab,2020-03-28,nowcast,1.4,0.9,2.2,1.1,1.6,0.08
+Punjab,2020-03-29,nowcast,1.4,0.9,2.1,1.1,1.6,0.07
 Punjab,2020-03-30,nowcast,1.4,0.9,2,1.2,1.6,0.08
-Punjab,2020-03-31,nowcast,1.4,0.9,1.9,1.2,1.6,0.07
-Punjab,2020-04-01,nowcast,1.4,0.9,1.9,1.2,1.6,0.09
-Punjab,2020-04-02,nowcast,1.3,0.9,1.8,1.1,1.5,0.11
+Punjab,2020-03-31,nowcast,1.4,0.9,2,1.2,1.6,0.08
+Punjab,2020-04-01,nowcast,1.3,0.9,1.8,1.1,1.5,0.1
+Punjab,2020-04-02,nowcast,1.3,0.9,1.8,1.1,1.5,0.12
 Punjab,2020-04-03,nowcast,1.3,0.8,1.7,1.1,1.4,0.14
-Punjab,2020-04-04,nowcast,1.2,0.8,1.6,1.1,1.4,0.16
-Punjab,2020-04-05,nowcast,1.2,0.8,1.6,1,1.4,0.2
-Punjab,2020-04-06,nowcast,1.2,0.7,1.5,1,1.3,0.23
-Punjab,2020-04-07,nowcast,1.1,0.8,1.5,1,1.3,0.25
+Punjab,2020-04-04,nowcast,1.2,0.8,1.6,1.1,1.4,0.17
+Punjab,2020-04-05,nowcast,1.2,0.8,1.6,1.1,1.4,0.19
+Punjab,2020-04-06,nowcast,1.2,0.8,1.5,1,1.3,0.23
+Punjab,2020-04-07,nowcast,1.1,0.8,1.5,1,1.3,0.24
 Punjab,2020-04-08,nowcast,1.2,0.8,1.5,1,1.3,0.23
-Punjab,2020-04-09,nowcast,1.2,0.8,1.6,1,1.3,0.2
-Punjab,2020-04-10,nowcast,1.2,0.8,1.6,1,1.3,0.14
-Punjab,2020-04-11,nowcast,1.3,0.9,1.7,1.1,1.4,0.09
-Punjab,2020-04-12,nowcast,1.3,1,1.8,1.1,1.4,0.05
+Punjab,2020-04-09,nowcast,1.2,0.8,1.5,1,1.3,0.21
+Punjab,2020-04-10,nowcast,1.2,0.9,1.7,1,1.3,0.15
+Punjab,2020-04-11,nowcast,1.3,0.9,1.7,1.1,1.4,0.11
+Punjab,2020-04-12,nowcast,1.3,0.9,1.8,1.1,1.4,0.05
 Punjab,2020-04-13,nowcast,1.4,1,1.8,1.2,1.5,0.03
-Punjab,2020-04-14,nowcast,1.4,1.1,1.8,1.2,1.5,0.01
-Punjab,2020-04-15,nowcast,1.4,1.1,1.8,1.3,1.6,0.01
-Punjab,2020-04-16,nowcast,1.5,1.2,1.9,1.3,1.6,0.01
-Punjab,2020-04-17,nowcast,1.5,1.2,1.9,1.3,1.6,0
+Punjab,2020-04-14,nowcast,1.4,1.1,1.8,1.2,1.5,0.02
+Punjab,2020-04-15,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Punjab,2020-04-16,nowcast,1.5,1.2,1.9,1.3,1.6,0
+Punjab,2020-04-17,nowcast,1.5,1.2,1.9,1.4,1.6,0
 Punjab,2020-04-18,nowcast,1.6,1.2,1.9,1.4,1.7,0
-Punjab,2020-04-19,nowcast,1.6,1.2,1.9,1.4,1.7,0
-Punjab,2020-04-20,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Punjab,2020-04-19,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Punjab,2020-04-20,nowcast,1.6,1.3,2,1.4,1.7,0
 Punjab,2020-04-21,nowcast,1.6,1.3,1.9,1.4,1.7,0
 Punjab,2020-04-22,nowcast,1.6,1.3,1.9,1.4,1.7,0
-Punjab,2020-04-23,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Punjab,2020-04-23,nowcast,1.5,1.2,1.9,1.4,1.7,0
 Punjab,2020-04-24,nowcast,1.5,1.2,1.8,1.4,1.6,0
 Punjab,2020-04-25,nowcast,1.4,1.1,1.7,1.3,1.5,0
-Punjab,2020-04-26,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
-Punjab,2020-04-27,nowcast,1.2,1,1.5,1.1,1.4,0.06
+Punjab,2020-04-26,nowcast,1.3,1.1,1.6,1.2,1.5,0.01
+Punjab,2020-04-27,nowcast,1.2,1,1.5,1.1,1.3,0.06
 Punjab,2020-04-28,nowcast,1.1,0.9,1.4,1,1.2,0.2
-Punjab,2020-04-29,nowcast,1,0.8,1.2,0.9,1.1,0.52
+Punjab,2020-04-29,nowcast,1,0.8,1.2,0.9,1.1,0.51
 Punjab,2020-04-30,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
 Punjab,2020-05-01,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 Punjab,2020-05-02,nowcast,0.7,0.5,0.8,0.6,0.7,1
@@ -1082,452 +1081,445 @@ Punjab,2020-05-07,nowcast,0.5,0.3,0.6,0.4,0.5,1
 Punjab,2020-05-08,nowcast,0.5,0.3,0.6,0.4,0.5,1
 Punjab,2020-05-09,nowcast,0.5,0.3,0.6,0.4,0.5,1
 Punjab,2020-05-10,nowcast,0.5,0.3,0.7,0.4,0.5,0.99
-Punjab,2020-05-11,nowcast,0.5,0.3,0.8,0.4,0.6,0.98
-Punjab,2020-05-12,nowcast,0.6,0.4,0.9,0.5,0.7,0.95
-Punjab,2020-05-13,nowcast,0.7,0.4,1,0.5,0.8,0.89
+Punjab,2020-05-11,nowcast,0.5,0.3,0.8,0.4,0.6,0.97
+Punjab,2020-05-12,nowcast,0.6,0.4,1,0.5,0.7,0.94
+Punjab,2020-05-13,nowcast,0.7,0.4,1.1,0.5,0.8,0.87
 Punjab,2020-05-14,nowcast,0.8,0.5,1.2,0.6,0.9,0.8
-Punjab,2020-05-15,nowcast,0.9,0.5,1.3,0.7,1,0.7
-Punjab,2020-05-16,nowcast,0.9,0.6,1.4,0.7,1,0.59
-Punjab,2020-05-17,nowcast,1,0.6,1.4,0.8,1.1,0.49
-Punjab,2020-05-18,nowcast,1.1,0.7,1.5,0.9,1.2,0.35
-Punjab,2020-05-19,nowcast,1.1,0.8,1.5,0.9,1.2,0.25
-Punjab,2020-05-20,nowcast,1.2,0.8,1.6,1,1.3,0.19
-Rajasthan,2020-03-20,nowcast,1.6,1.2,2.2,1.4,1.8,0.02
+Punjab,2020-05-15,nowcast,0.9,0.5,1.3,0.7,1,0.68
+Punjab,2020-05-16,nowcast,1,0.6,1.4,0.7,1,0.58
+Punjab,2020-05-17,nowcast,1,0.7,1.4,0.8,1.1,0.45
+Punjab,2020-05-18,nowcast,1.1,0.8,1.5,0.9,1.2,0.31
+Punjab,2020-05-19,nowcast,1.1,0.8,1.5,0.9,1.2,0.23
+Rajasthan,2020-03-20,nowcast,1.6,1.1,2.2,1.4,1.8,0.02
 Rajasthan,2020-03-21,nowcast,1.6,1.2,2.2,1.4,1.8,0.01
-Rajasthan,2020-03-22,nowcast,1.6,1.2,2.1,1.4,1.8,0
+Rajasthan,2020-03-22,nowcast,1.6,1.2,2.1,1.4,1.8,0.01
 Rajasthan,2020-03-23,nowcast,1.6,1.2,2.1,1.4,1.8,0
 Rajasthan,2020-03-24,nowcast,1.6,1.2,2.1,1.5,1.8,0
-Rajasthan,2020-03-25,nowcast,1.6,1.2,2,1.4,1.7,0
+Rajasthan,2020-03-25,nowcast,1.6,1.2,2.1,1.4,1.8,0
 Rajasthan,2020-03-26,nowcast,1.6,1.2,2,1.4,1.7,0
-Rajasthan,2020-03-27,nowcast,1.6,1.2,1.9,1.4,1.7,0
+Rajasthan,2020-03-27,nowcast,1.6,1.2,2,1.4,1.7,0
 Rajasthan,2020-03-28,nowcast,1.6,1.2,1.9,1.4,1.7,0
 Rajasthan,2020-03-29,nowcast,1.5,1.2,1.9,1.4,1.6,0
-Rajasthan,2020-03-30,nowcast,1.5,1.2,1.8,1.4,1.6,0
-Rajasthan,2020-03-31,nowcast,1.5,1.2,1.8,1.3,1.5,0
-Rajasthan,2020-04-01,nowcast,1.4,1.2,1.7,1.3,1.5,0
-Rajasthan,2020-04-02,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
-Rajasthan,2020-04-03,nowcast,1.4,1.1,1.6,1.3,1.4,0.01
-Rajasthan,2020-04-04,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Rajasthan,2020-03-30,nowcast,1.5,1.2,1.8,1.3,1.6,0
+Rajasthan,2020-03-31,nowcast,1.5,1.2,1.7,1.3,1.6,0
+Rajasthan,2020-04-01,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Rajasthan,2020-04-02,nowcast,1.4,1.1,1.7,1.3,1.5,0
+Rajasthan,2020-04-03,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
+Rajasthan,2020-04-04,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Rajasthan,2020-04-05,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
-Rajasthan,2020-04-06,nowcast,1.2,1.1,1.5,1.2,1.3,0.02
+Rajasthan,2020-04-06,nowcast,1.2,1,1.4,1.2,1.3,0.02
 Rajasthan,2020-04-07,nowcast,1.2,1,1.4,1.1,1.3,0.04
 Rajasthan,2020-04-08,nowcast,1.2,1,1.3,1.1,1.2,0.07
-Rajasthan,2020-04-09,nowcast,1.1,1,1.3,1.1,1.2,0.1
-Rajasthan,2020-04-10,nowcast,1.1,0.9,1.3,1,1.2,0.14
-Rajasthan,2020-04-11,nowcast,1.1,0.9,1.2,1,1.1,0.15
-Rajasthan,2020-04-12,nowcast,1.1,0.9,1.2,1,1.1,0.17
-Rajasthan,2020-04-13,nowcast,1.1,0.9,1.2,1,1.1,0.2
-Rajasthan,2020-04-14,nowcast,1.1,0.9,1.2,1,1.1,0.22
-Rajasthan,2020-04-15,nowcast,1,0.9,1.2,1,1.1,0.24
+Rajasthan,2020-04-09,nowcast,1.1,1,1.3,1.1,1.2,0.11
+Rajasthan,2020-04-10,nowcast,1.1,0.9,1.2,1,1.2,0.14
+Rajasthan,2020-04-11,nowcast,1.1,0.9,1.2,1,1.2,0.16
+Rajasthan,2020-04-12,nowcast,1.1,0.9,1.2,1,1.1,0.18
+Rajasthan,2020-04-13,nowcast,1.1,0.9,1.2,1,1.1,0.19
+Rajasthan,2020-04-14,nowcast,1.1,0.9,1.2,1,1.1,0.21
+Rajasthan,2020-04-15,nowcast,1.1,0.9,1.2,1,1.1,0.25
 Rajasthan,2020-04-16,nowcast,1,0.9,1.2,1,1.1,0.31
-Rajasthan,2020-04-17,nowcast,1,0.9,1.1,1,1.1,0.38
+Rajasthan,2020-04-17,nowcast,1,0.9,1.1,1,1.1,0.37
 Rajasthan,2020-04-18,nowcast,1,0.9,1.1,1,1.1,0.44
-Rajasthan,2020-04-19,nowcast,1,0.9,1.1,1,1.1,0.45
-Rajasthan,2020-04-20,nowcast,1,0.9,1.1,1,1.1,0.43
-Rajasthan,2020-04-21,nowcast,1,0.9,1.2,1,1.1,0.36
-Rajasthan,2020-04-22,nowcast,1,0.9,1.2,1,1.1,0.26
+Rajasthan,2020-04-19,nowcast,1,0.9,1.1,1,1,0.48
+Rajasthan,2020-04-20,nowcast,1,0.9,1.1,1,1.1,0.44
+Rajasthan,2020-04-21,nowcast,1,0.9,1.2,1,1.1,0.37
+Rajasthan,2020-04-22,nowcast,1,0.9,1.2,1,1.1,0.24
 Rajasthan,2020-04-23,nowcast,1.1,0.9,1.2,1,1.1,0.15
-Rajasthan,2020-04-24,nowcast,1.1,1,1.3,1,1.1,0.08
-Rajasthan,2020-04-25,nowcast,1.1,1,1.3,1,1.2,0.04
+Rajasthan,2020-04-24,nowcast,1.1,1,1.3,1,1.1,0.09
+Rajasthan,2020-04-25,nowcast,1.1,1,1.3,1,1.1,0.05
 Rajasthan,2020-04-26,nowcast,1.1,1,1.3,1.1,1.2,0.03
 Rajasthan,2020-04-27,nowcast,1.1,1,1.3,1.1,1.2,0.02
-Rajasthan,2020-04-28,nowcast,1.1,1,1.3,1.1,1.2,0.01
-Rajasthan,2020-04-29,nowcast,1.2,1,1.3,1.1,1.2,0.01
-Rajasthan,2020-04-30,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Rajasthan,2020-04-28,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Rajasthan,2020-04-29,nowcast,1.2,1,1.3,1.1,1.2,0.02
+Rajasthan,2020-04-30,nowcast,1.2,1,1.3,1.1,1.2,0.01
 Rajasthan,2020-05-01,nowcast,1.2,1,1.3,1.1,1.2,0.02
 Rajasthan,2020-05-02,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-Rajasthan,2020-05-03,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Rajasthan,2020-05-03,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 Rajasthan,2020-05-04,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 Rajasthan,2020-05-05,nowcast,1.2,1.1,1.3,1.1,1.2,0
 Rajasthan,2020-05-06,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Rajasthan,2020-05-07,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Rajasthan,2020-05-07,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 Rajasthan,2020-05-08,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Rajasthan,2020-05-09,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Rajasthan,2020-05-09,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 Rajasthan,2020-05-10,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-Rajasthan,2020-05-11,nowcast,1.2,1,1.3,1.1,1.2,0.01
-Rajasthan,2020-05-12,nowcast,1.1,1,1.2,1.1,1.2,0.02
-Rajasthan,2020-05-13,nowcast,1.1,1,1.2,1.1,1.2,0.04
-Rajasthan,2020-05-14,nowcast,1.1,1,1.2,1.1,1.1,0.07
-Rajasthan,2020-05-15,nowcast,1.1,1,1.2,1,1.1,0.11
-Rajasthan,2020-05-16,nowcast,1.1,0.9,1.1,1,1.1,0.17
-Rajasthan,2020-05-17,nowcast,1,0.9,1.1,1,1.1,0.21
-Rajasthan,2020-05-18,nowcast,1,1,1.1,1,1.1,0.23
-Rajasthan,2020-05-19,nowcast,1,0.9,1.1,1,1.1,0.24
-Rajasthan,2020-05-20,nowcast,1,0.9,1.1,1,1.1,0.29
-Rajasthan,2020-05-21,forecast,1,0.9,1.2,1,1.1,0.34
-Rajasthan,2020-05-22,forecast,1,0.9,1.2,1,1.1,0.37
-Rajasthan,2020-05-23,forecast,1,0.9,1.2,1,1.1,0.38
-Rajasthan,2020-05-24,forecast,1,0.8,1.2,1,1.1,0.4
-Rajasthan,2020-05-25,forecast,1,0.8,1.2,0.9,1.1,0.41
-Rajasthan,2020-05-26,forecast,1,0.8,1.2,1,1.1,0.42
-Rajasthan,2020-05-27,forecast,1,0.8,1.2,1,1.1,0.43
-Rajasthan,2020-05-28,forecast,1,0.8,1.2,0.9,1.1,0.45
-Rajasthan,2020-05-29,forecast,1,0.8,1.2,0.9,1.1,0.45
-Rajasthan,2020-05-30,forecast,1,0.8,1.3,0.9,1.1,0.44
-Rajasthan,2020-05-31,forecast,1,0.8,1.3,0.9,1.1,0.45
-Rajasthan,2020-06-01,forecast,1,0.7,1.3,0.9,1.1,0.45
-Rajasthan,2020-06-02,forecast,1,0.7,1.3,0.9,1.1,0.46
-Rajasthan,2020-06-03,forecast,1,0.7,1.3,0.9,1.1,0.47
-Tamil Nadu,2020-03-24,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Tamil Nadu,2020-03-25,nowcast,1.6,1.2,2,1.4,1.7,0
+Rajasthan,2020-05-11,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Rajasthan,2020-05-12,nowcast,1.1,1,1.2,1.1,1.2,0.03
+Rajasthan,2020-05-13,nowcast,1.1,1,1.2,1.1,1.2,0.05
+Rajasthan,2020-05-14,nowcast,1.1,1,1.2,1.1,1.2,0.06
+Rajasthan,2020-05-15,nowcast,1.1,1,1.2,1,1.1,0.1
+Rajasthan,2020-05-16,nowcast,1.1,1,1.2,1,1.1,0.14
+Rajasthan,2020-05-17,nowcast,1.1,1,1.1,1,1.1,0.15
+Rajasthan,2020-05-18,nowcast,1,1,1.1,1,1.1,0.19
+Rajasthan,2020-05-19,nowcast,1,1,1.1,1,1.1,0.19
+Rajasthan,2020-05-20,forecast,1,0.9,1.2,1,1.1,0.24
+Rajasthan,2020-05-21,forecast,1,0.9,1.2,1,1.1,0.27
+Rajasthan,2020-05-22,forecast,1.1,0.9,1.2,1,1.1,0.29
+Rajasthan,2020-05-23,forecast,1.1,0.9,1.2,1,1.1,0.31
+Rajasthan,2020-05-24,forecast,1.1,0.9,1.2,1,1.1,0.33
+Rajasthan,2020-05-25,forecast,1,0.9,1.2,1,1.1,0.35
+Rajasthan,2020-05-26,forecast,1,0.9,1.3,1,1.1,0.35
+Rajasthan,2020-05-27,forecast,1,0.8,1.3,1,1.1,0.36
+Rajasthan,2020-05-28,forecast,1,0.8,1.3,1,1.1,0.36
+Rajasthan,2020-05-29,forecast,1,0.8,1.3,0.9,1.1,0.38
+Rajasthan,2020-05-30,forecast,1,0.8,1.3,1,1.1,0.37
+Rajasthan,2020-05-31,forecast,1,0.8,1.3,1,1.2,0.38
+Rajasthan,2020-06-01,forecast,1,0.8,1.3,0.9,1.1,0.4
+Rajasthan,2020-06-02,forecast,1,0.8,1.3,0.9,1.1,0.41
+Tamil Nadu,2020-03-24,nowcast,1.7,1.3,2.2,1.5,1.8,0
+Tamil Nadu,2020-03-25,nowcast,1.6,1.2,2,1.4,1.8,0
 Tamil Nadu,2020-03-26,nowcast,1.6,1.2,2,1.4,1.7,0
-Tamil Nadu,2020-03-27,nowcast,1.5,1.2,1.8,1.3,1.6,0
-Tamil Nadu,2020-03-28,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Tamil Nadu,2020-03-29,nowcast,1.3,1.1,1.7,1.2,1.4,0.02
-Tamil Nadu,2020-03-30,nowcast,1.3,1,1.5,1.1,1.3,0.06
-Tamil Nadu,2020-03-31,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+Tamil Nadu,2020-03-27,nowcast,1.5,1.1,1.9,1.4,1.6,0
+Tamil Nadu,2020-03-28,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
+Tamil Nadu,2020-03-29,nowcast,1.3,1,1.6,1.2,1.5,0.02
+Tamil Nadu,2020-03-30,nowcast,1.3,1,1.5,1.1,1.4,0.06
+Tamil Nadu,2020-03-31,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
 Tamil Nadu,2020-04-01,nowcast,1.1,0.9,1.3,1,1.2,0.2
-Tamil Nadu,2020-04-02,nowcast,1.1,0.9,1.3,1,1.1,0.28
-Tamil Nadu,2020-04-03,nowcast,1,0.9,1.2,1,1.1,0.33
-Tamil Nadu,2020-04-04,nowcast,1,0.8,1.2,1,1.1,0.37
+Tamil Nadu,2020-04-02,nowcast,1.1,0.9,1.3,1,1.2,0.28
+Tamil Nadu,2020-04-03,nowcast,1,0.9,1.2,1,1.1,0.34
+Tamil Nadu,2020-04-04,nowcast,1,0.9,1.2,1,1.1,0.38
 Tamil Nadu,2020-04-05,nowcast,1,0.9,1.2,1,1.1,0.39
-Tamil Nadu,2020-04-06,nowcast,1,0.9,1.2,1,1.1,0.42
-Tamil Nadu,2020-04-07,nowcast,1,0.9,1.2,0.9,1.1,0.45
-Tamil Nadu,2020-04-08,nowcast,1,0.8,1.2,1,1.1,0.44
-Tamil Nadu,2020-04-09,nowcast,1,0.8,1.2,0.9,1.1,0.43
-Tamil Nadu,2020-04-10,nowcast,1,0.8,1.2,0.9,1.1,0.4
-Tamil Nadu,2020-04-11,nowcast,1,0.9,1.2,1,1.1,0.33
-Tamil Nadu,2020-04-12,nowcast,1.1,0.9,1.3,1,1.1,0.21
-Tamil Nadu,2020-04-13,nowcast,1.1,0.9,1.4,1,1.2,0.12
+Tamil Nadu,2020-04-06,nowcast,1,0.9,1.2,0.9,1.1,0.42
+Tamil Nadu,2020-04-07,nowcast,1,0.9,1.2,1,1.1,0.43
+Tamil Nadu,2020-04-08,nowcast,1,0.9,1.2,1,1.1,0.43
+Tamil Nadu,2020-04-09,nowcast,1,0.9,1.2,1,1.1,0.43
+Tamil Nadu,2020-04-10,nowcast,1,0.8,1.2,1,1.1,0.39
+Tamil Nadu,2020-04-11,nowcast,1,0.9,1.2,1,1.1,0.32
+Tamil Nadu,2020-04-12,nowcast,1.1,0.9,1.3,1,1.1,0.22
+Tamil Nadu,2020-04-13,nowcast,1.1,0.9,1.4,1.1,1.2,0.11
 Tamil Nadu,2020-04-14,nowcast,1.2,1,1.4,1.1,1.3,0.04
-Tamil Nadu,2020-04-15,nowcast,1.3,1,1.5,1.2,1.3,0.01
-Tamil Nadu,2020-04-16,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Tamil Nadu,2020-04-17,nowcast,1.4,1.2,1.6,1.2,1.4,0
-Tamil Nadu,2020-04-18,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Tamil Nadu,2020-04-19,nowcast,1.4,1.2,1.6,1.4,1.5,0
+Tamil Nadu,2020-04-15,nowcast,1.3,1,1.5,1.2,1.3,0.02
+Tamil Nadu,2020-04-16,nowcast,1.3,1.1,1.6,1.2,1.4,0
+Tamil Nadu,2020-04-17,nowcast,1.3,1.2,1.6,1.2,1.4,0
+Tamil Nadu,2020-04-18,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Tamil Nadu,2020-04-19,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Tamil Nadu,2020-04-20,nowcast,1.5,1.3,1.7,1.4,1.5,0
 Tamil Nadu,2020-04-21,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Tamil Nadu,2020-04-22,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Tamil Nadu,2020-04-23,nowcast,1.5,1.4,1.8,1.4,1.6,0
-Tamil Nadu,2020-04-24,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Tamil Nadu,2020-04-25,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Tamil Nadu,2020-04-22,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Tamil Nadu,2020-04-23,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Tamil Nadu,2020-04-24,nowcast,1.6,1.4,1.8,1.5,1.6,0
+Tamil Nadu,2020-04-25,nowcast,1.5,1.4,1.8,1.5,1.6,0
 Tamil Nadu,2020-04-26,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Tamil Nadu,2020-04-27,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Tamil Nadu,2020-04-28,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Tamil Nadu,2020-04-29,nowcast,1.4,1.2,1.6,1.3,1.5,0
+Tamil Nadu,2020-04-28,nowcast,1.5,1.3,1.7,1.4,1.5,0
+Tamil Nadu,2020-04-29,nowcast,1.4,1.2,1.6,1.4,1.5,0
 Tamil Nadu,2020-04-30,nowcast,1.4,1.2,1.6,1.3,1.4,0
 Tamil Nadu,2020-05-01,nowcast,1.3,1.2,1.5,1.2,1.4,0
 Tamil Nadu,2020-05-02,nowcast,1.3,1.1,1.4,1.2,1.3,0
-Tamil Nadu,2020-05-03,nowcast,1.2,1.1,1.3,1.1,1.3,0
+Tamil Nadu,2020-05-03,nowcast,1.2,1.1,1.3,1.1,1.2,0
 Tamil Nadu,2020-05-04,nowcast,1.2,1,1.3,1.1,1.2,0.01
-Tamil Nadu,2020-05-05,nowcast,1.1,1,1.2,1.1,1.2,0.03
-Tamil Nadu,2020-05-06,nowcast,1.1,1,1.2,1,1.1,0.07
-Tamil Nadu,2020-05-07,nowcast,1.1,1,1.2,1,1.1,0.09
+Tamil Nadu,2020-05-05,nowcast,1.1,1,1.2,1.1,1.2,0.02
+Tamil Nadu,2020-05-06,nowcast,1.1,1,1.2,1.1,1.1,0.05
+Tamil Nadu,2020-05-07,nowcast,1.1,1,1.1,1,1.1,0.06
 Tamil Nadu,2020-05-08,nowcast,1.1,1,1.1,1,1.1,0.11
-Tamil Nadu,2020-05-09,nowcast,1.1,1,1.1,1,1.1,0.11
-Tamil Nadu,2020-05-10,nowcast,1.1,1,1.1,1,1.1,0.11
+Tamil Nadu,2020-05-09,nowcast,1.1,1,1.1,1,1.1,0.13
+Tamil Nadu,2020-05-10,nowcast,1,1,1.1,1,1.1,0.1
 Tamil Nadu,2020-05-11,nowcast,1.1,1,1.1,1,1.1,0.07
 Tamil Nadu,2020-05-12,nowcast,1.1,1,1.1,1,1.1,0.02
 Tamil Nadu,2020-05-13,nowcast,1.1,1,1.2,1.1,1.1,0
 Tamil Nadu,2020-05-14,nowcast,1.1,1,1.2,1.1,1.1,0
 Tamil Nadu,2020-05-15,nowcast,1.1,1.1,1.2,1.1,1.1,0
-Tamil Nadu,2020-05-16,nowcast,1.1,1.1,1.2,1.1,1.2,0
+Tamil Nadu,2020-05-16,nowcast,1.1,1.1,1.2,1.1,1.1,0
 Tamil Nadu,2020-05-17,nowcast,1.1,1.1,1.2,1.1,1.1,0
 Tamil Nadu,2020-05-18,nowcast,1.1,1.1,1.2,1.1,1.1,0
-Tamil Nadu,2020-05-19,nowcast,1.1,1.1,1.2,1.1,1.2,0
-Tamil Nadu,2020-05-20,nowcast,1.1,1.1,1.2,1.1,1.2,0
-Tamil Nadu,2020-05-21,forecast,1.1,1,1.2,1.1,1.2,0.03
-Tamil Nadu,2020-05-22,forecast,1.1,1,1.3,1.1,1.2,0.07
-Tamil Nadu,2020-05-23,forecast,1.1,1,1.3,1,1.2,0.1
-Tamil Nadu,2020-05-24,forecast,1.1,0.9,1.3,1,1.2,0.14
-Tamil Nadu,2020-05-25,forecast,1.1,0.9,1.3,1,1.2,0.17
-Tamil Nadu,2020-05-26,forecast,1.1,0.9,1.4,1,1.2,0.2
-Tamil Nadu,2020-05-27,forecast,1.1,0.8,1.4,1,1.2,0.22
-Tamil Nadu,2020-05-28,forecast,1.1,0.8,1.4,1,1.2,0.24
-Tamil Nadu,2020-05-29,forecast,1.1,0.8,1.4,1,1.2,0.25
-Tamil Nadu,2020-05-30,forecast,1.1,0.8,1.5,1,1.2,0.27
-Tamil Nadu,2020-05-31,forecast,1.1,0.8,1.5,1,1.2,0.29
-Tamil Nadu,2020-06-01,forecast,1.1,0.7,1.5,1,1.3,0.31
-Tamil Nadu,2020-06-02,forecast,1.1,0.7,1.5,1,1.3,0.31
-Tamil Nadu,2020-06-03,forecast,1.1,0.7,1.6,1,1.3,0.33
-Telangana,2020-03-18,nowcast,1.6,1,2.2,1.3,1.8,0.03
-Telangana,2020-03-19,nowcast,1.6,1.1,2.2,1.4,1.8,0.02
-Telangana,2020-03-20,nowcast,1.6,1.1,2.2,1.3,1.8,0.02
-Telangana,2020-03-21,nowcast,1.6,1.1,2.1,1.4,1.7,0.02
-Telangana,2020-03-22,nowcast,1.6,1.1,2.1,1.3,1.7,0.01
+Tamil Nadu,2020-05-19,nowcast,1.1,1.1,1.2,1.1,1.1,0
+Tamil Nadu,2020-05-20,forecast,1.1,1,1.2,1.1,1.2,0.03
+Tamil Nadu,2020-05-21,forecast,1.1,1,1.3,1.1,1.2,0.08
+Tamil Nadu,2020-05-22,forecast,1.1,0.9,1.3,1.1,1.2,0.13
+Tamil Nadu,2020-05-23,forecast,1.1,0.9,1.3,1,1.2,0.16
+Tamil Nadu,2020-05-24,forecast,1.1,0.9,1.3,1,1.2,0.19
+Tamil Nadu,2020-05-25,forecast,1.1,0.9,1.4,1,1.2,0.22
+Tamil Nadu,2020-05-26,forecast,1.1,0.8,1.4,1,1.2,0.25
+Tamil Nadu,2020-05-27,forecast,1.1,0.8,1.4,1,1.2,0.27
+Tamil Nadu,2020-05-28,forecast,1.1,0.8,1.5,1,1.2,0.29
+Tamil Nadu,2020-05-29,forecast,1.1,0.7,1.5,1,1.2,0.31
+Tamil Nadu,2020-05-30,forecast,1.1,0.7,1.5,1,1.3,0.31
+Tamil Nadu,2020-05-31,forecast,1.1,0.7,1.5,0.9,1.3,0.33
+Tamil Nadu,2020-06-01,forecast,1.1,0.7,1.6,0.9,1.3,0.35
+Tamil Nadu,2020-06-02,forecast,1.1,0.6,1.6,0.9,1.3,0.35
+Telangana,2020-03-18,nowcast,1.6,1,2.1,1.3,1.8,0.02
+Telangana,2020-03-19,nowcast,1.6,1.1,2.1,1.3,1.7,0.02
+Telangana,2020-03-20,nowcast,1.6,1.1,2.1,1.3,1.7,0.01
+Telangana,2020-03-21,nowcast,1.6,1.1,2.1,1.4,1.7,0.01
+Telangana,2020-03-22,nowcast,1.6,1.1,2,1.4,1.7,0.01
 Telangana,2020-03-23,nowcast,1.5,1.1,2,1.4,1.7,0.01
-Telangana,2020-03-24,nowcast,1.5,1.2,2,1.3,1.7,0.01
-Telangana,2020-03-25,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Telangana,2020-03-24,nowcast,1.5,1.1,2,1.3,1.7,0.01
+Telangana,2020-03-25,nowcast,1.5,1.1,1.9,1.3,1.7,0.01
 Telangana,2020-03-26,nowcast,1.5,1.1,1.9,1.3,1.6,0.02
 Telangana,2020-03-27,nowcast,1.4,1.1,1.8,1.3,1.6,0.02
 Telangana,2020-03-28,nowcast,1.4,1,1.7,1.2,1.5,0.03
-Telangana,2020-03-29,nowcast,1.3,1,1.6,1.2,1.4,0.06
-Telangana,2020-03-30,nowcast,1.2,0.9,1.5,1.1,1.4,0.12
-Telangana,2020-03-31,nowcast,1.2,0.9,1.4,1,1.3,0.18
-Telangana,2020-04-01,nowcast,1.1,0.8,1.3,1,1.2,0.28
-Telangana,2020-04-02,nowcast,1,0.8,1.3,0.9,1.1,0.41
-Telangana,2020-04-03,nowcast,1,0.8,1.2,0.9,1.1,0.5
+Telangana,2020-03-29,nowcast,1.3,1,1.6,1.2,1.4,0.05
+Telangana,2020-03-30,nowcast,1.2,0.9,1.5,1.1,1.4,0.1
+Telangana,2020-03-31,nowcast,1.2,0.8,1.4,1.1,1.3,0.18
+Telangana,2020-04-01,nowcast,1.1,0.8,1.4,1,1.2,0.28
+Telangana,2020-04-02,nowcast,1,0.8,1.3,0.9,1.1,0.38
+Telangana,2020-04-03,nowcast,1,0.8,1.2,1,1.1,0.47
 Telangana,2020-04-04,nowcast,1,0.8,1.2,0.9,1.1,0.51
 Telangana,2020-04-05,nowcast,1,0.8,1.2,0.9,1.1,0.57
-Telangana,2020-04-06,nowcast,1,0.8,1.2,0.9,1.1,0.58
-Telangana,2020-04-07,nowcast,1,0.8,1.2,0.9,1,0.54
-Telangana,2020-04-08,nowcast,1,0.8,1.2,0.9,1.1,0.53
+Telangana,2020-04-06,nowcast,1,0.8,1.2,0.9,1.1,0.55
+Telangana,2020-04-07,nowcast,1,0.8,1.2,0.9,1.1,0.55
+Telangana,2020-04-08,nowcast,1,0.8,1.2,0.9,1.1,0.52
 Telangana,2020-04-09,nowcast,1,0.8,1.2,0.9,1.1,0.52
 Telangana,2020-04-10,nowcast,1,0.8,1.2,0.9,1.1,0.55
-Telangana,2020-04-11,nowcast,1,0.7,1.2,0.9,1,0.63
-Telangana,2020-04-12,nowcast,0.9,0.7,1.2,0.9,1,0.71
+Telangana,2020-04-11,nowcast,1,0.8,1.2,0.9,1,0.62
+Telangana,2020-04-12,nowcast,0.9,0.7,1.1,0.9,1,0.71
 Telangana,2020-04-13,nowcast,0.9,0.7,1.1,0.8,1,0.8
-Telangana,2020-04-14,nowcast,0.8,0.6,1.1,0.8,1,0.89
+Telangana,2020-04-14,nowcast,0.9,0.6,1.1,0.8,1,0.89
 Telangana,2020-04-15,nowcast,0.8,0.6,1,0.7,0.9,0.95
 Telangana,2020-04-16,nowcast,0.8,0.5,1,0.7,0.9,0.97
-Telangana,2020-04-17,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Telangana,2020-04-17,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
 Telangana,2020-04-18,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
 Telangana,2020-04-19,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
 Telangana,2020-04-20,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
 Telangana,2020-04-21,nowcast,0.7,0.5,1,0.6,0.8,0.92
-Telangana,2020-04-22,nowcast,0.8,0.5,1.1,0.6,0.9,0.84
-Telangana,2020-04-23,nowcast,0.9,0.5,1.3,0.7,0.9,0.72
-Telangana,2020-04-24,nowcast,1,0.6,1.4,0.8,1,0.56
+Telangana,2020-04-22,nowcast,0.8,0.5,1.1,0.6,0.8,0.86
+Telangana,2020-04-23,nowcast,0.9,0.6,1.3,0.7,0.9,0.72
+Telangana,2020-04-24,nowcast,1,0.6,1.4,0.8,1.1,0.57
 Telangana,2020-04-25,nowcast,1.1,0.7,1.5,0.9,1.2,0.39
 Telangana,2020-04-26,nowcast,1.1,0.8,1.5,0.9,1.2,0.27
 Telangana,2020-04-27,nowcast,1.2,0.8,1.6,1,1.3,0.16
-Telangana,2020-04-28,nowcast,1.3,0.9,1.6,1.1,1.3,0.08
-Telangana,2020-04-29,nowcast,1.3,0.9,1.7,1.1,1.4,0.05
+Telangana,2020-04-28,nowcast,1.2,0.9,1.6,1.1,1.3,0.1
+Telangana,2020-04-29,nowcast,1.3,1,1.7,1.1,1.4,0.05
 Telangana,2020-04-30,nowcast,1.3,1,1.7,1.2,1.4,0.03
-Telangana,2020-05-01,nowcast,1.3,1,1.7,1.2,1.5,0.02
-Telangana,2020-05-02,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
-Telangana,2020-05-03,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
-Telangana,2020-05-04,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
-Telangana,2020-05-05,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-Telangana,2020-05-06,nowcast,1.3,1,1.6,1.2,1.4,0.03
-Telangana,2020-05-07,nowcast,1.3,1,1.5,1.2,1.4,0.05
-Telangana,2020-05-08,nowcast,1.2,1,1.5,1.1,1.3,0.06
-Telangana,2020-05-09,nowcast,1.2,0.9,1.4,1.1,1.3,0.11
-Telangana,2020-05-10,nowcast,1.2,0.9,1.4,1.1,1.3,0.13
-Telangana,2020-05-11,nowcast,1.1,0.9,1.3,1.1,1.2,0.15
-Telangana,2020-05-12,nowcast,1.1,0.9,1.3,1.1,1.2,0.14
-Telangana,2020-05-13,nowcast,1.1,0.9,1.3,1.1,1.2,0.11
-Telangana,2020-05-14,nowcast,1.1,1,1.3,1.1,1.2,0.1
-Telangana,2020-05-15,nowcast,1.2,1,1.4,1.1,1.2,0.07
-Telangana,2020-05-16,nowcast,1.2,1,1.4,1.1,1.3,0.04
-Telangana,2020-05-17,nowcast,1.2,1,1.4,1.1,1.3,0.01
-Telangana,2020-05-18,nowcast,1.2,1.1,1.5,1.1,1.3,0.01
-Telangana,2020-05-19,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
-Telangana,2020-05-20,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
-Telangana,2020-05-21,forecast,1.3,1,1.6,1.1,1.4,0.05
-Telangana,2020-05-22,forecast,1.3,1,1.6,1.1,1.4,0.08
-Telangana,2020-05-23,forecast,1.3,0.9,1.6,1.1,1.4,0.11
+Telangana,2020-05-01,nowcast,1.3,1.1,1.7,1.2,1.5,0.02
+Telangana,2020-05-02,nowcast,1.4,1.1,1.7,1.2,1.5,0.01
+Telangana,2020-05-03,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Telangana,2020-05-04,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Telangana,2020-05-05,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
+Telangana,2020-05-06,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Telangana,2020-05-07,nowcast,1.3,1,1.5,1.2,1.4,0.03
+Telangana,2020-05-08,nowcast,1.2,1,1.5,1.2,1.4,0.06
+Telangana,2020-05-09,nowcast,1.2,1,1.4,1.1,1.3,0.08
+Telangana,2020-05-10,nowcast,1.2,1,1.4,1.1,1.3,0.1
+Telangana,2020-05-11,nowcast,1.2,0.9,1.4,1.1,1.3,0.12
+Telangana,2020-05-12,nowcast,1.2,1,1.4,1.1,1.2,0.1
+Telangana,2020-05-13,nowcast,1.2,1,1.3,1.1,1.2,0.08
+Telangana,2020-05-14,nowcast,1.2,1,1.4,1.1,1.2,0.06
+Telangana,2020-05-15,nowcast,1.2,1,1.4,1.1,1.3,0.03
+Telangana,2020-05-16,nowcast,1.2,1,1.4,1.1,1.3,0.02
+Telangana,2020-05-17,nowcast,1.2,1.1,1.5,1.1,1.3,0.01
+Telangana,2020-05-18,nowcast,1.3,1.1,1.5,1.2,1.3,0
+Telangana,2020-05-19,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Telangana,2020-05-20,forecast,1.3,1,1.6,1.2,1.4,0.04
+Telangana,2020-05-21,forecast,1.3,1,1.6,1.1,1.4,0.06
+Telangana,2020-05-22,forecast,1.3,0.9,1.7,1.1,1.4,0.08
+Telangana,2020-05-23,forecast,1.3,0.9,1.7,1.1,1.4,0.09
 Telangana,2020-05-24,forecast,1.3,0.9,1.7,1.1,1.4,0.12
-Telangana,2020-05-25,forecast,1.3,0.9,1.7,1.1,1.4,0.13
-Telangana,2020-05-26,forecast,1.3,0.8,1.7,1.1,1.4,0.15
-Telangana,2020-05-27,forecast,1.3,0.8,1.8,1.1,1.4,0.16
-Telangana,2020-05-28,forecast,1.3,0.8,1.7,1.1,1.5,0.17
-Telangana,2020-05-29,forecast,1.3,0.8,1.8,1.1,1.4,0.18
-Telangana,2020-05-30,forecast,1.2,0.7,1.8,1,1.4,0.19
-Telangana,2020-05-31,forecast,1.2,0.7,1.8,1,1.4,0.21
-Telangana,2020-06-01,forecast,1.3,0.7,1.8,1,1.5,0.22
-Telangana,2020-06-02,forecast,1.2,0.7,1.8,1,1.4,0.22
-Telangana,2020-06-03,forecast,1.3,0.7,1.9,1,1.5,0.21
-Uttar Pradesh,2020-03-14,nowcast,1.5,0.8,2.3,1.2,1.7,0.08
-Uttar Pradesh,2020-03-15,nowcast,1.6,0.9,2.3,1.3,1.8,0.08
-Uttar Pradesh,2020-03-16,nowcast,1.6,0.9,2.3,1.2,1.8,0.05
-Uttar Pradesh,2020-03-17,nowcast,1.6,1,2.3,1.3,1.8,0.05
-Uttar Pradesh,2020-03-18,nowcast,1.6,1,2.2,1.3,1.8,0.03
-Uttar Pradesh,2020-03-19,nowcast,1.6,1,2.2,1.3,1.8,0.03
-Uttar Pradesh,2020-03-20,nowcast,1.6,1,2.2,1.3,1.8,0.02
-Uttar Pradesh,2020-03-21,nowcast,1.6,1.1,2.2,1.3,1.8,0.02
-Uttar Pradesh,2020-03-22,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
+Telangana,2020-05-25,forecast,1.3,0.8,1.7,1.1,1.4,0.13
+Telangana,2020-05-26,forecast,1.3,0.8,1.7,1.1,1.4,0.13
+Telangana,2020-05-27,forecast,1.3,0.8,1.8,1.1,1.4,0.14
+Telangana,2020-05-28,forecast,1.3,0.8,1.8,1,1.4,0.16
+Telangana,2020-05-29,forecast,1.3,0.7,1.8,1.1,1.5,0.17
+Telangana,2020-05-30,forecast,1.3,0.8,1.8,1,1.4,0.17
+Telangana,2020-05-31,forecast,1.3,0.7,1.9,1.1,1.5,0.18
+Telangana,2020-06-01,forecast,1.3,0.6,1.8,1.1,1.5,0.19
+Telangana,2020-06-02,forecast,1.3,0.7,1.8,1,1.5,0.21
+Uttar Pradesh,2020-03-14,nowcast,1.5,0.8,2.4,1.2,1.8,0.09
+Uttar Pradesh,2020-03-15,nowcast,1.5,0.9,2.3,1.2,1.7,0.08
+Uttar Pradesh,2020-03-16,nowcast,1.5,0.9,2.3,1.2,1.8,0.06
+Uttar Pradesh,2020-03-17,nowcast,1.5,0.9,2.3,1.3,1.8,0.05
+Uttar Pradesh,2020-03-18,nowcast,1.6,1,2.3,1.3,1.8,0.03
+Uttar Pradesh,2020-03-19,nowcast,1.6,1,2.3,1.3,1.8,0.03
+Uttar Pradesh,2020-03-20,nowcast,1.6,1.1,2.2,1.4,1.8,0.02
+Uttar Pradesh,2020-03-21,nowcast,1.6,1.1,2.2,1.4,1.8,0.01
+Uttar Pradesh,2020-03-22,nowcast,1.6,1.1,2.2,1.4,1.8,0.01
 Uttar Pradesh,2020-03-23,nowcast,1.6,1.1,2.1,1.4,1.8,0.01
-Uttar Pradesh,2020-03-24,nowcast,1.6,1.2,2.1,1.4,1.7,0.01
-Uttar Pradesh,2020-03-25,nowcast,1.6,1.2,2,1.4,1.7,0.01
-Uttar Pradesh,2020-03-26,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
+Uttar Pradesh,2020-03-24,nowcast,1.6,1.1,2,1.4,1.7,0.01
+Uttar Pradesh,2020-03-25,nowcast,1.5,1.1,2,1.3,1.7,0.01
+Uttar Pradesh,2020-03-26,nowcast,1.5,1.1,1.9,1.4,1.7,0.01
 Uttar Pradesh,2020-03-27,nowcast,1.5,1.1,1.9,1.3,1.6,0.01
-Uttar Pradesh,2020-03-28,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
-Uttar Pradesh,2020-03-29,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
-Uttar Pradesh,2020-03-30,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
-Uttar Pradesh,2020-03-31,nowcast,1.4,1.1,1.6,1.2,1.4,0.02
-Uttar Pradesh,2020-04-01,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
-Uttar Pradesh,2020-04-02,nowcast,1.3,1,1.5,1.2,1.4,0.03
-Uttar Pradesh,2020-04-03,nowcast,1.3,1,1.5,1.2,1.4,0.02
-Uttar Pradesh,2020-04-04,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Uttar Pradesh,2020-03-28,nowcast,1.4,1.1,1.8,1.3,1.6,0.01
+Uttar Pradesh,2020-03-29,nowcast,1.4,1.1,1.8,1.3,1.5,0.01
+Uttar Pradesh,2020-03-30,nowcast,1.4,1.1,1.7,1.3,1.5,0.01
+Uttar Pradesh,2020-03-31,nowcast,1.4,1.1,1.6,1.2,1.5,0.02
+Uttar Pradesh,2020-04-01,nowcast,1.3,1,1.6,1.2,1.4,0.03
+Uttar Pradesh,2020-04-02,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+Uttar Pradesh,2020-04-03,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
+Uttar Pradesh,2020-04-04,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
 Uttar Pradesh,2020-04-05,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-Uttar Pradesh,2020-04-06,nowcast,1.3,1.1,1.5,1.2,1.4,0
-Uttar Pradesh,2020-04-07,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
-Uttar Pradesh,2020-04-08,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Uttar Pradesh,2020-04-06,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
+Uttar Pradesh,2020-04-07,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Uttar Pradesh,2020-04-08,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Uttar Pradesh,2020-04-09,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Uttar Pradesh,2020-04-10,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 Uttar Pradesh,2020-04-11,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
 Uttar Pradesh,2020-04-12,nowcast,1.2,1.1,1.4,1.2,1.3,0.02
-Uttar Pradesh,2020-04-13,nowcast,1.2,1,1.4,1.1,1.3,0.03
-Uttar Pradesh,2020-04-14,nowcast,1.2,1,1.4,1.1,1.2,0.04
+Uttar Pradesh,2020-04-13,nowcast,1.2,1,1.4,1.1,1.3,0.04
+Uttar Pradesh,2020-04-14,nowcast,1.2,1,1.3,1.1,1.3,0.06
 Uttar Pradesh,2020-04-15,nowcast,1.2,1,1.3,1.1,1.2,0.07
 Uttar Pradesh,2020-04-16,nowcast,1.1,1,1.3,1.1,1.2,0.09
-Uttar Pradesh,2020-04-17,nowcast,1.1,1,1.3,1.1,1.2,0.13
-Uttar Pradesh,2020-04-18,nowcast,1.1,0.9,1.2,1,1.1,0.18
-Uttar Pradesh,2020-04-19,nowcast,1.1,0.9,1.2,1,1.1,0.22
+Uttar Pradesh,2020-04-17,nowcast,1.1,0.9,1.2,1.1,1.2,0.13
+Uttar Pradesh,2020-04-18,nowcast,1.1,0.9,1.2,1,1.1,0.19
+Uttar Pradesh,2020-04-19,nowcast,1.1,0.9,1.2,1,1.1,0.2
 Uttar Pradesh,2020-04-20,nowcast,1.1,0.9,1.2,1,1.1,0.24
-Uttar Pradesh,2020-04-21,nowcast,1,0.9,1.2,1,1.1,0.26
+Uttar Pradesh,2020-04-21,nowcast,1,0.9,1.2,1,1.1,0.27
 Uttar Pradesh,2020-04-22,nowcast,1,0.9,1.2,1,1.1,0.27
-Uttar Pradesh,2020-04-23,nowcast,1,0.9,1.2,1,1.1,0.24
-Uttar Pradesh,2020-04-24,nowcast,1.1,0.9,1.2,1,1.1,0.2
-Uttar Pradesh,2020-04-25,nowcast,1.1,0.9,1.2,1,1.1,0.17
-Uttar Pradesh,2020-04-26,nowcast,1.1,1,1.2,1,1.1,0.14
+Uttar Pradesh,2020-04-23,nowcast,1,0.9,1.2,1,1.1,0.25
+Uttar Pradesh,2020-04-24,nowcast,1.1,0.9,1.2,1,1.1,0.22
+Uttar Pradesh,2020-04-25,nowcast,1.1,0.9,1.2,1,1.1,0.19
+Uttar Pradesh,2020-04-26,nowcast,1.1,1,1.2,1,1.1,0.13
 Uttar Pradesh,2020-04-27,nowcast,1.1,1,1.2,1,1.1,0.1
 Uttar Pradesh,2020-04-28,nowcast,1.1,1,1.2,1,1.1,0.09
-Uttar Pradesh,2020-04-29,nowcast,1.1,1,1.2,1,1.1,0.1
-Uttar Pradesh,2020-04-30,nowcast,1.1,1,1.2,1,1.1,0.12
-Uttar Pradesh,2020-05-01,nowcast,1.1,1,1.2,1,1.1,0.12
-Uttar Pradesh,2020-05-02,nowcast,1.1,1,1.2,1,1.1,0.12
+Uttar Pradesh,2020-04-29,nowcast,1.1,1,1.2,1,1.1,0.09
+Uttar Pradesh,2020-04-30,nowcast,1.1,1,1.2,1,1.1,0.11
+Uttar Pradesh,2020-05-01,nowcast,1.1,1,1.2,1,1.1,0.13
+Uttar Pradesh,2020-05-02,nowcast,1.1,1,1.2,1,1.1,0.11
 Uttar Pradesh,2020-05-03,nowcast,1.1,1,1.2,1,1.1,0.09
 Uttar Pradesh,2020-05-04,nowcast,1.1,1,1.2,1.1,1.1,0.05
-Uttar Pradesh,2020-05-05,nowcast,1.1,1,1.3,1.1,1.2,0.03
+Uttar Pradesh,2020-05-05,nowcast,1.1,1,1.3,1.1,1.2,0.02
 Uttar Pradesh,2020-05-06,nowcast,1.1,1,1.3,1.1,1.2,0.01
-Uttar Pradesh,2020-05-07,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Uttar Pradesh,2020-05-07,nowcast,1.2,1.1,1.3,1.1,1.2,0
 Uttar Pradesh,2020-05-08,nowcast,1.2,1.1,1.3,1.1,1.2,0
 Uttar Pradesh,2020-05-09,nowcast,1.2,1.1,1.3,1.1,1.2,0
-Uttar Pradesh,2020-05-10,nowcast,1.2,1.1,1.3,1.2,1.2,0
+Uttar Pradesh,2020-05-10,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Uttar Pradesh,2020-05-11,nowcast,1.2,1.1,1.3,1.2,1.3,0
 Uttar Pradesh,2020-05-12,nowcast,1.2,1.1,1.3,1.2,1.3,0
-Uttar Pradesh,2020-05-13,nowcast,1.2,1.1,1.3,1.2,1.3,0.01
-Uttar Pradesh,2020-05-14,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+Uttar Pradesh,2020-05-13,nowcast,1.2,1.1,1.3,1.2,1.2,0.01
+Uttar Pradesh,2020-05-14,nowcast,1.2,1.1,1.3,1.1,1.2,0.02
 Uttar Pradesh,2020-05-15,nowcast,1.2,1,1.3,1.1,1.2,0.03
-Uttar Pradesh,2020-05-16,nowcast,1.1,1,1.2,1.1,1.2,0.07
-Uttar Pradesh,2020-05-17,nowcast,1.1,1,1.2,1,1.1,0.14
-Uttar Pradesh,2020-05-18,nowcast,1,0.9,1.2,1,1.1,0.26
-Uttar Pradesh,2020-05-19,nowcast,1,0.9,1.1,1,1.1,0.43
-Uttar Pradesh,2020-05-20,nowcast,1,0.9,1.1,0.9,1,0.58
-Uttar Pradesh,2020-05-21,forecast,1,0.8,1.2,0.9,1.1,0.5
-Uttar Pradesh,2020-05-22,forecast,1,0.8,1.2,0.9,1.1,0.49
-Uttar Pradesh,2020-05-23,forecast,1,0.8,1.2,0.9,1.1,0.48
-Uttar Pradesh,2020-05-24,forecast,1,0.8,1.2,0.9,1.1,0.47
-Uttar Pradesh,2020-05-25,forecast,1,0.8,1.2,0.9,1.1,0.47
-Uttar Pradesh,2020-05-26,forecast,1,0.8,1.3,0.9,1.1,0.46
-Uttar Pradesh,2020-05-27,forecast,1,0.7,1.3,0.9,1.1,0.47
-Uttar Pradesh,2020-05-28,forecast,1,0.7,1.3,0.9,1.1,0.48
-Uttar Pradesh,2020-05-29,forecast,1,0.7,1.3,0.9,1.1,0.48
-Uttar Pradesh,2020-05-30,forecast,1,0.7,1.3,0.9,1.2,0.46
-Uttar Pradesh,2020-05-31,forecast,1,0.7,1.3,0.9,1.1,0.46
-Uttar Pradesh,2020-06-01,forecast,1,0.7,1.3,0.9,1.1,0.47
-Uttar Pradesh,2020-06-02,forecast,1,0.7,1.4,0.9,1.2,0.47
-Uttar Pradesh,2020-06-03,forecast,1,0.7,1.4,0.9,1.2,0.46
-Uttarakhand,2020-04-03,nowcast,0.8,0.1,1.4,0.4,1,0.7
-Uttarakhand,2020-04-04,nowcast,0.7,0.1,1.3,0.4,0.9,0.75
-Uttarakhand,2020-04-05,nowcast,0.7,0,1.3,0.4,0.9,0.77
-Uttarakhand,2020-04-06,nowcast,0.7,0.1,1.4,0.3,0.9,0.76
-Uttarakhand,2020-04-07,nowcast,0.7,0,1.6,0.4,0.9,0.71
-Uttarakhand,2020-04-08,nowcast,0.8,0.1,1.8,0.3,0.9,0.66
-Uttarakhand,2020-04-09,nowcast,0.9,0.1,2,0.3,1,0.59
-Uttarakhand,2020-04-10,nowcast,0.9,0.1,2,0.4,1.1,0.55
-Uttarakhand,2020-04-11,nowcast,1,0.1,2.1,0.5,1.2,0.5
-Uttarakhand,2020-04-12,nowcast,1.1,0.1,2.3,0.5,1.3,0.44
-Uttarakhand,2020-04-13,nowcast,1.1,0.2,2.4,0.5,1.3,0.42
-Uttarakhand,2020-04-14,nowcast,1.1,0.2,2.3,0.5,1.3,0.44
-Uttarakhand,2020-04-15,nowcast,1.1,0.1,2.1,0.5,1.3,0.44
-Uttarakhand,2020-04-16,nowcast,1.1,0.2,2.2,0.6,1.3,0.45
-Uttarakhand,2020-04-17,nowcast,1.1,0.2,2.1,0.6,1.4,0.44
-Uttarakhand,2020-04-18,nowcast,1.1,0.2,2.1,0.6,1.3,0.45
-Uttarakhand,2020-04-19,nowcast,1.1,0.2,2.2,0.6,1.3,0.44
-Uttarakhand,2020-04-20,nowcast,1.1,0.2,2.2,0.6,1.4,0.41
-Uttarakhand,2020-04-21,nowcast,1.1,0.1,2.3,0.6,1.4,0.4
-Uttarakhand,2020-04-22,nowcast,1.2,0.2,2.3,0.7,1.4,0.38
-Uttarakhand,2020-04-23,nowcast,1.2,0.2,2.3,0.7,1.4,0.37
-Uttarakhand,2020-04-24,nowcast,1.2,0.3,2.5,0.7,1.5,0.33
-Uttarakhand,2020-04-25,nowcast,1.2,0.2,2.3,0.7,1.5,0.33
-Uttarakhand,2020-04-26,nowcast,1.3,0.3,2.4,0.7,1.5,0.3
-Uttarakhand,2020-04-27,nowcast,1.3,0.4,2.4,0.8,1.6,0.28
-Uttarakhand,2020-04-28,nowcast,1.4,0.4,2.5,0.9,1.6,0.25
-Uttarakhand,2020-04-29,nowcast,1.4,0.5,2.6,0.9,1.7,0.21
-Uttarakhand,2020-04-30,nowcast,1.5,0.5,2.6,1.1,1.8,0.16
-Uttarakhand,2020-05-01,nowcast,1.6,0.6,2.6,1.2,1.9,0.12
-Uttarakhand,2020-05-02,nowcast,1.6,0.7,2.7,1.2,1.9,0.09
-Uttarakhand,2020-05-03,nowcast,1.7,0.8,2.7,1.2,1.9,0.07
-Uttarakhand,2020-05-04,nowcast,1.7,0.9,2.6,1.3,1.9,0.05
-Uttarakhand,2020-05-05,nowcast,1.7,0.9,2.6,1.3,2,0.03
-Uttarakhand,2020-05-06,nowcast,1.7,1,2.5,1.4,2,0.02
-Uttarakhand,2020-05-07,nowcast,1.8,1.1,2.5,1.4,2,0.02
-Uttarakhand,2020-05-08,nowcast,1.8,1.1,2.5,1.5,2,0.01
-Uttarakhand,2020-05-09,nowcast,1.7,1.1,2.4,1.4,1.9,0.01
-Uttarakhand,2020-05-10,nowcast,1.7,1.2,2.3,1.4,1.9,0.01
-Uttarakhand,2020-05-11,nowcast,1.7,1.2,2.3,1.5,1.9,0.01
+Uttar Pradesh,2020-05-16,nowcast,1.1,1,1.2,1.1,1.2,0.06
+Uttar Pradesh,2020-05-17,nowcast,1.1,1,1.2,1.1,1.1,0.11
+Uttar Pradesh,2020-05-18,nowcast,1.1,0.9,1.2,1,1.1,0.22
+Uttar Pradesh,2020-05-19,nowcast,1,0.9,1.1,1,1.1,0.34
+Uttar Pradesh,2020-05-20,forecast,1,0.9,1.2,1,1.1,0.32
+Uttar Pradesh,2020-05-21,forecast,1,0.9,1.2,1,1.1,0.32
+Uttar Pradesh,2020-05-22,forecast,1,0.9,1.2,1,1.1,0.32
+Uttar Pradesh,2020-05-23,forecast,1.1,0.8,1.2,1,1.1,0.33
+Uttar Pradesh,2020-05-24,forecast,1.1,0.8,1.3,1,1.1,0.33
+Uttar Pradesh,2020-05-25,forecast,1.1,0.8,1.3,1,1.2,0.34
+Uttar Pradesh,2020-05-26,forecast,1.1,0.8,1.3,1,1.2,0.35
+Uttar Pradesh,2020-05-27,forecast,1.1,0.8,1.3,1,1.2,0.35
+Uttar Pradesh,2020-05-28,forecast,1.1,0.8,1.3,1,1.2,0.37
+Uttar Pradesh,2020-05-29,forecast,1.1,0.8,1.3,0.9,1.2,0.36
+Uttar Pradesh,2020-05-30,forecast,1.1,0.8,1.3,1,1.2,0.36
+Uttar Pradesh,2020-05-31,forecast,1.1,0.7,1.3,0.9,1.2,0.37
+Uttar Pradesh,2020-06-01,forecast,1.1,0.7,1.3,0.9,1.2,0.37
+Uttar Pradesh,2020-06-02,forecast,1.1,0.8,1.4,1,1.2,0.37
+Uttarakhand,2020-04-03,nowcast,0.8,0.1,1.4,0.5,1,0.69
+Uttarakhand,2020-04-04,nowcast,0.7,0.1,1.4,0.4,1,0.73
+Uttarakhand,2020-04-05,nowcast,0.7,0.1,1.4,0.4,0.9,0.75
+Uttarakhand,2020-04-06,nowcast,0.7,0,1.4,0.4,0.9,0.75
+Uttarakhand,2020-04-07,nowcast,0.7,0,1.5,0.3,0.9,0.73
+Uttarakhand,2020-04-08,nowcast,0.8,0.1,1.7,0.4,0.9,0.68
+Uttarakhand,2020-04-09,nowcast,0.8,0.1,1.9,0.3,1,0.62
+Uttarakhand,2020-04-10,nowcast,0.9,0.1,2,0.4,1.1,0.56
+Uttarakhand,2020-04-11,nowcast,1.1,0.1,2.3,0.5,1.3,0.46
+Uttarakhand,2020-04-12,nowcast,1.1,0.2,2.2,0.6,1.3,0.45
+Uttarakhand,2020-04-13,nowcast,1.1,0.1,2.2,0.6,1.3,0.41
+Uttarakhand,2020-04-14,nowcast,1.1,0.1,2.2,0.6,1.4,0.44
+Uttarakhand,2020-04-15,nowcast,1.1,0.1,2.1,0.6,1.3,0.41
+Uttarakhand,2020-04-16,nowcast,1.1,0.1,2.1,0.6,1.4,0.45
+Uttarakhand,2020-04-17,nowcast,1.1,0.1,2,0.6,1.3,0.45
+Uttarakhand,2020-04-18,nowcast,1,0.1,2,0.5,1.2,0.47
+Uttarakhand,2020-04-19,nowcast,1.1,0.1,2.1,0.6,1.3,0.47
+Uttarakhand,2020-04-20,nowcast,1.1,0.2,2.3,0.6,1.3,0.43
+Uttarakhand,2020-04-21,nowcast,1.1,0.2,2.3,0.6,1.4,0.4
+Uttarakhand,2020-04-22,nowcast,1.2,0.2,2.3,0.6,1.4,0.38
+Uttarakhand,2020-04-23,nowcast,1.2,0.2,2.4,0.7,1.5,0.35
+Uttarakhand,2020-04-24,nowcast,1.2,0.2,2.4,0.8,1.5,0.33
+Uttarakhand,2020-04-25,nowcast,1.3,0.3,2.4,0.8,1.5,0.32
+Uttarakhand,2020-04-26,nowcast,1.3,0.3,2.4,0.8,1.6,0.29
+Uttarakhand,2020-04-27,nowcast,1.4,0.4,2.5,0.9,1.7,0.25
+Uttarakhand,2020-04-28,nowcast,1.4,0.4,2.6,0.9,1.7,0.23
+Uttarakhand,2020-04-29,nowcast,1.5,0.5,2.6,0.9,1.7,0.19
+Uttarakhand,2020-04-30,nowcast,1.5,0.6,2.6,1.1,1.8,0.14
+Uttarakhand,2020-05-01,nowcast,1.6,0.7,2.7,1.2,1.9,0.1
+Uttarakhand,2020-05-02,nowcast,1.7,0.8,2.8,1.2,1.9,0.08
+Uttarakhand,2020-05-03,nowcast,1.7,0.8,2.7,1.3,2,0.07
+Uttarakhand,2020-05-04,nowcast,1.7,0.9,2.7,1.3,2,0.04
+Uttarakhand,2020-05-05,nowcast,1.8,1,2.6,1.4,2,0.03
+Uttarakhand,2020-05-06,nowcast,1.8,1,2.6,1.4,2,0.02
+Uttarakhand,2020-05-07,nowcast,1.8,1.1,2.6,1.5,2,0.02
+Uttarakhand,2020-05-08,nowcast,1.8,1.2,2.6,1.5,2,0.01
+Uttarakhand,2020-05-09,nowcast,1.8,1.2,2.5,1.5,2,0.01
+Uttarakhand,2020-05-10,nowcast,1.8,1.2,2.4,1.5,2,0
+Uttarakhand,2020-05-11,nowcast,1.7,1.2,2.3,1.5,1.9,0
 Uttarakhand,2020-05-12,nowcast,1.7,1.2,2.3,1.5,1.9,0
-Uttarakhand,2020-05-13,nowcast,1.7,1.2,2.2,1.5,1.9,0.01
-Uttarakhand,2020-05-14,nowcast,1.7,1.2,2.1,1.4,1.8,0
-Uttarakhand,2020-05-15,nowcast,1.6,1.2,2.1,1.4,1.8,0
-Uttarakhand,2020-05-16,nowcast,1.6,1.2,2,1.4,1.7,0
-Uttarakhand,2020-05-17,nowcast,1.5,1.2,1.9,1.4,1.7,0.01
-Uttarakhand,2020-05-18,nowcast,1.5,1.1,1.8,1.3,1.6,0.01
-Uttarakhand,2020-05-19,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
-Uttarakhand,2020-05-20,nowcast,1.3,1,1.6,1.2,1.5,0.05
-Uttarakhand,2020-05-21,forecast,1.4,0.8,2,1.2,1.6,0.12
-Uttarakhand,2020-05-22,forecast,1.4,0.8,2.1,1.1,1.7,0.15
-Uttarakhand,2020-05-23,forecast,1.4,0.6,2.2,1.1,1.7,0.17
-Uttarakhand,2020-05-24,forecast,1.4,0.5,2.3,1.1,1.7,0.2
-Uttarakhand,2020-05-25,forecast,1.4,0.5,2.3,1.1,1.8,0.2
-Uttarakhand,2020-05-26,forecast,1.4,0.4,2.4,1.1,1.8,0.23
-Uttarakhand,2020-05-27,forecast,1.4,0.4,2.5,1.1,1.8,0.23
-Uttarakhand,2020-05-28,forecast,1.4,0.3,2.5,1.1,1.8,0.24
-Uttarakhand,2020-05-29,forecast,1.4,0,2.3,1,1.8,0.26
-Uttarakhand,2020-05-30,forecast,1.4,0,2.3,1,1.9,0.25
-Uttarakhand,2020-05-31,forecast,1.4,0,2.3,1,1.8,0.26
-Uttarakhand,2020-06-01,forecast,1.4,0,2.3,1,1.9,0.28
-Uttarakhand,2020-06-02,forecast,1.4,0,2.4,1,1.9,0.29
-Uttarakhand,2020-06-03,forecast,1.4,0,2.4,0.9,1.9,0.29
-West Bengal,2020-03-27,nowcast,1.4,0.9,2,1.2,1.6,0.08
-West Bengal,2020-03-28,nowcast,1.4,0.9,2,1.2,1.6,0.08
-West Bengal,2020-03-29,nowcast,1.4,0.9,2,1.2,1.6,0.09
-West Bengal,2020-03-30,nowcast,1.4,0.9,1.9,1.1,1.5,0.08
-West Bengal,2020-03-31,nowcast,1.4,0.9,1.9,1.2,1.5,0.07
-West Bengal,2020-04-01,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
-West Bengal,2020-04-02,nowcast,1.4,1,1.9,1.2,1.5,0.06
-West Bengal,2020-04-03,nowcast,1.4,1,1.8,1.2,1.5,0.05
-West Bengal,2020-04-04,nowcast,1.4,1,1.8,1.2,1.5,0.04
+Uttarakhand,2020-05-13,nowcast,1.7,1.2,2.2,1.5,1.8,0
+Uttarakhand,2020-05-14,nowcast,1.7,1.3,2.2,1.5,1.9,0
+Uttarakhand,2020-05-15,nowcast,1.7,1.3,2.1,1.5,1.8,0
+Uttarakhand,2020-05-16,nowcast,1.6,1.3,2.1,1.5,1.8,0
+Uttarakhand,2020-05-17,nowcast,1.6,1.3,2,1.4,1.7,0
+Uttarakhand,2020-05-18,nowcast,1.6,1.2,1.9,1.4,1.7,0
+Uttarakhand,2020-05-19,nowcast,1.5,1.2,1.9,1.4,1.6,0
+Uttarakhand,2020-05-20,forecast,1.6,1,2.2,1.4,1.8,0.05
+Uttarakhand,2020-05-21,forecast,1.6,0.9,2.3,1.3,1.8,0.08
+Uttarakhand,2020-05-22,forecast,1.6,0.8,2.4,1.3,1.9,0.09
+Uttarakhand,2020-05-23,forecast,1.6,0.7,2.5,1.3,1.9,0.1
+Uttarakhand,2020-05-24,forecast,1.6,0.6,2.5,1.3,1.9,0.12
+Uttarakhand,2020-05-25,forecast,1.6,0.6,2.6,1.2,1.9,0.13
+Uttarakhand,2020-05-26,forecast,1.6,0.5,2.5,1.2,1.9,0.14
+Uttarakhand,2020-05-27,forecast,1.6,0.5,2.7,1.2,1.9,0.16
+Uttarakhand,2020-05-28,forecast,1.6,0.4,2.7,1.2,2.1,0.17
+Uttarakhand,2020-05-29,forecast,1.6,0.4,2.8,1.1,2,0.18
+Uttarakhand,2020-05-30,forecast,1.6,0.4,2.8,1.1,2,0.19
+Uttarakhand,2020-05-31,forecast,1.6,0.4,2.9,1.1,2,0.18
+Uttarakhand,2020-06-01,forecast,1.6,0,2.6,1.1,2,0.2
+Uttarakhand,2020-06-02,forecast,1.6,0,2.6,1.2,2.1,0.2
+West Bengal,2020-03-27,nowcast,1.4,0.9,2.1,1.2,1.6,0.08
+West Bengal,2020-03-28,nowcast,1.4,0.9,2,1.2,1.6,0.07
+West Bengal,2020-03-29,nowcast,1.4,0.9,1.9,1.1,1.5,0.08
+West Bengal,2020-03-30,nowcast,1.4,0.9,1.9,1.2,1.6,0.08
+West Bengal,2020-03-31,nowcast,1.4,0.9,1.8,1.2,1.5,0.07
+West Bengal,2020-04-01,nowcast,1.4,1,1.8,1.2,1.5,0.06
+West Bengal,2020-04-02,nowcast,1.4,1,1.8,1.2,1.5,0.06
+West Bengal,2020-04-03,nowcast,1.4,1,1.8,1.2,1.5,0.04
+West Bengal,2020-04-04,nowcast,1.4,1,1.8,1.2,1.5,0.03
 West Bengal,2020-04-05,nowcast,1.4,1,1.8,1.2,1.5,0.03
-West Bengal,2020-04-06,nowcast,1.4,1,1.8,1.2,1.5,0.02
-West Bengal,2020-04-07,nowcast,1.4,1.1,1.8,1.2,1.5,0.02
-West Bengal,2020-04-08,nowcast,1.4,1.1,1.8,1.2,1.5,0.02
-West Bengal,2020-04-09,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
-West Bengal,2020-04-10,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
-West Bengal,2020-04-11,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
-West Bengal,2020-04-12,nowcast,1.4,1.1,1.7,1.2,1.5,0.03
-West Bengal,2020-04-13,nowcast,1.3,1,1.6,1.2,1.4,0.03
+West Bengal,2020-04-06,nowcast,1.4,1,1.8,1.3,1.5,0.03
+West Bengal,2020-04-07,nowcast,1.4,1,1.8,1.2,1.5,0.03
+West Bengal,2020-04-08,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+West Bengal,2020-04-09,nowcast,1.4,1.1,1.8,1.3,1.5,0.02
+West Bengal,2020-04-10,nowcast,1.4,1.1,1.7,1.2,1.5,0.02
+West Bengal,2020-04-11,nowcast,1.4,1.1,1.7,1.3,1.5,0.02
+West Bengal,2020-04-12,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
+West Bengal,2020-04-13,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
 West Bengal,2020-04-14,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
 West Bengal,2020-04-15,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
 West Bengal,2020-04-16,nowcast,1.3,1.1,1.6,1.2,1.4,0.02
 West Bengal,2020-04-17,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
-West Bengal,2020-04-18,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
+West Bengal,2020-04-18,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 West Bengal,2020-04-19,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
 West Bengal,2020-04-20,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-West Bengal,2020-04-21,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+West Bengal,2020-04-21,nowcast,1.3,1.1,1.5,1.2,1.4,0.02
 West Bengal,2020-04-22,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
-West Bengal,2020-04-23,nowcast,1.3,1.1,1.5,1.2,1.4,0
+West Bengal,2020-04-23,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
 West Bengal,2020-04-24,nowcast,1.3,1.1,1.5,1.2,1.4,0
 West Bengal,2020-04-25,nowcast,1.3,1.1,1.5,1.2,1.4,0
 West Bengal,2020-04-26,nowcast,1.3,1.1,1.5,1.2,1.4,0
-West Bengal,2020-04-27,nowcast,1.3,1.1,1.5,1.2,1.3,0
+West Bengal,2020-04-27,nowcast,1.3,1.1,1.5,1.2,1.3,0.01
 West Bengal,2020-04-28,nowcast,1.3,1.1,1.4,1.2,1.3,0.01
-West Bengal,2020-04-29,nowcast,1.2,1,1.4,1.1,1.3,0.03
-West Bengal,2020-04-30,nowcast,1.2,1,1.3,1.1,1.2,0.05
+West Bengal,2020-04-29,nowcast,1.2,1,1.4,1.1,1.3,0.02
+West Bengal,2020-04-30,nowcast,1.2,1,1.4,1.1,1.2,0.05
 West Bengal,2020-05-01,nowcast,1.1,1,1.3,1.1,1.2,0.11
-West Bengal,2020-05-02,nowcast,1.1,0.9,1.2,1.1,1.2,0.16
-West Bengal,2020-05-03,nowcast,1.1,0.9,1.2,1,1.2,0.18
-West Bengal,2020-05-04,nowcast,1.1,0.9,1.2,1,1.1,0.21
-West Bengal,2020-05-05,nowcast,1.1,0.9,1.2,1,1.1,0.2
-West Bengal,2020-05-06,nowcast,1.1,0.9,1.2,1,1.1,0.23
-West Bengal,2020-05-07,nowcast,1,0.9,1.2,1,1.1,0.24
-West Bengal,2020-05-08,nowcast,1,0.9,1.2,1,1.1,0.22
+West Bengal,2020-05-02,nowcast,1.1,0.9,1.2,1,1.2,0.15
+West Bengal,2020-05-03,nowcast,1.1,0.9,1.2,1,1.1,0.18
+West Bengal,2020-05-04,nowcast,1.1,0.9,1.2,1,1.1,0.17
+West Bengal,2020-05-05,nowcast,1.1,0.9,1.2,1,1.1,0.18
+West Bengal,2020-05-06,nowcast,1.1,0.9,1.2,1,1.1,0.21
+West Bengal,2020-05-07,nowcast,1.1,0.9,1.2,1,1.1,0.23
+West Bengal,2020-05-08,nowcast,1.1,0.9,1.2,1,1.1,0.21
 West Bengal,2020-05-09,nowcast,1.1,0.9,1.2,1,1.1,0.2
-West Bengal,2020-05-10,nowcast,1.1,0.9,1.2,1,1.1,0.17
-West Bengal,2020-05-11,nowcast,1.1,1,1.2,1,1.1,0.12
-West Bengal,2020-05-12,nowcast,1.1,1,1.2,1,1.1,0.06
-West Bengal,2020-05-13,nowcast,1.1,1,1.3,1.1,1.2,0.04
-West Bengal,2020-05-14,nowcast,1.1,1,1.3,1.1,1.2,0.02
-West Bengal,2020-05-15,nowcast,1.1,1,1.3,1.1,1.2,0.02
+West Bengal,2020-05-10,nowcast,1.1,0.9,1.2,1,1.1,0.16
+West Bengal,2020-05-11,nowcast,1.1,1,1.2,1,1.1,0.1
+West Bengal,2020-05-12,nowcast,1.1,1,1.3,1.1,1.1,0.04
+West Bengal,2020-05-13,nowcast,1.1,1,1.3,1.1,1.2,0.03
+West Bengal,2020-05-14,nowcast,1.1,1,1.3,1.1,1.2,0.01
+West Bengal,2020-05-15,nowcast,1.2,1,1.3,1.1,1.2,0.01
 West Bengal,2020-05-16,nowcast,1.2,1,1.3,1.1,1.2,0.01
-West Bengal,2020-05-17,nowcast,1.2,1,1.3,1.1,1.2,0.01
-West Bengal,2020-05-18,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-West Bengal,2020-05-19,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-West Bengal,2020-05-20,nowcast,1.2,1.1,1.3,1.1,1.2,0
+West Bengal,2020-05-17,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
+West Bengal,2020-05-18,nowcast,1.2,1.1,1.3,1.1,1.2,0
+West Bengal,2020-05-19,nowcast,1.2,1.1,1.3,1.1,1.2,0
+West Bengal,2020-05-20,forecast,1.2,1,1.4,1.1,1.3,0.02
 West Bengal,2020-05-21,forecast,1.2,1,1.4,1.1,1.2,0.03
-West Bengal,2020-05-22,forecast,1.2,1,1.4,1.1,1.2,0.04
-West Bengal,2020-05-23,forecast,1.2,1,1.4,1.1,1.2,0.06
-West Bengal,2020-05-24,forecast,1.2,1,1.4,1.1,1.3,0.08
-West Bengal,2020-05-25,forecast,1.2,1,1.4,1.1,1.3,0.09
-West Bengal,2020-05-26,forecast,1.2,0.9,1.4,1.1,1.3,0.1
-West Bengal,2020-05-27,forecast,1.2,0.9,1.5,1.1,1.3,0.11
-West Bengal,2020-05-28,forecast,1.2,0.9,1.5,1.1,1.3,0.13
-West Bengal,2020-05-29,forecast,1.2,0.9,1.5,1.1,1.3,0.13
-West Bengal,2020-05-30,forecast,1.2,0.9,1.5,1.1,1.3,0.13
-West Bengal,2020-05-31,forecast,1.2,0.9,1.5,1.1,1.3,0.15
-West Bengal,2020-06-01,forecast,1.2,0.9,1.5,1,1.3,0.15
+West Bengal,2020-05-22,forecast,1.2,1,1.4,1.1,1.3,0.06
+West Bengal,2020-05-23,forecast,1.2,1,1.4,1.1,1.3,0.07
+West Bengal,2020-05-24,forecast,1.2,1,1.5,1.1,1.3,0.08
+West Bengal,2020-05-25,forecast,1.2,0.9,1.4,1.1,1.3,0.1
+West Bengal,2020-05-26,forecast,1.2,0.9,1.5,1.1,1.3,0.1
+West Bengal,2020-05-27,forecast,1.2,0.9,1.5,1.1,1.3,0.12
+West Bengal,2020-05-28,forecast,1.2,0.9,1.5,1.1,1.3,0.12
+West Bengal,2020-05-29,forecast,1.2,0.9,1.5,1.1,1.3,0.14
+West Bengal,2020-05-30,forecast,1.2,0.9,1.5,1,1.3,0.15
+West Bengal,2020-05-31,forecast,1.2,0.9,1.6,1.1,1.3,0.15
+West Bengal,2020-06-01,forecast,1.2,0.9,1.6,1,1.3,0.16
 West Bengal,2020-06-02,forecast,1.2,0.9,1.5,1,1.3,0.16
-West Bengal,2020-06-03,forecast,1.2,0.9,1.5,1.1,1.3,0.17
