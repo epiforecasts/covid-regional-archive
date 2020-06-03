@@ -34,8 +34,8 @@ if (!interactive()){
 #future::plan("multiprocess", workers = round(future::availableCores() / 3))
 
 future::plan(list(tweak("multiprocess", 
-                        workers = min(future::availableCores(), unique(cases$region))),
-                  tweak("multiprocess", workers = floor(future::availableCores() / unique(cases$region)))),
+                        workers = min(future::availableCores(), length(unique(cases$region)))),
+                  tweak("multiprocess", workers = floor(future::availableCores() / length(unique(cases$region))))),
                   gc = TRUE, earlySignal = TRUE)
 
 # Run pipeline ----------------------------------------------------
